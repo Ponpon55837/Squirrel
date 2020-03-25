@@ -215,6 +215,7 @@ patch:
       author: 我朋朋啦
       candidate_format: "%c\u2005%@\u2005"
       corner_radius: 2
+      border: 3
       border_height: 3
       border_width: 8
       back_color: 0xCCCCFF
