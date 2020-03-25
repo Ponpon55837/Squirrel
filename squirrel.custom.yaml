@@ -7,7 +7,7 @@ patch:
   style/color_scheme: upfloor #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
-  style/corner_radius: 4 #10
+  style/corner_radius: 6 #10
   style/line_spacing: 6 #6 #1
   style/spacing: 5 #10 #5
   style/candidate_format: '%c. %@'
@@ -15,6 +15,8 @@ patch:
   style/font_point: 20 #21
   style/label_font_face: '儷黑 Pro'
   style/label_font_point: 14 #12 #18
+  style/layout/border: 3
+  style/layout/border_width: 3
 
   preset_color_schemes/metroblue:
     name: "现代蓝／Metro Blue"
@@ -214,9 +216,10 @@ patch:
       name: 皇帝玫瑰
       author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"
-      corner_radius: 2
-      border: 3
-      border_height: 3
+      corner_radius: 6
+      border: 8
+      border_margin: 3
+      border_height: 8
       border_width: 8
       back_color: 0xCCCCFF
       border_color: 0x99FFFF
