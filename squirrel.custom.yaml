@@ -212,7 +212,7 @@ patch:
       comment_text_color: 0x7BDEF4
   preset_color_schemes/upfloor:
       name: 皇帝玫瑰
-      author: 我朋朋啦
+      author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"
       corner_radius: 2
       border: 3
