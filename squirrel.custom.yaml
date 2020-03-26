@@ -210,6 +210,8 @@ patch:
       candidate_text_color: 0x6DCBF2
       label_color: 0x6DCBF2
       comment_text_color: 0x7BDEF4
+      
+  # 正常來說應該要有邊框，不過不知道爲什麼鼠鬚管全部外觀都沒出現邊框樣式
   preset_color_schemes/upfloor:
       name: 皇帝玫瑰
       author: 我朋朋啦(ponpon55837@gmail.com)
