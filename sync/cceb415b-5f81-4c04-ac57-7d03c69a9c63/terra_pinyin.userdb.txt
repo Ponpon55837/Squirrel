@@ -23,7 +23,7 @@ bu4 ying1 gai1 	不應該	c=0 d=0.0923116 t=55
 cai3 yong4 	採用	c=0 d=0.0927743 t=55
 cha2 	茶	c=1 d=0.909373 t=55
 chang2 	常	c=1 d=0.831104 t=55
-chang2 du4 	長度	c=0 d=0.199501 t=54
+chang2 du4 	長度	c=0 d=0.198506 t=55
 cheng1 wei2 	稱爲	c=0 d=0.0923116 t=55
 chu1 shi3 	初始	c=0 d=0.0865022 t=55
 chu1 shi3 ji1 xie4 jian4 pan2 	初始機械鍵盤	c=1 d=0.869358 t=55
@@ -53,7 +53,7 @@ hua2 shu3 	滑鼠	c=0 d=0.0822835 t=55
 ji1 xie4 	機械	c=0 d=0.424835 t=55
 ji4 ran2 	既然	c=0 d=0.0814647 t=55
 ji4 ran2 jiang3 dao4 wai4 jie1 she4 bei4 	既然講到外接設備	c=1 d=0.818731 t=55
-jian4 cheng2 	鍵程	c=1 d=1 t=52
+jian4 cheng2 	鍵程	c=1 d=0.985112 t=55
 jian4 pan2 	鍵盤	c=0 d=0.588991 t=55
 jiang3 dao4 	講到	c=0 d=0.0814647 t=55
 jie4 you2 	藉由	c=0 d=0.0960789 t=55
@@ -90,10 +90,10 @@ shu3 xu1 guan3 	鼠鬚管	c=4 d=3.76099 t=55
 shu3 xu1 guan3 biao1 dian3 fu2 hao4 	鼠鬚管標點符號	c=1 d=0.856415 t=55
 ti3 	體	c=1 d=1.09995 t=55
 ti3 de5 	體的	c=0 d=0.0895834 t=55
-tiao2 jie2 	調節	c=0 d=0.1 t=50
+tiao2 jie2 	調節	c=0 d=0.097531 t=55
 ting1 guo4 	聽過	c=0 d=0.083527 t=55
 wai4 jie1 	外接	c=0 d=0.0814647 t=55
-wen2 zi4 xue2 	文字學	c=0 d=0.1 t=54
+wen2 zi4 xue2 	文字學	c=0 d=0.0995012 t=55
 wen2 zi4 xue2 xuan3 dan1 chang2 du4 	文字學選單長度	c=1 d=1 t=55
 wo3 men5 	我們	c=0 d=0.0822835 t=55
 wu4 ti3 	物體	c=0 d=0.0951229 t=55
@@ -105,7 +105,7 @@ xiang3 shuo1 yi1 	想說一	c=1 d=0.891366 t=55
 xie3 	寫	c=1 d=0.802519 t=55
 xing2 cheng2 	形成	c=0 d=0.285386 t=55
 xing2 jin4 	行進	c=0 d=0.0960789 t=55
-xuan3 dan1 	選單	c=0 d=0.1 t=54
+xuan3 dan1 	選單	c=0 d=0.0995012 t=55
 yao4 	要	c=0 d=0.0913931 t=55
 yao4 lai2 shuo1 yi1 xia4 	要來說一下	c=1 d=0.918512 t=55
 yao4 shuo1 	要說	c=0 d=0.0882497 t=55
@@ -132,8 +132,8 @@ zhe4 me5 duo1 	這麼多	c=0 d=0.0847894 t=55
 zhe4 me5 jian3 dan1 	這麼簡單	c=0 d=0.0782705 t=55
 zhe4 xie1 	這些	c=0 d=0.0937067 t=55
 zhe4 xie1 zhou2 ti3 	這些軸體	c=1 d=0.941765 t=55
-zhe4 zhong3 	這種	c=0 d=0.1 t=50
-zhe4 zhong3 zuo4 fa3 ke3 yi3 zi4 ji3 tiao2 jie2 chu4 fa1 de5 	這種做法可以自己調節觸發的	c=1 d=1 t=51
+zhe4 zhong3 	這種	c=0 d=0.097531 t=55
+zhe4 zhong3 zuo4 fa3 ke3 yi3 zi4 ji3 tiao2 jie2 chu4 fa1 de5 	這種做法可以自己調節觸發的	c=1 d=0.980199 t=55
 zheng4 ti3 	正體	c=1 d=0.860708 t=55
 zhi1 dao4 	知道	c=0 d=0.0831104 t=55
 zhi1 hou4 	之後	c=0 d=0.0955997 t=55
@@ -146,9 +146,9 @@ zhong1 wen2 shu1 ru4 jiu4 shi4 zhe4 me5 jian3 dan1 	中文輸入就是這麼簡�
 zhong3 	種	c=0 d=0.0923116 t=55
 zhou2 	軸	c=0 d=0.275602 t=55
 zhou2 ti3 de5 bu4 fen4 	軸體的部分	c=1 d=0.900325 t=55
-zi4 ji3 	自己	c=0 d=0.1 t=50
-zi4 ti3 	字體	c=0 d=0.1 t=53
-zi4 ti3 chang2 du4 	字體長度	c=1 d=1 t=54
+zi4 ji3 	自己	c=0 d=0.097531 t=55
+zi4 ti3 	字體	c=0 d=0.099005 t=55
+zi4 ti3 chang2 du4 	字體長度	c=1 d=0.995012 t=55
 zi4 yi4 	字義	c=1 d=0.782705 t=55
 zui4 chang2 	最長	c=0 d=0.0822835 t=55
-zuo4 fa3 	做法	c=0 d=0.1 t=50
+zuo4 fa3 	做法	c=0 d=0.097531 t=55

@@ -9,14 +9,12 @@ patch:
   style/inline_preedit: false #true
   style/corner_radius: 6 #10
   style/line_spacing: 6 #6 #1
-  style/spacing: 5 #10 #5
+  style/spacing: 10 #10 #5
   style/candidate_format: '%c. %@'
   style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #,HanaMinA,HanaMinB
   style/font_point: 20 #21
   style/label_font_face: '儷黑 Pro'
   style/label_font_point: 14 #12 #18
-  style/layout/border: 3
-  style/layout/border_width: 3
 
   preset_color_schemes/metroblue:
     name: "现代蓝／Metro Blue"
@@ -216,18 +214,19 @@ patch:
       name: 皇帝玫瑰
       author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"
-      corner_radius: 6
-      border: 8
-      border_margin: 3
-      border_height: 8
-      border_width: 8
-      back_color: 0xCCCCFF
+      corner_radius: 5
+      border: 20
+      border_margin: 8
+      border_height: 10
+      border_width: 10
       border_color: 0x99FFFF
+      back_color: 0xCCCCFF
       text_color: 0x0B86B8
       hilited_text_color: 0x0B86B8
       hilited_back_color: 0xC3C3E6
       hilited_candidate_text_color: 0x00EFFF
       hilited_candidate_back_color: 0x8F8FBC
+      hilited_corner_radius: 5
       candidate_text_color: 0x2A2AA5
       comment_text_color: 0x8080F0
       label_color: 0x4E81E6

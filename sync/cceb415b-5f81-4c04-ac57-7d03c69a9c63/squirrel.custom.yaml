@@ -7,10 +7,9 @@ patch:
   style/color_scheme: upfloor #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
-  style/border: 3
-  style/corner_radius: 4 #10
+  style/corner_radius: 6 #10
   style/line_spacing: 6 #6 #1
-  style/spacing: 5 #10 #5
+  style/spacing: 10 #10 #5
   style/candidate_format: '%c. %@'
   style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #,HanaMinA,HanaMinB
   style/font_point: 20 #21
@@ -213,12 +212,13 @@ patch:
       comment_text_color: 0x7BDEF4
   preset_color_schemes/upfloor:
       name: 皇帝玫瑰
-      author: 我朋朋啦
+      author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"
-      corner_radius: 2
-      border: 3
-      border_height: 3
-      border_width: 8
+      corner_radius: 3
+      border: 20
+      border_margin: 8
+      border_height: 20
+      border_width: 20
       back_color: 0xCCCCFF
       border_color: 0x99FFFF
       text_color: 0x0B86B8
@@ -226,6 +226,7 @@ patch:
       hilited_back_color: 0xC3C3E6
       hilited_candidate_text_color: 0x00EFFF
       hilited_candidate_back_color: 0x8F8FBC
+      hilited_corner_radius: 3
       candidate_text_color: 0x2A2AA5
       comment_text_color: 0x8080F0
       label_color: 0x4E81E6
