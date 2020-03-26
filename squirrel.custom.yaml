@@ -3,7 +3,7 @@
 
 patch:
   menu/page_size: 9
-  style/color_scheme: upfloor #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: RoseofER #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/corner_radius: 6 #10
@@ -214,7 +214,7 @@ patch:
       comment_text_color: 0x7BDEF4
       
   # 正常來說應該要有邊框，不過不知道爲什麼鼠鬚管全部外觀都沒出現邊框樣式
-  preset_color_schemes/upfloor:
+  preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
       author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"

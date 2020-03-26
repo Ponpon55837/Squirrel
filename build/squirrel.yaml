@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1585202236
+    squirrel.custom: 1585208669
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -59,6 +59,26 @@ preset_color_schemes:
     label_color: 0x6DCBF2
     name: lv
     text_color: 0x7BDEF4
+  RoseofER:
+    author: "我朋朋啦(ponpon55837@gmail.com)"
+    back_color: 0xCCCCFF
+    border: 20
+    border_color: 0x99FFFF
+    border_height: 10
+    border_margin: 8
+    border_width: 10
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x2A2AA5
+    comment_text_color: 0x8080F0
+    corner_radius: 5
+    hilited_back_color: 0x99EFFF
+    hilited_candidate_back_color: 0x8F8FBC
+    hilited_candidate_text_color: 0x00EFFF
+    hilited_corner_radius: 5
+    hilited_text_color: 0x00859E
+    label_color: 0x4E81E6
+    name: "皇帝玫瑰"
+    text_color: 0x6BE8FF
   apathy:
     author: "LIANG Hai"
     back_color: 0xFFFFFF
@@ -366,35 +386,13 @@ preset_color_schemes:
     menu: "page_size:9"
     name: "宇治金時"
     text_color: 0x573270
-  upfloor:
-    author: "我朋朋啦(ponpon55837@gmail.com)"
-    back_color: 0xCCCCFF
-    border: 20
-    border_color: 0x99FFFF
-    border_height: 10
-    border_margin: 8
-    border_width: 10
-    candidate_format: "%c %@ "
-    candidate_text_color: 0x2A2AA5
-    comment_text_color: 0x8080F0
-    corner_radius: 5
-    hilited_back_color: 0x99EFFF
-    hilited_candidate_back_color: 0x8F8FBC
-    hilited_candidate_text_color: 0x00EFFF
-    hilited_candidate_label_color: 0x00C6EB
-    hilited_corner_radius: 5
-    hilited_candidate_back_corner_radius: 5
-    hilited_text_color: 0x00859E
-    label_color: 0x4E81E6
-    name: "皇帝玫瑰"
-    text_color: 0x6BE8FF
 show_notifications_when: appropriate
 style:
   border: 8
   border_height: 8
   border_width: 8
   candidate_format: "%c. %@"
-  color_scheme: upfloor
+  color_scheme: RoseofER
   corner_radius: 6
   font_face: "Times-Roman,PingFangTC-Light,AppleColorEmoji"
   font_point: 20
