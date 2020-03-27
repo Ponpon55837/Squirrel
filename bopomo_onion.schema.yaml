@@ -73,7 +73,7 @@ engine:
 
 menu:
   alternative_select_keys: "QAZWSX"
-  page_size: 6
+  page_size: 7
 ############################### 濾鏡 ##################################
 simplifier:
   tips: all

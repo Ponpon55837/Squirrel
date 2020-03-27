@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1585299711
+    squirrel.custom: 1585302403
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -42,8 +42,6 @@ app_options:
     no_inline: true
 chord_duration: 0.1
 config_version: 0.33
-menu:
-  page_size: 9
 preset_color_schemes:
   Louis:
     author: onion

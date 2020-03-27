@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     bopomo_onion.custom: 0
-    bopomo_onion.schema: 1581854376
+    bopomo_onion.schema: 1585300378
     bopomo_onion_symbols: 1577304786
     bopomo_onion_symbols.custom: 0
     default: 1561294610
@@ -161,7 +161,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: QAZWSX
-  page_size: 6
+  page_size: 7
 punctuator:
   full_shape:
     "\"": {commit: "、"}
