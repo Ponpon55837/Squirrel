@@ -6,7 +6,9 @@
 
 直接下載整個github檔案
 
-把檔案塞到mac /Users/你自己使用者的資料夾/Library/Rime
+把檔案覆蓋到mac的 /Users/你自己使用者的資料夾/Library/Rime資料夾中
+
+裡面全部的檔案都砍掉直接覆蓋
 
 預設的顯示樣式是皇帝玫瑰 我做的
 
