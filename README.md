@@ -1,3 +1,7 @@
+---
+description: how to use Rime
+---
+
 # Mac鼠鬚管洋蔥純注音安裝跟編輯
 
 ## How to use 
@@ -6,13 +10,17 @@
 
 到Rime的官網下載0.14版鼠鬚管
 
-### [https://rime.im/download/](https://rime.im/download/)
+[https://rime.im/download/](https://rime.im/download/)
 
 ![Rime&#x9F20;&#x9B1A;&#x7BA1;&#x5B98;&#x7DB2;&#x4E0B;&#x8F09;](.gitbook/assets/snip20200327_2.png)
 
 筆者個人建議使用homebrew下載，速度比較快
 
 下載完畢之後，請使用spotlight搜尋Squirrel，點擊app進行安裝
+
+![Squrriel.app](.gitbook/assets/snip20200327_8.png)
+
+### Recover
 
 安裝完畢之後，請點擊下面的連結
 
