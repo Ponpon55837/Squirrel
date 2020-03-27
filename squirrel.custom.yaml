@@ -14,9 +14,6 @@ patch:
   style/font_point: 20 #21
   style/label_font_face: '儷黑 Pro'
   style/label_font_point: 14 #12 #18
-  style/border_height: 8
-  style/border_width: 8
-  style/border: 8
 
   preset_color_schemes/metroblue:
     name: "现代蓝／Metro Blue"
