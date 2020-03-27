@@ -218,12 +218,12 @@ patch:
       name: 皇帝玫瑰
       author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"
-      corner_radius: 5
-      border: 20
-      border_margin: 8
-      border_height: 10
-      border_width: 10
-      border_color: '0x99FFFF'
+      corner_radius: 5                       # 外框圓角
+      border: 20                             # 邊框 不過沒作用
+      border_margin: 8                       # 我自己加的 沒作用
+      border_height: 10                      # 字與上下邊框的高度差
+      border_width: 10                       # 字與左右邊框的寬度差
+      border_color: '0x99FFFF'               # 邊框顏色 沒作用
       back_color: 0xCCCCFF
       text_color: 0x6BE8FF #0x0B86B8
       hilited_text_color: 0x00859E #0x0B86B8
