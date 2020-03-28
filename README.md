@@ -38,7 +38,7 @@ description: how to use Rime
 
 點開Finder，使用前往資料夾 /User/你的使用者/Library/Rime
 
-到了Rime資料刪除全部內容，貼上剛剛複製的檔案
+到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案
 
 點擊輸入法的鼠鬚管圖示，點擊重新部署
 
