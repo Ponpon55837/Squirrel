@@ -20,6 +20,10 @@ description: how to use Rime
 
 ![Squrriel.app](.gitbook/assets/snip20200327_8.png)
 
+安裝完之後，請到系統偏好設定/鍵盤/輸入方式，確認有沒有安裝成功
+
+![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/snip20200328_9.png)
+
 ### Recover
 
 安裝完畢之後，請點擊下面的連結
