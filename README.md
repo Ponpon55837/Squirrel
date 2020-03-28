@@ -18,7 +18,7 @@ description: how to use Rime
 
 下載完畢之後，請使用spotlight搜尋Squirrel，點擊app進行安裝
 
-![Squrriel.app](.gitbook/assets/snip20200327_8.png)
+![Squirrel.app](.gitbook/assets/snip20200328_11.png)
 
 安裝完之後，請到系統偏好設定/鍵盤/輸入方式，確認有沒有安裝成功
 
