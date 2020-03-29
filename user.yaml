@@ -1,9 +1,9 @@
 var:
-  last_build_time: 1585360572
+  last_build_time: 1585494390
   previously_selected_schema: bopomo_onion
   schema_access_time:
-    allbpm: 1585296965
-    bopomo_onion: 1585358856
+    allbpm: 1585450796
+    bopomo_onion: 1585450803
     bopomofo: 1585105214
     bopomofo_tw: 1585104478
     terra_pinyin: 1585105189
