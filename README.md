@@ -50,9 +50,9 @@ description: how to use Rime
 
 ​如果要修改顯示的候選詞數量，請到Rime/bopomo\_onion.schema.yaml這個檔案
 
-搜尋menu，這裡可以修改候選詞的數量，更改page\_size的數字就行
+搜尋menu，這裡可以修改候選詞的數量，更改page\_size的數字就行，目前預設候選詞快速鍵爲QAZWSXEDC，如果要設定超過9個候選詞，麻煩在自己增加候選詞快速鍵。
 
-![&#x5019;&#x9078;&#x8A5E;&#x6578;&#x91CF;](.gitbook/assets/snip20200331_3.png)
+![&#x5019;&#x9078;&#x8A5E;&#x5FEB;&#x901F;&#x9375;](.gitbook/assets/snip20200331_6.png)
 
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
