@@ -72,7 +72,7 @@ engine:
     - script_translator
 
 menu:
-  alternative_select_keys: "QAZWSXE"
+  alternative_select_keys: "QAZWSXEDC"
   page_size: 7
 ############################### 濾鏡 ##################################
 simplifier:

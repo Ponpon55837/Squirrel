@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1585531053
+    squirrel.custom: 1585615686
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -63,7 +63,6 @@ preset_color_schemes:
     border: 20
     border_color: 0x99FFFF
     border_height: 10
-    border_margin: 8
     border_width: 10
     candidate_format: "%c %@ "
     candidate_text_color: 0x2A2AA5
