@@ -6,7 +6,7 @@ description: how to use Rime
 
 #### 
 
-#### 本文所使用的輸入法由[**oniondelta**](https://github.com/oniondelta)**所製作洋蔥純注音修改而來**
+#### 本文所使用的輸入法由[**oniondelta**](https://github.com/oniondelta)**所製作洋蔥純注音與**[**lotem**](https://github.com/lotem)**製作的鼠鬚管框架**[**squirrel**](https://github.com/rime/squirrel)**修改而來**
 
 **在此感謝洋蔥大大與鼠鬚管作者佛振等人的付出與貢獻** 
 
