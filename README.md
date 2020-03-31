@@ -52,7 +52,7 @@ description: how to use Rime
 
 搜尋menu，這裡可以修改候選詞的數量，更改page\_size的數字就行
 
-![&#x5019;&#x9078;&#x8A5E;&#x6578;&#x91CF;](.gitbook/assets/snip20200327_6.png)
+![&#x5019;&#x9078;&#x8A5E;&#x6578;&#x91CF;](.gitbook/assets/snip20200331_3.png)
 
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
