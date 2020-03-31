@@ -209,13 +209,12 @@ patch:
       label_color: 0x6DCBF2
       comment_text_color: 0x7BDEF4
       
-  # 正常來說應該要有邊框，不過不知道爲什麼鼠鬚管全部外觀都沒出現邊框樣式
+  # 正常來說應該要有邊框，不過Rime好像沒有支援Mac的外邊框
   preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
       author: 我朋朋啦(ponpon55837@gmail.com)
       candidate_format: "%c\u2005%@\u2005"
       corner_radius: 5                       # 外框圓角
-      border: 20                             # 邊框 不過沒作用
       border_height: 10                      # 字與上下邊框的高度差
       border_width: 10                       # 字與左右邊框的寬度差
       border_color: '0x99FFFF'               # 邊框顏色 沒作用
