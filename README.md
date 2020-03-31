@@ -64,7 +64,7 @@ description: how to use Rime
 
 這些樣式細節也可以調整，就在下面自己慢慢調
 
-![&#x6A23;&#x8ABF;&#x6574;](.gitbook/assets/snip20200331_5.png)
+![style&#x8ABF;&#x6574;](.gitbook/assets/snip20200331_9.png)
 
 不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
 
