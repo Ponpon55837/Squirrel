@@ -94,3 +94,13 @@ description: how to use Rime
 
 特殊符號可以使用 ' = ' + 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明 
 
+如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)**大的文章**
+
+{% embed url="http://deltazone.pixnet.net/blog/category/11823230" caption="注音設定檔連結" %}
+
+**──────────────────────────────────────────────**
+
+#### **It's** not for commercial use
+
+#### 本內容僅作為一般公開使用，非商業使用，請勿進行商業行爲。
+
