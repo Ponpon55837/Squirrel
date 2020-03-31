@@ -104,3 +104,6 @@ description: how to use Rime
 
 #### 本內容僅作為一般公開使用，非商業使用，請勿進行商業行爲。
 
+  
+本著作係採用[創用 CC 姓名標示-非商業性 3.0 台灣 授權條款](http://creativecommons.org/licenses/by-nc/3.0/tw/)授權.
+
