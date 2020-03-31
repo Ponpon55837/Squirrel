@@ -4,6 +4,12 @@ description: how to use Rime
 
 # Mac鼠鬚管洋蔥純注音安裝跟編輯
 
+{% hint style="info" %}
+本文所使用的輸入法由[**oniondelta**](https://github.com/oniondelta)**所製作洋蔥純注音修改而來**
+
+**在此感謝洋蔥大大與鼠鬚管作者佛振的付出與貢獻** 
+{% endhint %}
+
 ## How to use 
 
 ### Install
