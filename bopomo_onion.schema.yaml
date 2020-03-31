@@ -72,7 +72,9 @@ engine:
     - script_translator
 
 menu:
+# 候選字快捷鍵
   alternative_select_keys: "QAZWSXEDC"
+# 候選字顯示數量
   page_size: 7
 ############################### 濾鏡 ##################################
 simplifier:
