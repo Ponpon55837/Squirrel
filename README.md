@@ -80,7 +80,7 @@ description: how to use Rime
 
 但是在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ '  或是 shift + '  ’  '
 
-\(感謝[**oniondelta**](https://github.com/oniondelta) **的提醒**\)
+\(感謝[**oniondelta**](https://github.com/oniondelta) **大大的提醒**\)
 
 
 
