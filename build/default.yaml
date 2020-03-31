@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561294610
-    default.custom: 1585553040
+    default.custom: 1585625181
     key_bindings: 1561294610
     key_bindings.custom: 0
     punctuation: 1561294610
@@ -57,7 +57,7 @@ key_binder:
     - {accept: "Control+semicolon", toggle: simplification, when: always}
     - {accept: "Control+slash", toggle: ascii_punct, when: always}
 menu:
-  page_size: 9
+  page_size: 7
 punctuator:
   full_shape:
     " ": {commit: "　"}

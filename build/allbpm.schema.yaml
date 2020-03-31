@@ -4,7 +4,7 @@ __build_info:
     allbpm.custom: 0
     allbpm.schema: 1567611764
     default: 1561294610
-    default.custom: 1585553040
+    default.custom: 1585625181
     key_bindings: 1561294610
     key_bindings.custom: 0
     punctuation: 1561294610
@@ -75,7 +75,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: QAZWSX
-  page_size: 9
+  page_size: 7
 punctuator:
   full_shape:
     " ": {commit: "　"}

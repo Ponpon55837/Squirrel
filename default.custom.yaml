@@ -18,7 +18,8 @@ patch:
     - Control+Shift+grave
     - F4
   menu:
-    page_size: 9
+  # 洋蔥純注音候選詞數量無法在此更改，需要到bopomo_onion.schema.yaml進行修改
+    page_size: 7
 
   key_binder/bindings:
     - { when: composing, accept: Control+p, send: Up }

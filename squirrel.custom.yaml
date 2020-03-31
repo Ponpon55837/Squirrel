@@ -11,7 +11,7 @@ patch:
   style/candidate_format: '%c. %@'
   style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #,HanaMinA,HanaMinB
   style/font_point: 20 #21
-  style/label_font_face: '儷黑 Pro'
+  style/label_font_face: '儷黑 Pro' # 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
   style/label_font_point: 14 #12 #18
 
   preset_color_schemes/metroblue:
