@@ -56,13 +56,17 @@ description: how to use Rime
 
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
-預設是皇帝玫瑰，也就是RoseofER這個樣式，我本人做的
+預設是皇帝玫瑰，也就是RoseofER這個樣式，我做的
 
-![&#x7687;&#x5E1D;&#x73AB;&#x7470;](.gitbook/assets/snip20200327_7.png)
+![RoseofER](.gitbook/assets/snip20200331_4.png)
 
 裡面有很多樣式可以選，修改style/color\_scheme： 這後面你自己選要用的樣式
 
 這些樣式細節也可以調整，就在下面自己慢慢調
+
+![&#x6A23;&#x8ABF;&#x6574;](.gitbook/assets/snip20200331_5.png)
+
+不過這邊有一個小問題，那就是鼠鬚管貌似不支援windows可用的外邊框，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
 
 ### Use
 
