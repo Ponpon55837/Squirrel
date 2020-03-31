@@ -46,7 +46,7 @@ description: how to use Rime
 
 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式
 
-![&#x9F20;&#x9B1A;&#x7BA1;&#x8F38;&#x5165;&#x5716;&#x793A;](.gitbook/assets/snip20200327_5.png)
+![&#x8F38;&#x5165;&#x6A23;&#x5F0F;](.gitbook/assets/snip20200331_2.png)
 
 ​如果要修改顯示的候選詞數量，請到Rime/bopomo\_onion.schema.yaml這個檔案
 
@@ -76,7 +76,13 @@ description: how to use Rime
 
 中文切換英文大寫，請按下caps lock
 
-這邊要特別說的原本的 '、' 是按下 ' \ ' ，但是在鼠鬚管洋蔥注音輸入方式是安下 ' = ' + ' ~ ' 
+這邊要特別說的原本的 '、' 是按下 ' \ ' ，
+
+但是在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ '  或是 shift + '  ’  '
+
+\(感謝[**oniondelta**](https://github.com/oniondelta) **的提醒**\)
+
+
 
 鼠鬚管會自動記憶常用詞彙，所以有常用的字多打幾次就行了
 
