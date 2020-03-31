@@ -52,7 +52,7 @@ description: how to use Rime
 
 搜尋menu，這裡可以修改候選詞的數量，更改page\_size的數字就行，目前預設候選詞快速鍵爲QAZWSXEDC，如果要設定超過9個候選詞，麻煩在自己增加候選詞快速鍵。
 
-![&#x5019;&#x9078;&#x8A5E;&#x5FEB;&#x901F;&#x9375;](.gitbook/assets/snip20200331_6.png)
+![&#x5019;&#x9078;&#x8A5E;&#x8A2D;&#x5B9A;](.gitbook/assets/snip20200331_7.png)
 
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
@@ -67,6 +67,8 @@ description: how to use Rime
 ![&#x6A23;&#x8ABF;&#x6574;](.gitbook/assets/snip20200331_5.png)
 
 不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
+
+#### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
 ### Use
 
