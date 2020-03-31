@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561294610
-    default.custom: 1585126998
+    default.custom: 1585553040
     key_bindings: 1561294610
     key_bindings.custom: 0
     punctuation: 1561294610
@@ -133,7 +133,6 @@ recognizer:
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
   - schema: bopomo_onion
-  - schema: cangjie5
   - schema: allbpm
 switcher:
   abbreviate_options: true

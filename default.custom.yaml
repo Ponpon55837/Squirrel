@@ -1,5 +1,5 @@
 # default.custom.yaml
-# save it to: 
+# save it to:
 #   ~/.config/ibus/rime  (linux)
 #   ~/Library/Rime       (macos)
 #   %APPDATA%\Rime       (windows)
@@ -8,7 +8,7 @@ patch:
   schema_list:
 ######## 洋蔥純注音版 ########
     - schema: bopomo_onion
-    - schema: cangjie5
+  #  - schema: cangjie5
     - schema: allbpm
 ##############################
 
@@ -72,4 +72,3 @@ patch:
 #    Eisu_toggle: clear
 #    Control_L: noop
 #    Control_R: noop
-

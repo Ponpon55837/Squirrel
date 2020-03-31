@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     bopomo_onion.custom: 0
-    bopomo_onion.schema: 1585360386
+    bopomo_onion.schema: 1585614485
     bopomo_onion_symbols: 1577304786
     bopomo_onion_symbols.custom: 0
     default: 1561294610
-    default.custom: 1585126998
+    default.custom: 1585553040
     key_bindings: 1561294610
     key_bindings.custom: 0
     punctuation: 1561294610
@@ -160,7 +160,7 @@ key_binder:
     - {accept: 7, send: 7, when: has_menu}
   import_preset: default
 menu:
-  alternative_select_keys: QAZWSX
+  alternative_select_keys: QAZWSXE
   page_size: 7
 punctuator:
   full_shape:
