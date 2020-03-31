@@ -84,9 +84,9 @@ description: how to use Rime
 
 但是在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ '  或是 shift + '  ’  '
 
+另外，常用的符號可以使用shift + 符號鍵來使用，例如 shift + ' ; '  =&gt;  '：'
+
 \(感謝[**oniondelta**](https://github.com/oniondelta) **大大的提醒**\)
-
-
 
 鼠鬚管會自動記憶常用詞彙，所以有常用的字多打幾次就行了
 
