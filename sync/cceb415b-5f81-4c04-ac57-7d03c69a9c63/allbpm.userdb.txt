@@ -2,5 +2,9 @@
 #@/db_name	allbpm.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	0
+#@/tick	6
 #@/user_id	cceb415b-5f81-4c04-ac57-7d03c69a9c63
+1 	ㄅ	c=3 d=2.96042 t=6
+h A 	ㄘ 	c=1 d=1 t=5
+s 	ㄋ	c=1 d=1 t=2
+x a 	ㄌㄇ	c=1 d=1 t=4

@@ -2,461 +2,3634 @@
 #@/db_name	bopomo_onion.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	231
+#@/tick	2564
 #@/user_id	cceb415b-5f81-4c04-ac57-7d03c69a9c63
-a1 	阿	c=0 d=0.26358 t=231
-an1 zhuang1 	安裝	c=0 d=0.1 t=190
-an1 zhuang1 ma2 fan2 si3 le5 	安裝麻煩死了	c=1 d=1 t=191
-an1 zhuang1 wan2 	安裝完	c=1 d=0.71177 t=231
-an4 jian4 	按鍵	c=1 d=0.727371 t=231
-ba1 	八	c=1 d=0.514274 t=231
-ba1 ma3 	八碼	c=2 d=1.13215 t=231
-ba1 ma3 de5 	八碼的	c=1 d=0.524663 t=231
-ba1 wei4 	八位	c=1 d=0.511709 t=231
-ba2 	拔	c=0 d=0.1 t=196
-ba3 	把	c=0 d=0.0790571 t=231
-ba3 dang3 an4 sai1 dao4 	把檔案塞到	c=1 d=0.794534 t=231
-ba5 	吧	c=1 d=1.12691 t=231
-ban3 	版	c=0 d=0.0463013 t=231
-ban4 tian1 	半天	c=0 d=0.099005 t=231
-ban4 xiao3 shi2 	半小時	c=0 d=0.0970446 t=231
-bian1 kuang1 	邊框	c=0 d=0.139802 t=231
-biao3 	表	c=2 d=1.00328 t=231
-bu2 guo4 	不過	c=1 d=0.650509 t=231
-bu2 guo4 ye3 hao3 	不過也好	c=1 d=1 t=195
-bu2 hui4 	不會	c=0 d=0.067032 t=231
-bu2 jiu4 	不就	c=0 d=0.0937067 t=231
-bu2 shi4 	不是	c=0 d=0.1 t=184
-bu2 shi4 a1 	不是阿	c=1 d=1 t=185
-bu2 yao4 	不要	c=0 d=0.0694197 t=231
-bu2 yao4 xiang3 pian4 wo3 	不要想騙我	c=1 d=0.697676 t=231
-bu2 yong4 	不用	c=0 d=0.0878095 t=231
-bu4 	不	c=0 d=0.0640824 t=231
-bu4 dong3 	不懂	c=0 d=0.0416862 t=231
-bu4 dong3 ni3 yi4 si1 	不懂你意思	c=1 d=0.418952 t=231
-bu4 hao3 	不好	c=0 d=0.0852144 t=231
-bu4 ran2 	不然	c=0 d=0.0527292 t=231
-bu4 ran2 jiu4 	不然就	c=0 d=0.0499074 t=231
-bu4 ran2 jiu4 shi4 he2 yuan2 ze2 	不然就適合原則	c=1 d=0.501576 t=231
-bu4 ran2 mei2 ban4 fa3 gai3 	不然沒辦法改	c=1 d=0.529935 t=231
-bu4 shu3 	部署	c=0 d=0.0771052 t=231
-bu4 tong2 	不同	c=0 d=0.045612 t=231
-bu4 xu1 yao4 	不需要	c=0 d=0.0453845 t=231
-bu4 zhi1 dao4 	不知道	c=0 d=0.1 t=215
-bu4 zhi1 dao4 na3 li3 you3 wen4 ti2 	不知道哪裏有問題	c=1 d=1 t=216
-bu4 zou4 	步驟	c=1 d=0.729789 t=231
-cheng2 	程	c=1 d=0.404542 t=231
-chi1 	吃	c=0 d=0.168325 t=231
-chi1 guo4 	吃過	c=0 d=0.0847894 t=231
-chi1 le5 	吃了	c=0 d=0.0818731 t=231
-chong2 xin1 	重新	c=0 d=0.0771052 t=231
-chong2 xin1 bu4 shu3 	重新部署	c=1 d=0.774916 t=231
-chu4 fa1 	觸發	c=0 d=0.281283 t=231
-chu4 fa1 fang1 shi4 jiu4 gen1 wu4 li3 wu2 guan1 	觸發方式就跟物理無關	c=1 d=0.647265 t=231
-cong2 	從	c=0 d=0.0631284 t=231
-cong2 shang4 tu2 ke3 yi3 kan4 dao4 	從上圖可以看到	c=1 d=0.634448 t=231
-da3 	打	c=0 d=0.0846335 t=231
-da3 shen2 me5 	打什麼	c=0 d=0.1 t=219
-da3 zi4 	打字	c=0 d=0.0421052 t=231
-da3 zi4 da3 qi3 lai2 	打字打起來	c=1 d=0.423162 t=231
-da4 gai4 	大概	c=0 d=0.0970446 t=231
-da4 gai4 ban4 xiao3 shi2 xia4 zai3 jia1 geng1 xin1 	大概半小時下載家更新	c=1 d=0.97531 t=231
-dan1 yuan2 	單元	c=0 d=0.194649 t=210
-dan1 yuan2 yi1 	單元一	c=1 d=1.056 t=209
-dan1 yuan2 yi1 de5 mo2 shi4 	單元一的模式	c=1 d=1 t=210
-dang3 an4 	檔案	c=1 d=0.869628 t=231
-dao4 	到	c=1 d=0.755784 t=231
-dao4 di3 	到底	c=0 d=0.0427415 t=231
-dao4 di3 zen3 me5 xiang3 de5 	到底怎麼想得	c=1 d=0.429557 t=231
-de5 	的	c=1 d=1.31909 t=231
-de5 dang3 an4 	的檔案	c=1 d=1 t=194
-de5 hua4 	的話	c=0 d=0.166678 t=231
-deng3 deng3 	等等	c=0 d=0.0891366 t=231
-dian3 	點	c=1 d=1 t=231
-diao3 	屌	c=0 d=0.1 t=219
-ding4 	定	c=0 d=0.1 t=227
-ding4 wei4 	定位	c=0 d=0.0923116 t=231
-ding4 wei4 	訂位	c=1 d=1 t=229
-diu1 	丟	c=0 d=0.0937067 t=231
-dong1 xi1 	東西	c=0 d=0.1 t=185
-dong3 pi4 	懂屁	c=1 d=1 t=227
-dong4 hua4 	動畫	c=0 d=0.0425283 t=231
-dou1 	都	c=0 d=0.0425283 t=231
-dou1 shi4 	都是	c=0 d=0.0491644 t=231
-dui4 a1 	對阿	c=1 d=0.657047 t=231
-dui4 ying4 	對應	c=0 d=0.0524663 t=231
-duo1 duo1 	多多	c=0 d=0.0843665 t=231
-duo1 kai1 	多開	c=0 d=0.1 t=192
-ei4 	欸	c=1 d=0.798516 t=231
-ei4 ei4 	欸欸	c=1 d=0.481909 t=231
-er4 	二	c=1 d=1.09005 t=210
-fang1 shi4 	方式	c=0 d=0.0644036 t=231
-fen3 se4 	粉色	c=1 d=0.489192 t=231
-gai3 	改	c=0 d=0.182715 t=231
-gai3 bian4 	改變	c=0 d=0.045612 t=231
-gai3 bian4 wu4 li3 xing2 cheng2 ye3 ke3 yi3 you3 bu4 tong2 de5 chu4 fa1 shi2 jian1 	改變物理行程也可以有不同的觸發時間	c=1 d=0.458406 t=231
-gan1 	乾	c=1 d=0.806541 t=231
-gan1 	甘	c=1 d=0.802519 t=231
-gan4 ma2 	幹嘛	c=0 d=0.0927743 t=231
-gang1 gang1 	剛剛	c=0 d=0.130951 t=231
-gang1 gang1 zai4 	剛剛在	c=0 d=0.0440432 t=231
-gao3 	搞	c=0 d=0.099005 t=231
-gao3 le5 	搞了	c=0 d=0.156881 t=231
-ge2 shi4 	格式	c=2 d=1.19554 t=231
-gen1 wo3 	跟我	c=0 d=0.0869358 t=231
-geng1 xin1 	更新	c=0 d=0.193605 t=231
-geng1 xin1 man2 kuai4 de5 a1 	更新蠻快的阿	c=1 d=0.970446 t=231
-gong1 ju4 	工具	c=1 d=0.479505 t=231
-gong1 neng2 	功能	c=0 d=0.067368 t=231
-gu3 tong2 	古銅	c=1 d=0.551563 t=231
-guai4 	怪	c=0 d=0.0529935 t=231
-guang1 xian4 	光線	c=0 d=0.104101 t=231
-guang1 xian4 yao4 bei4 zhe1 dang3 de5 wei4 zhi4 	光線要被遮擋的位置	c=1 d=0.408608 t=231
-guang1 zhou2 	光軸	c=2 d=1.31658 t=231
-guang1 zhou2 shi4 ba3 guang1 xian4 zhe1 dang3 zuo4 wei2 chu4 fa1 	光軸是把光線遮擋作爲觸發	c=1 d=0.637628 t=231
-guo4 fen4 	過分	c=0 d=0.0423162 t=231
-ha1 ha1 	哈哈	c=0 d=0.0436049 t=231
-ha1 ha1 a1 	哈哈阿	c=1 d=0.438235 t=231
-hai2 neng2 	還能	c=0 d=0.0941765 t=231
-hai2 shi4 	還是	c=0 d=0.0666977 t=231
-hai2 yao4 	還要	c=0 d=0.199501 t=192
-hai2 yao4 xie3 cheng2 shi4 qu4 gai3 	還要寫程式去改	c=1 d=1 t=192
-hai4 wo3 	害我	c=0 d=0.1 t=192
-hai4 wo3 hai2 yao4 duo1 kai1 	害我還要多開	c=1 d=1 t=193
-hao3 	好	c=3 d=2.64365 t=231
-hao3 la5 	好啦	c=1 d=0.891366 t=231
-hao3 le5 	好了	c=0 d=0.145392 t=231
-hao3 o1 	好哦	c=1 d=0.516851 t=231
-hao3 yun1 o1 gan1 	好暈噢甘	c=1 d=0.618783 t=231
-hen3 jiu3 	很久	c=0 d=0.0818731 t=231
-hou1 	齁	c=1 d=0.831104 t=231
-hou4 	後	c=1 d=0.718924 t=231
-hu1 hu1 	呼呼	c=1 d=0.585669 t=231
-hua2 suan4 	划算	c=1 d=1 t=196
-hua4 de5 	畫的	c=0 d=0.0690734 t=231
-huai4 diao4 	壞掉	c=0 d=0.067368 t=231
-huai4 diao4 jiu4 wu2 fa3 chu4 fa1 shu1 ru4 de5 gong1 neng2 	壞掉就無法觸發輸入的功能	c=1 d=0.677057 t=231
-huang2 di4 	皇帝	c=0 d=0.0740818 t=231
-huang2 di4 mei2 gui1 	皇帝玫瑰	c=1 d=0.744532 t=231
-hui4 you3 	會有	c=0 d=0.0666977 t=231
-huo4 shi4 	或是	c=1 d=0.499074 t=231
-ji3 dian3 	幾點	c=0 d=0.083527 t=231
-ji4 de2 	記得	c=0 d=0.0759572 t=231
-ji4 de5 	記得	c=0 d=0.0600496 t=231
-jia1 	加	c=1 d=0.980199 t=231
-jia1 	家	c=0 d=0.0970446 t=231
-jia1 shang4 	加上	c=1 d=0.955997 t=231
-jian4 	鍵	c=1 d=0.527069 t=231
-jian4 cheng2 	鍵埕	c=1 d=0.402524 t=231
-jian4 zhou2 lai2 jin4 xing2 	鍵軸來進行	c=1 d=0.666977 t=231
-jiang3 	講	c=0 d=0.0869358 t=231
-jiao4 	叫	c=0 d=0.18311 t=223
-jie4 mian4 	界面	c=0 d=0.099005 t=231
-jin1 	金	c=0 d=0.0543351 t=231
-jin1 se4 	金色	c=0 d=0.0540641 t=231
-jin1 tian1 	今天	c=0 d=0.0980199 t=231
-jin1 tian1 gao3 le5 yi1 xia4 wu3 de5 shu1 ru4 fa3 	今天搞了一下午的輸入法	c=1 d=0.985112 t=231
-jin4 xing2 	進行	c=0 d=0.260272 t=231
-jin4 xing2 dan1 yuan2 er4 	進行單元二	c=1 d=1 t=211
-jin4 xing2 xia4 xia4 mian4 	進行下下面	c=1 d=0.726149 t=231
-jiu4 	就	c=0 d=0.067368 t=231
-jiu4 gen1 	就跟	c=0 d=0.0644036 t=231
-jiu4 shi4 	就是	c=0 d=0.0489192 t=231
-jiu4 shi4 xiang4 zhe4 yang4 	就是向這樣	c=1 d=0.491644 t=231
-kai1 	開	c=0 d=0.147997 t=231
-kai1 yuan2 	開源	c=0 d=0.1 t=220
-kan4 	看	c=1 d=0.783809 t=231
-ke3 ai4 	可愛	c=0 d=0.1 t=221
-ke3 yi3 	可以	c=0 d=0.163397 t=231
-ke3 yi3 kan4 dao4 	可以看到	c=0 d=0.0631284 t=231
-ken3 lao3 	啃老	c=0 d=0.0955997 t=231
-ken3 lao3 ken3 qi3 lai2 	啃老啃起來	c=1 d=0.960789 t=231
-ken3 qi3 lai2 	啃起來	c=0 d=0.0955997 t=231
-la5 	啦	c=0 d=0.0414783 t=231
-lai2 	來	c=0 d=0.111749 t=231
-lai2 bu4 xu1 yao4 	來不需要	c=1 d=0.45612 t=231
-lai2 yuan2 	來源	c=0 d=0.0628135 t=231
-le5 	了	c=1 d=1.07666 t=231
-liang3 wei4 	兩位	c=0 d=0.0918512 t=231
-liang3 wei4 de5 hua4 	兩位的話	c=1 d=0.923116 t=231
-liang4 	量	c=0 d=0.0540641 t=231
-liang4 jin1 se4 	量金色	c=1 d=0.543351 t=231
-liu2 cheng2 tu2 	流程圖	c=2 d=1.99501 t=213
-liu4 	六	c=0 d=0.0491644 t=231
-liu4 dian3 	六點	c=0 d=0.0913931 t=231
-ma2 fan2 	麻煩	c=1 d=0.99005 t=231
-ma3 	碼	c=1 d=0.496585 t=231
-ma3 biao3 	碼錶	c=0 d=0.0484325 t=231
-ma5 	嗎	c=0 d=0.172966 t=231
-mai3 	買	c=0 d=0.0927743 t=231
-mai3 ge5 	買個	c=1 d=0.951229 t=231
-mai3 xia4 	買下	c=0 d=0.0932394 t=231
-mai3 xia4 qu4 a1 	買下去阿	c=1 d=0.937067 t=231
-mai3 zhe4 ge5 gan4 ma2 	買這個幹嘛	c=1 d=0.932394 t=231
-man2 kuai4 	蠻快	c=0 d=0.0965605 t=231
-me5 	麼	c=0 d=0.0425283 t=231
-mei2 	沒	c=0 d=0.0818731 t=231
-mei2 ban4 fa3 	沒辦法	c=0 d=0.0527292 t=231
-mei2 gui1 	玫瑰	c=0 d=0.128417 t=231
-mei2 gui1 jin1 	玫瑰金	c=2 d=1.1004 t=231
-mei2 you3 	沒有	c=0 d=0.122235 t=231
-mei2 you3 ba2 	沒有拔	c=1 d=1 t=197
-mi4 yu3 mi4 	密與密	c=1 d=1 t=206
-ming2 tian1 	明天	c=0 d=0.261856 t=231
-ming2 tian1 gen1 wo3 jiang3 shi2 jian1 	明天跟我講時間	c=1 d=0.873716 t=231
-ming2 tian1 ji3 dian3 	明天幾點	c=1 d=0.839457 t=231
-mo2 shi4 	模式	c=0 d=0.1 t=209
-na3 lai2 	哪來	c=0 d=0.1 t=185
-na3 lai2 zhe4 zhong3 dong1 xi1 	哪來這種東西	c=1 d=1 t=186
-na3 li3 	哪裏	c=0 d=0.1 t=215
-na4 	那	c=0 d=0.134796 t=231
-na4 bian1 	那邊	c=0 d=0.175726 t=231
-na4 chi1 zhe4 ge5 ba5 	那吃這個吧	c=1 d=0.83527 t=231
-na4 wo3 zai4 zhao3 zhao3 hao3 le5 	那我在找找好了	c=1 d=0.519442 t=231
-nan2 yong4 	難用	c=0 d=0.0447088 t=231
-ni3 	你	c=0 d=0.153288 t=231
-ni3 gang1 gang1 hua4 de5 ba5 	你剛剛畫的吧	c=1 d=0.694197 t=231
-ni3 you3 	你有	c=0 d=0.129087 t=231
-ni3 you3 mei2 you3 ba1 ma3 de5 se4 ma3 biao3 	你有沒有八碼的色碼錶	c=1 d=0.486752 t=231
-ni3 you3 xiang3 chi1 shen2 me5 ma5 	你有想吃什麼嗎	c=1 d=0.810584 t=231
-ni3 zi4 ji3 	你自己	c=0 d=0.0774916 t=231
-ni3 zi4 ji3 de5 zi1 liao4 jia2 	你自己的資料夾	c=1 d=0.778801 t=231
-ni4 	膩	c=0 d=0.0843665 t=231
-nin2 hao3 	您好	c=1 d=0.913931 t=231
-o1 o1 	噢噢	c=1 d=0.826959 t=231
-pi2 fu1 	皮膚	c=0 d=0.056836 t=231
-pian4 wo3 	騙我	c=0 d=0.0694197 t=231
-pin3 zhen1 	品蓁	c=1 d=0.484325 t=231
-ping2 liang2 	評量	c=0 d=0.1 t=204
-qi2 ta1 ren2 	其他人	c=0 d=0.1 t=214
-qi3 lai2 	起來	c=0 d=0.0421052 t=231
-qu4 	去	c=0 d=0.155585 t=231
-que4 ding4 	確定	c=1 d=0.869358 t=231
-ran2 hou4 	然後	c=0 d=0.1 t=189
-ran2 hou4 zi4 ji3 she4 ding4 	然後自己設定	c=1 d=1 t=190
-rou4 	肉	c=0 d=0.0843665 t=231
-rou4 duo1 duo1 ni4 	肉多多膩	c=1 d=0.847894 t=231
-ru2 guo3 	如果	c=0 d=0.0913931 t=231
-ru2 guo3 ming2 tian1 xia4 wu3 liu4 dian3 	如果明天下午六點	c=1 d=0.918512 t=231
-sai1 dao4 	塞到	c=1 d=0.787277 t=231
-se4 	色	c=0 d=0.0484325 t=231
-se4 ma3 	色碼	c=4 d=2.28618 t=231
-se4 ma3 biao3 	色碼表	c=2 d=1.13814 t=231
-se4 ma3 zhuan3 huan4 	色碼轉換	c=1 d=0.57695 t=231
-sha2 	啥	c=0 d=0.0810584 t=231
-shang4 tu2 	上圖	c=0 d=0.0631284 t=231
-shao1 shao1 shao1 	稍梢捎	c=1 d=1 t=207
-shao3 zui3 hou1 	少嘴齁	c=1 d=0.440432 t=231
-she4 ding4 	設定	c=0 d=0.1 t=189
-she4 ji4 	設計	c=0 d=0.159355 t=231
-she4 ji4 de5 shu1 ru4 fa3 yang4 shi4 	設計的輸入法樣式	c=1 d=0.606531 t=231
-shei2 	誰	c=0 d=0.0423162 t=231
-shei2 zhe4 me5 guo4 fen4 	誰這麼過分	c=1 d=0.425283 t=231
-shen1 ti3 	身體	c=0 d=0.1 t=224
-shen2 me5 	什麼	c=1 d=1.00707 t=231
-shen2 me5 la5 	什麼啦	c=1 d=0.416862 t=231
-sheng1 	生	c=1 d=0.447088 t=231
-shi1 xiao4 	失效	c=1 d=1 t=223
-shi2 	時	c=0 d=0.0404542 t=231
-shi2 jian1 	時間	c=0 d=0.132548 t=231
-shi2 zai4 tai4 	實在太	c=0 d=0.0447088 t=231
-shi3 yong4 	使用	c=1 d=0.630343 t=231
-shi3 yong4 de5 	使用的	c=1 d=0.565525 t=231
-shi3 yong4 shou4 ming4 	使用壽命	c=0 d=0.0666977 t=231
-shi3 yong4 zhe3 	使用者	c=1 d=0.782705 t=231
-shi4 	是	c=0 d=0.12387 t=231
-shi4 ba3 	是把	c=0 d=0.0634448 t=231
-shi4 he2 	適合	c=0 d=0.0499074 t=231
-shi4 you2 	是由	c=0 d=0.066034 t=231
-shou3 ji1 	手機	c=0 d=0.0941765 t=231
-shou3 ji1 hai2 neng2 kan4 	手機還能看	c=1 d=0.946485 t=231
-shu1 qiu2 	輸球	c=0 d=0.0425283 t=231
-shu1 ru4 	輸入	c=0 d=0.166373 t=231
-shu1 ru4 fa3 	輸入法	c=0 d=0.343563 t=231
-shu1 ru4 fa3 de5 yang4 shi4 	輸入法的樣式	c=1 d=0.640824 t=231
-shu1 ru4 fa3 shi2 zai4 tai4 nan2 yong4 le5 	輸入法實在太難用了	c=1 d=0.449329 t=231
-shu3 xu1 guan3 	鼠鬚管	c=11 d=6.76658 t=231
-si3 le5 	死了	c=0 d=0.1 t=190
-su4 zhi2 	素質	c=0 d=0.0697676 t=231
-sui1 ran2 	雖然	c=0 d=0.0640824 t=231
-sui1 ran2 zhe4 yang4 ke3 yi3 bu4 yi1 lai4 	雖然這樣可以不依賴	c=1 d=0.644036 t=231
-suo3 yi3 	所以	c=0 d=0.0666977 t=231
-suo3 yi3 hai2 shi4 hui4 you3 shi3 yong4 shou4 ming4 de5 wen4 ti2 	所以還是會有使用壽命的問題	c=1 d=0.67032 t=231
-ta1 	他	c=0 d=0.0891366 t=231
-tiao2 se4 pan2 	調色盤	c=1 d=0.641314 t=231
-tiao2 zheng3 	調整	c=0 d=0.0404542 t=231
-ting1 de5 	聽得	c=0 d=0.0609571 t=231
-ting1 de5 wo3 xiang4 shi4 tou2 zai4 xuan2 zhuan3 yi1 yang4 	聽得我像是投在旋轉一樣	c=1 d=0.612626 t=231
-ting1 qi3 lai2 	聽起來	c=0 d=0.0860708 t=231
-ting1 qi3 lai2 yi4 you3 suo3 zhi3 	聽起來意有所指	c=1 d=0.865022 t=231
-ting1 shuo1 	聽說	c=0 d=0.0852144 t=231
-ting1 shuo1 bu4 hao3 chi1 	聽說不好吃	c=1 d=0.856415 t=231
-tong2 yin1 	同音	c=1 d=1 t=201
-tou2 	頭	c=1 d=0.615697 t=231
-tou2 zai4 	投在	c=0 d=0.0609571 t=231
-tu2 pian4 	圖片	c=0 d=0.0628135 t=231
-tu2 pian4 lai2 yuan2 	圖片來源	c=1 d=0.631284 t=231
-tui1 jian4 	推薦	c=0 d=0.0425283 t=231
-tui1 jian4 ni3 yi1 ge5 zen3 da3 me5 da3 dou1 shu1 qiu2 de5 dong4 hua4 	推薦你一個怎打麼打都輸球的動畫	c=1 d=0.427415 t=231
-wan2 	完	c=1 d=0.767206 t=231
-wan2 	玩	c=0 d=0.0759572 t=231
-wei4 	爲	c=0 d=0.0412714 t=231
-wei4 le5 	爲了	c=0 d=0.1 t=227
-wei4 shen2 me5 wen4 zhe4 ge5 	爲什麼問這個	c=1 d=0.414783 t=231
-wei4 zhi4 	位置	c=1 d=0.474533 t=231
-wen2 zi4 	文字	c=0 d=0.117489 t=231
-wen2 zi4 bian1 kuang1 	文字邊框	c=1 d=0.609571 t=231
-wen2 zi4 pi2 fu1 	文字皮膚	c=1 d=0.571209 t=231
-wen4 	問	c=0 d=0.0412714 t=231
-wen4 ti2 	問題	c=0 d=0.145041 t=231
-wo3 	我	c=1 d=1.01481 t=231
-wo3 deng3 deng3 kan4 ta1 you3 mei2 you3 kai1 	我等等看他有沒有開	c=1 d=0.895834 t=231
-wo3 gang1 gang1 zai4 yan2 jiu4 shu3 xu1 guan3 	我剛剛在研究鼠鬚管	c=1 d=0.442639 t=231
-wo3 gang1 gang1 zuo4 de5 yang4 shi4 	我剛剛做的樣式	c=1 d=0.621885 t=231
-wo3 hen3 jiu3 mei2 chi1 le5 	我很久沒吃了	c=1 d=0.822835 t=231
-wo3 jiu4 	我就	c=0 d=0.0524663 t=231
-wo3 jiu4 yao4 zhao3 ta1 dui4 ying4 de5 yan2 se4 	我就要找他對應的顏色	c=1 d=0.527292 t=231
-wo3 kan4 	我看	c=0 d=0.1 t=214
-wo3 kan4 qi2 ta1 ren2 zuo4 de5 ye3 mei2 bian1 kuang1 	我看其他人做的也沒邊框	c=1 d=1 t=215
-wo3 mei2 	我沒	c=0 d=0.0847894 t=231
-wo3 mei2 chi1 guo4 	我沒吃過	c=1 d=0.852144 t=231
-wo3 men5 	我們	c=0 d=0.0491644 t=231
-wo3 peng2 peng2 la5 	我朋朋啦	c=1 d=0.594521 t=231
-wo3 she4 	我射	c=0 d=0.0600496 t=231
-wo3 she4 ji4 de5 	我射記得	c=1 d=0.603506 t=231
-wo3 shen1 ti3 xu1 	我身體需	c=1 d=1 t=225
-wo3 xian4 zai4 	我現在	c=0 d=0.0501576 t=231
-wo3 xian4 zai4 xu1 yao4 de5 shi4 ba1 ma3 de5 	我現在需要的是八碼的	c=1 d=0.50409 t=231
-wo3 you3 	我有	c=0 d=0.1 t=227
-wo3 you3 dian3 xiang3 bu2 dao4 yao4 chi1 sha2 	我有點想不到要吃啥	c=1 d=0.814647 t=231
-wo3 you3 dian3 xiang3 chi1 	我有點想吃	c=1 d=0.818731 t=231
-wo3 you3 ding4 wei4 le5 	我有定爲了	c=1 d=1 t=228
-wo3 zai4 	我在	c=0 d=0.0516851 t=231
-wo3 zhe4 ge5 ke3 ai4 ba5 	我這個可愛吧	c=1 d=1 t=222
-wo3 zhe4 ge5 yang4 shi4 you4 mei2 kai1 yuan2 	我這個樣式又沒開源	c=1 d=1 t=221
-wo3 zi4 ji3 	我自己	c=0 d=0.1 t=218
-wo3 zuo4 de5 	我做的	c=1 d=0.748264 t=231
-wu2 fa3 	無法	c=0 d=0.067368 t=231
-wu2 guan1 	無關	c=0 d=0.0644036 t=231
-wu3 dian3 ban4 	五點半	c=1 d=0.900325 t=231
-wu4 li3 	物理	c=0 d=0.110016 t=231
-xia1 pi2 	蝦皮	c=2 d=1.14458 t=231
-xia4 	下	c=0 d=0.0722527 t=231
-xia4 mian4 	下面	c=0 d=0.0722527 t=231
-xia4 wu3 	下午	c=0 d=0.189413 t=231
-xia4 zai3 	下載	c=1 d=0.887306 t=231
-xian3 shi4 	顯示	c=0 d=0.0737123 t=231
-xian3 shi4 yang4 shi4 shi4 	顯示樣式是	c=1 d=0.740818 t=231
-xiang3 	想	c=0 d=0.0694197 t=231
-xiang3 bu2 dao4 	想不到	c=0 d=0.0810584 t=231
-xiang3 chi1 	想吃	c=0 d=0.162119 t=231
-xiang3 de5 	想得	c=0 d=0.0427415 t=231
-xiang4 	向	c=0 d=0.0489192 t=231
-xiang4 shi4 	像是	c=0 d=0.0609571 t=231
-xiang4 zhe4 yang4 	像這樣	c=1 d=0.522046 t=231
-xie3 	寫	c=0 d=0.0937067 t=231
-xie3 cheng2 shi4 	寫程式	c=0 d=0.1 t=191
-xie3 yi1 xie3 diu1 yun2 duan1 bu2 jiu4 hao3 le5 	寫一寫丟雲端不就好了	c=1 d=0.941765 t=231
-xing2 cheng2 	形成	c=1 d=1 t=204
-xing2 cheng2 	行程	c=0 d=0.045612 t=231
-xing2 jin4 	形近	c=1 d=1 t=202
-xing4 	性	c=0 d=0.1 t=204
-xing4 ping2 liang2 	性評量	c=1 d=1 t=205
-xiu1 gai3 	修改	c=0 d=0.0759572 t=231
-xiu1 gai3 wan2 zhi1 hou4 ji4 de2 yao4 	修改玩之後記得要	c=1 d=0.763379 t=231
-xu1 	虛	c=1 d=1 t=226
-xu1 	需	c=0 d=0.1 t=224
-xu1 yao4 de5 	需要的	c=0 d=0.0501576 t=231
-xuan2 zhuan3 	旋轉	c=0 d=0.0609571 t=231
-xuan3 dan1 	選單	c=0 d=0.1 t=198
-yan2 jiu4 	研究	c=0 d=0.0440432 t=231
-yan2 se4 	顏色	c=1 d=0.576006 t=231
-yang2 cong1 	洋蔥	c=1 d=0.969 t=231
-yang2 cong1 ban3 	洋蔥版	c=2 d=1.19878 t=231
-yang4 shi4 	樣式	c=1 d=0.946997 t=231
-yao4 	要	c=0 d=0.254859 t=231
-yao4 bei4 	要被	c=0 d=0.040657 t=231
-yao4 bu4 de2 	要不得	c=0 d=0.0429557 t=231
-yao4 chi1 	要吃	c=0 d=0.0810584 t=231
-yao4 cong2 	要從	c=1 d=1 t=188
-yao4 diao3 da3 shen2 me5 	要屌打什麼	c=1 d=1 t=220
-yao4 gai3 de5 hua4 	要改的話	c=1 d=0.752014 t=231
-yao4 xian1 	要先	c=0 d=0.0923116 t=231
-yao4 xian1 ding4 wei4 ma5 	要先定位嗎	c=1 d=0.927743 t=231
-ye3 hao3 	也好	c=0 d=0.1 t=194
-ye3 jiu4 shi4 	也就是	c=0 d=0.0404542 t=231
-ye3 jiu4 shi4 ke3 yi3 tiao2 zheng3 zai4 chu4 fa1 shi2 	也就是可以調整在觸發時	c=1 d=0.40657 t=231
-ye3 ke3 yi3 	也可以	c=0 d=0.045612 t=231
-ye3 mei2 	也沒	c=0 d=0.1 t=214
-yi1 	一	c=0 d=0.162706 t=231
-yi1 ban1 	一般	c=0 d=0.0491644 t=231
-yi1 ban1 wo3 men5 yong4 de5 dou1 shi4 liu4 	一般我們用的都是六	c=1 d=0.494109 t=231
-yi1 ge5 	一個	c=0 d=0.0425283 t=231
-yi1 lai4 	依賴	c=0 d=0.0640824 t=231
-yi1 xie3 	一寫	c=0 d=0.0937067 t=231
-yi1 yang4 	一樣	c=0 d=0.126991 t=231
-yi1 yang4 shi4 you2 	一樣是由	c=1 d=0.66365 t=231
-yi1 zhao4 	依照	c=1 d=1 t=209
-yi4 si1 	意思	c=0 d=0.0416862 t=231
-yi4 you3 suo3 zhi3 	意有所指	c=0 d=0.0860708 t=231
-yin1 wei4 	因爲	c=0 d=0.067032 t=231
-ying1 gai1 shi4 	應該是	c=0 d=0.0878095 t=231
-ying1 gai1 shi4 bu2 yong4 ba5 	應該是不用吧	c=1 d=0.882497 t=231
-yong4 de5 	用的	c=0 d=0.0491644 t=231
-you3 	有	c=0 d=0.128371 t=231
-you3 a1 	有阿	c=2 d=1.24316 t=231
-you3 dian3 	有點	c=0 d=0.215517 t=231
-you3 mei2 you3 	有沒有	c=0 d=0.0891366 t=231
-you4 mei2 	又沒	c=0 d=0.1 t=220
-yu4 she4 de5 	預設的	c=1 d=0.737123 t=231
-yuan2 sheng1 	原聲	c=1 d=0.444858 t=231
-yuan2 ze2 	原則	c=0 d=0.0499074 t=231
-yun2 duan1 	雲端	c=0 d=0.0937067 t=231
-zai4 	在	c=0 d=0.216179 t=231
-zai4 na4 bian1 she4 ji4 shu1 ru4 jie4 mian4 gao3 ban4 tian1 	在那邊設計輸入界面搞半天	c=1 d=0.995012 t=231
-zai4 shu1 ru4 fa3 na4 bian1 jin4 xing2 	在輸入法那邊進行	c=1 d=0.771052 t=231
-zai4 yong4 	再用	c=0 d=0.1 t=218
-zen3 	怎	c=0 d=0.0425283 t=231
-zen3 me5 	怎麼	c=0 d=0.0427415 t=231
-zen3 me5 le5 	怎麼了	c=1 d=0.412714 t=231
-zhao3 dao4 	找到	c=0 d=0.0585669 t=231
-zhao3 dao4 tiao2 se4 pan2 le5 	找到調色盤了	c=1 d=0.588605 t=231
-zhao3 ta1 	找他	c=0 d=0.0524663 t=231
-zhao3 zhao3 	找找	c=0 d=0.0516851 t=231
-zhe1 dang3 	遮擋	c=0 d=0.104101 t=231
-zhe4 ge5 	這個	c=0 d=0.579275 t=231
-zhe4 ge5 ge2 shi4 you3 dian3 guai4 	這個格式有點怪	c=1 d=0.532592 t=231
-zhe4 ge5 jiao4 huang2 di4 mei2 gui1 	這個叫皇帝玫瑰	c=1 d=1 t=224
-zhe4 ge5 jiao4 shu3 xu1 guan3 	這個叫鼠鬚管	c=1 d=1 t=187
-zhe4 li3 	這裡	c=1 d=0.759572 t=231
-zhe4 me5 	這麼	c=0 d=0.0423162 t=231
-zhe4 yang4 	這樣	c=0 d=0.113002 t=231
-zhe4 zhong3 	這種	c=0 d=0.1 t=185
-zhen1 shi4 	真是	c=0 d=0.0429557 t=231
-zhen1 shi4 yao4 bu4 de2 	真是要不得	c=1 d=0.431711 t=231
-zheng3 ge5 	整個	c=1 d=0.786628 t=231
-zhi1 hou4 	之後	c=0 d=0.0759572 t=231
-zhi2 jie1 	直接	c=1 d=0.722527 t=231
-zhi3 shi4 	只是	c=0 d=0.067032 t=231
-zhi3 shi4 bu2 hui4 yin1 wei4 an4 jian4 	只是不會因爲按鍵	c=1 d=0.67368 t=231
-zhi3 you3 	只有	c=0 d=0.1 t=218
-zhi3 you3 wo3 zi4 ji3 zai4 yong4 	只有我自己再用	c=1 d=1 t=219
-zhong1 xing1 	中興	c=0 d=0.0697676 t=231
-zhong1 xing1 su4 zhi2 	中興素質	c=1 d=0.701173 t=231
-zhong1 yu2 	終於	c=0 d=0.0588605 t=231
-zhong1 yu2 ke3 yi3 kai1 gao3 le5 	終於可以開搞了	c=1 d=0.591555 t=231
-zhong3 	腫	c=1 d=0.451581 t=231
-zhou2 	軸	c=0 d=0.066365 t=231
-zhu1 xi1 	朱熹	c=1 d=0.909373 t=231
-zhu3 	主	c=0 d=0.1 t=198
-zhu3 ti2 	主題	c=1 d=1 t=198
-zhu3 xuan3 dan1 	主選單	c=1 d=1 t=199
-zhu4 yin1 	注音	c=1 d=0.467666 t=231
-zhuan3 huan4 	轉換	c=0 d=0.0574072 t=231
-zi1 liao4 jia2 	資料夾	c=0 d=0.0774916 t=231
-zi4 	字	c=1 d=1 t=203
-zi4 ji3 	自己	c=0 d=0.1 t=189
-zi4 ti3 	字體	c=1 d=0.737387 t=231
-zi4 ti3 yan2 se4 	字體顏色	c=1 d=0.537944 t=231
-zuo4 de5 	做的	c=0 d=0.14077 t=231
-zuo4 wei2 	作爲	c=0 d=0.0634448 t=231
+a1 	阿	c=3 d=0.898358 t=2564
+a1 bian3 	阿扁	c=0 d=0.1 t=1452
+a1 bian3 ye3 zhe4 yang4 shuo1 a1 	阿扁也這樣說阿	c=1 d=1 t=1453
+a1 bu2 jiu4 yi3 jing1 shi4 le5 	阿不就已經是了	c=1 d=1 t=2131
+a1 gong1 dian4 	阿公店	c=1 d=1 t=2193
+a1 hou4 mian4 fu3 yan4 chuan2 yi1 zhang1 zhao4 pian4 	阿後面府豔傳一張照片	c=1 d=1 t=2451
+a1 ma4 pian2 yi2 a1 	阿罵便宜阿	c=1 d=1 t=2201
+a1 ni3 ba4 shi4 ma5 	阿你爸是嗎	c=1 d=1 t=2354
+a1 ni3 shi4 tu1 ran2 xiang3 dao4 yao4 mai3 na4 ge5 	阿你是突然想到要買那個	c=1 d=1 t=2324
+a1 ni3 you3 chu1 xian4 zhe4 xie1 wen4 ti2 	阿你有出現這些問題	c=1 d=1 t=2127
+a1 ni3 you3 que4 ding4 ta1 yao4 wan2 de5 you2 xi4 	阿你有確定他要玩的遊戲	c=1 d=1 t=261
+a1 shi4 gan1 wo3 pi4 shi4 	阿拭乾我屁事	c=1 d=1 t=248
+a1 wo3 you4 bu2 shi4 	阿我又不是	c=1 d=1 t=2302
+a1 wo3 zhe4 bian1 mei2 you3 bie2 ren2 de5 lun4 wen2 dang3 an4 a1 	阿我這邊沒有別人的論文檔案阿	c=1 d=1 t=794
+a1 zen3 yang4 	阿怎樣	c=1 d=1 t=2330
+a1 zhe4 bu2 shi4 shuo1 yao4 hao3 ji3 nian2 hou4 cai2 hui4 chu1 	阿這不是說要好幾年後才匯出	c=1 d=1 t=1105
+ai1 	哎	c=0 d=0.1 t=408
+ai4 	愛	c=0 d=0.104264 t=2409
+ai4 de2 hua2 	愛德華	c=0 d=0.193707 t=1428
+ai4 qi2 yi4 	愛奇異	c=4 d=1.0822 t=2559
+ai4 qi2 yi4 ye3 shi4 	愛奇藝也是	c=1 d=1 t=2410
+an1 quan2 	安全	c=0 d=0.1 t=1913
+an1 zhuang1 	安裝	c=2 d=0.0814647 t=2564
+an1 zhuang1 fang1 shi4 shao1 you3 yi1 dian3 fu4 za2 	安裝方式稍有一點複雜	c=1 d=1 t=981
+an1 zhuang1 fang1 shi4 wei2 	安裝方式爲	c=1 d=1 t=984
+an1 zhuang1 guo4 cheng2 	安裝過程	c=0 d=0.1 t=833
+an1 zhuang1 jiao1 xue2 	安裝教學	c=1 d=1 t=859
+an1 zhuang1 ma2 fan2 si3 le5 	安裝麻煩死了	c=1 d=0.818731 t=2564
+an1 zhuang1 wan2 	安裝完	c=1 d=0.71177 t=2564
+an1 zhuang1 wan2 bi4 zhi1 hou4 	安裝完畢之後	c=1 d=1 t=810
+an3 	俺	c=1 d=1 t=1647
+an4 jian4 	按鍵	c=1 d=0.727371 t=2564
+an4 le5 	按了	c=0 d=0.1 t=2140
+an4 niu3 	按鈕	c=0 d=0.1 t=1616
+an4 xia4 	按下	c=0 d=0.111943 t=1295
+an4 xia4 you4 jian4 zhi1 hou4 	按下右鍵之後	c=1 d=1 t=1296
+an4 zhao4 	按照	c=0 d=0.107887 t=816
+ao4 	奧	c=1 d=1 t=484
+ba1 	八	c=1 d=0.514274 t=2564
+ba1 ma3 	八碼	c=2 d=1.13215 t=2564
+ba1 ma3 de5 	八碼的	c=1 d=0.524663 t=2564
+ba1 wei4 	八位	c=1 d=0.511709 t=2564
+ba2 	拔	c=0 d=0.0839457 t=2564
+ba3 	把	c=11 d=2.35128 t=2564
+ba3 bi3 dian4 jia4 gao1 bu2 jiu4 hao3 le5 	把筆電架高不就好了	c=1 d=1 t=1993
+ba3 dang3 an4 sai1 dao4 	把檔案塞到	c=1 d=0.794534 t=2564
+ba3 le5 	把了	c=0 d=0.1 t=2446
+ba3 na4 ge5 guan1 le5 jiu4 mei2 shi4 le5 	把那個關了就沒事了	c=1 d=1 t=2125
+ba3 ni3 	把你	c=1 d=1 t=2377
+ba3 zhi2 	把值	c=1 d=1 t=1882
+ba5 	吧	c=2 d=1.12691 t=2564
+bai2 chi1 	白癡	c=1 d=1.00002 t=2266
+bai2 chi1 o1 	白癡喔	c=1 d=1 t=517
+bai2 se4 	白色	c=0 d=0.1 t=436
+bai3 ling2 	百靈	c=0 d=0.1 t=1272
+bai4 tuo1 	拜託	c=1 d=1 t=1093
+ban1 yun4 	搬運	c=0 d=0.1 t=1283
+ban3 	版	c=3 d=0.0463013 t=2564
+ban3 ben3 	版本	c=0 d=0.202252 t=905
+ban4 fa3 	辦法	c=0 d=0.1 t=2099
+ban4 tian1 	半天	c=0 d=0.099005 t=2564
+ban4 xiao3 shi2 	半小時	c=0 d=0.0970446 t=2564
+bang1 	幫	c=1 d=1.00181 t=1063
+bang1 ta1 	幫他	c=0 d=0.1 t=290
+bang1 zhu4 	幫助	c=0 d=0.1 t=2176
+bang1 zhu4 fang2 yi4 mo2 ni3 de5 suan4 li4 	幫助防疫模擬的算力	c=1 d=1 t=2177
+bang4 	棒	c=1 d=1 t=2329
+bao1 	包	c=0 d=0.1 t=966
+bao1 fu4 	包覆	c=1 d=1 t=726
+bao1 han2 	包含	c=0 d=0.1 t=954
+bao1 zi5 	包子	c=0 d=0.1 t=1126
+bao3 gu4 	保固	c=0 d=0.293605 t=518
+bao3 hu4 	保護	c=0 d=0.198511 t=2123
+bao3 zheng4 	保證	c=0 d=0.101432 t=2172
+bao3 zheng4 bu2 hui4 	保證不會	c=1 d=1 t=2173
+bao4 gao4 	報告	c=0 d=0.103388 t=2441
+bei3 	北	c=0 d=0.1 t=2500
+bei4 	被	c=0 d=0.21319 t=2431
+bei4 fen4 	備份	c=1 d=1.16652 t=1312
+bei4 guan1 	被關	c=0 d=0.1 t=1280
+bei4 lan2 qiu2 dan1 wu4 de5 dian4 jing4 xuan3 shou3 ye1 	被籃球耽誤的電競選手耶	c=1 d=1 t=1461
+bei4 ni3 gao3 yi1 ge5 	被你搞一個	c=1 d=1 t=2279
+bei4 tong3 bi3 jiao4 bu2 hui4 si3 	被桶比較不會死	c=1 d=1 t=1250
+ben3 	本	c=0 d=0.1 t=893
+ben3 bu4 	本部	c=0 d=0.1 t=900
+ben3 lai2 	本來	c=0 d=0.1 t=529
+ben3 pian1 wen2 zhang1 yi3 	本篇文章以	c=1 d=1 t=894
+ben3 xi4 tong3 	本系統	c=0 d=0.1 t=1481
+beng1 kui4 	崩潰	c=1 d=1 t=2357
+bi2 	鼻	c=1 d=1 t=1923
+bi3 	比	c=2 d=0.106124 t=2475
+bi3 dian4 	筆電	c=1 d=0.13777 t=1992
+bi3 dian4 huo4 shi4 shou3 ji1 	筆電或是手機	c=1 d=1 t=732
+bi3 dian4 yao4 san4 re4 hao3 	筆電要散熱好	c=1 d=1 t=258
+bi3 jiao4 	比較	c=0 d=0.142968 t=1249
+bi3 jiao4 bu4 hui4 chu1 xian4 	比較不會出現	c=1 d=1 t=658
+bi3 jiao4 fei2 da4 	比較肥大	c=1 d=1 t=970
+bi3 jiao4 hao3 	比較好	c=0 d=0.1 t=499
+bi3 ren2 qi1 geng4 zao1 gao1 	比人妻更糟糕	c=1 d=1 t=2476
+bi3 zhe3 	筆者	c=0 d=0.274806 t=1298
+bi3 zhe3 de5 tong2 shi4 tui1 jian4 bi3 zhe3 kai1 shi3 shi3 yong4 ping2 guo3 chan3 pin3 zhi1 hou4 	筆者的同事推薦筆者開始使用蘋果產品之後	c=1 d=1 t=922
+bi3 zhe3 jiu4 yao4 ti2 xing3 yi1 xia4 le5 	筆者就要提醒一下了	c=1 d=1 t=708
+bi3 zhe3 shi4 jian4 yi4 	筆者是建議	c=1 d=1 t=608
+bi3 zhe3 xiang1 dang1 zhong4 yao4 de5 gong1 ju4 	筆者相當重要的工具	c=1 d=1 t=621
+bi3 zhe3 xiang3 yi1 ding4 hen3 duo1 ren2 mei2 yong4 guo4 shen4 zhi4 mei2 ting1 guo4 gui3 ji1 qiu2 	筆者想一定很多人沒用過甚至沒聽過軌跡球	c=1 d=1 t=645
+bi3 zhe3 ye3 shi4 hua1 fei4 le5 yi1 ding4 xin1 li4 	筆者也是花費了一定心力	c=1 d=1 t=933
+bi3 zhe3 zai4 zhe4 ge5 zhang1 jie2 hui4 tui1 jian4 da4 jia1 shi3 yong4 de5 	筆者在這個章節會推薦大家使用的	c=1 d=1 t=943
+bi3 zhe3 zhe4 bian1 mei2 you3 xiang3 yao4 ti2 	筆者這邊沒有想要提	c=1 d=1 t=372
+bi3 zhe3 zhe4 li3 ye3 mei2 you3 zhen1 de5 xiang3 shuo1 	筆者這裡也沒有真的想說	c=1 d=1 t=626
+bi4 	幣	c=2 d=1.99005 t=1695
+bi4 	弊	c=2 d=1.99005 t=1696
+bi4 jing4 	畢竟	c=0 d=0.1 t=739
+bi4 jing4 yi1 fen1 qian2 yi1 fen1 huo4 	畢竟一分錢一分貨	c=1 d=1 t=740
+bi4 mian3 	避免	c=1 d=1 t=2104
+bi4 ye4 	畢業	c=0 d=0.107398 t=1817
+bi4 ye4 jiu4 diu1 le5 mi1 	畢業就丟了咪	c=1 d=1 t=809
+bi4 yu3 bi4 	幣與弊	c=3 d=2.97032 t=1690
+bian1 ji2 	編輯	c=0 d=0.1 t=802
+bian1 kuang1 	邊框	c=2 d=0.139802 t=2564
+bian1 kuang1 yan2 se4 	邊框顏色	c=1 d=1 t=789
+bian1 kuang1 zhe4 me5 cu1 	邊框這麼粗	c=1 d=1 t=1094
+bian4 	便	c=0 d=0.1 t=265
+bian4 	變	c=1 d=1 t=267
+bian4 de5 	變得	c=0 d=0.1 t=934
+bian4 de5 gen1 wo3 xiang3 xiang4 dang1 zhong1 yi1 yang4 hao3 shi3 yong4 	變得跟我想象當中一樣好使用	c=1 d=1 t=935
+bian4 shu4 	變數	c=1 d=0.838241 t=2001
+bian4 shu4 de5 fang1 shi4 lai2 shi3 yong4 	變數的方式來使用	c=1 d=1 t=1865
+biao1 	標	c=1 d=1.0161 t=1531
+biao1 dian3 fu2 hao4 	標點符號	c=1 d=1 t=394
+biao1 ji4 	標記	c=0 d=0.1 t=2139
+biao1 ji4 guan1 bi4 	標記關閉	c=1 d=1 t=2140
+biao1 kai3 ti3 	標楷體	c=1 d=1 t=1032
+biao1 kai3 ti3 de5 	標楷體的	c=1 d=1 t=1024
+biao1 qian1 	標籤	c=0 d=0.1 t=2010
+biao1 qian1 lai2 zuo4 	標籤來做	c=1 d=1 t=2011
+biao1 zhun3 	標準	c=1 d=1 t=579
+biao3 	表	c=2 d=1.00328 t=2564
+biao3 da2 neng2 li4 	表達能力	c=0 d=0.1 t=451
+biao3 ge2 	表格	c=1 d=1.00031 t=1736
+bie2 	別	c=0 d=0.1 t=280
+bie2 lai2 	別來	c=0 d=0.1 t=1948
+bie2 ren2 	別人	c=0 d=0.1 t=2171
+bie2 ren2 de5 	別人的	c=0 d=0.1 t=793
+bie2 ren2 ye3 hui4 mai4 a1 	別人也會賣阿	c=1 d=1 t=2172
+bing4 	並	c=0 d=0.1 t=529
+bing4 	病	c=1 d=0.100141 t=2305
+bing4 bu4 	並不	c=0 d=0.198511 t=916
+bing4 bu4 hao3 shi3 yong4 	並不好使用	c=1 d=1 t=914
+bing4 bu4 ru2 he2 jie2 chu1 de5 	並不如何傑出的	c=1 d=1 t=917
+bing4 du2 	病毒	c=0 d=0.100014 t=2302
+bing4 fei1 	並非	c=0 d=0.1 t=905
+bing4 jiang1 	並將	c=0 d=0.1 t=1982
+bing4 jiang1 zhi2 jie1 ru4 	並將值接入	c=1 d=1 t=1983
+bing4 mei2 you3 	並沒有	c=1 d=1 t=2441
+bing4 qie3 	並且	c=2 d=1.40657 t=2064
+bo1 	播	c=0 d=0.1 t=1788
+bo1 	波	c=1 d=1 t=1552
+bo1 guang1 lin2 lin2 	波光粼粼	c=1 d=1 t=1569
+bo2 mo2 	薄膜	c=0 d=0.285392 t=472
+bo2 mo2 jian4 pan2 	薄膜鍵盤	c=3 d=2.86667 t=501
+bo2 mo2 jian4 pan2 le5 	薄膜鍵盤了	c=1 d=1 t=446
+bo2 mo2 jian4 pan2 yu3 	薄膜鍵盤與	c=1 d=1 t=469
+bo2 mo4 	薄膜	c=0 d=0.1 t=497
+bu2 	不	c=0 d=0.200331 t=2374
+bu2 gou4 	不夠	c=1 d=1 t=1252
+bu2 gou4 hao3 	不夠好	c=1 d=1 t=727
+bu2 gui4 	不貴	c=1 d=1 t=2407
+bu2 guo4 	不過	c=7 d=0.650509 t=2564
+bu2 guo4 mei2 bao3 gu4 hai2 shi4 neng2 qu4 	不過沒保固還是能去	c=1 d=1 t=519
+bu2 guo4 mei2 zuo4 yong4 	不過沒作用	c=1 d=1 t=780
+bu2 guo4 mu4 qian2 dou1 shi4 	不過目前都是	c=1 d=1 t=2049
+bu2 guo4 xiang3 xian1 shuo1 ming2 	不過想先說明	c=1 d=1 t=944
+bu2 guo4 yao4 cong2 dui4 an4 mai3 guo4 lai2 	不過要從對岸買過來	c=1 d=1 t=507
+bu2 guo4 ye3 hao3 	不過也好	c=1 d=0.83527 t=2564
+bu2 guo4 ying4 yao4 xie3 de5 hua4 hai2 you3 shang4 li3 bai4 zuo4 de5 	不過硬要寫的話還有上禮拜做的	c=1 d=1 t=2085
+bu2 guo4 you3 	不過有	c=1 d=1 t=289
+bu2 guo4 zhe4 ge5 	不過這個	c=1 d=1 t=1006
+bu2 guo4 zi4 cong2 	不過自從	c=1 d=1 t=921
+bu2 hui4 	不會	c=0 d=0.0795978 t=2564
+bu2 hui4 ba5 	不會吧	c=1 d=1 t=2163
+bu2 hui4 bu2 mai4 	不會不賣	c=1 d=1 t=2183
+bu2 jie4 yi4 	不介意	c=0 d=0.1 t=1328
+bu2 jie4 yi4 you4 bu4 xiang3 fu4 fei4 de5 ren2 jian4 yi4 shi3 yong4 	不介意又不想付費的人建議使用	c=1 d=1 t=1329
+bu2 jiu4 	不就	c=0 d=0.0937067 t=2564
+bu2 jiu4 shi4 	不就是	c=0 d=0.1 t=448
+bu2 kan4 	不看	c=0 d=0.1 t=292
+bu2 lun4 shi4 	不論是	c=1 d=1 t=1077
+bu2 mai4 	不賣	c=0 d=0.194176 t=2182
+bu2 rang4 	不讓	c=0 d=0.1 t=2426
+bu2 ren4 shi4 	不認識	c=1 d=1 t=2364
+bu2 shi4 	不是	c=0 d=0.0815178 t=2564
+bu2 shi4 a1 	不是阿	c=1 d=0.794534 t=2564
+bu2 shi4 cha1 bu4 duo1 qian2 ma5 	不是差不多錢嗎	c=1 d=1 t=1100
+bu2 shi4 hen3 	不是很	c=0 d=0.1 t=2335
+bu2 shi4 hen3 jin4 	不是很近	c=1 d=1 t=2336
+bu2 shi4 shuo1 	不是說	c=0 d=0.10023 t=2319
+bu2 shi4 yi3 jing1 you3 liang3 ge5 le5 	不是已經有兩個了	c=1 d=1 t=2334
+bu2 suan4 	不算	c=0 d=0.1 t=1301
+bu2 xiang4 ni3 	不像你	c=0 d=0.1 t=2528
+bu2 xiang4 shi4 	不像是	c=1 d=1 t=993
+bu2 xin4 	不信	c=0 d=0.1 t=1450
+bu2 yao4 	不要	c=0 d=0.206124 t=2564
+bu2 yao4 a1 	不要阿	c=1 d=1 t=2408
+bu2 yao4 kan4 	不要看	c=1 d=1 t=738
+bu2 yao4 kao3 bei3 	不要考北	c=1 d=1 t=2501
+bu2 yao4 xiang3 pian4 wo3 	不要想騙我	c=1 d=0.697676 t=2564
+bu2 yao4 yong4 	不要用	c=0 d=0.1 t=452
+bu2 yao4 zuo4 	不要做	c=0 d=0.1 t=1513
+bu2 yong4 	不用	c=1 d=0.0878095 t=2564
+bu2 zuo4 	不做	c=0 d=0.1 t=2166
+bu3 	補	c=0 d=0.1 t=1381
+bu3 chong1 	補充	c=0 d=0.1 t=2133
+bu4 	不	c=0 d=0.0640824 t=2564
+bu4 	佈	c=1 d=1 t=1528
+bu4 	布	c=2 d=1.60957 t=1628
+bu4 	步	c=2 d=1.81465 t=1670
+bu4 	部	c=1 d=1 t=2415
+bu4 dong3 	不懂	c=0 d=0.0416862 t=2564
+bu4 dong3 ni3 yi4 si1 	不懂你意思	c=1 d=0.418952 t=2564
+bu4 fen4 	部分	c=1 d=1.00057 t=1725
+bu4 guan3 	不管	c=0 d=0.1 t=2203
+bu4 hao3 	不好	c=0 d=0.0852144 t=2564
+bu4 hao3 yong4 	不好用	c=0 d=0.1 t=367
+bu4 hui2 	不回	c=0 d=0.1 t=2490
+bu4 hui4 chu1 xian4 	不會出現	c=0 d=0.1 t=657
+bu4 jin3 	不僅	c=0 d=0.1 t=1030
+bu4 jin3 zhi1 yuan2 	不僅支援	c=1 d=1 t=1031
+bu4 jiu4 	不就	c=0 d=0.1 t=1515
+bu4 li3 	不理	c=0 d=0.1 t=1413
+bu4 liao3 jie3 	不瞭解	c=0 d=0.1 t=929
+bu4 mai3 	不買	c=0 d=0.1 t=2274
+bu4 neng2 	不能	c=0 d=0.1 t=314
+bu4 neng2 kan4 	不能看	c=0 d=0.1 t=2413
+bu4 ran2 	不然	c=4 d=0.865591 t=2564
+bu4 ran2 jiu4 	不然就	c=0 d=0.0499074 t=2564
+bu4 ran2 jiu4 shi4 he2 yuan2 ze2 	不然就適合原則	c=1 d=0.501576 t=2564
+bu4 ran2 mei2 ban4 fa3 gai3 	不然沒辦法改	c=1 d=0.529935 t=2564
+bu4 ran2 ta1 ma1 zen3 me5 gao3 	不然他媽怎麼搞	c=1 d=1 t=2294
+bu4 ran2 yi1 zhi2 zhuan3 	不然一直轉	c=1 d=1 t=1353
+bu4 ran2 yi3 qian2 da4 jia1 dou1 shi4 shi3 yong4 ji1 xie4 jian4 pan2 a1 	不然以前大家都是使用機械鍵盤阿	c=1 d=1 t=499
+bu4 ran2 zen3 me5 xie3 kou4 	不然怎麼寫釦	c=1 d=1 t=2258
+bu4 shi1 wei2 	不失爲	c=0 d=0.1 t=1254
+bu4 shi1 wei2 yi1 ge5 hao3 ban4 fa3 	不失爲一個好辦法	c=1 d=1 t=1255
+bu4 shu3 	部署	c=0 d=0.0771052 t=2564
+bu4 shuang3 	不爽	c=0 d=0.1 t=1513
+bu4 shuang3 bu2 yao4 zuo4 a1 	不爽不要做阿	c=1 d=1 t=1514
+bu4 tong2 	不同	c=0 d=0.045612 t=2564
+bu4 tong2 pin2 duan4 de5 chuan2 shu1 su4 du4 	不同頻段的傳輸速度	c=1 d=1 t=583
+bu4 xi3 huan1 	不喜歡	c=0 d=0.1 t=381
+bu4 xian3 shi4 	不顯示	c=0 d=0.1956 t=1082
+bu4 xiang1 tong2 	不相同	c=0 d=0.1 t=570
+bu4 xiang3 	不想	c=0 d=0.197045 t=1328
+bu4 xing2 	不行	c=0 d=0.1 t=453
+bu4 xu1 yao4 	不需要	c=0 d=0.0453845 t=2564
+bu4 xu1 yao4 xian1 	不需要先	c=1 d=1 t=609
+bu4 yao4 	不要	c=0 d=0.1 t=1949
+bu4 yao4 chuan2 ran3 gei3 ta1 men5 	不要傳染給她們	c=1 d=1 t=1950
+bu4 zhi1 dao4 	不知道	c=0 d=0.0923116 t=2564
+bu4 zhi1 dao4 a1 	不知道阿	c=1 d=1 t=2526
+bu4 zhi1 dao4 na3 li3 you3 wen4 ti2 	不知道哪裏有問題	c=1 d=0.927743 t=2564
+bu4 zou4 	步驟	c=1 d=0.729789 t=2564
+bu4 zu2 	不足	c=0 d=0.1 t=717
+cai1 dui4 	猜對	c=0 d=0.1 t=2345
+cai2 	才	c=3 d=1.90959 t=2406
+cai2 gang1 	才剛	c=0 d=0.1 t=2083
+cai2 gang1 kai1 shi3 	才剛開始	c=1 d=1 t=2084
+cai2 mai3 bu4 qi3 	才買不起	c=1 d=1 t=1101
+cai2 neng2 	才能	c=0 d=0.213071 t=1424
+cai2 neng2 bao3 zheng4 zhong4 yao4 de5 zi1 liao4 wan4 wu2 yi1 shi1 	才能保證重要的資料萬無一失	c=1 d=1 t=1314
+cai2 rang4 	才讓	c=1 d=1 t=934
+cai2 shi4 	才是	c=0 d=0.1 t=1235
+cai2 you3 	才有	c=0 d=0.1 t=1411
+cai2 zai4 	才在	c=1 d=1 t=2521
+cai2 zhi1 dao4 	才知道	c=0 d=0.1 t=368
+cai2 zhi2 	材質	c=0 d=0.198511 t=431
+cai2 zhi4 	材質	c=0 d=0.1 t=411
+cai3 se4 	彩色	c=0 d=0.1 t=424
+cai3 se4 ran3 yin4 de5 gong1 fa3 	彩色染印的功法	c=1 d=1 t=425
+cai4 	蔡	c=1 d=1 t=1924
+cai4 xu2 kun1 	菜徐坤	c=1 d=1 t=1861
+can1 kao3 	參考	c=0 d=0.1 t=1514
+can1 shu4 	參數	c=0 d=0.1 t=1081
+can2 	殘	c=1 d=1 t=2433
+can2 ku4 	殘酷	c=1 d=1 t=1920
+cao1 zuo4 	操作	c=0 d=0.1 t=678
+cao1 zuo4 fang1 shi4 	操作方式	c=1 d=1 t=1480
+cao4 	肏	c=0 d=0.1 t=1126
+ce4 shi4 	測試	c=2 d=1.26581 t=2299
+ce4 shi4 ji1 shang4 mian4 	測試機上面	c=1 d=1 t=242
+ceng2 ci4 gan3 	層次感	c=0 d=0.1 t=426
+ceng2 jing1 	曾經	c=0 d=0.1 t=912
+cha1 	差	c=0 d=0.173223 t=2292
+cha1 	插	c=0 d=0.1 t=517
+cha1 bie2 	差別	c=0 d=0.100133 t=2290
+cha1 bu4 duo1 	差不多	c=1 d=1.00031 t=2253
+cha1 de5 	差得	c=0 d=0.1 t=499
+cha1 jin4 	差勁	c=0 d=0.1 t=998
+cha1 qu3 	插曲	c=1 d=1 t=1931
+cha1 tai2 wan1 wang3 lu4 na3 you3 cha1 	插臺灣網路哪有差	c=1 d=1 t=518
+cha2 er3 si1 	查爾斯	c=1 d=1 t=594
+cha2 kan4 	查看	c=2 d=1.01569 t=2234
+chan3 	產	c=1 d=1 t=1562
+chan3 chu1 	產出	c=0 d=0.1 t=2281
+chan3 pin3 	產品	c=0 d=0.130282 t=921
+chang2 chang2 	常常	c=0 d=0.1 t=534
+chang2 chang2 ting1 dao4 de5 	常常聽到的	c=1 d=1 t=535
+chang2 de5 	長的	c=0 d=0.1 t=238
+chang2 du4 	長度	c=0 d=0.1 t=376
+chang2 shi2 jian1 	長時間	c=0 d=0.1 t=422
+chang2 shi2 jian1 shi3 yong4 jiao4 bu2 hui4 da3 you2 	長時間使用較不會打油	c=1 d=1 t=423
+chang2 xin4 	長信	c=1 d=1 t=828
+chang2 yong4 	常用	c=0 d=0.122838 t=1177
+chang3 	廠	c=0 d=0.1 t=2170
+chang3 shang1 	廠商	c=0 d=0.1 t=366
+chao1 	超	c=0 d=0.147171 t=2281
+chao1 fei4 	超費	c=1 d=1 t=2382
+chao1 shuang3 la5 	超爽啦	c=1 d=1 t=1852
+chao3 	吵	c=1 d=1 t=2488
+che1 zi5 	車子	c=1 d=1 t=2157
+che3 	扯	c=0 d=0.100039 t=1915
+che3 diao4 	扯掉	c=0 d=0.1 t=2340
+che3 ling2 	扯鈴	c=0 d=0.1 t=1915
+che4 	撤	c=1 d=1.02312 t=1641
+che4 de5 bu4 fen4 ye1 	撤的部分耶	c=1 d=1 t=1642
+che4 san3 sa3 	撤散撒	c=3 d=2.84167 t=1638
+chen2 fang1 	陳芳	c=0 d=0.1 t=1857
+chen2 fang1 yu3 	陳芳語	c=1 d=1 t=1858
+cheng1 shou1 	稱收	c=1 d=1 t=1986
+cheng2 	成	c=0 d=0.1 t=834
+cheng2 	程	c=1 d=0.404542 t=2564
+cheng2 ben3 	成本	c=0 d=0.1 t=490
+cheng2 gong1 	成功	c=0 d=0.1 t=1358
+cheng2 jie1 	承接	c=0 d=0.1 t=2067
+cheng2 jie1 nei4 rong2 	承接內容	c=1 d=1 t=2068
+cheng2 shi4 	程式	c=4 d=1.16681 t=2284
+cheng2 shi4 hou1 	程式齁	c=1 d=1 t=1419
+cheng2 shi4 hua4 	城市化	c=0 d=0.1 t=1757
+cheng2 xiao4 	成效	c=0 d=0.1 t=1760
+chi1 	吃	c=0 d=0.168325 t=2564
+chi1 fan4 	吃飯	c=0 d=0.216934 t=2312
+chi1 fan4 le5 la5 	吃飯了啦	c=1 d=1 t=1809
+chi1 guo2 rong2 	吃國榮	c=1 d=1 t=1994
+chi1 guo4 	吃過	c=0 d=0.0847894 t=2564
+chi1 huo3 guo1 	吃火鍋	c=0 d=0.198511 t=2481
+chi1 jiu4 	吃就	c=0 d=0.1 t=1127
+chi1 le5 	吃了	c=0 d=0.0818731 t=2564
+chi1 san1 xiao3 dong1 he2 bao1 zi5 cao4 	吃三小東河包子肏	c=1 d=1 t=1127
+chi1 shi3 	吃屎	c=0 d=0.100119 t=2482
+chong1 dian4 	充電	c=0 d=0.196561 t=713
+chong1 dian4 xian4 	充電線	c=1 d=1 t=714
+chong2 	蟲	c=1 d=1 t=1534
+chong2 kai1 	重開	c=0 d=0.191851 t=1176
+chong2 kai1 ji1 	重開機	c=0 d=0.1 t=2128
+chong2 kai1 ji1 kan4 kan4 a1 	重開機看看阿	c=1 d=1 t=2129
+chong2 xin1 	重新	c=0 d=0.0771052 t=2564
+chong2 xin1 bu4 shu3 	重新部署	c=1 d=0.774916 t=2564
+chong2 xin1 fu4 xi2 	重新複習	c=1 d=1 t=1616
+chong2 xin1 fu4 xi2 dan1 yuan2 	重新複習單元	c=1 d=1 t=1610
+chong2 xin1 qi3 dong4 	重新啓動	c=0 d=0.1 t=2383
+chou3 	醜	c=1 d=1 t=345
+chou4 	臭	c=1 d=0.531305 t=2519
+chu1 	出	c=0 d=0.1 t=1150
+chu1 ci4 	初次	c=0 d=0.1 t=910
+chu1 lai2 	出來	c=0 d=0.1 t=1271
+chu1 lai2 dou1 bu4 jiang3 hua4 	出來都不講話	c=1 d=1 t=1272
+chu1 le5 	出了	c=0 d=0.1 t=1943
+chu1 men2 	出門	c=0 d=0.1 t=2304
+chu1 nai3 	初乃	c=1 d=1 t=1055
+chu1 qian2 	出錢	c=0 d=0.1 t=1147
+chu1 qian2 a1 	出錢阿	c=1 d=1 t=1148
+chu1 qu4 	出去	c=0 d=0.1 t=2312
+chu1 xian4 	出現	c=0 d=0.100927 t=2126
+chu1 xian4 wen4 ti2 	出現問題	c=0 d=0.1 t=2383
+chu1 xue2 	初學	c=1 d=1 t=928
+chu2 cun2 	儲存	c=0 d=0.1 t=1311
+chu2 diao4 	除掉	c=0 d=0.1 t=915
+chu2 le5 	除了	c=1 d=0.18368 t=2304
+chu2 le5 gen1 mei4 zi5 chi1 fan4 you3 chu1 men2 	除了跟妹子吃飯有出門	c=1 d=1 t=2305
+chu2 le5 yuan2 ban3 de5 dang3 an4 	除了原版的檔案	c=1 d=1 t=860
+chu4 dian3 	觸點	c=0 d=0.1 t=471
+chu4 fa1 	觸發	c=0 d=0.281283 t=2564
+chu4 fa1 fang1 shi4 jiu4 gen1 wu4 li3 wu2 guan1 	觸發方式就跟物理無關	c=1 d=0.647265 t=2564
+chu4 kong4 ban3 	觸控板	c=0 d=0.100032 t=2259
+chuan2 	傳	c=0 d=0.109231 t=2450
+chuan2 lai2 	傳來	c=0 d=0.174453 t=2549
+chuan2 ran3 gei3 	傳染給	c=0 d=0.1 t=1949
+chuan2 san1 xiao3 le4 se4 tu2 	傳三小垃圾圖	c=1 d=1 t=1903
+chuan2 shu1 	傳輸	c=0 d=0.1 t=547
+chuan2 shu1 su4 du4 	傳輸速度	c=0 d=0.283409 t=582
+chuan2 shu1 su4 du4 shi4 	傳輸速度是	c=1 d=1 t=574
+chuan2 shu1 su4 du4 ye3 mei2 	傳輸速度也沒	c=1 d=1 t=557
+chuan2 tong3 	傳統	c=0 d=0.1 t=287
+chuan2 tong3 ying4 die2 o1 	傳統硬碟噢	c=1 d=1 t=288
+chuang4 yong4 	創用	c=2 d=1.99005 t=1385
+chuang4 zao4 	創造	c=1 d=1 t=1859
+chui2 zhi2 	垂直	c=1 d=1 t=234
+chun2 	純	c=0 d=0.1 t=810
+chuo1 	戳	c=0 d=0.1 t=2259
+ci2 	詞	c=1 d=1 t=536
+ci2 yu3 	詞語	c=0 d=0.1 t=451
+ci2 yu3 biao3 da2 neng2 li4 you3 wen4 ti2 	詞語表達能力有問題	c=1 d=1 t=452
+ci3 	此	c=0 d=0.1 t=930
+ci3 wai4 	此外	c=1 d=1 t=926
+ci4 	次	c=0 d=0.1 t=2307
+cong2 	從	c=6 d=2.68344 t=2564
+cong2 dui4 an4 mai3 hai2 xiang3 bao3 gu4 a1 	從對岸買還想保固阿	c=1 d=1 t=513
+cong2 shang4 	從上	c=0 d=0.1 t=580
+cong2 shang4 mian4 de5 biao3 ge2 	從上面的表格	c=1 d=1 t=581
+cong2 shang4 tu2 ke3 yi3 kan4 dao4 	從上圖可以看到	c=1 d=0.634448 t=2564
+cong2 wai4 bu4 jie1 ru4 de5 	從外部接入的	c=1 d=1 t=1868
+cong2 wai4 bu4 sai1 ru4 de5 nei4 rong2 jie1 ru4 	從外部塞入的內容接入	c=1 d=1 t=1844
+cu1 	粗	c=0 d=0.1 t=1093
+cun4 	吋	c=2 d=1.94649 t=1114
+cuo4 	厝	c=1 d=1.02516 t=2467
+cuo4 	錯	c=0 d=0.1 t=1354
+da2 an4 	答案	c=0 d=0.1 t=1616
+da3 	打	c=0 d=0.0846335 t=2564
+da3 cheng2 	打成	c=0 d=0.1 t=2158
+da3 ge5 	打個	c=0 d=0.1 t=1799
+da3 ge5 pi4 	打個屁	c=1 d=1 t=1800
+da3 gei3 	打給	c=0 d=0.1 t=1346
+da3 guo4 	打過	c=0 d=0.1 t=368
+da3 ka3 	打卡	c=0 d=0.1 t=464
+da3 kai1 	打開	c=2 d=1.00745 t=2030
+da3 kai1 zhi1 hou4 	打開之後	c=1 d=1 t=1173
+da3 lan4 	打爛	c=0 d=0.1 t=2270
+da3 qiu2 	打球	c=0 d=0.132792 t=2429
+da3 shen2 me5 	打什麼	c=0 d=0.0941765 t=2564
+da3 xiao2 la5 	打洨啦	c=1 d=1 t=1808
+da3 you2 	打油	c=0 d=0.375282 t=430
+da3 zi4 	打字	c=0 d=0.0421052 t=2564
+da3 zi4 da3 qi3 lai2 	打字打起來	c=1 d=0.423162 t=2564
+da4 bu4 fen4 	大部分	c=0 d=0.1 t=938
+da4 duo1 	大多	c=2 d=1.78114 t=434
+da4 gai4 	大概	c=0 d=0.0970446 t=2564
+da4 gai4 ban4 xiao3 shi2 xia4 zai3 jia1 geng1 xin1 	大概半小時下載家更新	c=1 d=0.97531 t=2564
+da4 gai4 gua4 le5 ba5 	大概掛了吧	c=1 d=1 t=2246
+da4 gai4 ke3 yi3 zuo4 	大概可以做	c=1 d=1 t=1524
+da4 jia1 	大家	c=0 d=0.295427 t=2344
+da4 jia1 da4 bu4 fen4 yu4 dao4 de5 wen4 ti2 	大家大部分遇到的問題	c=1 d=1 t=939
+da4 jia1 dou1 ling2 fen1 	大家都零分	c=1 d=1 t=2345
+da4 jia1 dou1 shi4 	大家都是	c=0 d=0.1 t=498
+da4 jia1 ke3 yi3 dian3 jin4 jiao1 xue2 zhong1 guan1 kan4 ru2 he2 an1 zhuang1 yu3 shi3 yu4 	大家可以點進教學中觀看如何安裝與使與	c=1 d=1 t=1009
+da4 jia1 zui4 chang2 shi3 yong4 de5 ling4 yi1 ge5 dong1 xi1 le5 	大家最長使用的另一個東西了	c=1 d=1 t=617
+da4 lu4 	大陸	c=0 d=0.100017 t=2187
+da4 lu4 de5 	大陸的	c=1 d=1 t=1044
+da4 lu4 zhi2 bo1 zhu3 	大陸直播主	c=1 d=1 t=2188
+da4 ren2 	大人	c=0 d=0.1 t=1195
+da4 ren2 mei3 	大人每	c=1 d=1 t=1196
+da4 sheng1 	大聲	c=0 d=0.1 t=1270
+da4 xie3 	大寫	c=0 d=0.1 t=865
+da4 xue2 	大學	c=0 d=0.100452 t=2358
+da4 xue2 tong2 xue2 	大學同學	c=0 d=0.1 t=1277
+da4 yang2 	大洋	c=0 d=0.1 t=1932
+da4 yu2 	大於	c=0 d=0.1 t=1078
+dai4 hui2 jia1 	帶回家	c=0 d=0.1 t=2275
+dai4 ji1 	待機	c=1 d=1 t=891
+dai4 lv4 mao4 	戴綠帽	c=0 d=0.1 t=1789
+dai4 yue4 	戴月	c=0 d=0.1 t=1566
+dai4 zhe5 	帶着	c=0 d=0.280544 t=292
+dan1 du2 	單獨	c=0 d=0.1 t=1007
+dan1 wu4 	耽誤	c=0 d=0.1 t=1460
+dan1 yuan2 	單元	c=0 d=0.175247 t=2564
+dan1 yuan2 yi1 	單元一	c=2 d=0.946001 t=2564
+dan1 yuan2 yi1 de5 mo2 shi4 	單元一的模式	c=1 d=0.900325 t=2564
+dan4 	旦	c=1 d=1 t=1677
+dan4 shi4 	但是	c=3 d=1.71554 t=2041
+dan4 shi4 bi3 zhe3 bu4 xi3 huan1 	但是筆者不喜歡	c=1 d=1 t=382
+dan4 shi4 bu2 hui4 you3 tai4 duo1 duo1 yu2 de5 	但是不會有太多多餘的	c=1 d=1 t=971
+dan4 shi4 ne5 	但是呢	c=1 d=1 t=625
+dan4 shi4 qi2 shi2 ye3 bu2 suan4 gui4 	但是其實也不算貴	c=1 d=1 t=1302
+dan4 shi4 shou3 gan3 cha1 hen3 duo1 	但是手感差很多	c=1 d=1 t=403
+dan4 shi4 xu1 yao4 e2 wai4 jie1 yi1 tiao2 	但是需要額外接一條	c=1 d=1 t=713
+dan4 shi4 you3 	但是有	c=0 d=0.1 t=671
+dan4 shi4 you3 hao3 dang1 ran2 ye3 you3 huai4 chu4 	但是有好當然也有壞處	c=1 d=1 t=672
+dan4 shi4 zai4 	但是在	c=1 d=1 t=958
+dang1 	當	c=1 d=0.345956 t=2194
+dang1 chang3 	當場	c=0 d=0.1 t=2158
+dang1 chu1 	當初	c=0 d=0.134473 t=1131
+dang1 chu1 bi3 zhe3 jue2 de5 mai3 	當初筆者覺得買	c=1 d=1 t=919
+dang1 guo2 	當國	c=0 d=0.1 t=2512
+dang1 jiao4 lian4 	當教練	c=1 d=1 t=1463
+dang1 ran2 	當然	c=0 d=0.120153 t=1435
+dang1 ran2 bu2 shi4 	當然不是	c=1 d=1 t=541
+dang1 ran2 mei2 jiu3 dian4 	當燃煤酒店	c=1 d=1 t=2195
+dang1 ran2 mei2 you3 a1 	當然沒有阿	c=1 d=1 t=1104
+dang1 ran2 you3 	當然有	c=0 d=0.1 t=1819
+dang1 zhong1 	當中	c=1 d=0.89594 t=1943
+dang1 zhong1 chu1 le5 pan4 tu2 	當中出了叛徒	c=1 d=1 t=1944
+dang1 zhong1 le5 	當中了	c=1 d=1 t=968
+dang1 zuo4 	當作	c=1 d=1 t=1886
+dang3 	檔	c=1 d=0.111239 t=1733
+dang3 an4 	檔案	c=2 d=0.869628 t=2564
+dao4 	到	c=4 d=0.755784 t=2564
+dao4 	道	c=1 d=1 t=1563
+dao4 de5 	到的	c=0 d=0.1 t=1894
+dao4 de5 zhi2 	到的值	c=1 d=1 t=1895
+dao4 di3 	到底	c=0 d=0.0524517 t=2564
+dao4 di3 zen3 me5 xiang3 de5 	到底怎麼想得	c=1 d=0.429557 t=2564
+dao4 le5 	到了	c=1 d=1 t=616
+dao4 li3 	道理	c=1 d=1.00422 t=1098
+dao4 pian2 yi2 jiu4 zhi2 jie1 mai3 o1 	到便宜就直接買喔	c=1 d=1 t=739
+dao4 qi2 	到期	c=0 d=0.1 t=365
+dao4 qian4 	道歉	c=0 d=0.1 t=2365
+dao4 ren2 	道人	c=0 d=0.1 t=261
+dao4 shi4 	倒是	c=0 d=0.1 t=2449
+dao4 wo3 	到我	c=0 d=0.1 t=1374
+dao4 xian4 zai4 	到現在	c=0 d=0.1 t=1280
+de2 	得	c=0 d=0.1 t=277
+de2 bing4 	得病	c=0 d=0.1 t=2331
+de5 	得	c=1 d=1 t=1834
+de5 	的	c=28 d=2.6181 t=2564
+de5 ban3 ben3 	的版本	c=1 d=0.10078 t=2399
+de5 biao1 	得標	c=0 d=0.1 t=583
+de5 bu4 fen4 	的部分	c=0 d=0.137908 t=1641
+de5 cha1 bie2 	的差別	c=1 d=1 t=946
+de5 chu4 kong4 ban3 	的觸控板	c=1 d=1 t=648
+de5 chuan2 dang3 hao3 man4 	的傳檔好慢	c=1 d=1 t=1734
+de5 chuan2 shu1 pin2 duan4 	的傳輸頻段	c=1 d=1 t=548
+de5 da4 xue2 tong2 xue2 shi4 luo2 li4 kong4 	的大學同學是蘿莉控	c=1 d=1 t=1278
+de5 dang3 an4 	的檔案	c=1 d=0.831104 t=2564
+de5 dian4 nao3 	的電腦	c=1 d=1 t=492
+de5 dou1 shi4 pan2 zi5 	的都是盤子	c=1 d=1 t=920
+de5 ge2 shi4 hao3 mi1 	的格式好咪	c=1 d=1 t=830
+de5 hua4 	的話	c=1 d=0.166678 t=2564
+de5 hui4 yuan2 le5 	的會員了	c=1 d=1 t=2423
+de5 huo2 dong4 	的活動	c=1 d=1 t=667
+de5 jian4 pan2 	的鍵盤	c=1 d=0.957069 t=434
+de5 kong3 wei4 	的孔位	c=1 d=1 t=717
+de5 kuan1 du4 cha1 	的寬度差	c=1 d=1 t=788
+de5 lai2 	得來	c=0 d=0.1 t=2292
+de5 liang3 bei4 	的兩倍	c=1 d=1 t=575
+de5 ling2 tou2 dou1 neng2 mai3 hao3 ji3 tai2 	的零頭都能買好幾臺	c=1 d=1 t=2158
+de5 lu4 you2 qi4 de5 	的路由器的	c=1 d=1 t=611
+de5 ma5 	的嗎	c=1 d=1.04531 t=2365
+de5 nei4 rong2 	的內容	c=3 d=1.10715 t=2555
+de5 qing2 kuang4 	的情況	c=0 d=0.1 t=658
+de5 ren2 	的人	c=0 d=0.103818 t=2173
+de5 ren2 yi1 ding4 hui4 fa1 xian4 	的人一定會發現	c=1 d=1 t=1295
+de5 shi2 hou4 	的時候	c=0 d=0.1 t=2339
+de5 shi3 yong4 zhe3 	的使用者	c=1 d=1 t=1317
+de5 shi4 	的事	c=0 d=0.1 t=2397
+de5 shi4 	的是	c=0 d=0.1 t=2476
+de5 shu1 ru4 fa3 	的輸入法	c=1 d=1.1603 t=1000
+de5 shu1 ru4 fa3 mei2 yao4 jiu4 le5 	的輸入法沒藥救了	c=1 d=1 t=1001
+de5 shuo1 ming2 	的說明	c=1 d=1 t=1384
+de5 ti2 mu4 	的題目	c=1 d=1 t=1640
+de5 wai4 bian1 kuang1 	的外邊框	c=1 d=1 t=1457
+de5 xi1 gai4 zhuang4 si3 	的膝蓋撞死	c=1 d=1 t=2434
+de5 xiao3 jie3 	的小姐	c=1 d=1 t=2468
+de5 yan2 se4 	的顏色	c=1 d=1 t=793
+de5 yi1 ge5 zhong1 duan1 ji1 shi3 yong4 cheng2 shi4 	的一個終端機使用程式	c=1 d=1 t=980
+de5 zhou2 ti3 zhuan1 li4 yi3 jing1 dao4 qi2 	的軸體專利已經到期	c=1 d=1 t=366
+deng1 ru4 	登入	c=1 d=0.690674 t=1174
+deng3 	等	c=1 d=0.119199 t=1817
+deng3 bi4 ye4 zhi1 hou4 mai3 lai2 wan2 	等畢業之後買來玩	c=1 d=1 t=1818
+deng3 deng3 	等等	c=2 d=0.0891366 t=2564
+deng3 ni3 	等你	c=0 d=0.1 t=2135
+deng3 ni3 geng1 xin1 	等你更新	c=1 d=1 t=2136
+deng3 yong3 qing1 kai1 shi4 	等永清開釋	c=1 d=1 t=1233
+di2 ren2 	敵人	c=0 d=0.1 t=2341
+di3 se4 	底色	c=0 d=0.1 t=790
+di3 xia4 	底下	c=0 d=0.1 t=2004
+di4 er4 ji4 	第二季	c=0 d=0.1 t=2501
+di4 er4 shi2 wu3 	第二十五	c=0 d=0.1 t=1770
+di4 er4 shi2 wu3 ji2 	第二十五集	c=1 d=1 t=1771
+di4 san1 	第三	c=0 d=0.1 t=1166
+di4 wu3 dai4 	第五代	c=0 d=0.1 t=543
+di4 yi1 	第一	c=0 d=0.1 t=672
+di4 yi1 ci4 	第一次	c=0 d=0.1 t=1293
+di4 yi1 ci4 shi3 yong4 ou4 	第一次使用慪	c=1 d=1 t=1294
+di4 yi1 jiu4 shi4 	第一就是	c=1 d=1 t=673
+di4 yi1 shi2 jian1 	第一時間	c=0 d=0.1 t=408
+di4 yi1 shi2 jian1 yi1 ding4 shi4 ai1 e1 	第一時間一定是哎阿	c=1 d=1 t=409
+dian3 	點	c=2 d=1 t=2564
+dian3 ji2 	點擊	c=0 d=0.1 t=1720
+dian3 ji2 xian3 shi4 nei4 rong2 	點擊顯示內容	c=1 d=1 t=1721
+dian3 kai1 da3 	點開打	c=1 d=1 t=1788
+dian4 	店	c=0 d=0.1 t=1581
+dian4 jing4 	電競	c=0 d=0.1 t=1460
+dian4 li4 gong1 ying4 	電力供應	c=0 d=0.1 t=715
+dian4 li4 gong1 ying4 shang4 bu2 hui4 wan2 quan2 chi1 dian4 nao3 	電力供應上不會完全吃電腦	c=1 d=1 t=716
+dian4 nao3 	電腦	c=1 d=0.45387 t=2383
+dian4 nao3 li3 	電腦裡	c=0 d=0.1 t=1404
+dian4 nao3 mo2 ni3 bao4 gao4 	電腦模擬報告	c=1 d=1 t=1765
+dian4 nao3 mo2 ni3 ying4 yong4 yu2 ke3 cheng2 shi4 hua4 yan2 jiu4 	電腦模擬應用於可城市化研究	c=1 d=1 t=1758
+dian4 nao3 yin1 chu1 xian4 wen4 ti2 er2 chong2 xin1 qi3 dong4 	電腦因出現問題兒重新啓動	c=1 d=1 t=2384
+dian4 zi3 chan3 pin3 	電子產品	c=0 d=0.1956 t=570
+dian4 zi3 shu1 	電子書	c=1 d=0.965022 t=1508
+dian4 zi3 shu1 zhi4 zuo4 	電子書製作	c=1 d=1 t=1509
+diao3 	屌	c=0 d=0.0941765 t=2564
+diao4 	掉	c=1 d=1.00026 t=2378
+ding4 	定	c=0 d=0.0980199 t=2564
+ding4 wei4 	定位	c=0 d=0.0923116 t=2564
+ding4 wei4 	訂位	c=1 d=0.99005 t=2564
+ding4 zhi4 	定製	c=1 d=1 t=777
+diu1 	丟	c=0 d=0.0937067 t=2564
+diu1 dao4 	丟到	c=0 d=0.1 t=1366
+diu1 jin4 	丟進	c=1 d=1 t=1424
+diu1 le5 	丟了	c=0 d=0.1 t=808
+diu1 shang4 qu4 	丟上去	c=0 d=0.1 t=1368
+dong1 he2 	東河	c=0 d=0.1 t=1126
+dong1 xi1 	東西	c=0 d=0.0794534 t=2564
+dong3 	懂	c=1 d=1 t=2532
+dong3 pi4 	懂屁	c=1 d=0.980199 t=2564
+dong4 	動	c=0 d=0.1 t=1813
+dong4 bu2 dong4 	動不動	c=0 d=0.1 t=2534
+dong4 fen3 	動粉	c=1 d=1 t=1928
+dong4 hua4 	動畫	c=3 d=0.0823757 t=2564
+dong4 wu4 	動物	c=1 d=0.135793 t=2493
+dong4 wu4 zhi1 sen1 	動物之森	c=1 d=1 t=2494
+dong4 zhe2 	動輒	c=1 d=1 t=603
+dou1 	都	c=1 d=0.394234 t=2564
+dou1 bei4 	都被	c=0 d=0.1 t=966
+dou1 bu4 	都不	c=0 d=0.1011 t=1271
+dou1 bu4 neng2 	都不能	c=0 d=0.1 t=696
+dou1 da4 yu2 	都大於	c=1 d=1 t=1079
+dou1 fang4 dao4 	都放到	c=1 d=1 t=2073
+dou1 gai3 cheng2 	都改成	c=1 d=0.969358 t=2075
+dou1 hai2 mei2 	都還沒	c=0 d=0.196079 t=2532
+dou1 hai2 shuo1 qing3 quan2 shi4 jie4 de5 ren2 	都還說請全世界的人	c=1 d=1 t=2174
+dou1 hui4 	都會	c=0 d=0.135169 t=1173
+dou1 jiao4 	都叫	c=0 d=0.1 t=527
+dou1 jiao4 tian1 xuan3 le5 	都叫天選了	c=1 d=1 t=528
+dou1 ke3 yi3 	都可以	c=0 d=0.1 t=308
+dou1 mei2 	都沒	c=0 d=0.1 t=232
+dou1 neng2 	都能	c=0 d=0.102519 t=2157
+dou1 shi4 	都是	c=2 d=0.0491644 t=2564
+dou1 yi3 	都以	c=1 d=1 t=1035
+dou1 yong4 	都用	c=0 d=0.1 t=341
+dou1 you3 	都有	c=0 d=0.1 t=860
+dou1 zai4 	都在	c=0 d=0.150662 t=2470
+dou1 zai4 tai2 bei3 	都在臺北	c=1 d=1 t=2335
+dou1 zi4 ping2 	都自評	c=1 d=1 t=282
+dou4 cheng2 bing1 	豆成兵	c=1 d=1 t=1678
+dou4 gan1 	豆乾	c=0 d=0.1 t=2191
+dou4 gan1 cuo4 	豆乾厝	c=1 d=1 t=2192
+du2 li4 	獨立	c=0 d=0.188994 t=1631
+du2 li4 de5 chu4 dian3 	獨立的觸點	c=1 d=1 t=472
+du2 qu3 	讀取	c=1 d=0.431211 t=2092
+du4 	度	c=1 d=1.01416 t=1389
+duan3 xiao3 jing1 gan4 	短小精幹	c=1 d=1 t=387
+duan4 diao4 	斷掉	c=0 d=0.1 t=1183
+duan4 lian4 	鍛鍊	c=0 d=0.1 t=290
+duan4 wang3 	斷網	c=0 d=0.197045 t=2228
+dui4 	對	c=0 d=0.112619 t=1354
+dui4 a1 	對阿	c=3 d=0.657047 t=2564
+dui4 an4 	對岸	c=0 d=0.239572 t=512
+dui4 an4 de5 dou1 yong4 	對岸的都用	c=1 d=1 t=342
+dui4 ba5 	對吧	c=2 d=1.0098 t=2142
+dui4 le5 	對了	c=0 d=0.1 t=1526
+dui4 ying4 	對應	c=1 d=0.0678816 t=2564
+dui4 ying4 de5 	對應的	c=1 d=1 t=1981
+dui4 yu2 	對於	c=1 d=0.312248 t=930
+dui4 yu2 ci3 	對於此	c=1 d=1 t=931
+duo1 	多	c=1 d=0.100188 t=2368
+duo1 ba5 	多吧	c=1 d=1 t=2396
+duo1 chi1 	多吃	c=0 d=0.1 t=1248
+duo1 da3 	多打	c=0 d=0.1 t=868
+duo1 dao4 	多到	c=0 d=0.1 t=2408
+duo1 duo1 	多多	c=0 d=0.0843665 t=2564
+duo1 ge5 	多個	c=0 d=0.1 t=711
+duo1 hua1 	多花	c=1 d=1 t=2405
+duo1 kai1 	多開	c=0 d=0.0822835 t=2564
+duo1 kong3 	多孔	c=1 d=1.09501 t=703
+duo1 le5 	多了	c=0 d=0.1 t=325
+duo1 pai2 xian3 shi4 	多排險是	c=1 d=1 t=1073
+duo1 xue2 xiao4 dian4 nao3 yong4 de5 	多學校電腦用的	c=1 d=1 t=445
+duo1 yu2 	多餘	c=0 d=0.1 t=970
+e1 	阿	c=0 d=0.1 t=408
+e2 	額	c=0 d=0.1 t=712
+e2 wai4 	額外	c=0 d=0.166055 t=2185
+e2 wai4 qian1 ru4 	額外嵌入	c=1 d=1 t=2103
+ei4 	欸	c=1 d=0.798516 t=2564
+ei4 ei4 	欸欸	c=1 d=0.481909 t=2564
+ei4 gan1 	欸乾	c=1 d=1 t=883
+en4 	嗯	c=6 d=2.25224 t=2367
+en4 	摁	c=1 d=1 t=2368
+en4 en4 	摁摁	c=1 d=1 t=1657
+er1 	兒	c=1 d=1 t=2198
+er2 	兒	c=1 d=0.202471 t=2383
+er2 	而	c=3 d=1.00126 t=2385
+er2 lai2 	而來	c=0 d=0.1 t=1465
+er2 qie3 	而且	c=2 d=0.40233 t=2410
+er2 qie3 geng4 kua1 zhang1 	而且更誇張	c=1 d=1 t=2411
+er2 qie3 hai2 shi4 	而且還是	c=1 d=1 t=1033
+er2 qie3 hai2 you3 	而且還有	c=1 d=0.380832 t=678
+er2 qie3 hui4 	而且會	c=0 d=0.1 t=387
+er2 qie3 hui4 e2 wai4 ba3 jian4 mao4 dou1 huan4 cheng2 	而且會額外把鍵帽都換成	c=1 d=1 t=388
+er2 qie3 shi4 	而且是	c=0 d=0.1 t=816
+er2 qie3 shi4 shi3 yong4 bu2 yong4 an4 zhao4 zhu4 yin1 shun4 xu4 de5 shu1 ru4 fang1 shi4 	而且是使用不用按照注音順序的輸入方式	c=1 d=1 t=817
+er2 qie3 ye3 bu2 yong4 tuo1 dong4 hua2 shou3 	而且也不用拖動華手	c=1 d=1 t=662
+er2 qie3 ye3 yong4 bu2 dao4 	而且也用不到	c=1 d=1 t=1124
+er2 qie3 zhe4 ge5 ke3 yi3 	而且這個可以	c=1 d=1 t=320
+er2 qie3 zhe4 ying1 gai1 shi4 	而且這應該是	c=1 d=1 t=1190
+er2 shi4 	而是	c=0 d=0.1 t=472
+er2 shi4 yi3 yi1 ceng2 bo2 mo2 	而是以一層薄膜	c=1 d=1 t=473
+er2 xian4 zai4 zui4 xin1 de5 biao1 zhun3 shi4 	而現在最新得標準是	c=1 d=1 t=584
+er2 yi3 	而已	c=0 d=0.1 t=450
+er4 	二	c=10 d=0.981399 t=2564
+er4 ci4 	二次	c=0 d=0.1 t=1935
+er4 ci4 shang1 hai4 	二次傷害	c=1 d=1 t=1936
+er4 xuan3 yi1 	二選一	c=1 d=1 t=1919
+fa1 	發	c=2 d=1.02215 t=2203
+fa1 bu4 	發佈	c=0 d=0.1 t=316
+fa1 chu1 	發出	c=0 d=0.1 t=562
+fa1 xian4 	發現	c=0 d=0.1 t=1294
+fa1 yan2 	發言	c=0 d=0.1 t=1945
+fan1 	翻	c=0 d=0.1 t=2165
+fan2 si3 le5 	煩死了	c=0 d=0.1 t=2255
+fan3 wen4 	反問	c=0 d=0.1 t=452
+fan3 zheng4 	反正	c=0 d=0.172489 t=2463
+fan3 zheng4 da4 jia1 dou1 zhi1 dao4 hua2 shua1 	反正大家都知道華刷	c=1 d=1 t=629
+fan3 zheng4 ni3 ben3 lai2 jiu4 you3 bing4 	反正你本來就有並	c=1 d=1 t=530
+fan3 zheng4 ni3 dou1 an4 le5 	反正妳都按了	c=1 d=1 t=2141
+fan3 zheng4 ni3 jue2 de5 bu2 wen3 jiu4 xian1 bu2 yao4 geng1 xin1 a1 	反正你覺得不穩就先不要更新阿	c=1 d=1 t=2126
+fan3 zheng4 wo3 	反正我	c=1 d=0.160698 t=2230
+fan3 zheng4 wo3 mei2 zai4 yong4 ying2 mu4 bao3 hu4 cheng2 shi4 	反正我沒在用螢幕保護程式	c=1 d=1 t=2124
+fan3 zheng4 wo3 shi4 you3 yong4 	反正我是有用	c=1 d=1 t=2231
+fan3 zheng4 wo3 zhi3 jie2 	反正我只截	c=1 d=1 t=1447
+fan3 zheng4 yong4 bu2 dao4 	反正用不到	c=1 d=1 t=2464
+fan3 zheng4 you4 mei2 ying3 xiang3 	反正又沒影響	c=1 d=1 t=2249
+fan3 zheng4 zhao4 	反正照	c=1 d=1 t=295
+fan4 	飯	c=0 d=0.1 t=1139
+fang1 an4 	方案	c=0 d=0.1 t=863
+fang1 an4 xuan3 dan1 	方案選單	c=1 d=1 t=864
+fang1 bian4 	方便	c=0 d=0.120909 t=1291
+fang1 bian4 hen3 duo1 	方便很多	c=1 d=1 t=1292
+fang1 bian4 xing4 	方便性	c=0 d=0.1 t=1037
+fang1 bian4 xing4 gao1 hen3 duo1 	方便性高很多	c=1 d=1 t=1038
+fang1 shi4 	方式	c=1 d=0.0644036 t=2564
+fang1 shi4 fang4 ru4 	方式放入	c=1 d=1 t=1835
+fang1 xiang4 	方向	c=1 d=1 t=1646
+fang2 yi4 	防疫	c=0 d=0.127253 t=2176
+fang2 yi4 ju4 li2 	防疫距離	c=1 d=1 t=1917
+fang4 	放	c=0 d=0.100447 t=1852
+fang4 dao4 	放到	c=0 d=0.1 t=2072
+fang4 jia4 	放假	c=0 d=0.269156 t=1855
+fang4 jia4 shuang3 la5 	放假爽啦	c=1 d=1 t=1856
+fang4 jin4 	放進	c=0 d=0.1 t=1095
+fang4 jin4 ying2 mu4 shang4 	放進螢幕上	c=1 d=1 t=1096
+fang4 ru4 	放入	c=1 d=1.09753 t=1839
+fang4 yi1 ge2 li3 bai4 le5 	放一格禮拜了	c=1 d=1 t=771
+fei1 	非	c=0 d=0.1 t=1379
+fei1 chang2 	非常	c=0 d=0.1 t=601
+fei1 shang1 ye4 shi3 yong4 	非商業使用	c=1 d=1.05123 t=1390
+fei1 shang1 ye4 shi3 yong4 le5 	非商業使用了	c=1 d=1 t=1391
+fei1 tong2 bu4 	非同步	c=0 d=0.196079 t=1877
+fei2 da4 	肥大	c=0 d=0.1 t=969
+fei4 	費	c=1 d=1 t=1568
+fei4 hua4 	廢話	c=0 d=0.1 t=973
+fei4 wu4 	廢物	c=1 d=1.07531 t=2290
+fei4 yan2 	肺炎	c=0 d=0.1 t=1266
+fen1 	分	c=0 d=0.177155 t=464
+fen1 bie2 	分別	c=0 d=0.1 t=1036
+fen1 lei4 	分類	c=0 d=0.1 t=497
+fen1 shou3 	分手	c=0 d=0.1 t=2447
+fen1 shu4 	分數	c=0 d=0.1 t=265
+fen1 tai4 gao1 le5 	分太高了	c=1 d=1 t=274
+fen1 wo3 jue2 de5 gang1 hao3 	分我覺得剛好	c=1 d=1 t=275
+fen1 yao4 qu4 da3 ka3 	分要去打卡	c=1 d=1 t=465
+fen3 	粉	c=0 d=0.1 t=1120
+fen3 se4 	粉色	c=1 d=0.489192 t=2564
+fen4 	份	c=0 d=0.100237 t=2021
+feng1 	封	c=1 d=1 t=1525
+feng1 	風	c=1 d=1.00949 t=1561
+feng1 ge2 	風格	c=1 d=1 t=2046
+feng1 mian4 	封面	c=1 d=1 t=1485
+fu2 hao4 	符號	c=2 d=2.09005 t=2562
+fu2 he2 	符合	c=0 d=0.1 t=306
+fu2 he2 wo3 de5 mei3 gan3 	符合我的美感	c=1 d=1 t=307
+fu3 	府	c=0 d=0.288194 t=2474
+fu3 yan4 de5 zui4 ai4 a1 	府彥的最愛阿	c=1 d=1 t=2474
+fu3 yan4 zui4 ai4 a1 ma4 	府彥最愛阿罵	c=1 d=1 t=2475
+fu4 dai4 	附帶	c=1 d=1.00027 t=1888
+fu4 fei4 	付費	c=0 d=0.28398 t=1328
+fu4 gai4 	覆蓋	c=1 d=0.836585 t=834
+fu4 gai4 zheng3 ge5 	覆蓋整個	c=1 d=1 t=474
+fu4 qian2 	付錢	c=0 d=0.1 t=521
+fu4 xi2 	複習	c=0 d=0.197045 t=1615
+fu4 za2 	複雜	c=0 d=0.18781 t=1006
+fu4 ze2 	負責	c=1 d=1 t=1046
+fu4 zhi4 	複製	c=0 d=0.1 t=813
+fu4 zhi4 quan2 bu4 de5 nei4 rong2 	複製全部的內容	c=1 d=1 t=814
+gai1 	該	c=0 d=0.1 t=231
+gai1 lai2 	該來	c=0 d=0.1 t=974
+gai1 lai2 shuo1 bi3 zhe3 tui1 jian4 shi3 yong4 de5 	該來說筆者推薦使用的	c=1 d=1 t=975
+gai3 	改	c=1 d=0.182715 t=2564
+gai3 bian4 	改變	c=0 d=0.045612 t=2564
+gai3 bian4 wu4 li3 xing2 cheng2 ye3 ke3 yi3 you3 bu4 tong2 de5 chu4 fa1 shi2 jian1 	改變物理行程也可以有不同的觸發時間	c=1 d=0.458406 t=2564
+gai3 cheng2 	改成	c=0 d=0.198061 t=2050
+gai3 de5 	改得	c=0 d=0.1 t=245
+gai3 le5 	改了	c=0 d=0.1 t=302
+gai3 mai3 xiao3 chun1 gu3 	改買小春股	c=1 d=1 t=2511
+gai3 shan4 	改善	c=0 d=0.1 t=277
+gai3 zai4 	改在	c=0 d=0.1 t=1655
+gai4 nian4 	概念	c=0 d=0.1 t=1766
+gai4 qi3 lai2 	蓋起來	c=1 d=1.09418 t=1183
+gai4 zi5 	蓋子	c=0 d=0.1 t=1171
+gai4 zi5 gai4 qi3 lai2 	蓋子蓋起來	c=1 d=1 t=1172
+gan1 	乾	c=5 d=0.806541 t=2564
+gan1 	甘	c=1 d=0.802519 t=2564
+gan1 cui4 	乾脆	c=1 d=1 t=2438
+gan1 ni3 pi4 shi4 	乾妳屁事	c=1 d=1 t=2315
+gan1 rao3 	干擾	c=0 d=0.185302 t=730
+gan1 wo3 pi4 shi4 	乾我屁事	c=2 d=1.03474 t=2527
+gan3 en1 	感恩	c=1 d=1 t=840
+gan3 jue2 	感覺	c=0 d=0.152994 t=1411
+gan3 jue2 chu1 lai2 	感覺出來	c=0 d=0.1 t=2318
+gan3 jue2 you3 gao3 tou2 	感覺有搞頭	c=1 d=1 t=1285
+gan3 xie4 	感謝	c=3 d=1.13954 t=1941
+gan3 xie4 ni3 de5 jian4 yi4 	感謝你的建議	c=1 d=1 t=1340
+gan3 xie4 wei3 xiang2 	感謝偉祥	c=1 d=1 t=1942
+gan4 	幹	c=8 d=2.64351 t=2541
+gan4 ma2 	幹嘛	c=1 d=0.172499 t=2564
+gan4 ma2 bu4 mai3 yi1 ge5 	幹嘛不買一個	c=1 d=1 t=2275
+gan4 ma2 mai3 bi3 dian4 	幹嘛買筆電	c=1 d=1 t=277
+gan4 ma2 mai3 hui4 yuan2 	幹嘛買會員	c=1 d=1 t=2416
+gan4 ni3 	幹你	c=0 d=0.100087 t=2534
+gan4 ni3 ma1 gua1 	幹你媽呱	c=1 d=1 t=1125
+gan4 ni3 niang2 	幹你娘	c=1 d=1 t=2190
+gan4 ta1 	幹他	c=0 d=0.1 t=1264
+gan4 ta1 ma1 shei2 zuo4 de5 tu2 	幹他媽誰做的圖	c=1 d=1 t=1265
+gang1 gang1 	剛剛	c=0 d=0.130951 t=2564
+gang1 gang1 ba3 	剛剛把	c=1 d=1 t=833
+gang1 gang1 jiang3 dao4 le5 	剛剛講到了	c=1 d=1 t=1293
+gang1 gang1 jiu4 shuo1 yao4 dai4 zhe5 pao3 hai2 bu2 kan4 zhong4 liang4 	剛剛就說要帶着跑還不看重量	c=1 d=1 t=293
+gang1 gang1 kan4 dao4 	剛剛看到	c=1 d=1 t=2115
+gang1 gang1 qu4 mai3 kou3 zhao4 	剛剛去買口罩	c=1 d=1 t=2213
+gang1 gang1 zai4 	剛剛在	c=0 d=0.0440432 t=2564
+gang1 gang1 zai4 gai3 	剛剛在改	c=1 d=1 t=1418
+gang1 hao3 	剛好	c=0 d=0.1 t=274
+gao1 	高	c=0 d=0.106489 t=1037
+gao1 ang2 	高昂	c=0 d=0.120805 t=915
+gao1 de5 	高的	c=0 d=0.1 t=2161
+gao1 du4 	高度	c=0 d=0.1 t=784
+gao1 du4 cha1 	高度差	c=1 d=1 t=785
+gao1 fen1 	高分	c=1 d=0.31487 t=2502
+gao1 fen1 shao4 nv3 	高分少女	c=2 d=1.99501 t=2504
+gao1 le5 	高了	c=0 d=0.1 t=265
+gao1 xing4 	高興	c=0 d=0.1 t=318
+gao3 	搞	c=0 d=0.099005 t=2564
+gao3 bu4 hao3 	搞不好	c=0 d=0.1 t=334
+gao3 cuo4 	搞錯	c=0 d=0.1 t=2364
+gao3 cuo4 ren2 le5 	搞錯人了	c=1 d=1 t=2365
+gao3 de5 	搞得	c=0 d=0.1 t=1814
+gao3 de5 wo3 hao3 xiang3 mai3 	搞得我好想買	c=1 d=1 t=1815
+gao3 le5 	搞了	c=0 d=0.156881 t=2564
+gao3 tou2 	搞頭	c=0 d=0.1 t=1284
+gao4 	告	c=0 d=0.1 t=2165
+ge1 	哥	c=1 d=1.09501 t=1461
+ge1 ci2 	歌詞	c=0 d=0.1 t=1859
+ge2 	格	c=2 d=1.00006 t=2549
+ge2 bi4 de5 	隔壁的	c=1 d=1 t=1995
+ge2 li2 	隔離	c=0 d=0.199501 t=1951
+ge2 li2 la5 	隔離啦	c=1 d=1 t=1952
+ge2 ren2 	格人	c=1 d=1 t=2402
+ge2 shi4 	格式	c=2 d=1.19554 t=2564
+ge2 shi4 a1 	格式阿	c=1 d=1 t=745
+ge2 shi4 mei2 yi1 ge5 yi1 yang4 de5 	格式沒一個一樣的	c=1 d=1 t=1421
+ge4 jia1 	各家	c=0 d=0.1 t=366
+ge4 ren2 	個人	c=0 d=0.107615 t=891
+ge4 ren2 wen2 zhang1 	個人文章	c=1 d=1 t=892
+ge4 zhong3 	各種	c=0 d=0.279169 t=999
+ge5 	個	c=1 d=0.1129 t=1425
+ge5 gui3 ji1 qiu2 lai2 wan2 wan2 	個軌跡球來玩玩	c=1 d=1 t=681
+gei3 	給	c=0 d=0.100004 t=2451
+gei3 wo1 	給窩	c=1 d=1 t=1644
+gei3 wo3 	給我	c=0 d=0.115107 t=1729
+gei3 wo3 ni3 de5 	給我你的	c=1 d=1 t=1730
+gen1 	根	c=2 d=1.60351 t=2066
+gen1 	跟	c=10 d=1.54672 t=2462
+gen1 ben3 	根本	c=0 d=0.1 t=1818
+gen1 bing4 du2 mei2 guan1 xi4 	跟病毒沒關係	c=1 d=1 t=531
+gen1 fei4 wu4 mei2 cha1 bie2 	跟廢物沒差別	c=1 d=1 t=2291
+gen1 shi2 zhi3 zhong1 zhi3 xing2 	跟食指中指型	c=1 d=1 t=651
+gen1 shou3 ji1 shu1 ru4 fa3 yi1 yang4 	跟手機輸入法一樣	c=1 d=1 t=323
+gen1 ta1 	跟她	c=0 d=0.1 t=2312
+gen1 ta1 shuo1 	跟她說	c=0 d=0.1 t=1350
+gen1 wang3 lu4 xian4 	跟網路線	c=1 d=1 t=701
+gen1 wo3 	跟我	c=0 d=0.0869358 t=2564
+gen1 wo3 men5 dang1 chu1 yi1 yang4 	跟我們當初一樣	c=1 d=1 t=1132
+gen1 wo3 shuo1 	跟我說	c=1 d=1 t=2138
+gen1 wu3 ting1 yao4 ting2 ye4 	跟舞廳要停業	c=1 d=1 t=2374
+gen1 ying4 ti3 you4 mei2 guan1 xi4 	跟硬體又沒關係	c=1 d=1 t=1192
+gen1 zen3 me5 fu4 gai4 cheng2 	跟怎麼覆蓋成	c=1 d=1 t=835
+geng1 gai3 	更改	c=0 d=0.100449 t=1398
+geng1 gai3 li3 mian4 de5 yuan2 jian4 	更改裏面的元件	c=1 d=1 t=318
+geng1 huan4 	更換	c=0 d=0.1 t=688
+geng1 huan4 dian4 nao3 zhi1 hou4 	更換電腦之後	c=1 d=1 t=689
+geng1 xin1 	更新	c=1 d=0.210299 t=2564
+geng1 xin1 kan4 kan4 a1 	更新看看阿	c=1 d=1 t=2241
+geng1 xin1 man2 kuai4 de5 a1 	更新蠻快的阿	c=1 d=0.970446 t=2564
+geng1 xin1 ti2 xing3 guan1 bi4 	更新提醒關閉	c=1 d=1 t=2147
+geng4 	更	c=0 d=0.250135 t=2475
+geng4 hao3 	更好	c=0 d=0.1 t=1309
+geng4 kuai4 	更快	c=1 d=1 t=2376
+geng4 yuan2 	更圓	c=0 d=0.1 t=395
+geng4 yuan2 yi1 dian3 	更圓一點	c=1 d=1 t=396
+gong1 	宮	c=0 d=0.1 t=1426
+gong1 	工	c=2 d=0.13407 t=2496
+gong1 cheng2 shi1 	工程師	c=0 d=0.1 t=2261
+gong1 dian4 	供電	c=0 d=0.1 t=717
+gong1 fa3 	功法	c=0 d=0.1 t=424
+gong1 fa3 	工法	c=1 d=1 t=426
+gong1 ju4 	工具	c=1 d=0.479505 t=2564
+gong1 neng2 	功能	c=0 d=0.067368 t=2564
+gong1 ping2 	公評	c=0 d=0.1 t=1451
+gong1 qi4 si1 yong4 	公器私用	c=0 d=0.1 t=2280
+gong1 qi4 si1 yong4 hai2 zhe4 me5 xiao1 zhang1 	公器私用還這麼囂張	c=1 d=1 t=2281
+gong1 san1 xiao3 	工三小	c=1 d=1 t=2497
+gong1 si1 	公司	c=0 d=0.1 t=2165
+gong1 xi3 ni3 	恭喜你	c=1 d=1 t=1612
+gong4 xian4 	貢獻	c=1 d=1 t=1388
+gong4 yong4 	共用	c=0 d=0.1 t=1731
+gong4 yong4 yun2 duan1 ying4 die2 	共用雲端硬碟	c=1 d=1 t=1732
+gou4 jiu4 	夠就	c=1 d=1 t=600
+gou4 le5 	夠了	c=0 d=0.1 t=973
+gu3 	股	c=0 d=0.197045 t=2516
+gu3 shao4 kai3 	古绍楷	c=1 d=1 t=1763
+gu3 tong2 	古銅	c=1 d=0.551563 t=2564
+gua1 	呱	c=0 d=0.103956 t=1124
+gua1 gua1 	呱呱	c=2 d=1.94649 t=1959
+gua4 le5 	掛了	c=0 d=0.173345 t=2245
+gua4 le5 shao1 yi1 shao1 ji4 xu4 wan2 	掛了燒一燒繼續玩	c=1 d=1 t=2184
+guai4 	怪	c=0 d=0.0529935 t=2564
+guan1 bi4 	關閉	c=1 d=1.12596 t=2235
+guan1 diao4 	關掉	c=0 d=0.101595 t=2134
+guan1 diao4 chong2 kai1 cai2 neng2 yong4 	關掉重開才能用	c=1 d=1 t=1160
+guan1 kan4 	觀看	c=0 d=0.1 t=1008
+guan1 le5 	關了	c=0 d=0.1 t=2124
+guan1 wang3 	官網	c=4 d=0.114723 t=2260
+guan1 wang3 pian2 yi2 	官網便宜	c=1 d=1 t=2261
+guan1 xi4 	關係	c=0 d=0.1 t=411
+guan3 ta1 	管他	c=0 d=0.1 t=1354
+guan3 ta1 shuo1 de5 dui4 hai2 wei4 cuo4 	管他說的對還未錯	c=1 d=1 t=1355
+guan4 	灌	c=1 d=1 t=1224
+guang1 xian4 	光線	c=0 d=0.104101 t=2564
+guang1 xian4 yao4 bei4 zhe1 dang3 de5 wei4 zhi4 	光線要被遮擋的位置	c=1 d=0.408608 t=2564
+guang1 zhou2 	光軸	c=2 d=1.31658 t=2564
+guang1 zhou2 shi4 ba3 guang1 xian4 zhe1 dang3 zuo4 wei2 chu4 fa1 	光軸是把光線遮擋作爲觸發	c=1 d=0.637628 t=2564
+guang3 gao4 	廣告	c=0 d=0.19802 t=2412
+gui3 ji1 	軌跡	c=0 d=0.1 t=623
+gui3 ji1 qiu2 	軌跡球	c=7 d=1.14771 t=1470
+gui3 ji1 qiu2 hao3 chu4 	軌跡球好處	c=1 d=1 t=671
+gui4 	貴	c=0 d=0.104918 t=1301
+gun3 dong4 	滾動	c=0 d=0.1 t=663
+guo1 	鍋	c=2 d=0.433378 t=1806
+guo2 hui4 	國會	c=0 d=0.1 t=455
+guo2 hui4 guo4 ban4 	國會過半	c=1 d=1 t=456
+guo2 rong2 	國榮	c=1 d=1 t=1998
+guo2 tu3 	國土	c=0 d=0.1 t=449
+guo2 zhong1 	國中	c=0 d=0.1 t=2515
+guo2 zhong1 sheng1 	國中生	c=0 d=0.1 t=1269
+guo2 zhong1 sheng1 ke3 bei1 	國中生可悲	c=1 d=1 t=1270
+guo3 	果	c=0 d=0.1 t=1272
+guo3 hei1 	果黑	c=1 d=1 t=1195
+guo4 	過	c=1 d=0.662705 t=1350
+guo4 ban4 	過半	c=0 d=0.1 t=455
+guo4 du4 	過度	c=0 d=0.1 t=668
+guo4 fen4 	過分	c=0 d=0.0423162 t=2564
+guo4 lai2 	過來	c=0 d=0.1 t=506
+ha1 ha1 	哈哈	c=2 d=0.136618 t=2564
+ha1 ha1 a1 	哈哈阿	c=2 d=0.438235 t=2564
+ha1 ha1 a1 ha1 ha1 	哈哈阿哈哈	c=2 d=1.38868 t=2317
+ha1 ha1 ha1 	哈哈哈	c=1 d=1 t=1953
+ha1 ha1 ha1 ha1 	哈哈哈哈	c=1 d=1 t=1149
+ha2 	蛤	c=2 d=1.01216 t=2130
+hai2 	還	c=0 d=0.232008 t=2413
+hai2 bu2 shi4 	還不是	c=1 d=1 t=2292
+hai2 bu4 neng2 kan4 zheng4 pian4 	還不能看正片	c=1 d=1 t=2414
+hai2 cha4 	還差	c=0 d=0.1 t=1132
+hai2 cha4 dian3 si3 zai4 men2 kou3 	還差點死在門口	c=1 d=1 t=1133
+hai2 fu4 dai4 you3 chong1 dian4 gong1 neng2 	還附帶有充電功能	c=1 d=1 t=707
+hai2 hao3 	還好	c=0 d=0.100465 t=2285
+hai2 hao3 wo3 bu2 shi4 	還好我不是	c=1 d=1 t=1212
+hai2 mei2 	還沒	c=0 d=0.1 t=1278
+hai2 neng2 	還能	c=0 d=0.0941765 t=2564
+hai2 shi4 	還是	c=1 d=0.0666977 t=2564
+hai2 shi4 gong1 shui3 san1 ye4 pian2 yi2 	還是宮水三葉便宜	c=1 d=1 t=1427
+hai2 shi4 heng2 shi4 de5 	還是橫式的	c=1 d=1 t=344
+hai2 shi4 neng2 	還是能	c=0 d=0.1 t=518
+hai2 shi4 yun2 lin2 ren2 su4 zhi2 	還是雲林人素質	c=1 d=1 t=2445
+hai2 shuo1 	還說	c=0 d=0.1 t=2173
+hai2 wan2 	還玩	c=0 d=0.1 t=2155
+hai2 wan2 pi4 	還玩屁	c=1 d=1 t=2156
+hai2 wei4 	還未	c=0 d=0.1 t=1354
+hai2 xiang3 	還想	c=0 d=0.100076 t=1948
+hai2 yao4 	還要	c=0 d=0.164156 t=2564
+hai2 yao4 wai4 jie1 jian4 pan2 a1 	還要外接鍵盤阿	c=1 d=1 t=2300
+hai2 yao4 xie3 cheng2 shi4 qu4 gai3 	還要寫程式去改	c=1 d=0.822835 t=2564
+hai2 you3 	還有	c=2 d=0.225891 t=2098
+hai2 you3 liang3 tian1 jia4 	還有兩天假	c=1 d=1 t=1825
+hai2 you3 shen2 me5 	還有什麼	c=0 d=0.1 t=398
+hai2 you3 wei2 bo1 lu2 	還有微波爐	c=1 d=1 t=561
+hai2 you3 yi1 ge5 yuan2 yin1 shi4 	還有一個原因是	c=1 d=1 t=927
+hai2 zai4 	還在	c=0 d=0.1 t=1130
+hai2 zhang3 zhe4 me5 	還長這麼	c=1 d=1 t=1904
+hai2 zhen1 	還真	c=0 d=0.1 t=1525
+hai2 zhen1 de5 mei2 cuo4 	還真的沒錯	c=1 d=1 t=1526
+hai3 han2 	海涵	c=0 d=0.1 t=906
+hai3 lang4 	海浪	c=1 d=1 t=1753
+hai4 	害	c=0 d=0.101116 t=2279
+hai4 wo3 	害我	c=0 d=0.0822835 t=2564
+hai4 wo3 hai2 yao4 duo1 kai1 	害我還要多開	c=1 d=0.826959 t=2564
+hai4 wo3 xiang3 shuo1 ta1 hui4 bu2 hui4 pa4 ren2 jia1 na2 qu4 zuo4 shang1 ye4 xing2 wei2 	害我想說她會不會怕人家拿去做商業行爲	c=1 d=1 t=1381
+hai4 wo3 xiang3 xiu1 xi2 le5 	害我想休息了	c=1 d=1 t=2280
+han2 shi4 	函式	c=1 d=1 t=2055
+han4 	悍	c=1 d=1 t=461
+hao2 	豪	c=3 d=1.21219 t=1661
+hao2 di1 	豪低	c=1 d=1 t=1654
+hao2 gui3 	豪鬼	c=1 d=1 t=2496
+hao2 le5 	豪了	c=1 d=1 t=1722
+hao2 o1 	豪喔	c=1 d=1 t=839
+hao3 	好	c=5 d=2.64365 t=2564
+hao3 a1 	好阿	c=1 d=0.104677 t=2253
+hao3 ban4 fa3 	好辦法	c=0 d=0.1 t=1254
+hao3 chu4 	好處	c=0 d=0.284163 t=670
+hao3 chu4 ne5 	好處呢	c=1 d=1 t=654
+hao3 dang1 	好當	c=0 d=0.1 t=671
+hao3 de5 	好的	c=2 d=1.97045 t=1339
+hao3 duo1 ren2 	好多人	c=0 d=0.1 t=1955
+hao3 hao3 	好好	c=0 d=0.1 t=2489
+hao3 hao3 de5 	好好的	c=0 d=0.1 t=1222
+hao3 ji3 nian2 	好幾年	c=0 d=0.1 t=1104
+hao3 ji3 qian1 	好幾千	c=0 d=0.1 t=1377
+hao3 kan4 	好看	c=1 d=1.00373 t=1772
+hao3 la5 	好啦	c=3 d=0.891366 t=2564
+hao3 le5 	好了	c=3 d=0.145392 t=2564
+hao3 ma5 	好嗎	c=1 d=0.170655 t=2527
+hao3 man4 	好慢	c=0 d=0.1 t=1733
+hao3 o1 	好哦	c=4 d=0.516851 t=2564
+hao3 peng2 you3 	好朋友	c=0 d=0.103166 t=2459
+hao3 wu2 liao2 o1 	好無聊喔	c=1 d=1 t=1826
+hao3 xian3 	好險	c=0 d=0.301738 t=2522
+hao3 xian3 ni3 dou1 qu4 gan4 a1 ma4 	好險你都去幹阿罵	c=1 d=1 t=2197
+hao3 xian3 wo3 ai4 de5 shi4 jie3 jie3 	好險我愛的是姐姐	c=1 d=1 t=2477
+hao3 xian3 wo3 bu2 hui4 xie3 cheng2 shi4 	好險我不會寫程式	c=1 d=1 t=2283
+hao3 xian3 wo3 mei2 nian4 da4 xue2 	好險我沒念大學	c=1 d=1 t=2359
+hao3 xian3 wo3 shi4 xing2 dong4 pai4 de5 	好險我是行動派的	c=1 d=1 t=2523
+hao3 xian3 wo3 ye3 bu2 hui4 	好險我也不會	c=1 d=1 t=2272
+hao3 xian3 zhe4 ci4 de5 nei4 rong2 mei2 hen3 duo1 	好險這次的內容沒很多	c=1 d=1 t=838
+hao3 xiang4 	好像	c=1 d=0.136421 t=2120
+hao3 xiang4 hen3 shou2 	好像很熟	c=1 d=1 t=1232
+hao3 xiang4 mei2 you3 zhi1 yuan2 	好像沒有支援	c=1 d=1 t=1456
+hao3 yong4 	好用	c=1 d=0.461948 t=1218
+hao3 yong4 wo3 jiu4 shuo1 hao3 yong4 	好用我就說好用	c=1 d=1 t=1219
+hao3 you2 	好油	c=0 d=0.1 t=409
+hao3 yun1 o1 gan1 	好暈噢甘	c=1 d=0.618783 t=2564
+he2 	合	c=1 d=1 t=2455
+he2 	和	c=1 d=0.102968 t=2453
+hei1 	黑	c=0 d=0.1 t=1213
+hei1 fen3 	黑粉	c=1 d=1 t=1203
+hei1 gui3 	黑鬼	c=0 d=0.1 t=2321
+hei1 se4 	黑色	c=0 d=0.1 t=434
+hei1 shi3 	黑屎	c=1 d=1 t=2484
+hen3 	很	c=0 d=0.148491 t=2528
+hen3 duo1 	很多	c=0 d=0.158834 t=2449
+hen3 duo1 ren2 	很多人	c=0 d=0.1 t=644
+hen3 hui4 	很會	c=0 d=0.1 t=2429
+hen3 jiu3 	很久	c=0 d=0.0818731 t=2564
+hen3 mang2 	很忙	c=0 d=0.1 t=2527
+hen3 nan2 	很難	c=0 d=0.198511 t=436
+hen3 nan2 zhao3 dao4 bai2 se4 zhe4 zhong3 yao1 qiu2 qian3 se4 	很難找到白色這種要求淺色	c=1 d=1 t=437
+hen3 rong2 yi4 	很容易	c=0 d=0.1 t=412
+hen3 rong2 yi4 da3 you2 	很容易打油	c=1 d=1 t=413
+hen3 shou2 	很熟	c=0 d=0.1 t=1231
+hen3 wan3 	很晚	c=0 d=0.1 t=252
+hen3 wu2 liao2 	很無聊	c=0 d=0.1 t=1853
+hen3 you3 	很有	c=0 d=0.1 t=1026
+hen3 you3 ke3 neng2 chu1 xian4 luan4 ma3 	很有可能出現亂碼	c=1 d=1 t=1027
+heng2 	橫	c=1 d=1 t=1712
+heng2 shi4 	橫式	c=0 d=0.1 t=343
+hong2 dian3 	紅點	c=1 d=1 t=2146
+hou1 	齁	c=1 d=0.831104 t=2564
+hou4 	後	c=2 d=0.718924 t=2564
+hou4 cai2 	後才	c=0 d=0.1 t=1104
+hou4 lai2 	後來	c=0 d=0.1 t=2512
+hou4 mian4 	後面	c=0 d=0.219223 t=2450
+hou4 mian4 jiu4 bu2 yong4 yan3 le5 	後面就不用演了	c=1 d=1 t=2440
+hou4 mian4 shi3 yong4 	後面使用	c=1 d=1 t=1974
+hou4 xu4 	後續	c=0 d=0.1 t=2050
+hou4 xu4 hui4 yi1 dian3 dian3 gai3 cheng2 	後續會一點點改成	c=1 d=1 t=2051
+hou4 xuan3 ci2 	候選詞	c=2 d=1.12973 t=1397
+hou4 xuan3 ci2 kuai4 su4 jian4 	候選詞快速鍵	c=1 d=1 t=1362
+hou4 xuan3 ci2 shu4 liang4 	候選詞數量	c=1 d=1 t=823
+hou4 xuan3 zi4 	候選字	c=1 d=1.099 t=1394
+hou4 xuan3 zi4 kuai4 jie2 jian4 	候選字快捷鍵	c=1 d=1 t=1393
+hou4 xuan3 zi4 kuai4 su4 jian4 	後選字快速鍵	c=1 d=1 t=1361
+hou4 zhi2 jie1 yong4 	後直接用	c=1 d=1 t=875
+hu1 hu1 	呼呼	c=1 d=0.585669 t=2564
+hu2 	糊	c=0 d=0.1 t=1145
+hu2 die2 	蝴蝶	c=3 d=2.98506 t=1537
+hu4 wan4 	護腕	c=1 d=1 t=357
+hua1 	花	c=1 d=1 t=1434
+hua1 fei4 	花費	c=0 d=0.1 t=932
+hua1 mi4 	花蜜	c=1 d=1 t=1539
+hua1 qi2 	花旗	c=1 d=1 t=1900
+hua2 	華	c=0 d=0.184789 t=661
+hua2 jie1 	華街	c=1 d=1 t=1954
+hua2 kang1 	華康	c=0 d=0.1 t=1090
+hua2 kang1 er2 feng1 ti3 	華康兒風體	c=1 d=1 t=1091
+hua2 shu3 	滑鼠	c=3 d=0.194561 t=2285
+hua2 shu3 a1 	滑鼠阿	c=1 d=1 t=630
+hua2 shu3 shou3 	滑鼠手	c=0 d=0.1 t=658
+hua2 shu3 shou3 de5 qing2 kuang4 	滑鼠手的情況	c=1 d=1 t=659
+hua2 shuo4 	華碩	c=0 d=0.1 t=523
+hua2 suan4 	划算	c=1 d=0.839457 t=2564
+hua4 de5 	畫的	c=0 d=0.0690734 t=2564
+hua4 mian4 	畫面	c=1 d=0.161069 t=2104
+hua4 mian4 tai4 duo1 hun3 za2 de5 zi1 xun4 	畫面太多混雜的資訊	c=1 d=1 t=2105
+huai2 	懷	c=0 d=0.1 t=1186
+huai4 	壞	c=2 d=1.75201 t=1613
+huai4 chu4 	壞處	c=0 d=0.1 t=671
+huai4 diao4 	壞掉	c=1 d=0.067368 t=2564
+huai4 diao4 jiu4 wu2 fa3 chu4 fa1 shu1 ru4 de5 gong1 neng2 	壞掉就無法觸發輸入的功能	c=1 d=0.677057 t=2564
+huan1 le4 	歡樂	c=0 d=0.1 t=461
+huan2 	寰	c=1 d=1 t=1671
+huan2 yuan2 	還原	c=0 d=0.1 t=1408
+huan4 	換	c=0 d=0.1 t=1146
+huan4 cheng2 	換成	c=0 d=0.1 t=387
+huan4 dao4 	換到	c=1 d=1 t=1014
+huan4 shen2 me5 dong1 xi1 	換什麼東西	c=1 d=1 t=1147
+huan4 wei2 	換爲	c=0 d=0.1 t=1945
+huan4 xiang3 	幻想	c=0 d=0.1 t=2521
+huang2 di4 	皇帝	c=0 d=0.0740818 t=2564
+huang2 di4 mei2 gui1 	皇帝玫瑰	c=2 d=0.744532 t=2564
+huang2 jia1 	皇家	c=1 d=1 t=520
+huang3 	謊	c=1 d=1 t=1674
+hui2 bao4 	回報	c=0 d=0.1 t=1897
+hui2 bao4 zhua1 dao4 ji3 ge5 	回報抓到幾個	c=1 d=1 t=1898
+hui2 dao4 	回到	c=0 d=0.12658 t=1754
+hui2 dao4 xin1 shou3 jiao1 xue2 	回到新手教學	c=1 d=1 t=1755
+hui2 dao4 zhu3 xuan3 dan1 	回到主選單	c=1 d=1 t=1490
+hui2 fu4 	回覆	c=0 d=0.1 t=1371
+hui2 lai2 	回來	c=0 d=0.1 t=1796
+hui2 lai2 gan4 ma2 	回來幹嘛	c=1 d=1 t=1797
+hui2 qu4 	回去	c=0 d=0.103858 t=1793
+hui2 qu4 gan4 ma2 	回去幹嘛	c=1 d=1 t=1794
+hui2 qu4 kan4 	回去看	c=1 d=1 t=1143
+hui3 	虫	c=1 d=1 t=1538
+hui4 	會	c=2 d=0.247819 t=2158
+hui4 bei4 	會被	c=0 d=0.102305 t=1319
+hui4 bi3 	會比	c=0 d=0.1 t=1327
+hui4 bu2 hui4 	會不會	c=0 d=0.100522 t=1380
+hui4 chu1 	匯出	c=0 d=0.1 t=1104
+hui4 jiang3 	會講	c=0 d=0.1 t=2464
+hui4 ma5 	會嗎	c=1 d=1 t=1850
+hui4 xie3 zhe4 pian1 wen2 zhang1 de5 yuan2 yin1 shi4 	會寫這篇文章的原因是	c=1 d=1 t=909
+hui4 you3 	會有	c=1 d=0.0666977 t=2564
+hui4 yuan2 	會員	c=0 d=0.196561 t=2422
+hun1 	婚	c=0 d=0.1 t=467
+hun3 	混	c=0 d=0.1 t=2104
+huo2 dao4 	活到	c=1 d=1 t=1130
+huo2 dong4 	活動	c=0 d=0.1 t=666
+huo3 bao4 	火爆	c=0 d=0.1 t=2492
+huo3 bao4 xing2 shi4 	火爆刑事	c=1 d=1 t=2493
+huo3 guo1 	火鍋	c=0 d=0.1 t=2479
+huo3 yun2 xie2 	火雲邪	c=0 d=0.1 t=459
+huo4 	貨	c=1 d=1 t=1692
+huo4 er3 	霍爾	c=2 d=1.00128 t=1791
+huo4 shi4 	或是	c=1 d=0.499074 t=2564
+huo4 shi4 yi1 kai1 shi3 	或是一開始	c=1 d=1 t=2437
+ji1 	機	c=0 d=0.1 t=241
+ji1 	雞	c=0 d=0.100046 t=1861
+ji1 hui4 	機會	c=0 d=0.1 t=878
+ji1 ni3 tai4 mei3 	雞妳太美	c=1 d=1 t=1862
+ji1 qi4 	機器	c=0 d=0.1 t=605
+ji1 tui3 	雞腿	c=0 d=0.101674 t=1957
+ji1 tui3 zheng1 dan4 fan4 	雞腿蒸蛋飯	c=1 d=1 t=1140
+ji1 xie4 	機械	c=0 d=0.457661 t=498
+ji1 xie4 jian4 pan2 bu4 tong2 	機械鍵盤不同	c=1 d=1 t=470
+ji1 xie4 jian4 pan2 gen1 bo2 mo4 jian4 pan2 de5 fen1 lei4 	機械鍵盤跟薄膜鍵盤的分類	c=1 d=1 t=498
+ji1 yu2 	基於	c=1 d=1 t=2015
+ji2 	吉	c=1 d=1.00392 t=1126
+ji2 	集	c=1 d=1.09704 t=1776
+ji2 ke3 	即可	c=1 d=1 t=873
+ji2 kuai4 	極快	c=0 d=0.1 t=2281
+ji3 bai3 	幾百	c=1 d=1 t=966
+ji3 ci4 	幾次	c=0 d=0.1 t=868
+ji3 dian3 	幾點	c=0 d=0.083527 t=2564
+ji3 dian3 kai1 da3 	幾點開打	c=1 d=1 t=592
+ji3 ge5 	幾個	c=0 d=0.120183 t=2264
+ji3 ge5 an4 jian4 	幾個按鍵	c=1 d=1 t=2265
+ji3 ge5 du2 li4 lian4 xi2 de5 zuo4 hao3 le5 	幾個獨立練習的做好了	c=1 d=1 t=1632
+ji3 nian2 qian2 	幾年前	c=0 d=0.1 t=1280
+ji3 nian2 qian2 bei4 guan1 dao4 xian4 zai4 	幾年前被關到現在	c=1 d=1 t=1281
+ji3 shi2 	幾十	c=0 d=0.1 t=964
+ji3 tai2 	幾臺	c=0 d=0.1 t=2157
+ji3 ti2 	幾題	c=0 d=0.1 t=2345
+ji4 de2 	記得	c=1 d=0.0759572 t=2564
+ji4 de2 wo3 ye3 gen1 ta1 shuo1 guo4 liang3 ci4 	記得我也跟她說過兩次	c=1 d=1 t=1351
+ji4 de5 	記得	c=0 d=0.0600496 t=2564
+ji4 xin4 	寄信	c=0 d=0.1 t=1351
+ji4 xu4 	繼續	c=0 d=0.135565 t=2183
+ji4 xu4 fang4 	繼續放	c=1 d=1 t=1853
+ji4 yi4 	記憶	c=0 d=0.1 t=338
+jia1 	加	c=2 d=0.980199 t=2564
+jia1 	家	c=0 d=0.0970446 t=2564
+jia1 de5 	加的	c=1 d=1 t=781
+jia1 de5 	家的	c=0 d=0.1 t=261
+jia1 gou4 	加購	c=0 d=0.1 t=2185
+jia1 jiao4 	家教	c=0 d=0.1 t=2521
+jia1 ru4 	加入	c=0 d=0.1 t=1080
+jia1 shang4 	加上	c=1 d=0.955997 t=2564
+jia1 ting2 	家庭	c=1 d=1 t=2393
+jia1 zhong1 	家中	c=0 d=0.1 t=605
+jia1 zhong1 de5 ji1 qi4 mei2 you3 zhi1 yuan2 	家中的機器沒有支援	c=1 d=1 t=606
+jia2 	夾	c=0 d=0.1 t=2060
+jia2 zhong1 de5 	夾中的	c=1 d=1 t=2061
+jia3 	假	c=0 d=0.1 t=354
+jia3 de5 	假的	c=0 d=0.1 t=1188
+jia4 	假	c=0 d=0.109442 t=2296
+jia4 	價	c=1 d=1 t=1054
+jia4 	架	c=1 d=1 t=2298
+jia4 gao1 	架高	c=0 d=0.1 t=1992
+jia4 ge2 	價格	c=0 d=0.150924 t=915
+jia4 qian2 	價錢	c=0 d=0.1 t=1437
+jia4 qian2 ni3 shou2 a1 	價錢你熟阿	c=1 d=1 t=1438
+jia4 ri4 	假日	c=0 d=0.1 t=2098
+jia4 zhi2 	價值	c=0 d=0.1 t=917
+jian1 	間	c=0 d=0.1 t=1122
+jian3 ce4 	檢測	c=0 d=0.1 t=245
+jian3 hua4 	簡化	c=0 d=0.1 t=1069
+jian3 hua4 an1 zhuang1 yu3 	簡化安裝與	c=1 d=1 t=1070
+jian3 zhi2 shi4 	簡直是	c=0 d=0.1 t=2541
+jian3 zhi2 shi4 tian1 cai2 	簡直是天才	c=1 d=1 t=2542
+jian4 	鍵	c=1 d=0.527069 t=2564
+jian4 cheng2 	鍵埕	c=1 d=0.402524 t=2564
+jian4 de5 jian4 pan2 	鍵的鍵盤	c=1 d=1 t=386
+jian4 jian4 de5 	漸漸的	c=1 d=0.217068 t=922
+jian4 jian4 de5 bi3 zhe3 kai1 shi3 xi3 huan1 shang4 	漸漸的筆者開始喜歡上	c=1 d=1 t=923
+jian4 kang1 	健康	c=0 d=0.1 t=2530
+jian4 kang1 you4 kuai4 le4 	健康又快樂	c=1 d=1 t=2531
+jian4 li4 	建立	c=1 d=1 t=2019
+jian4 mao4 	鍵帽	c=6 d=6.69839 t=439
+jian4 mao4 da3 you2 	鍵帽打油	c=2 d=1.99501 t=406
+jian4 mao4 de5 cai2 zhi4 guan1 xi4 	鍵帽的材質關係	c=1 d=1 t=412
+jian4 mao4 de5 jian4 pan2 da4 duo1 dou1 shi4 hei1 se4 	鍵帽的鍵盤大多都是黑色	c=1 d=1 t=435
+jian4 pan2 	鍵盤	c=4 d=0.297018 t=2299
+jian4 pan2 hen3 da4 sheng1 	鍵盤很大聲	c=1 d=1 t=1271
+jian4 pan2 jian4 mao4 	鍵盤鍵帽	c=1 d=1 t=391
+jian4 pan2 zhi3 you3 liang3 ge5 an4 jian4 	鍵盤只有兩個按鍵	c=1 d=1 t=2263
+jian4 tou2 	箭頭	c=6 d=2.71884 t=1720
+jian4 yi4 	建議	c=0 d=0.278687 t=1339
+jian4 zhou2 lai2 jin4 xing2 	鍵軸來進行	c=1 d=0.666977 t=2564
+jiang3 	講	c=0 d=0.0869358 t=2564
+jiang3 dao4 	講到	c=0 d=0.1 t=1292
+jiang3 de5 	講的	c=0 d=0.1 t=525
+jiang3 de5 shi4 	講的是	c=0 d=0.208803 t=1109
+jiang3 de5 xiang4 shi4 ni3 mai3 de5 dao4 yi1 yang4 	講的像是你買的到一樣	c=1 d=1 t=526
+jiang3 hua4 	講話	c=0 d=0.1 t=1271
+jiang3 shen2 me5 pi4 hua4 	講什麼屁話	c=1 d=1 t=2268
+jiang3 shu4 	講述	c=0 d=0.1 t=895
+jiang3 wan2 	講完	c=0 d=0.1 t=442
+jiang3 wan2 ji1 xie4 jian4 pan2 	講完機械鍵盤	c=1 d=1 t=443
+jiang4 di1 	降低	c=0 d=0.1 t=2435
+jiao1 de5 	教的	c=0 d=0.1 t=1659
+jiao1 liu2 	交流	c=1 d=1 t=1162
+jiao1 xue2 	教學	c=0 d=0.195267 t=1754
+jiao1 xue2 nei4 rong2 	教學內容	c=1 d=1 t=1724
+jiao3 shang1 	腳傷	c=1 d=1 t=2518
+jiao4 	叫	c=1 d=0.307279 t=2564
+jiao4 	較	c=0 d=0.100037 t=2326
+jiao4 chang2 	較長	c=0 d=0.1 t=1327
+jiao4 lian4 	教練	c=0 d=0.1 t=1462
+jiao4 ni3 men5 	叫你們	c=0 d=0.1 t=1948
+jiao4 rong2 yi4 	較容易	c=1 d=1 t=554
+jiao4 xue2 	教學	c=0 d=0.1 t=1486
+jiao4 yu4 	教育	c=2 d=1.06029 t=1780
+jiao4 yu4 bu4 jiu4 ting1 bu4 dong3 ren2 hua4 a1 	教育不就聽不懂人話阿	c=1 d=1 t=1516
+jie1 	接	c=1 d=1 t=1894
+jie1 dao4 	接到	c=1 d=1.05827 t=2111
+jie1 dao4 de5 	接到的	c=2 d=1.5886 t=2110
+jie1 ge5 	接個	c=0 d=0.1 t=696
+jie1 jin4 	接近	c=0 d=0.1 t=564
+jie1 jin4 lai2 	接進來	c=1 d=1 t=1848
+jie1 ru4 	接入	c=0 d=0.206178 t=1982
+jie1 shi4 	皆是	c=0 d=0.1 t=903
+jie1 shi4 shi3 yong4 	皆是使用	c=1 d=1 t=904
+jie1 shou1 	接收	c=1 d=1 t=1987
+jie2 	截	c=0 d=0.10226 t=2204
+jie2 	節	c=1 d=1 t=686
+jie2 	結	c=0 d=0.1 t=467
+jie2 chu1 	傑出	c=0 d=0.1 t=916
+jie2 guo3 	結果	c=0 d=0.1 t=1278
+jie2 guo3 da4 xue2 hai2 mei2 bi4 ye4 bei4 	結果大學還沒畢業被	c=1 d=1 t=1279
+jie2 hun1 	結婚	c=0 d=0.1 t=466
+jie2 hun1 yao4 zhi4 shao3 liang3 ge5 ren2 a1 gan4 	結婚要至少兩個人阿幹	c=1 d=1 t=467
+jie2 tu2 	截圖	c=1 d=1.00219 t=2202
+jie2 wei3 	結尾	c=1 d=1 t=1481
+jie3 gou4 	解構	c=1 d=1 t=2001
+jie3 gou4 wei2 	解構為	c=1 d=1 t=2109
+jie3 jie3 	姐姐	c=0 d=0.145712 t=2476
+jie3 shi4 	解釋	c=0 d=0.1 t=1448
+jie4 	借	c=0 d=0.1 t=799
+jie4 mian4 	界面	c=0 d=0.099005 t=2564
+jin1 	金	c=2 d=0.0543351 t=2564
+jin1 se4 	金色	c=0 d=0.0540641 t=2564
+jin1 shan1 	金山	c=1 d=1 t=1045
+jin1 shu3 se4 	金屬色	c=1 d=1 t=360
+jin1 shu3 wai4 ke2 	金屬外殼	c=0 d=0.1 t=258
+jin1 tian1 	今天	c=1 d=0.117486 t=2564
+jin1 tian1 gao3 le5 yi1 xia4 wu3 de5 shu1 ru4 fa3 	今天搞了一下午的輸入法	c=1 d=0.985112 t=2564
+jin1 tian1 geng1 xin1 xin1 de5 wai4 guan1 	今天更新新的外觀	c=1 d=1 t=395
+jin1 tian1 qing3 jia4 	今天請假	c=1 d=1 t=2519
+jin4 	近	c=0 d=0.1 t=2335
+jin4 	進	c=3 d=1.17095 t=2556
+jin4 liang4 	儘量	c=0 d=0.1 t=418
+jin4 liang4 hui4 bu4 xuan3 ze2 shi3 yong4 	儘量會不選擇使用	c=1 d=1 t=419
+jin4 ru4 	進入	c=0 d=0.1 t=1608
+jin4 ru4 xia4 yi1 dan1 yuan2 	進入下一單元	c=1 d=1 t=1609
+jin4 xing2 	進行	c=0 d=0.260272 t=2564
+jin4 xing2 dan1 yuan2 er4 	進行單元二	c=1 d=0.904837 t=2564
+jin4 xing2 shu1 ru4 xuan3 ze2 	進行輸入選擇	c=1 d=1 t=863
+jin4 xing2 shu1 xie3 	進行書寫	c=1 d=1 t=2102
+jin4 xing2 xia4 xia4 mian4 	進行下下面	c=1 d=0.726149 t=2564
+jin4 xing2 xiu1 gai3 	進行修改	c=1 d=1 t=1401
+jing1 gu3 	晶股	c=1 d=1 t=2510
+jing1 guo4 	經過	c=0 d=0.1 t=1111
+jing1 yi4 	經義	c=0 d=0.1 t=2206
+jing1 yi4 da3 qiu2 a1 	經義打球阿	c=1 d=1 t=2207
+jing3 shi4 	警示	c=0 d=0.1 t=1950
+jing4 	徑	c=1 d=1 t=2552
+jiu1 qi3 nai3 	揪起乃	c=1 d=1 t=2462
+jiu3 	九	c=3 d=2.98012 t=846
+jiu3 dian4 	酒店	c=1 d=1.08193 t=2373
+jiu3 dian4 gen1 wu3 ting1 bei4 ting2 zhi3 ying2 ye4 la5 	酒店跟舞廳被停止營業啦	c=1 d=1 t=2196
+jiu4 	就	c=1 d=0.329902 t=2564
+jiu4 bu2 	就不	c=0 d=0.1 t=413
+jiu4 bu2 hui4 	就不會	c=0 d=0.1 t=667
+jiu4 bu2 hui4 hen3 shou4 xian4 yu2 kong1 jian1 	就不會很受限於空間	c=1 d=1 t=668
+jiu4 bu2 yong4 	就不用	c=0 d=0.1 t=2439
+jiu4 bu4 	就不	c=0 d=0.1 t=1914
+jiu4 bu4 neng2 	就不能	c=0 d=0.1 t=977
+jiu4 cha1 	就差	c=0 d=0.1 t=340
+jiu4 gai3 cheng2 song4 	就改成送	c=1 d=1 t=494
+jiu4 gen1 	就跟	c=0 d=0.0644036 t=2564
+jiu4 hao3 	就好	c=0 d=0.1 t=318
+jiu4 hao3 a1 	就好阿	c=1 d=1 t=2254
+jiu4 hui4 	就會	c=0 d=0.109489 t=730
+jiu4 hui4 gui4 mie1 	就會貴咩	c=1 d=1 t=260
+jiu4 jiao4 	就叫	c=0 d=0.1 t=1461
+jiu4 kan4 	就看	c=0 d=0.1 t=368
+jiu4 kan4 da4 jia1 zi4 ji3 qin1 shou3 da3 guo4 cai2 zhi1 dao4 le5 	就看大家自己親手打過才知道了	c=1 d=1 t=369
+jiu4 lai2 	就來	c=0 d=0.1 t=1371
+jiu4 lai2 hui2 fu4 le5 	就來回覆了	c=1 d=1 t=1372
+jiu4 le5 	救了	c=0 d=0.1 t=1000
+jiu4 mei2 	就沒	c=0 d=0.1 t=277
+jiu4 mei2 you3 	就沒有	c=0 d=0.1 t=1019
+jiu4 shi4 	就是	c=1 d=0.0830309 t=2564
+jiu4 shi4 le5 	就是了	c=0 d=0.1 t=1107
+jiu4 shi4 wai4 jie1 li4 qi4 le5 	就是外接利器了	c=1 d=1 t=705
+jiu4 shi4 wo3 yuan2 ben3 	就是我原本	c=1 d=1 t=1170
+jiu4 shi4 xiang4 zhe4 yang4 	就是向這樣	c=1 d=0.491644 t=2564
+jiu4 shi4 yan2 se4 hen3 nan2 nong4 cheng2 qian3 se4 	就是顏色很難弄成淺色	c=1 d=1 t=434
+jiu4 shi4 yao4 jin1 shu3 wai4 ke2 a1 	就是要金屬外殼阿	c=1 d=1 t=259
+jiu4 shi4 yi1 ge5 	就是一個	c=1 d=1 t=1838
+jiu4 shuo1 	就說	c=0 d=0.1 t=292
+jiu4 suan4 	就算	c=0 d=0.180661 t=1080
+jiu4 suan4 jia1 ru4 	就算加入	c=1 d=1 t=1081
+jiu4 suan4 zhe4 yang4 shuo1 	就算這樣說	c=1 d=1 t=577
+jiu4 xing2 	就行	c=0 d=0.1 t=868
+jiu4 xue2 	就學	c=1 d=1 t=1065
+jiu4 yao4 	就要	c=0 d=0.112265 t=1158
+jiu4 yao4 ba3 	就要把	c=1 d=1 t=1159
+jiu4 you3 	就有	c=0 d=0.100726 t=1514
+jiu4 yu4 ce4 de5 tu2 	就預測的圖	c=1 d=1 t=1111
+jiu4 zheng4 	就正	c=0 d=0.1 t=238
+jiu4 zheng4 chang2 de5 	就正長的	c=1 d=1 t=239
+jiu4 zhi1 dao4 	就知道	c=0 d=0.138481 t=2368
+jiu4 zhi1 dao4 ni3 wen4 ti2 te4 bie2 duo1 	就知道妳問題特別多	c=1 d=1 t=2369
+ju3 bao4 	舉報	c=0 d=0.1 t=1353
+ju4 	據	c=0 d=0.1 t=2425
+ju4 li2 	距離	c=0 d=0.1 t=1916
+ju4 qing2 	劇情	c=0 d=0.1 t=2435
+ju4 ru3 	巨乳	c=1 d=1 t=1059
+jue2 	決	c=1 d=1 t=938
+jue2 de5 	覺得	c=0 d=0.14949 t=2448
+jue2 ding4 	決定	c=0 d=0.1 t=1248
+jun1 	君	c=0 d=0.1 t=1346
+jun4 	濬	c=1 d=1 t=1925
+ka3 	卡	c=0 d=0.1 t=1409
+ka3 zai4 	卡在	c=0 d=0.1 t=1632
+kai1 	開	c=0 d=0.147997 t=2564
+kai1 chou1 le5 a1 	開抽了阿	c=1 d=1 t=1927
+kai1 da3 	開打	c=0 d=0.100253 t=1787
+kai1 qi3 	開啓	c=0 d=0.1 t=924
+kai1 qi3 	開啟	c=0 d=0.101576 t=2120
+kai1 qi3 shi3 yong4 	開啟使用	c=1 d=1 t=1291
+kai1 shi3 	開始	c=2 d=0.305491 t=2083
+kai1 shi3 shi3 yong4 	開始使用	c=0 d=0.1 t=921
+kai1 shi3 zhi1 yuan2 	開始支援	c=1 d=1 t=587
+kai1 shi4 	開釋	c=0 d=0.1 t=1232
+kai1 yuan2 	開源	c=0 d=0.0946485 t=2564
+kai1 zui3 	開嘴	c=0 d=0.1 t=1193
+kai3 	凱	c=0 d=0.1 t=2446
+kai3 huang2 	凱皇	c=1 d=1 t=886
+kai3 ti3 	楷體	c=0 d=0.196079 t=1031
+kan1 kan1 	看看	c=1 d=1 t=2096
+kan3 diao4 	砍掉	c=0 d=0.1 t=752
+kan4 	看	c=4 d=1.66451 t=2564
+kan4 bu2 	看不	c=0 d=0.1 t=2315
+kan4 bu2 kan4 de5 chu1 lai2 	看不看得出來	c=1 d=1 t=2316
+kan4 dao4 	看到	c=0 d=0.16736 t=2114
+kan4 dao4 dong4 sen1 	看到動森	c=1 d=1 t=1814
+kan4 de5 	看得	c=0 d=0.1 t=1850
+kan4 de5 chu1 lai2 	看得出來	c=1 d=1.05945 t=2419
+kan4 fa3 	看法	c=0 d=0.1 t=941
+kan4 jiu3 le5 	看久了	c=0 d=0.1 t=1141
+kan4 kan4 	看看	c=0 d=0.221633 t=2240
+kan4 kan4 a1 xian4 zai4 you3 	看看阿現在有	c=1 d=1 t=876
+kan4 lai2 	看來	c=0 d=0.1 t=1209
+kan4 lai2 shi4 zhen1 ai4 	看來是真愛	c=1 d=1 t=1210
+kan4 le5 	看了	c=1 d=1.004 t=2412
+kan4 qi3 lai2 	看起來	c=0 d=0.10838 t=2074
+kan4 qi3 lai2 cai2 you3 gan3 jue2 	看起來才有感覺	c=1 d=1 t=1412
+kan4 qi3 lai2 neng2 gao3 shi4 de5 bu4 fen4 	看起來能搞事的部分	c=1 d=1 t=1448
+kan4 wan2 	看完	c=0 d=0.1 t=2501
+kan4 wan2 le5 	看完了	c=1 d=1 t=2506
+kan4 wo3 	看我	c=0 d=0.1 t=1213
+kang4 	抗	c=1 d=0.458796 t=1786
+kang4 kang4 	抗抗	c=1 d=1 t=1643
+kao1 	尻	c=0 d=0.1 t=771
+kao3 	考	c=0 d=0.1 t=2500
+kao3 chang3 	考場	c=0 d=0.1 t=2349
+kao3 shi4 	考試	c=0 d=0.1 t=2339
+kao3 shi4 de5 shi2 hou4 	考試的時候	c=1 d=1 t=2340
+kao4 bei3 	靠北	c=1 d=1 t=351
+ke1 ji4 bu4 	科技部	c=0 d=0.1 t=1514
+ke1 ji4 bu4 ming2 ming2 jiu4 you3 shuo1 bu2 yao4 zai4 can1 kao3 ta1 men5 na4 zhang1 po4 xin1 zi1 biao3 	科技部明明就有說不要在參考她們那張破薪資表	c=1 d=1 t=1515
+ke3 	可	c=0 d=0.153526 t=1757
+ke3 ai4 	可愛	c=0 d=0.0951229 t=2564
+ke3 ai4 dao4 bu4 xing2 	可愛到不行	c=1 d=1 t=454
+ke3 bei1 	可悲	c=0 d=0.100274 t=2449
+ke3 bei1 dao4 shi4 hen3 duo1 	可悲倒是很多	c=1 d=1 t=2450
+ke3 le4 	可樂	c=0 d=0.1 t=2523
+ke3 neng2 	可能	c=0 d=0.100463 t=2460
+ke3 neng2 chu1 xian4 	可能出現	c=0 d=0.1 t=1026
+ke3 neng2 o1 	可能喔	c=1 d=1 t=2461
+ke3 shi4 	可是	c=1 d=0.23794 t=1122
+ke3 shi4 bu4 zhi1 dao4 wei4 sha2 bu4 gei3 xian3 shi4 	可是不知道爲啥不給顯示	c=1 d=1 t=333
+ke3 shi4 tai4 zhan4 kong1 jian1 le5 	可是太佔空間了	c=1 d=1 t=1123
+ke3 shi4 wo3 	可是我	c=0 d=0.1 t=1821
+ke3 shi4 wo3 fang4 jia4 dao4 xing1 qi2 er4 	可是我放假到星期二	c=1 d=1 t=1822
+ke3 shi4 wo3 ka3 zai4 	可是我卡在	c=1 d=1 t=1633
+ke3 yi3 	可以	c=0 d=0.163397 t=2564
+ke3 yi3 ba3 gui3 ji1 qiu2 xiang3 xiang4 cheng2 	可以把軌跡球想象成	c=1 d=1 t=646
+ke3 yi3 bi3 jiao4 ming2 xian3 shuo1 de5 hao3 chu4 	可以比較明顯說的好處	c=1 d=1 t=655
+ke3 yi3 da3 	可以打	c=1 d=1 t=514
+ke3 yi3 jie3 	可以解	c=1 d=1 t=937
+ke3 yi3 kan4 dao4 	可以看到	c=1 d=0.0702995 t=2564
+ke3 yi3 ma5 	可以嗎	c=0 d=0.1 t=1652
+ke3 yi3 mai3 	可以買	c=1 d=1.03721 t=1430
+ke3 yi3 mai3 dao4 	可以買到	c=1 d=1 t=1201
+ke3 yi3 she4 ding4 a1 	可以設定阿	c=1 d=1 t=2239
+ke3 yi3 shi3 yong4 	可以使用	c=1 d=0.952144 t=1048
+ke3 yi3 yong4 	可以用	c=0 d=0.183617 t=2272
+ke3 yi3 yong4 ba5 	可以用吧	c=1 d=1 t=2237
+ke3 yi3 zhi1 dao4 	可以知道	c=1 d=1 t=582
+ke3 yi3 zhi2 jie1 	可以直接	c=0 d=0.1 t=682
+ke4 	課	c=1 d=1 t=769
+ke4 cheng2 	課程	c=1 d=1 t=1756
+ke4 hou4 	課後	c=14 d=13.5457 t=1750
+ken3 ding4 	肯定	c=0 d=0.102045 t=1306
+ken3 lao3 	啃老	c=0 d=0.0955997 t=2564
+ken3 lao3 ken3 qi3 lai2 	啃老啃起來	c=1 d=0.960789 t=2564
+ken3 qi3 lai2 	啃起來	c=0 d=0.0955997 t=2564
+kong1 	空	c=0 d=0.139259 t=1309
+kong1 jian1 	空間	c=0 d=0.104581 t=1311
+kong1 jian1 lei1 	空間嘞	c=1 d=1 t=284
+kong3 	孔	c=1 d=0.100342 t=2292
+kong3 wei4 	孔位	c=1 d=1.14876 t=716
+kong4 zhi4 	控制	c=0 d=0.1 t=1759
+kong4 zhi4 shi2 xi2 	控制實習	c=1 d=1 t=1760
+kou3 	口	c=1 d=1 t=1517
+kou3 mi4 fu4 jian4 	口蜜腹劍	c=1 d=1 t=1518
+kou3 zhao4 	口罩	c=0 d=0.154346 t=2340
+kou4 	釦	c=0 d=0.1 t=2257
+kou4 yan3 	釦眼	c=0 d=0.1 t=354
+kua1 zhang1 	誇張	c=0 d=0.1 t=2410
+kuai4 	快	c=0 d=0.155711 t=674
+kuai4 jie2 jian4 	快捷鍵	c=0 d=0.1 t=1392
+kuai4 le4 	快樂	c=0 d=0.1 t=2530
+kuai4 su4 	快速	c=0 d=0.105424 t=1296
+kuai4 su4 jian4 	快速鍵	c=0 d=0.199501 t=1361
+kuan1 du4 	寬度	c=0 d=0.1 t=787
+kuang1 jia4 	框架	c=1 d=1 t=2017
+kuang2 zui3 	誑嘴	c=1 d=1 t=1208
+kun1 chong2 	昆蟲	c=1 d=1 t=1533
+la1 	拉	c=1 d=1 t=1679
+la3 ba1 	喇叭	c=0 d=0.1 t=1152
+la4 	辣	c=1 d=1.00039 t=1652
+la4 gan4 	辣幹	c=1 d=1 t=2489
+la4 ji1 	辣雞	c=1 d=1 t=337
+la5 	啦	c=1 d=0.244717 t=2564
+lai2 	來	c=5 d=1.16522 t=2564
+lai2 bu4 xu1 yao4 	來不需要	c=1 d=0.45612 t=2564
+lai2 dai4 ti4 	來代替	c=1 d=1 t=1975
+lai2 dao4 	來到	c=1 d=1 t=685
+lai2 de5 	來的	c=0 d=0.106522 t=1965
+lai2 fei1 tong2 bu4 zhe4 ge5 	來非同步這個	c=1 d=1 t=1878
+lai2 gai3 ge2 shi4 ma5 	來改格式嗎	c=1 d=1 t=801
+lai2 geng1 xin1 kan4 kan4 zhi2 	來更新看看值	c=1 d=1 t=2153
+lai2 kan4 	來看	c=0 d=0.118452 t=592
+lai2 le5 	來了	c=0 d=0.1 t=528
+lai2 le5 ni3 ken3 ding4 zhong4 jiang3 a1 	來了你肯定中獎阿	c=1 d=1 t=529
+lai2 sai1 ru4 	來塞入	c=1 d=1 t=1867
+lai2 shuo1 	來說	c=0 d=0.143823 t=396
+lai2 wai4 jie1 zhe4 xie1 zhuang1 zhi4 	來外接這些裝置	c=1 d=1 t=700
+lai2 wan2 	來玩	c=0 d=0.1 t=1817
+lai2 xiao1 xi2 	來消息	c=1 d=1 t=1586
+lai2 yuan2 	來源	c=0 d=0.0628135 t=2564
+lai2 yun4 suan4 	來運算	c=1 d=1 t=2176
+lai2 zhua1 qu3 	來抓取	c=1 d=1 t=1874
+lai2 zuo4 	來做	c=0 d=0.1 t=2010
+lan2 qiu2 	籃球	c=0 d=0.100799 t=2426
+lan2 ya2 	藍牙	c=0 d=0.105156 t=1152
+lan3 de5 	懶得	c=0 d=0.1 t=349
+lao2 	勞	c=1 d=1 t=1557
+lao3 ban3 	老闆	c=0 d=0.1 t=1225
+lao3 shi1 	老師	c=0 d=0.376037 t=2534
+lao3 shi1 gu3 jiu4 shi4 zan4 	老師股就是讚	c=1 d=1 t=2517
+lao3 zi5 	老子	c=0 d=0.1 t=2481
+lao3 zi5 chi1 huo3 guo1 	老子吃火鍋	c=1 d=1 t=2482
+le4 se4 	垃圾	c=0 d=0.104459 t=1902
+le4 se4 lan2 ya2 la3 ba1 	垃圾藍牙喇叭	c=1 d=1 t=1153
+le5 	了	c=11 d=2.01816 t=2564
+le5 a1 	了阿	c=1 d=1 t=2257
+le5 ma5 	了嗎	c=0 d=0.120701 t=2272
+lei1 	嘞	c=0 d=0.18311 t=283
+li2 ba1 	籬笆	c=0 d=0.1 t=1134
+li2 kai1 	離開	c=2 d=1.49701 t=1649
+li2 zhi2 	離職	c=0 d=0.1 t=352
+li3 	李	c=1 d=1 t=1599
+li3 	裡	c=1 d=1 t=1984
+li3 bai4 	禮拜	c=0 d=0.271348 t=2117
+li3 fu2 dian4 	禮服店	c=1 d=1 t=2194
+li3 jie3 	理解	c=0 d=0.1 t=2208
+li3 jie3 le5 	理解了	c=1 d=1 t=2209
+li3 mian4 	裏面	c=0 d=0.1 t=317
+li3 mian4 	裡面	c=0 d=0.100368 t=2073
+li3 mian4 quan2 bu4 de5 dang3 an4 dou1 kan3 diao4 zhi2 jie1 fu4 gai4 	裡面全部的檔案都砍掉直接覆蓋	c=1 d=1 t=753
+li3 mian4 xie3 	裡面寫	c=1 d=1 t=2074
+li3 mian4 you3 	裡面有	c=0 d=0.1 t=300
+li3 xue2 	李學	c=0 d=0.1 t=840
+li3 xue2 peng2 	李學朋	c=7 d=2.4306 t=1940
+li4 	例	c=1 d=1.09005 t=1166
+li4 	儷	c=1 d=1 t=1090
+li4 	利	c=1 d=1 t=1697
+li4 	力	c=0 d=0.1 t=2176
+li4 	立	c=1 d=1 t=1433
+li4 hai4 	厲害	c=0 d=0.10008 t=2199
+li4 hai4 la5 	厲害啦	c=1 d=1 t=2200
+li4 hai4 le5 ba5 	厲害了吧	c=4 d=1.03522 t=2185
+li4 qi4 	利器	c=0 d=0.1 t=704
+li4 ru2 	例如	c=1 d=1 t=1364
+li4 zi5 	例子	c=0 d=0.1 t=895
+lian2 	連	c=0 d=0.1 t=308
+lian2 ge5 	連個	c=0 d=0.1 t=334
+lian2 ge5 shu1 ru4 fa3 dou1 gao3 bu4 hao3 	連個輸入法都搞不好	c=1 d=1 t=335
+lian2 jia4 	廉價	c=0 d=0.1 t=494
+lian2 jie2 	連結	c=1 d=0.208811 t=1961
+lian2 jie2 de5 	連結的	c=1 d=1 t=1840
+lian2 luo4 wo3 men5 	聯絡我們	c=0 d=0.1 t=300
+lian2 shu1 ru4 shun4 xu4 dou1 ke3 yi3 bu2 an4 zhao4 zhu4 yin1 	連輸入順序都可以不按照注音	c=1 d=1 t=309
+lian4 tong2 pi4 	戀童癖	c=0 d=0.1 t=1275
+lian4 xi2 	練習	c=0 d=0.188692 t=1631
+liang3 bei4 	兩倍	c=0 d=0.1 t=574
+liang3 ci4 	兩次	c=0 d=0.1 t=1350
+liang3 ge5 	兩個	c=0 d=0.204921 t=2333
+liang3 ge5 li3 bai4 mai3 yi1 ci4 kou3 zhao4 	兩個禮拜買一次口罩	c=1 d=1 t=1238
+liang3 ge5 ren2 	兩個人	c=0 d=0.1 t=466
+liang3 li4 	兩例	c=0 d=0.1 t=1164
+liang3 tai2 	兩臺	c=0 d=0.1 t=1116
+liang3 tian1 	兩天	c=0 d=0.100037 t=1824
+liang3 tian1 qian2 	兩天前	c=1 d=1 t=244
+liang3 wei4 	兩位	c=0 d=0.0918512 t=2564
+liang3 wei4 de5 hua4 	兩位的話	c=1 d=0.923116 t=2564
+liang3 zhang1 	兩張	c=0 d=0.1 t=649
+liang4 	量	c=0 d=0.0540641 t=2564
+liang4 jin1 se4 	量金色	c=1 d=0.543351 t=2564
+ling2 ba1 	〇八	c=0 d=0.1 t=1674
+ling2 fen1 	零分	c=0 d=0.1 t=2344
+ling2 tou2 	零頭	c=0 d=0.1 t=2157
+ling4 wai4 	另外	c=3 d=1.04753 t=1363
+ling4 wai4 hai2 you3 shen2 me5 shui3 jing1 jian4 mao4 a1 	另外還有什麼水晶鍵帽阿	c=1 d=1 t=399
+ling4 yi1 ge5 	另一個	c=0 d=0.1 t=616
+liu2 cheng2 tu2 	流程圖	c=2 d=1.8233 t=2564
+liu2 lan3 qi4 	瀏覽器	c=1 d=1 t=2031
+liu2 luo4 	流落	c=0 d=0.1 t=971
+liu4 	六	c=1 d=0.0491644 t=2564
+liu4 dian3 	六點	c=0 d=0.0913931 t=2564
+long2 	龍	c=1 d=1 t=1435
+lu2 	爐	c=1 d=1 t=1559
+lu4 jing4 	路徑	c=0 d=0.19802 t=1965
+lu4 jing4 lai2 de5 	路徑來的	c=1 d=1 t=1966
+lu4 jing4 lian2 jie2 	路徑連結	c=1 d=1 t=1962
+lu4 you2 qi4 	路由器	c=2 d=2.14014 t=612
+lu4 you2 qi4 jia4 ge2 fei1 chang2 gao1 ang2 	路由器價格非常高昂	c=1 d=1 t=602
+luan2 	孿	c=2 d=1.96561 t=1708
+luan2 	巒	c=2 d=1.97531 t=1707
+luan2 	攣	c=2 d=1.97045 t=1709
+luan4 	亂	c=0 d=0.1 t=2074
+luan4 cheng2 	亂成	c=0 d=0.1 t=879
+luan4 ma3 	亂碼	c=0 d=0.1 t=1026
+luan4 shuo1 	亂說	c=0 d=0.1 t=2537
+lun4 wen2 	論文	c=1 d=1.00172 t=1764
+luo2 ji2 	邏輯	c=0 d=0.100135 t=2430
+luo2 li4 kong4 	蘿莉控	c=0 d=0.1 t=1277
+luo4 	落	c=1 d=1 t=1673
+luo5 	囉	c=0 d=0.102916 t=2247
+lv3 he2 jin1 	鋁合金	c=0 d=0.1 t=721
+ma1 	媽	c=0 d=0.149659 t=1264
+ma2 	麻	c=0 d=0.1 t=2255
+ma2 fan2 	麻煩	c=1 d=0.99005 t=2564
+ma2 fan2 si3 le5 	麻煩死了	c=1 d=1 t=2256
+ma3 	碼	c=2 d=0.496585 t=2564
+ma3 	馬	c=1 d=1.099 t=632
+ma3 biao3 	碼錶	c=0 d=0.0484325 t=2564
+ma3 shi4 	馬士	c=0 d=0.1 t=269
+ma4 	罵	c=0 d=0.215326 t=2528
+ma4 de5 	罵的	c=0 d=0.1 t=1819
+ma5 	嗎	c=1 d=0.172966 t=2564
+mai3 	買	c=1 d=1.13899 t=2564
+mai3 bu4 qi3 	買不起	c=0 d=0.1 t=1100
+mai3 de5 	買的	c=0 d=0.1 t=525
+mai3 ge5 	買個	c=1 d=0.951229 t=2564
+mai3 ge5 ji1 tui3 chou4 le5 ma5 	買個雞腿臭了嗎	c=1 d=1 t=1958
+mai3 hao3 	買好	c=0 d=0.1 t=2157
+mai3 ke3 le4 	買可樂	c=1 d=1 t=2524
+mai3 kou3 zhao4 la5 	買口罩啦	c=1 d=1 t=1237
+mai3 le5 	買了	c=0 d=0.177105 t=2378
+mai3 xia4 	買下	c=0 d=0.0932394 t=2564
+mai3 xia4 qu4 a1 	買下去阿	c=1 d=0.937067 t=2564
+mai3 zhe4 ge5 gan4 ma2 	買這個幹嘛	c=1 d=0.932394 t=2564
+mai4 	賣	c=1 d=0.517958 t=2374
+mai4 dang1 lao2 	麥當勞	c=0 d=0.1 t=461
+mai4 dang1 lao2 huan1 le4 song4 	麥當勞歡樂送	c=1 d=1 t=462
+man2 	蠻	c=2 d=1.97093 t=1710
+man2 diao3 de5 ye1 	蠻屌的耶	c=1 d=1 t=1373
+man2 hao3 	蠻好	c=0 d=0.111304 t=1850
+man2 kuai4 	蠻快	c=0 d=0.0965605 t=2564
+man2 meng3 de5 	蠻猛地	c=1 d=1 t=506
+man2 pian2 yi2 de5 	蠻便宜的	c=1 d=1 t=511
+man4 a1 	慢阿	c=1 d=1 t=1216
+man4 man4 	慢慢	c=0 d=0.1 t=293
+me5 	麼	c=0 d=0.0425283 t=2564
+mei2 	沒	c=3 d=0.579848 t=2564
+mei2 ba5 	沒吧	c=1 d=1 t=2392
+mei2 ban4 fa3 	沒辦法	c=0 d=0.0527292 t=2564
+mei2 bao3 gu4 a1 	沒保固阿	c=1 d=1 t=512
+mei2 chu1 qu4 	沒出去	c=0 d=0.1 t=1940
+mei2 cuo4 	沒錯	c=0 d=0.1 t=1525
+mei2 de2 	沒得	c=0 d=0.1 t=2419
+mei2 deng1 ru4 	沒登入	c=2 d=1.94649 t=1186
+mei2 gan3 jue2 	沒感覺	c=1 d=1 t=2119
+mei2 guan1 xi4 	沒關係	c=0 d=0.10367 t=1191
+mei2 gui1 	玫瑰	c=0 d=0.128417 t=2564
+mei2 gui1 jin1 	玫瑰金	c=2 d=1.1004 t=2564
+mei2 hui2 qu4 	沒回去	c=0 d=0.1 t=1798
+mei2 jin4 qu4 	沒進去	c=0 d=0.1 t=1956
+mei2 nian4 	沒念	c=0 d=0.1 t=2358
+mei2 qian2 	沒錢	c=0 d=0.1 t=1107
+mei2 ren2 	沒人	c=0 d=0.1 t=2331
+mei2 ren2 de2 bing4 ma5 	沒人得病嗎	c=1 d=1 t=2332
+mei2 sha2 	沒啥	c=0 d=0.1 t=236
+mei2 shi4 	沒事	c=0 d=0.188692 t=2148
+mei2 shi4 er1 	沒事兒	c=1 d=0.349075 t=2477
+mei2 shi4 er1 mei2 shi4 er1 	沒事兒沒事兒	c=1 d=1 t=2478
+mei2 si3 	沒死	c=0 d=0.1 t=2438
+mei2 xiang4 	沒像	c=0 d=0.1 t=2320
+mei2 yao4 	沒藥	c=0 d=0.1 t=1000
+mei2 yong4 de5 	沒用的	c=1 d=1 t=1450
+mei2 you3 	沒有	c=2 d=0.246728 t=2564
+mei2 you3 a1 	沒有阿	c=4 d=1.89691 t=2361
+mei2 you3 ba2 	沒有拔	c=1 d=0.843665 t=2564
+mei2 you3 mei3 ge5 an4 jian4 de5 	沒有每個按鍵的	c=1 d=1 t=471
+mei2 you3 nei4 jian4 	沒有內建	c=1 d=1 t=1023
+mei2 you3 ren2 	沒有人	c=0 d=0.1 t=1474
+mei2 you3 ren2 zai4 hu1 ni3 	沒有人在乎你	c=1 d=1 t=1475
+mei2 you3 wen4 ti2 	沒有問題	c=0 d=0.1 t=2138
+mei2 you3 yao4 dai4 zhe5 bi3 dian4 pao3 	沒有要帶着筆電跑	c=1 d=1 t=276
+mei2 zai4 	沒在	c=1 d=1.02482 t=2472
+mei2 zai4 jing3 shi4 dian3 ying1 gai1 bu2 hui4 bei4 ge2 li2 ba5 	沒在警示點應該不會被隔離吧	c=1 d=1 t=1951
+mei2 zuo4 yong4 	沒作用	c=2 d=1.96079 t=790
+mei3 	每	c=0 d=0.259309 t=1242
+mei3 ci4 	每次	c=0 d=0.1 t=1454
+mei3 ci4 xiu1 gai3 wan2 	每次修改完	c=1 d=1 t=1455
+mei3 gan3 	美感	c=0 d=0.1 t=306
+mei3 ge5 	每個	c=0 d=0.1 t=470
+mei3 ge5 ren2 	每個人	c=0 d=0.1 t=369
+mei3 ge5 ren2 shi3 yong4 jian4 pan2 de5 xi2 guan4 dou1 bu4 yi1 yang4 	每個人使用鍵盤的習慣都不一樣	c=1 d=1 t=370
+mei3 liang3 ge5 li3 bai4 	每兩個禮拜	c=1 d=1 t=1243
+mei3 yi1 ge5 	每一個	c=0 d=0.1 t=963
+mei3 yuan2 	美元	c=0 d=0.1 t=1786
+mei3 yuan2 kang4 bi3 dian4 	美元抗筆電	c=1 d=1 t=1787
+mei4 zi5 	妹子	c=0 d=0.1 t=2304
+men2 kou3 	門口	c=0 d=0.1 t=1132
+men5 	們	c=0 d=0.1 t=1131
+meng3 de5 	猛地	c=0 d=0.1 t=505
+meng4 li3 	夢裏	c=0 d=0.1 t=2521
+meng4 li3 huan4 xiang3 shen2 me5 jia1 jiao4 lao3 shi1 	夢裏幻想什麼家教老師	c=1 d=1 t=2522
+mi1 	咪	c=0 d=0.190032 t=829
+mi2 	迷	c=0 d=0.1 t=1829
+mi4 	密	c=1 d=1 t=1715
+mi4 feng1 	蜜蜂	c=1 d=1 t=1530
+mi4 mi4 	祕密	c=1 d=1 t=1717
+mi4 yu3 mi4 	密與密	c=1 d=0.882497 t=2564
+mian3 fei4 	免費	c=1 d=1.00433 t=1504
+mian3 fei4 ruan3 ti3 	免費軟體	c=1 d=1 t=1030
+mian4 de5 	面的	c=1 d=1.0001 t=1961
+miao3 	秒	c=0 d=0.1 t=2412
+miao3 guang3 gao4 	秒廣告	c=1 d=1 t=2413
+mie1 	咩	c=0 d=0.100295 t=1424
+min2 jin4 dang3 	民進黨	c=0 d=0.1 t=454
+ming2 ming2 	明明	c=0 d=0.1 t=1514
+ming2 tian1 	明天	c=0 d=0.261856 t=2564
+ming2 tian1 gen1 wo3 jiang3 shi2 jian1 	明天跟我講時間	c=1 d=0.873716 t=2564
+ming2 tian1 ji3 dian3 	明天幾點	c=1 d=0.839457 t=2564
+ming2 xian3 	明顯	c=0 d=0.1 t=654
+mo2 ban3 	模板	c=3 d=1.1703 t=1841
+mo2 ni3 	模擬	c=0 d=0.125052 t=2176
+mo2 shi4 	模式	c=0 d=0.0895834 t=2564
+mo4 	末	c=1 d=1 t=1584
+mo4 ming2 qi2 miao4 	莫名其妙	c=0 d=0.1 t=2408
+mu3 zhi3 	拇指	c=0 d=0.194176 t=649
+mu3 zhi3 gui3 ji1 qiu2 	拇指軌跡球	c=1 d=1 t=638
+mu4 chang3 wu4 yu3 	牧場物語	c=1 d=1 t=1804
+mu4 qian2 	目前	c=0 d=0.100066 t=2048
+mu4 qian2 yi3 jing1 kai1 shi3 you3 	目前已經開始有	c=1 d=1 t=585
+na2 	拿	c=0 d=0.1 t=1380
+na2 lai2 	拿來	c=0 d=0.1 t=431
+na2 lu3 dou3 	拿魯抖	c=1 d=1 t=2453
+na2 qi3 lai2 	拿起來	c=0 d=0.1 t=682
+na2 qu4 	拿去	c=0 d=0.1 t=1391
+na2 ta1 	拿她	c=0 d=0.1 t=796
+na2 ta1 de5 ge2 shi4 lai2 gai3 hao3 le5 	拿她的格式來改好了	c=1 d=1 t=797
+na3 ge5 	哪個	c=1 d=1.00001 t=2307
+na3 lai2 	哪來	c=0 d=0.0794534 t=2564
+na3 lai2 zhe4 zhong3 dong1 xi1 	哪來這種東西	c=1 d=0.798516 t=2564
+na3 li3 	哪裏	c=0 d=0.0923116 t=2564
+na3 yi1 	那一	c=0 d=0.1 t=2307
+na3 you3 	哪有	c=0 d=0.102495 t=1385
+na3 you3 ke3 neng2 	哪有可能	c=1 d=1 t=1386
+na3 you3 na3 ge5 bi3 jiao4 hao3 na3 ge5 bi3 jiao4 cha1 de5 cha1 bie2 	哪有哪個比較好哪個比較差得差別	c=1 d=1 t=500
+na4 	那	c=0 d=0.134796 t=2564
+na4 bian1 	那邊	c=0 d=0.175726 t=2564
+na4 bian1 bu3 	那邊補	c=1 d=1 t=1382
+na4 chi1 zhe4 ge5 ba5 	那吃這個吧	c=1 d=0.83527 t=2564
+na4 duan4 	那段	c=0 d=0.1 t=396
+na4 gai3 le5 	那改了	c=1 d=1 t=303
+na4 gan1 cui4 quan2 dou1 bie2 zuo4 	那乾脆全都別做	c=1 d=1 t=281
+na4 gan1 wo3 pi4 shi4 	那乾我屁事	c=1 d=1 t=346
+na4 ge5 	那個	c=1 d=1.07958 t=2323
+na4 ge5 shi4 	那個是	c=1 d=1 t=2389
+na4 jiu4 	那就	c=0 d=0.147603 t=2247
+na4 jiu4 shi3 yong4 zheng3 ge5 	那就使用整個	c=1 d=1 t=1325
+na4 jiu4 shi4 	那就是	c=1 d=1 t=1319
+na4 jiu4 zhe4 yang4 le5 	那就這樣了	c=1 d=1 t=2095
+na4 jiu4 zhe4 yang4 luo5 	那就這樣囉	c=1 d=1 t=2248
+na4 jiu4 zhi3 hao3 	那就只好	c=1 d=1 t=820
+na4 ju4 	那句	c=0 d=0.1 t=448
+na4 me5 	那麼	c=0 d=0.111025 t=977
+na4 me5 chang2 	那麼長	c=1 d=1 t=383
+na4 me5 duo1 	那麼多	c=0 d=0.1 t=2170
+na4 me5 shou3 ji1 shang4 de5 	那麼手機上的	c=1 d=1 t=537
+na4 me5 shou3 xian1 jiu4 bu4 neng2 tiao4 guo4 	那麼首先就不能跳過	c=1 d=1 t=978
+na4 sai4 dui4 	那賽隊	c=1 d=1 t=1458
+na4 tian1 	那天	c=0 d=0.1 t=1111
+na4 tian1 wo3 jing1 guo4 	那天我經過	c=1 d=1 t=1112
+na4 wen4 ya3 lun2 	那問雅倫	c=1 d=1 t=889
+na4 wo3 ye3 mei2 ban4 fa3 	那我也沒辦法	c=3 d=1.96871 t=2485
+na4 wo3 zai4 zhao3 zhao3 hao3 le5 	那我在找找好了	c=1 d=0.519442 t=2564
+na4 xie1 	那些	c=0 d=0.1 t=245
+na4 yang4 	那樣	c=1 d=1.00665 t=994
+na4 ye3 	那也	c=0 d=0.1 t=1540
+na4 ye3 mei2 ban4 fa3 luo5 	那也沒辦法囉	c=1 d=1 t=1541
+na4 zhang1 	那張	c=0 d=0.112063 t=1514
+na4 zhang1 tu2 wo3 zheng3 ge5 wen4 hao4 	那張圖我整個問號	c=1 d=1 t=1092
+na4 zhong3 	那種	c=0 d=0.1 t=2389
+nai3 	乃	c=1 d=1 t=767
+nai3 nai3 	奶奶	c=0 d=0.289776 t=2438
+nai3 nai3 bu2 rang4 ni3 da3 lan2 qiu2 	奶奶不讓你打籃球	c=1 d=1 t=2427
+nai3 nai3 jiu4 mei2 si3 	奶奶就沒死	c=1 d=1 t=2439
+nan2 chi1 	難吃	c=1 d=1 t=1129
+nan2 da4 	南大	c=0 d=0.100049 t=2355
+nan2 da4 nian4 dao4 	南大唸到	c=1 d=1 t=2356
+nan2 dao4 	難道	c=0 d=0.100752 t=2166
+nan2 dao4 shi4 mai3 ge5 jia3 de5 	難道是買個假的	c=1 d=1 t=1189
+nan2 guai4 	難怪	c=1 d=1 t=2355
+nan2 kan4 	難看	c=1 d=1 t=1905
+nan2 peng2 you3 	男朋友	c=0 d=0.1 t=1276
+nan2 yong4 	難用	c=0 d=0.0447088 t=2564
+nan2 yong4 de5 kan4 fa3 	難用的看法	c=1 d=1 t=942
+nan2 yong4 wo3 jiu4 pen1 qi3 lai2 	難用我就噴起來	c=1 d=1 t=1218
+ne5 	呢	c=0 d=0.186502 t=653
+nei4 jian4 	內建	c=0 d=0.109417 t=1022
+nei4 jian4 de5 bu2 hui4 ji4 yi4 ni3 chang2 yong4 de5 zi4 	內建的不會記憶你常用的字	c=1 d=1 t=339
+nei4 jian4 de5 hao3 yong4 duo1 le5 	內建的好用多了	c=1 d=1 t=326
+nei4 jian4 na4 shen2 me5 la4 ji1 	內建那什麼辣雞	c=1 d=1 t=327
+nei4 rong2 	內容	c=4 d=2.85726 t=2113
+nei4 wen2 	內文	c=0 d=0.1 t=2259
+nei4 wen2 dou1 chu4 kong4 ban3 chuo1 ban4 tian1 	內文都觸控板戳半天	c=1 d=1 t=2260
+neng2 	能	c=0 d=0.208252 t=2275
+neng2 qu4 	能去	c=0 d=0.1 t=2374
+neng2 yong4 	能用	c=0 d=0.100752 t=2224
+neng2 yong4 ma5 	能用嗎	c=1 d=1 t=1247
+neng2 zai4 	能在	c=0 d=0.1 t=1968
+ni3 	你	c=2 d=0.800831 t=2564
+ni3 	妳	c=1 d=0.769021 t=2374
+ni3 ba3 	你把	c=1 d=1 t=1095
+ni3 ba4 	你爸	c=0 d=0.1 t=2353
+ni3 bu2 neng2 qu4 mai4 pi4 gu3 le5 	妳不能去賣屁股了	c=1 d=1 t=2375
+ni3 bu2 shi4 	你不是	c=0 d=0.100045 t=1794
+ni3 bu2 shi4 yao4 zai4 tai2 zhong1 	你不是要在臺中	c=1 d=1 t=1795
+ni3 bu2 shi4 ye3 xue2 le5 hen3 wan3 duo1 	你不是也學了很晚多	c=1 d=1 t=253
+ni3 bu2 yao4 luan4 shuo1 	你不要亂說	c=1 d=1 t=2538
+ni3 bu2 yong4 jie3 shi4 le5 	你不用解釋了	c=1 d=1 t=1449
+ni3 cai1 dui4 ji3 ti2 jiu4 ying2 le5 	妳猜對幾題就贏了	c=1 d=1 t=2346
+ni3 cai2 hui4 	你才會	c=0 d=0.1 t=2185
+ni3 chi1 shi3 	你吃屎	c=1 d=1 t=2483
+ni3 da3 	你打	c=0 d=0.1 t=2426
+ni3 dang1 	你當	c=0 d=0.1 t=2207
+ni3 dang1 qiu2 	你當球	c=1 d=1 t=2208
+ni3 de5 	你的	c=1 d=0.109763 t=2241
+ni3 deng3 deng3 qu4 ba3 ta1 jian4 pan2 chu2 le5 	妳等等去把它鍵盤除了	c=1 d=1 t=2269
+ni3 dian4 nao3 li3 you3 de5 zi4 ti3 	你電腦裡有的字體	c=1 d=1 t=1405
+ni3 dou1 	你都	c=0 d=0.1 t=2196
+ni3 gan4 a1 ma4 de5 dang1 ran2 you3 shi2 jian1 	妳幹阿罵的當然有時間	c=1 d=1 t=1820
+ni3 gang1 gang1 hua4 de5 ba5 	你剛剛畫的吧	c=1 d=0.694197 t=2564
+ni3 gao3 	你搞	c=0 d=0.1 t=2278
+ni3 jia1 	你家	c=0 d=0.1 t=2349
+ni3 jian4 pan2 huai2 diao4 	你鍵盤懷掉	c=1 d=1 t=1187
+ni3 jiu4 	你就	c=0 d=0.155711 t=2341
+ni3 jiu4 shao3 le5 hen3 duo1 di2 ren2 le5 	你就少了很多敵人了	c=1 d=1 t=2342
+ni3 jiu4 you3 zheng4 ban3 neng2 yong4 le5 	你就有正版能用了	c=1 d=1 t=2225
+ni3 jue2 de5 	你覺得	c=0 d=0.109395 t=2125
+ni3 jue2 de5 wo3 zuo4 zhe4 yang4 ke3 yi3 ma5 	你覺得我做這樣可以嗎	c=1 d=1 t=1653
+ni3 kan4 	你看	c=0 d=0.1 t=309
+ni3 kan4 wo3 yi1 zhi2 dou1 zai4 hei1 ping2 guo3 a1 	你看我一直都在黑蘋果阿	c=1 d=1 t=1214
+ni3 kan4 zui4 hou4 na4 ge5 niu2 na4 ge5 zhu4 yin1 	你看最後那個牛那個注音	c=1 d=1 t=310
+ni3 ke3 yi3 mai3 	你可以買	c=1 d=1 t=874
+ni3 man4 man4 kan4 a1 	你慢慢看阿	c=1 d=1 t=294
+ni3 sheng1 huo2 zhong1 you3 ren4 shi4 you3 lian4 tong2 pi4 de5 ren2 ma5 	你生活中有認識有戀童癖的人嗎	c=1 d=1 t=1276
+ni3 sheng3 xia4 	妳省下	c=1 d=1 t=2250
+ni3 shi4 	你是	c=0 d=0.1 t=2323
+ni3 shi4 shi4 kan4 	妳試試看	c=1 d=1 t=2233
+ni3 shuo1 de5 	你說的	c=0 d=0.1 t=2320
+ni3 ta1 ma1 shi4 zhi4 zhang4 ma5 	你他媽是智障嗎	c=1 d=1 t=2481
+ni3 ta1 ma1 zhe4 me5 ren4 zhen1 gan4 ma2 	你他媽這麼認真幹嘛	c=1 d=1 t=525
+ni3 tong2 shi4 	你同事	c=1 d=1 t=504
+ni3 tong2 shi4 shen1 ti3 bu4 hao3 ni4 	你同事身體不好膩	c=1 d=1 t=290
+ni3 tong2 xue2 	你同學	c=1 d=1 t=887
+ni3 xia4 dan1 le5 nan2 dao4 neng2 bu2 zuo4 ma5 	妳下單了難道能不做嗎	c=1 d=1 t=2167
+ni3 yao4 	你要	c=0 d=0.171177 t=329
+ni3 yao4 bang1 ren2 jia1 kan4 xian1 zhi1 dao4 ren2 jia1 de5 xu1 qiu2 a1 gan4 	你要幫人家看先知道人家的需求阿幹	c=1 d=1 t=262
+ni3 yao4 qiu2 dian4 nao3 gen1 shou3 ji1 yi1 yang4 hui4 bu2 hui4 guo4 fen4 	你要球電腦跟手機一樣會不會過分	c=1 d=1 t=330
+ni3 ye3 	你也	c=0 d=0.1 t=771
+ni3 ye3 ke3 yi3 qu4 liu2 yan2 shuo1 ni3 tian1 tian1 gen1 dou1 a1 ma4 kao1 kao1 zuo4 ai4 a1 	你也可以去留言說你天天跟都阿罵尻尻做愛阿	c=1 d=1 t=772
+ni3 yi1 	你一	c=0 d=0.1 t=2446
+ni3 yi3 jing1 zuo4 le5 a1 	妳已經做了阿	c=1 d=1 t=2144
+ni3 you3 	你有	c=0 d=0.129087 t=2564
+ni3 you3 mei2 you3 ba1 ma3 de5 se4 ma3 biao3 	你有沒有八碼的色碼錶	c=1 d=0.486752 t=2564
+ni3 you3 xia4 zai3 shi4 yong4 le5 	你有下載試用了	c=1 d=1 t=2221
+ni3 you3 xiang3 chi1 shen2 me5 ma5 	你有想吃什麼嗎	c=1 d=0.810584 t=2564
+ni3 you3 zai4 zuo4 bao4 gao4 	你有在做報告	c=1 d=1 t=2442
+ni3 you3 zhe4 yang4 ma5 	你有這樣嗎	c=1 d=1 t=1179
+ni3 zhao3 	你找	c=0 d=0.1 t=1435
+ni3 zhao3 a1 ma4 dang1 ran2 pian2 yi2 	你找阿罵當然便宜	c=1 d=1 t=1436
+ni3 zhe4 ge5 mei2 xie3 	你這個沒寫	c=1 d=1 t=285
+ni3 zi4 ji3 	你自己	c=0 d=0.0774916 t=2564
+ni3 zi4 ji3 de5 zi1 liao4 jia2 	你自己的資料夾	c=1 d=0.778801 t=2564
+ni3 zi4 ji3 zhao3 lai2 kan4 a1 	你自己找來看阿	c=1 d=1 t=255
+ni4 	膩	c=0 d=0.0843665 t=2564
+ni4 guang1 	逆光	c=1 d=1.09005 t=1859
+ni4 guang1 ge1 ci2 	逆光歌詞	c=1 d=1 t=1860
+nian2 	年	c=3 d=1.97086 t=2092
+nian2 fan1 	年番	c=1 d=1 t=1774
+nian2 ji4 	年紀	c=1 d=1 t=596
+nian4 	唸	c=1 d=1.01393 t=2361
+nian4 dao4 	唸到	c=0 d=0.1 t=2355
+nian4 san1 xiao3 yan2 jiu4 suo3 	唸三小研究所	c=1 d=1 t=2362
+nin2 hao3 	您好	c=1 d=0.913931 t=2564
+niu2 	牛	c=1 d=1.00107 t=2352
+nong2 chang3 	農場	c=0 d=0.1 t=1804
+nong2 chang3 wu4 yu3 	農場物語	c=1 d=1 t=1805
+nong2 mi4 	濃密	c=1 d=1 t=1719
+nong4 cheng2 	弄成	c=0 d=0.1 t=433
+nv3 	女	c=1 d=1 t=2514
+nv3 ren2 	女人	c=0 d=0.1 t=1829
+nv3 ren2 mi2 	女人迷	c=1 d=1 t=1830
+o1 	喔	c=2 d=1.16894 t=2515
+o1 	噢	c=0 d=0.1 t=287
+o1 gan4 	喔幹	c=1 d=1 t=2499
+o1 o1 	喔喔	c=1 d=1 t=273
+o1 o1 	噢噢	c=5 d=0.826959 t=2564
+o1 shi4 o1 	喔是喔	c=2 d=1.01448 t=2323
+ou4 	慪	c=0 d=0.1 t=1293
+pa4 	怕	c=0 d=0.194649 t=1391
+pa4 shi4 	怕是	c=0 d=0.1 t=2158
+pa4 shi4 hui4 dang1 chang3 bei4 da3 cheng2 zhu1 tou2 	怕是會當場被打成豬頭	c=1 d=1 t=2159
+pai2 xian3 	排險	c=0 d=0.1 t=1072
+pai4 	派	c=0 d=0.1 t=2522
+pan2 zi5 	盤子	c=0 d=0.1 t=919
+pan4 duan4 	判斷	c=0 d=0.1 t=312
+pan4 tu2 	叛徒	c=0 d=0.1 t=1943
+pang2 bian1 	旁邊	c=0 d=0.1 t=1135
+pang4 	胖	c=0 d=0.1 t=264
+pang4 ye4 wei3 	胖頁尾	c=1 d=1 t=265
+pao3 	跑	c=0 d=0.368793 t=292
+pao3 diao4 	跑掉	c=0 d=0.1 t=2120
+pao3 qu4 	跑去	c=0 d=0.146169 t=2512
+pao3 qu4 chi1 jiu4 shi4 mei2 su4 zhi2 	跑去吃就是沒素質	c=1 d=1 t=1128
+pao3 qu4 tai2 bei3 	跑去臺北	c=1 d=1 t=2358
+pao4 mian4 	泡麵	c=1 d=1 t=744
+pei4 	珮	c=0 d=0.1 t=1346
+pei4 he2 	配合	c=1 d=1 t=1311
+pei4 jian4 	配件	c=1 d=1 t=356
+pen1 	噴	c=0 d=0.1 t=2319
+pen1 qi3 lai2 	噴起來	c=0 d=0.1 t=1217
+pen1 zi5 	噴子	c=1 d=1 t=1204
+peng2 	朋	c=0 d=0.1 t=840
+peng2 you3 	朋友	c=0 d=0.1 t=2326
+pi1 	披	c=2 d=2.07382 t=1550
+pi2 	疲	c=2 d=2.07431 t=1549
+pi2 fu1 	皮膚	c=1 d=0.056836 t=2564
+pi2 pi1 po4 bo1 po1 	疲披破波坡	c=3 d=2.91708 t=1560
+pi4 	屁	c=0 d=0.119484 t=2155
+pi4 gu3 	屁股	c=0 d=0.1 t=2374
+pi4 hua4 	屁話	c=0 d=0.1 t=2267
+pi4 ru2 	譬如	c=1 d=1 t=404
+pi4 shi4 	屁事	c=0 d=0.110034 t=2314
+pian1 	篇	c=0 d=0.1 t=1377
+pian1 wen2 zhang1 	篇文章	c=0 d=0.1 t=893
+pian1 you3 	偏有	c=0 d=0.1 t=2113
+pian2 yi2 	便宜	c=0 d=0.256174 t=2387
+pian2 yi2 la5 	便宜啦	c=1 d=1 t=2388
+pian2 yi2 lian2 jia4 de5 	便宜廉價的	c=1 d=1 t=495
+pian4 	片	c=2 d=1.9802 t=1202
+pian4 wo3 	騙我	c=0 d=0.0694197 t=2564
+piao4 	票	c=1 d=1 t=1768
+pie3 	撇	c=0 d=0.1 t=915
+pie3 chu2 diao4 gao1 ang2 de5 jia4 ge2 	撇除掉高昂的價格	c=1 d=1 t=916
+pin1 yin1 	拼音	c=1 d=1 t=343
+pin2 duan4 	頻段	c=3 d=2.93032 t=582
+pin2 duan4 kuai4 	頻段快	c=1 d=1 t=558
+pin2 lv4 	頻率	c=0 d=0.1 t=562
+pin2 pu3 	頻譜	c=1 d=1 t=570
+pin3 zhen1 	品蓁	c=1 d=0.484325 t=2564
+ping1 pang1 	乒乓	c=5 d=2.00031 t=2189
+ping1 pang1 qiu2 	乒乓球	c=0 d=0.1 t=1915
+ping2 chang2 	平常	c=0 d=0.1 t=677
+ping2 guo3 	蘋果	c=1 d=1.12688 t=1213
+ping2 guo3 wan2 shan4 de5 sheng1 tai4 quan1 	蘋果完善的生態圈	c=1 d=1 t=924
+ping2 liang2 	評量	c=0 d=0.0873716 t=2564
+ping2 tai2 	平臺	c=0 d=0.1 t=1351
+po1 	坡	c=2 d=2.06749 t=1553
+po4 	破	c=1 d=1.09618 t=1551
+po4 bo1 	破波	c=1 d=1.09501 t=1547
+po4 feng1 	破風	c=1 d=1 t=1812
+po4 fou1 	破不	c=1 d=1 t=1811
+po4 jie3 ban3 	破解版	c=0 d=0.1 t=2254
+po4 jie3 ban3 hai2 yao4 zhao3 	破解版還要找	c=1 d=1 t=2255
+po4 shi4 	破事	c=0 d=0.1 t=1519
+po4 shi4 yi1 dui1 	破事一堆	c=1 d=1 t=1520
+po4 ying2 mu4 	破螢幕	c=1 d=1 t=1145
+pu3 tong1 	普通	c=0 d=0.1 t=627
+qi1 	期	c=0 d=0.1 t=1674
+qi1 ling2 	七零	c=1 d=1 t=1676
+qi1 ling2 ba1 san4 	期〇八散	c=1 d=1 t=1675
+qi2 	奇	c=0 d=0.1 t=2409
+qi2 huo4 	期貨	c=0 d=0.1 t=2160
+qi2 kan1 	期刊	c=0 d=0.197045 t=2092
+qi2 kan1 de5 	期刊的	c=1 d=1 t=2087
+qi2 kan1 xian3 shi4 gen1 du2 qu3 	期刊顯示跟讀取	c=1 d=1 t=2093
+qi2 shi2 	其實	c=0 d=0.12624 t=1301
+qi2 shi2 jiu4 suan4 an1 zhuang1 le5 	其實就算安裝了	c=1 d=1 t=1017
+qi2 shi2 shang4 mian4 na4 duan4 zhi3 shi4 wei4 le5 lai2 shuo1 jian4 mao4 	其實上面那段只是爲了來說鍵帽	c=1 d=1 t=397
+qi2 ta1 	其他	c=0 d=0.1 t=370
+qi2 ta1 	其它	c=1 d=0.98692 t=2425
+qi2 ta1 ren2 	其他人	c=0 d=0.0918512 t=2564
+qi2 ta1 wen4 ti2 	其它問題	c=0 d=0.1 t=2149
+qi2 yi4 	奇異	c=0 d=0.1 t=1778
+qi3 lai2 	起來	c=1 d=0.0421052 t=2564
+qi3 tiao4 	起跳	c=0 d=0.1 t=603
+qi4 	器	c=1 d=1 t=614
+qi4 hua4 	企劃	c=0 d=0.1 t=741
+qi4 hua4 zhong1 jie2 	企劃終結	c=1 d=1 t=742
+qian1 fan1 	千翻	c=1 d=1.09501 t=1908
+qian1 fan1 er2 	千翻兒	c=1 d=1 t=1909
+qian1 ru4 	嵌入	c=0 d=0.1 t=2102
+qian2 	前	c=1 d=0.101356 t=2549
+qian2 	錢	c=1 d=0.218805 t=1225
+qian2 mai3 	錢買	c=0 d=0.1 t=1151
+qian2 mai3 yi1 dui1 	錢買一堆	c=1 d=1 t=1152
+qian2 mian4 	前面	c=0 d=0.1 t=973
+qian2 mian4 de5 fei4 hua4 yi3 jing1 shuo1 gou4 le5 	前面的廢話已經說夠了	c=1 d=1 t=974
+qian2 tian1 	前天	c=1 d=1 t=2310
+qian3 se4 	淺色	c=0 d=0.198511 t=436
+qiao1 da3 	敲打	c=0 d=0.1 t=401
+qiao1 da3 de5 shi2 jian1 	敲打的時間	c=1 d=1 t=402
+qiao2 	瞧	c=0 d=0.1 t=2470
+qie1 huan4 	切換	c=0 d=0.19802 t=869
+qie3 	且	c=2 d=1.91851 t=573
+qin1 mi4 	親密	c=1 d=1 t=1716
+qin1 shou3 	親手	c=0 d=0.1 t=368
+qing1 qiao3 	輕巧	c=0 d=0.1 t=956
+qing3 	請	c=0 d=0.1 t=2173
+qing3 da4 jia1 	請大家	c=0 d=0.1 t=906
+qing3 dao4 	請到	c=1 d=1 t=819
+qing3 jia4 	請假	c=0 d=0.1 t=2518
+qing3 wen4 	請問	c=0 d=0.211854 t=1245
+qing3 wen4 da4 jia1 she4 ding4 shi2 you3 yu4 dao4 zhe4 zhong3 qing2 kuang4 ma5 	請問大家設定時有遇到這種情況嗎	c=1 d=1 t=1084
+qing3 wen4 di4 san1 li4 	請問第三例	c=1 d=1 t=1167
+qing3 wen4 zhe4 ge5 xu4 hao4 	請問這個序號	c=1 d=1 t=1246
+qiu1 hai3 tang2 	秋海棠	c=0 d=0.1 t=457
+qiu1 sen1 	秋森	c=1 d=1 t=1473
+qiu2 	球	c=0 d=0.100138 t=2207
+qiu2 de5 	球的	c=0 d=0.1 t=648
+qu3 xiao1 	取消	c=1 d=1 t=2558
+qu4 	去	c=1 d=0.155585 t=2564
+qu4 ba3 	去把	c=0 d=0.169768 t=2340
+qu4 ba3 da4 jia1 kou3 zhao4 che3 diao4 	去把大家口罩扯掉	c=1 d=1 t=2341
+qu4 cai1 	去猜	c=1 d=1 t=1784
+qu4 de2 	去得	c=0 d=0.1 t=2305
+qu4 gan4 	去幹	c=0 d=0.1 t=2196
+qu4 liu2 	去留	c=0 d=0.1 t=771
+qu4 mai3 	去買	c=0 d=0.127665 t=2212
+qu4 xie3 	去寫	c=1 d=1 t=2078
+qu4 zhao3 	去找	c=0 d=0.1 t=295
+qu4 zuo4 	去做	c=0 d=0.1 t=1380
+quan2 bu4 	全部	c=0 d=0.179187 t=813
+quan2 bu4 nei4 rong2 	全部內容	c=0 d=0.100261 t=2004
+quan2 bu4 nei4 rong2 di3 xia4 de5 	全部內容底下的	c=1 d=1 t=2005
+quan2 dou1 	全都	c=0 d=0.100011 t=2100
+quan2 dou1 shi3 yong4 	全都使用	c=1 d=1 t=2101
+quan2 shi4 jie4 	全世界	c=0 d=0.1 t=2173
+quan2 zhang3 	全掌	c=2 d=1.01912 t=1471
+que1 dian3 	缺點	c=0 d=0.148432 t=577
+que4 ding4 	確定	c=1 d=0.869358 t=2564
+que4 ding4 la5 	確定啦	c=1 d=1 t=2458
+que4 ding4 li2 kai1 ben3 xi4 tong3 	確定離開本系統	c=1 d=1 t=1482
+que4 ding4 mei2 shi4 wo3 jiu4 geng1 xin1 	確定沒事我就更新	c=1 d=1 t=2149
+que4 ding4 you3 fen1 	確定有分	c=1 d=1 t=2459
+ran2 	然	c=0 d=0.1 t=671
+ran2 hou4 	然後	c=2 d=0.0810584 t=2564
+ran2 hou4 duan4 wang3 	然後斷網	c=1 d=1 t=2223
+ran2 hou4 lei1 	然後嘞	c=1 d=1 t=247
+ran2 hou4 zi4 ji3 she4 ding4 	然後自己設定	c=1 d=0.814647 t=2564
+ran2 mei2 	燃煤	c=0 d=0.1 t=2194
+ran3 yin4 	染印	c=0 d=0.1 t=424
+re4 xie3 	熱血	c=0 d=0.1 t=2448
+ren2 	人	c=0 d=0.200949 t=2365
+ren2 cai2 	人才	c=1 d=1 t=2544
+ren2 gou4 ma5 	人夠嗎	c=1 d=1 t=599
+ren2 hua4 	人話	c=0 d=0.1 t=1515
+ren2 jia1 	人家	c=0 d=0.194876 t=2226
+ren2 jia1 diu1 lai2 de5 zi1 liao4 	人家丟來的資料	c=1 d=1 t=1420
+ren2 jia1 e2 wai4 fa1 bu4 de5 	人家額外發佈的	c=1 d=1 t=317
+ren2 jia1 gao3 shi4 a1 	人家搞事阿	c=1 d=1 t=774
+ren2 jia1 ti2 gong1 le5 	人家提供了	c=1 d=1 t=2227
+ren2 jia1 xiang3 kan4 de5 	人家想看的	c=1 d=1 t=2206
+ren2 qi1 	人妻	c=0 d=0.1 t=2475
+ren2 sheng1 	人生	c=0 d=0.1 t=1910
+ren4 cuo4 	認錯	c=0 d=0.1 t=2365
+ren4 he2 	任何	c=0 d=0.1 t=905
+ren4 shi4 	認識	c=0 d=0.1 t=1275
+ren4 tian1 tang2 	任天堂	c=0 d=0.1 t=2168
+ren4 wei2 	認爲	c=0 d=0.1 t=912
+ren4 zhen1 	認真	c=0 d=0.1 t=524
+ri4 ben3 ren2 	日本人	c=0 d=0.1 t=2462
+ri4 gao1 	日高	c=0 d=0.1 t=2504
+ri4 gao1 xiao3 chun1 zhuan4 	日高小春傳	c=1 d=1 t=2505
+rong2 yi4 	容易	c=0 d=0.25026 t=558
+rong2 yi4 shou4 dao4 gan1 rao3 de5 yuan2 yin1 shi4 yin1 wei4 	容易受到干擾的原因是因爲	c=1 d=1 t=559
+rou4 	肉	c=0 d=0.0843665 t=2564
+rou4 duo1 duo1 ni4 	肉多多膩	c=1 d=0.847894 t=2564
+ru2 ci3 	如此	c=0 d=0.1 t=958
+ru2 guo3 	如果	c=2 d=0.0913931 t=2564
+ru2 guo3 bu4 xiang3 fu4 fei4 	如果不想付費	c=1 d=1 t=1323
+ru2 guo3 ming2 tian1 xia4 wu3 liu4 dian3 	如果明天下午六點	c=1 d=0.918512 t=2564
+ru2 guo3 ping2 chang2 shi3 yong4 xi2 guan4 mei2 you3 	如果平常使用習慣沒有	c=1 d=1 t=678
+ru2 guo3 shi4 	如果是	c=0 d=0.172253 t=1041
+ru2 guo3 shi4 xi3 huan1 an1 zhuang1 ge4 zhong3 hao3 yong4 de5 	如果是喜歡安裝各種好用的	c=1 d=1 t=977
+ru2 guo3 shi4 zhong1 wen2 de5 ban3 ben3 	如果是中文的版本	c=1 d=1 t=1042
+ru2 guo3 you3 	如果有	c=0 d=0.1 t=1308
+ru2 guo3 you3 xiao4 yuan2 	如果有校園	c=1 d=1 t=1309
+ru2 he2 	如何	c=0 d=0.163128 t=1008
+ruan3 ti3 	軟體	c=2 d=0.52368 t=1289
+ruan3 ti3 wen4 ti2 a1 	軟體問題阿	c=1 d=1 t=1191
+sa3 	撒	c=3 d=2.80063 t=1669
+sai1 dao4 	塞到	c=1 d=0.787277 t=2564
+sai1 ru4 	塞入	c=1 d=1.17372 t=1883
+sai4 	賽	c=0 d=0.1 t=2319
+san1 	三	c=11 d=7.22084 t=1705
+san1 ge5 	三個	c=0 d=0.128224 t=1289
+san1 ge5 ruan3 ti3 	三個軟體	c=1 d=1 t=1290
+san1 tai2 	三臺	c=0 d=0.286946 t=2403
+san1 xiao3 	三小	c=1 d=0.27462 t=2496
+san1 xiao3 shu1 	三小書	c=1 d=1 t=2344
+san1 ye4 	三葉	c=1 d=1.09753 t=1431
+san3 	散	c=4 d=3.60316 t=1668
+san4 	散	c=0 d=0.1 t=1674
+san4 re4 	散熱	c=0 d=0.1 t=257
+sang1 	桑	c=1 d=1 t=768
+se4 	色	c=0 d=0.0484325 t=2564
+se4 diao4 	色調	c=0 d=0.1 t=1511
+se4 diao4 tiao2 zheng3 	色調調整	c=1 d=1 t=1512
+se4 ma3 	色碼	c=4 d=2.28618 t=2564
+se4 ma3 biao3 	色碼表	c=2 d=1.13814 t=2564
+se4 ma3 zhuan3 huan4 	色碼轉換	c=1 d=0.57695 t=2564
+sen1 	森	c=1 d=0.13931 t=2493
+sha1 si3 	殺死	c=0 d=0.1 t=2451
+sha1 si3 gei3 	殺死給	c=1 d=1 t=2452
+sha2 	啥	c=0 d=0.0810584 t=2564
+sha3 yan3 	傻眼	c=1 d=1 t=1193
+shan1 	山	c=1 d=1 t=1706
+shan1 chu2 	刪除	c=1 d=1.08301 t=1327
+shan1 chu2 quan2 bu4 nei4 rong2 	刪除全部內容	c=1 d=1 t=815
+shan1 chu2 zi1 liao4 de5 shi2 jian1 hui4 bi3 jiao4 chang2 	刪除資料的時間會比較長	c=1 d=1 t=1328
+shan4 liang2 	善良	c=0 d=0.1 t=2320
+shang1 hai4 	傷害	c=0 d=0.100178 t=1935
+shang1 ni3 	商擬	c=0 d=0.1 t=2170
+shang1 ye4 	商業	c=0 d=0.1 t=1379
+shang1 ye4 xing2 wei2 	商業行爲	c=0 d=0.1 t=1380
+shang4 	上	c=0 d=0.261743 t=947
+shang4 ci4 	上次	c=0 d=0.1 t=2307
+shang4 ci4 shi4 na3 yi1 ci4 wo3 zen3 me5 bu2 ji4 de2 	上次是那一次我怎麼不記得	c=1 d=1 t=2308
+shang4 de5 	上的	c=0 d=0.112124 t=958
+shang4 de5 ying4 yong4 cheng2 shi4 ze2 bu2 shi4 ru2 ci3 	上的應用程式則不是如此	c=1 d=1 t=959
+shang4 fu4 	上富	c=1 d=1 t=1996
+shang4 guan1 	上官	c=0 d=0.1 t=1780
+shang4 guan1 xi3 ai4 	上官喜愛	c=2 d=1.99501 t=1782
+shang4 ma5 	上嗎	c=1 d=1 t=1368
+shang4 mian4 	上面	c=0 d=0.101082 t=1377
+shang4 mian4 you3 hao3 ji3 qian1 pian1 nei4 rong2 a1 	上面有好幾千篇內容阿	c=1 d=1 t=1378
+shang4 shi3 yong4 de5 	上使用的	c=1 d=1 t=948
+shang4 sou1 	上搜	c=0 d=0.1 t=1374
+shang4 sou1 dao4 wo3 de5 nei4 rong2 de5 	上搜到我的內容的	c=1 d=1 t=1375
+shang4 tu2 	上圖	c=0 d=0.0631284 t=2564
+shang4 wan4 	上萬	c=0 d=0.1 t=603
+shang4 wan4 qi3 tiao4 	上萬起跳	c=1 d=1 t=604
+shang4 xia4 	上下	c=1 d=1 t=787
+shang4 ye3 	上也	c=0 d=0.1 t=2122
+shang4 ye3 you3 qi2 ta1 ren2 yu4 dao4 zhe4 ge5 wen4 ti2 	上也有其他人遇到這個問題	c=1 d=1 t=2123
+shang4 yi1 ye4 	上一頁	c=2 d=1.9802 t=1492
+shao1 	捎	c=1 d=1 t=1579
+shao1 	梢	c=1 d=1 t=1578
+shao1 	燒	c=0 d=0.1 t=2183
+shao1 	稍	c=1 d=1 t=1577
+shao1 shao1 shao1 	稍梢捎	c=5 d=0.88692 t=2564
+shao1 you3 	稍有	c=0 d=0.1 t=980
+shao1 zong4 ji2 shi4 	稍縱即逝	c=1 d=1 t=1585
+shao3 	少	c=0 d=0.1 t=2434
+shao3 diao4 	少掉	c=0 d=0.1 t=1521
+shao3 le5 	少了	c=0 d=0.1 t=2341
+shao3 zui3 hou1 	少嘴齁	c=1 d=0.440432 t=2564
+shao4 nian2 	少年	c=0 d=0.1 t=1768
+shao4 nv3 	少女	c=0 d=0.291353 t=2502
+she4 ding4 	設定	c=1 d=0.0810584 t=2564
+she4 hui4 da4 zhong4 	社會大眾	c=0 d=0.1 t=1451
+she4 hui4 da4 zhong4 zi4 you3 gong1 ping2 	社會大眾自有公評	c=1 d=1 t=1452
+she4 ji4 	設計	c=2 d=0.159355 t=2564
+she4 ji4 de5 shu1 ru4 fa3 yang4 shi4 	設計的輸入法樣式	c=1 d=0.606531 t=2564
+she4 zhi4 	設置	c=0 d=0.1 t=1075
+shei2 	誰	c=0 d=0.0423162 t=2564
+shei2 ta1 ma1 yao4 chu1 qu4 de2 bing4 	誰他媽要出去得病	c=1 d=1 t=2306
+shei2 ta1 ma1 zhe4 me5 wu2 liao2 la5 	誰他媽這麼無聊啦	c=1 d=1 t=523
+shei2 yao4 zuo4 a1 	誰要做阿	c=1 d=1 t=1521
+shei2 zhe4 me5 guo4 fen4 	誰這麼過分	c=1 d=0.425283 t=2564
+shen1 se4 	深色	c=0 d=0.1 t=435
+shen1 se4 xi4 de5 	深色系的	c=1 d=1 t=436
+shen1 ti3 	身體	c=0 d=0.0965605 t=2564
+shen2 	神	c=0 d=0.1 t=459
+shen2 me5 	什麼	c=1 d=1.00707 t=2564
+shen2 me5 dong1 xi1 	什麼東西	c=0 d=0.1 t=1146
+shen2 me5 dou1 yuan2 gong1 zi4 ji3 chu1 	什麼都員工自己出	c=1 d=1 t=1151
+shen2 me5 la5 	什麼啦	c=2 d=0.416862 t=2564
+shen2 me5 shi2 hou4 	什麼時候	c=0 d=0.1 t=1167
+shen4 zhi4 	甚至	c=0 d=0.1 t=644
+sheng1 	生	c=1 d=0.447088 t=2564
+sheng1 huo2 	生活	c=0 d=0.1 t=1275
+sheng1 tai4 quan1 	生態圈	c=0 d=0.1 t=923
+sheng3 xia4 	省下	c=0 d=0.1 t=2249
+sheng4 li4 	勝利	c=0 d=0.1 t=1581
+sheng4 li4 dian4 	勝利店	c=2 d=2.00398 t=1600
+sheng4 xia4 	剩下	c=0 d=0.101343 t=1722
+sheng4 xia4 jiu4 shi4 	剩下就是	c=1 d=1 t=1723
+sheng4 xia4 yao4 zuo4 de5 shi4 qing2 li3 mian4 dou1 you3 xie3 	剩下要做的事情裡面都有寫	c=1 d=1 t=861
+shi1 	施	c=1 d=1 t=1926
+shi1 xiao4 	失效	c=1 d=0.960789 t=2564
+shi2 	時	c=3 d=0.0404542 t=2564
+shi2 hui4 	時會	c=0 d=0.1 t=728
+shi2 jian1 	時間	c=0 d=0.132548 t=2564
+shi2 xi2 	實習	c=0 d=0.1 t=1759
+shi2 yan4 shi4 	實驗室	c=0 d=0.1 t=2275
+shi2 yan4 shi4 neng2 dai4 hui2 jia1 	實驗室能帶回家	c=1 d=1 t=2276
+shi2 you3 	時有	c=0 d=0.1 t=1083
+shi2 zai4 tai4 	實在太	c=0 d=0.0447088 t=2564
+shi2 zhi3 	食指	c=0 d=0.195123 t=650
+shi2 zhi3 zhong1 zhi3 gui3 ji1 qiu2 	食指中指軌跡球	c=1 d=1 t=641
+shi3 	使	c=0 d=0.108374 t=1504
+shi3 	屎	c=0 d=0.1 t=2337
+shi3 yong4 	使用	c=22 d=1.27502 t=2564
+shi3 yong4 bian4 shu4 	使用變數	c=1 d=1 t=1885
+shi3 yong4 de5 	使用的	c=2 d=0.565525 t=2564
+shi3 yong4 de5 gui3 ji1 qiu2 	使用的軌跡球	c=1 d=1 t=644
+shi3 yong4 fei1 tong2 bu4 de5 fang1 shi4 	使用非同步的方式	c=1 d=1 t=1870
+shi3 yong4 gao1 cheng2 ben3 de5 ji1 xie4 jian4 pan2 	使用高成本的機械鍵盤	c=1 d=1 t=491
+shi3 yong4 gui3 ji1 qiu2 	使用軌跡球	c=1 d=1 t=763
+shi3 yong4 shang4 	使用上	c=1 d=1 t=610
+shi3 yong4 shou3 zhi3 lai2 gun3 dong4 qiu2 	使用手指來滾動球	c=1 d=1 t=664
+shi3 yong4 shou4 ming4 	使用壽命	c=0 d=0.0666977 t=2564
+shi3 yong4 shuo1 ming2 	使用說明	c=1 d=1 t=1486
+shi3 yong4 zhe3 	使用者	c=1 d=0.782705 t=2564
+shi3 yu4 	使與	c=1 d=1 t=2058
+shi3 yu4 shuo1 ming2 	使與說明	c=1 d=1 t=1505
+shi4 	事	c=0 d=0.103439 t=1447
+shi4 	室	c=1 d=1 t=1513
+shi4 	式	c=2 d=1.09209 t=1344
+shi4 	是	c=8 d=1.14881 t=2564
+shi4 	示	c=1 d=1 t=1496
+shi4 ba3 	是把	c=0 d=0.0634448 t=2564
+shi4 bu2 shi4 	是不是	c=2 d=1.25795 t=1155
+shi4 chuang1 	視窗	c=1 d=1 t=1507
+shi4 cong2 	是從	c=1 d=1 t=1964
+shi4 gan1 	拭乾	c=0 d=0.1 t=247
+shi4 guo2 zhong1 lao3 shi1 	是國中老師	c=1 d=1 t=2516
+shi4 he2 	適合	c=0 d=0.0499074 t=2564
+shi4 jie1 jin4 de5 	是接近的	c=1 d=1 t=565
+shi4 jie4 	世界	c=0 d=0.1 t=998
+shi4 ma5 	是嗎	c=0 d=0.1 t=2353
+shi4 mei2 	是沒	c=0 d=0.1 t=1127
+shi4 pa4 ni3 	是怕妳	c=1 d=1 t=2428
+shi4 qing2 	事情	c=0 d=0.1 t=860
+shi4 ren4 tian1 tang2 de5 	是任天堂的	c=1 d=1 t=2169
+shi4 shen2 me5 shi2 hou4 chu1 xian4 a1 	是什麼時候出現阿	c=1 d=1 t=1168
+shi4 shi3 yong4 	是使用	c=1 d=1 t=2040
+shi4 shi4 kan4 	試試看	c=0 d=0.1 t=2232
+shi4 wo3 	是我	c=0 d=0.1 t=1632
+shi4 yi1 yang4 de5 	是一樣的	c=0 d=0.1 t=539
+shi4 yi1 yang4 de5 ma5 	是一樣的嗎	c=1 d=1 t=540
+shi4 yong4 	試用	c=1 d=0.211475 t=2221
+shi4 you2 	是由	c=1 d=0.066034 t=2564
+shi4 you3 	是有	c=0 d=0.1 t=2230
+shi4 zhi3 	是指	c=1 d=1 t=547
+shi4 zi4 	識字	c=0 d=0.130119 t=1726
+shi4 zi4 jiao1 xue2 	識字教學	c=1 d=1 t=1727
+shi4 zi4 jiao4 xue2 	識字教學	c=1 d=1 t=1487
+shou2 	熟	c=0 d=0.1 t=1437
+shou3 	手	c=0 d=0.1 t=661
+shou3 bu4 	手部	c=1 d=1.08511 t=669
+shou3 gan3 	手感	c=0 d=0.1 t=402
+shou3 ji1 	手機	c=1 d=0.0941765 t=2564
+shou3 ji1 hai2 neng2 kan4 	手機還能看	c=1 d=0.946485 t=2564
+shou3 shang4 	手上	c=1 d=1 t=1207
+shou3 tuo1 	手托	c=1 d=1 t=358
+shou3 wan4 	手腕	c=0 d=0.1 t=659
+shou3 xian1 	首先	c=0 d=0.1 t=977
+shou3 zhi3 	手指	c=0 d=0.1 t=663
+shou4 dao4 	受到	c=0 d=0.1 t=554
+shou4 dao4 gan1 rao3 	受到干擾	c=1 d=1.11682 t=571
+shou4 xian4 yu2 	受限於	c=0 d=0.1 t=667
+shu1 	書	c=0 d=0.1 t=2343
+shu1 fu2 	舒服	c=4 d=1.6735 t=2530
+shu1 fu2 a1 	舒服阿	c=1 d=1 t=2337
+shu1 qiu2 	輸球	c=0 d=0.0425283 t=2564
+shu1 ru4 	輸入	c=2 d=0.166373 t=2564
+shu1 ru4 fa3 	輸入法	c=0 d=0.343563 t=2564
+shu1 ru4 fa3 bu4 tong2 	輸入法不同	c=1 d=1 t=865
+shu1 ru4 fa3 de5 an1 zhuang1 xiang1 dui4 fu4 za2 hen3 duo1 	輸入法的安裝相對複雜很多	c=1 d=1 t=1007
+shu1 ru4 fa3 de5 yang4 shi4 	輸入法的樣式	c=1 d=0.640824 t=2564
+shu1 ru4 fa3 nan2 yong4 a1 	輸入法難用阿	c=1 d=1 t=1215
+shu1 ru4 fa3 shi2 zai4 tai4 nan2 yong4 le5 	輸入法實在太難用了	c=1 d=0.449329 t=2564
+shu1 ru4 fang1 shi4 	輸入方式	c=2 d=1.09027 t=1343
+shu1 ru4 zhe4 ge5 zhang4 hao4 gen1 xu4 hao4 	輸入這個帳號跟序號	c=1 d=1 t=2224
+shu1 ru4 zi4 yin1 	輸入字音	c=1 d=1 t=792
+shu1 shi4 	舒適	c=0 d=0.1 t=413
+shu1 xie3 	書寫	c=0 d=0.1 t=2101
+shu2 	淑	c=0 d=0.1 t=1629
+shu2 xing4 jie3 jie3 	淑幸姐姐	c=2 d=1.60957 t=1729
+shu3 	屬	c=1 d=1 t=1088
+shu3 xing4 	屬性	c=1 d=1.1 t=362
+shu3 xu1 guan3 	鼠鬚管	c=21 d=6.76658 t=2564
+shu3 xu1 guan3 an1 zhuang1 	鼠鬚管安裝	c=1 d=1 t=805
+shu3 xu1 guan3 an1 zhuang1 gen1 bian1 ji2 	鼠鬚管安裝跟編輯	c=1 d=1 t=803
+shu3 xu1 guan3 quan2 bu4 wai4 guan1 dou1 mei2 chu1 xian4 bian1 kuang1 yang4 shi4 	鼠鬚管全部外觀都沒出現邊框樣式	c=1 d=1 t=233
+shu3 xu1 guan3 shu1 ru4 tu2 shi4 	鼠鬚管輸入圖示	c=1 d=1 t=818
+shu3 xu1 guan3 tu2 shi4 	鼠鬚管圖示	c=1 d=1 t=816
+shu3 xu1 guan3 yang2 cong1 zhu4 yin1 	鼠鬚管洋蔥注音	c=1 d=1 t=812
+shu3 xu1 guan3 zi4 ti3 	鼠鬚管字體	c=2 d=1.98511 t=1089
+shu4 liang4 	數量	c=1 d=1.10363 t=1398
+shu4 xue2 	數學	c=1 d=1 t=2054
+shu4 zhi2 	數值	c=1 d=1 t=1080
+shu4 zi4 	數字	c=0 d=0.1 t=2562
+shu4 zi4 fu2 hao4 	數字符號	c=1 d=1 t=2563
+shu4 zi4 jian4 	數字鍵	c=0 d=0.1 t=377
+shua1 	刷	c=0 d=0.1 t=628
+shuang3 	爽	c=0 d=0.1 t=2425
+shuang3 a1 	爽阿	c=1 d=1 t=2232
+shuang3 la5 	爽啦	c=1 d=1.05444 t=1855
+shui3 	水	c=0 d=0.10052 t=1426
+shui3 jing1 	水晶	c=0 d=0.1 t=398
+shui3 ping2 	水平	c=1 d=1 t=236
+shui3 zi4 shu4 	水字數	c=1 d=1 t=375
+shui4 	睡	c=1 d=1 t=1680
+shui4 fu2 	說服	c=0 d=0.1 t=2142
+shui4 mian2 	睡眠	c=0 d=0.1 t=2120
+shun4 bian4 	順便	c=0 d=0.1 t=2213
+shun4 bian4 mai3 ge5 	順便買個	c=1 d=1 t=2214
+shun4 xu4 	順序	c=0 d=0.107887 t=816
+shuo1 	說	c=1 d=0.216555 t=2532
+shuo1 bu2 ding4 	說不定	c=0 d=0.1 t=1461
+shuo1 bu2 ding4 jiu4 jiao4 xing1 hai3 ge1 	說不定就叫星海哥	c=1 d=1 t=1462
+shuo1 de5 	說的	c=0 d=0.10302 t=1354
+shuo1 le5 	說了	c=0 d=0.1 t=1914
+shuo1 mei2 	說媒	c=0 d=0.1 t=1184
+shuo1 ming2 	說明	c=0 d=0.160658 t=1504
+shuo1 shi4 	說是	c=0 d=0.14794 t=2285
+shuo1 shi4 bu3 chong1 geng1 xin1 	說是補充更新	c=1 d=1 t=2134
+shuo1 shi4 lv3 he2 jin1 wai4 ke2 	說是鋁合金外殼	c=1 d=1 t=722
+shuo1 ta1 	說她	c=0 d=0.159452 t=1380
+shuo1 ta1 nan2 peng2 you3 	說她男朋友	c=1 d=1 t=1277
+si3 	死	c=0 d=0.165377 t=1249
+si3 le5 	死了	c=0 d=0.0814647 t=2564
+si3 wang2 	死亡	c=1 d=0.106796 t=2186
+si3 wang2 xing2 xiao1 	死亡行銷	c=1 d=1 t=2187
+si3 zai4 	死在	c=0 d=0.1 t=1132
+si4 	四	c=1 d=1 t=851
+song1 ben3 	松本	c=0 d=0.1 t=1932
+song1 ben3 da4 yang2 	松本大洋	c=1 d=1 t=1933
+song4 	送	c=0 d=0.185214 t=493
+su4 du4 	速度	c=0 d=0.1 t=674
+su4 jiao1 	塑膠	c=0 d=0.1 t=388
+su4 zhi2 	素質	c=0 d=0.109688 t=2564
+su4 zhi2 tai4 cha1 le5 ba5 	素質太差了吧	c=1 d=1 t=1225
+suan4 	算	c=0 d=0.106687 t=2176
+sui1 ran2 	雖然	c=1 d=0.0726889 t=2564
+sui1 ran2 hai2 shi4 mei2 qian2 jiu4 shi4 le5 	雖然還是沒錢就是了	c=1 d=1 t=1108
+sui1 ran2 yao4 fu4 fei4 	雖然要付費	c=1 d=1 t=1301
+sui1 ran2 zai4 	雖然在	c=0 d=0.1 t=1853
+sui1 ran2 zai4 jia1 hen3 wu2 liao2 	雖然在家很無聊	c=1 d=1 t=1854
+sui1 ran2 zhe4 yang4 ke3 yi3 bu4 yi1 lai4 	雖然這樣可以不依賴	c=1 d=0.644036 t=2564
+sui2 	隨	c=1 d=1 t=1564
+sui2 ji1 	隨機	c=0 d=0.1 t=2055
+sui2 ji1 xian3 shi4 	隨機顯示	c=1 d=1 t=2056
+sui2 xing4 	隨性	c=0 d=0.1 t=1650
+sui4 	歲	c=0 d=0.1 t=1130
+sui4 de5 	歲的	c=0 d=0.1 t=2313
+sui4 de5 jie3 jie3 	歲的姐姐	c=1 d=1 t=2314
+sui4 hai2 zai4 chi1 zhe4 zhong3 le4 se4 	歲還在吃這種垃圾	c=1 d=1 t=1131
+suo3 wei4 de5 	所謂的	c=0 d=0.1 t=953
+suo3 yi3 	所以	c=7 d=0.0666977 t=2564
+suo3 yi3 bi3 zhe3 jian4 yi4 an1 zhuang1 	所以筆者建議安裝	c=1 d=1 t=1299
+suo3 yi3 bi3 zhe3 you3 dan1 du2 xie3 yi1 fen4 an1 zhuang1 gen1 shi3 yong4 jiao1 xue2 	所以筆者有單獨寫一份安裝跟使用教學	c=1 d=1 t=1008
+suo3 yi3 bing4 fei1 suo3 you3 ruan3 ti3 dou1 neng2 xiang1 rong2 ren4 he2 ban3 ben3 	所以並非所有軟體都能相容任何版本	c=1 d=1 t=906
+suo3 yi3 bu2 yong4 fen1 bie2 da3 kai1 san1 ge5 ruan3 ti3 	所以不用分別打開三個軟體	c=1 d=1 t=1037
+suo3 yi3 cai2 	所以才	c=0 d=0.102658 t=1968
+suo3 yi3 cai2 hui4 kan4 qi3 lai2 	所以才會看起來	c=1 d=1 t=969
+suo3 yi3 cai2 hui4 shuo1 mei2 	所以才會說媒	c=1 d=1 t=1185
+suo3 yi3 cai2 neng2 zai4 hua4 mian4 xian3 shi4 	所以才能在畫面顯示	c=1 d=1 t=1969
+suo3 yi3 ge4 jia1 chang3 shang1 dou1 kai1 shi3 tui1 chu1 zi4 ji3 de5 zhou2 ti3 	所以各家廠商都開始推出自己的軸體	c=1 d=1 t=367
+suo3 yi3 hai2 shi4 hui4 you3 shi3 yong4 shou4 ming4 de5 wen4 ti2 	所以還是會有使用壽命的問題	c=1 d=0.67032 t=2564
+suo3 yi3 hen3 duo1 	所以很多	c=1 d=1 t=489
+suo3 yi3 hui4 bei4 gan1 rao3 	所以會被干擾	c=1 d=1 t=566
+suo3 yi3 hui4 you3 yao4 ni3 deng1 ru4 	所以會有要你登入	c=1 d=1 t=1047
+suo3 yi3 jiao4 bu2 hui4 shou4 dao4 gan1 rao3 	所以較不會受到干擾	c=1 d=1 t=572
+suo3 yi3 mei3 yi1 ge5 	所以每一個	c=1 d=1 t=964
+suo3 yi3 tong1 chang2 zhao3 bu2 dao4 ren2 a1 	所以通常找不到人阿	c=1 d=1 t=1519
+suo3 yi3 wo3 dou1 shi4 shi3 yong4 	所以我都是使用	c=1 d=1 t=385
+suo3 yi3 wo3 ke3 yi3 yong4 hua2 shu3 le5 ma5 	所以我可以用滑鼠了嗎	c=1 d=1 t=2273
+suo3 yi3 xiang1 dui4 de5 qing1 qiao3 	所以相對的輕巧	c=1 d=1 t=957
+suo3 yi3 you3 	所以有	c=0 d=0.125795 t=868
+suo3 yi3 you3 chang2 yong4 de5 zi4 duo1 da3 ji3 ci4 jiu4 xing2 le5 	所以有常用的字多打幾次就行了	c=1 d=1 t=869
+suo3 yi3 you3 qi2 ta1 ren2 yao4 da3 ma5 	所以有其他人要打嗎	c=1 d=1 t=598
+suo3 yi3 zai4 shi3 yong4 	所以在使用	c=1 d=1 t=1025
+suo3 you3 	所有	c=0 d=0.111648 t=905
+suo3 you3 an4 jian4 	所有按鍵	c=1 d=1 t=476
+ta1 	他	c=1 d=0.156342 t=2564
+ta1 	它	c=3 d=0.836956 t=2319
+ta1 ba3 wang3 lu4 duan4 diao4 	它把網路斷掉	c=1 d=1 t=1184
+ta1 bu2 yao4 yong4 fan3 wen4 ying1 gai1 yi4 si1 jiu4 shi4 wo3 shuo1 de5 na4 yang4 le5 	他不要用反問應該意思就是我說的那樣了	c=1 d=1 t=453
+ta1 cai2 neng2 zheng4 chang2 yong4 ye1 	它才能正常用耶	c=1 d=1 t=1178
+ta1 dao4 di3 zen3 me5 zai4 	它到底怎麼在	c=1 d=1 t=1374
+ta1 de5 	它的	c=0 d=0.1 t=577
+ta1 dou1 hui4 tiao4 	它都會跳	c=1 d=1 t=1174
+ta1 gao1 xing4 jiu4 hao3 a1 	他高興就好阿	c=1 d=1 t=319
+ta1 gei3 de5 ying4 die2 shi4 	他給的硬碟是	c=1 d=1 t=287
+ta1 hui4 	他會	c=0 d=0.1 t=310
+ta1 hui4 ba3 	他會把	c=1 d=1 t=311
+ta1 jiu4 	他就	c=0 d=0.1 t=1389
+ta1 jiu4 yi3 jing1 shuo1 shi4 	他就已經說是	c=1 d=1 t=1390
+ta1 lai2 	她來	c=0 d=0.1 t=1471
+ta1 lai2 ting1 	她來聽	c=1 d=1 t=1472
+ta1 ma1 	他媽	c=0 d=0.448865 t=2485
+ta1 ma1 de5 	他媽的	c=0 d=0.1 t=2286
+ta1 ma1 de5 yi1 ding4 yao4 mai3 	他媽的一定要買	c=1 d=1 t=2287
+ta1 mei2 	她沒	c=0 d=0.1 t=352
+ta1 men5 	她們	c=2 d=0.378379 t=2447
+ta1 men5 hao3 xiang4 hao3 peng2 you3 	她們好像好朋友	c=1 d=1 t=890
+ta1 ren2 	他人	c=0 d=0.1 t=2122
+ta1 shi4 	她是	c=0 d=0.1 t=2456
+ta1 shi4 shuo1 	她是說	c=1 d=1 t=2457
+ta1 shuo1 	他說	c=0 d=0.1 t=2098
+ta1 shuo1 ta1 jia4 ri4 hai2 you3 qu4 	他說他假日還有去	c=1 d=1 t=2099
+ta1 xie3 	他寫	c=1 d=1 t=2245
+ta1 yan4 zheng4 duan4 wang3 mei2 cha1 	它驗證斷網沒差	c=1 d=1 t=2229
+ta1 yao4 	他要	c=0 d=0.1 t=260
+ta1 zhi4 shao3 shi4 zhuang4 shang4 li2 ba1 	它至少是撞上籬笆	c=1 d=1 t=1135
+ta3 wei4 	塔位	c=1 d=1 t=2155
+tai2 bei3 	臺北	c=0 d=0.189137 t=2357
+tai2 ji1 dian4 	台積電	c=1 d=1 t=2165
+tai2 ke1 	台科	c=1 d=0.671209 t=2443
+tai2 ke1 su4 zhi2 	台科素質	c=1 d=1 t=2444
+tai2 nan2 	臺南	c=1 d=1.08511 t=1600
+tai2 nan2 da4 xue2 	臺南大學	c=2 d=1.00098 t=2546
+tai2 shi1 da4 	臺師大	c=1 d=1 t=2333
+tai2 wan1 	臺灣	c=0 d=0.171177 t=517
+tai2 wan1 ren2 	臺灣人	c=0 d=0.148432 t=2464
+tai2 wan1 ren2 hui4 jiang3 tai2 yu3 jiu4 	臺灣人會講臺語就	c=1 d=1 t=2465
+tai2 yu3 	臺語	c=0 d=0.19802 t=2468
+tai2 yu3 zui4 bang4 le5 	臺語最棒了	c=1 d=1 t=2469
+tai2 zhong1 	臺中	c=0 d=0.1 t=1794
+tai4 	太	c=0 d=0.16005 t=1224
+tai4 bang4 le5 	太棒了	c=1 d=1 t=1607
+tai4 cai4 le5 ba5 	太菜了吧	c=1 d=1 t=292
+tai4 duo1 	太多	c=0 d=0.100336 t=2104
+tai4 gao1 le5 	太高了	c=0 d=0.1 t=273
+tai4 guo4 fen4 	太過分	c=0 d=0.1 t=2535
+tai4 guo4 fen4 le5 ba5 	太過分了吧	c=1 d=1 t=2536
+tai4 hao3 le5 	太好了	c=0 d=0.1 t=1408
+tai4 ma2 fan2 le5 	太麻煩了	c=1 d=1 t=2403
+tai4 mei3 	太美	c=0 d=0.1 t=1861
+tai4 yang2 	太陽	c=1 d=1 t=1802
+tan2 chu1 	彈出	c=1 d=1.09501 t=1507
+tan2 chu1 hua4 mian4 	彈出畫面	c=1 d=1 t=1508
+tan2 de2 	談得	c=0 d=0.1 t=2319
+tan2 de2 sai4 bu2 shi4 shuo1 tai2 wan1 ren2 dou1 pen1 ta1 	談得賽不是說臺灣人都噴它	c=1 d=1 t=2320
+tang2 	糖	c=2 d=1.99501 t=1714
+tao2 ban3 wu1 	陶板屋	c=1 d=0.113328 t=2479
+tao2 ban3 wu1 tai2 nan2 sheng4 li4 dian4 	陶板屋臺南勝利店	c=1 d=1 t=1601
+tao2 ban3 wu1 you3 huo3 guo1 	陶板屋有火鍋	c=1 d=1 t=2480
+tao3 lun4 	討論	c=0 d=0.1 t=1655
+te4 bie2 	特別	c=0 d=0.1 t=2368
+te4 si1 la1 	特斯拉	c=0 d=0.103127 t=2459
+te4 si1 la1 hao3 peng2 you3 	特斯拉好朋友	c=1 d=1 t=2460
+te4 si1 la1 hao3 peng2 you3 de5 gai4 nian4 	特斯拉好朋友的概念	c=1 d=1 t=1767
+ti2 	提	c=0 d=0.1 t=371
+ti2 gong1 	提供	c=0 d=0.1 t=2226
+ti2 mu4 	題目	c=0 d=0.1 t=1639
+ti2 xing3 	提醒	c=1 d=0.11195 t=2146
+ti2 xing3 yao4 qu4 mai3 kou3 zhao4 	提醒要去買口罩	c=1 d=1 t=1244
+ti2 yi1 	題一	c=1 d=1 t=1588
+ti3 	體	c=0 d=0.105343 t=1090
+tian1 	天	c=2 d=1.52868 t=1370
+tian1 cai2 	天才	c=0 d=0.1 t=2541
+tian1 ke3 yi3 mai3 	天可以買	c=1 d=1 t=1197
+tian1 mian3 fei4 	天免費	c=1 d=1 t=877
+tian1 ti1 	天梯	c=1 d=1 t=1778
+tian1 tian1 	天天	c=0 d=0.1 t=771
+tian1 xuan3 	天選	c=1 d=0.98692 t=527
+tian1 yao4 qu4 mai3 kou3 zhao4 cai2 shi4 wen4 ti2 	天要去買口罩才是問題	c=1 d=1 t=1236
+tian2 	填	c=1 d=1 t=1935
+tian2 	甜	c=1 d=1 t=1540
+tian2 you4 xian1 	甜又鮮	c=1 d=1 t=2215
+tiao2 	調	c=0 d=0.1 t=349
+tiao2 se4 	調色	c=1 d=1.09704 t=1503
+tiao2 se4 pan2 	調色盤	c=1 d=0.641314 t=2564
+tiao2 zheng3 	調整	c=1 d=0.0404542 t=2564
+tiao4 	跳	c=0 d=0.1 t=1173
+tiao4 chu1 lai2 	跳出來	c=0 d=0.1 t=2132
+tiao4 guo4 	跳過	c=0 d=0.1 t=977
+tie1 ge5 	貼個	c=1 d=1 t=2259
+tie1 pian4 	貼片	c=1 d=1 t=359
+ting1 	聽	c=0 d=0.102665 t=1471
+ting1 bu4 dong3 	聽不懂	c=1 d=1.00073 t=2498
+ting1 dao4 	聽到	c=0 d=0.1 t=534
+ting1 de5 	聽得	c=0 d=0.0609571 t=2564
+ting1 de5 wo3 xiang4 shi4 tou2 zai4 xuan2 zhuan3 yi1 yang4 	聽得我像是投在旋轉一樣	c=1 d=0.612626 t=2564
+ting1 guo4 	聽過	c=0 d=0.100011 t=2469
+ting1 guo4 le5 	聽過了	c=1 d=1 t=2470
+ting1 qi3 lai2 	聽起來	c=0 d=0.0860708 t=2564
+ting1 qi3 lai2 yi4 you3 suo3 zhi3 	聽起來意有所指	c=1 d=0.865022 t=2564
+ting1 shuo1 	聽說	c=0 d=0.0852144 t=2564
+ting1 shuo1 bu4 hao3 chi1 	聽說不好吃	c=1 d=0.856415 t=2564
+ting1 shuo1 ta1 men5 que4 ding4 fen1 shou3 le5 o1 	聽說她們確定分手了喔	c=1 d=1 t=2448
+ting1 wan2 le5 	聽完了	c=1 d=1 t=747
+ting2 ye4 	停業	c=0 d=0.1 t=2373
+ting2 zhi3 	停止	c=0 d=0.1 t=2195
+tong1 chang2 	通常	c=1 d=0.168044 t=1518
+tong1 chang2 dou1 hui4 shi4 ji3 shi2 dao4 	通常都會是幾十到	c=1 d=1 t=965
+tong1 chang2 jian4 mao4 	通常鍵帽	c=1 d=1 t=392
+tong2 	同	c=0 d=0.1 t=426
+tong2 bu4 	同步	c=0 d=0.1 t=1304
+tong2 bu4 bei4 fen4 	同步備份	c=1 d=1 t=1305
+tong2 de5 ceng2 ci4 gan3 	同的層次感	c=1 d=1 t=427
+tong2 shi2 	同時	c=0 d=0.1 t=1312
+tong2 shi2 bei4 fen4 xiu1 gai3 de5 dang3 an4 	同時備份修改的檔案	c=1 d=1 t=1313
+tong2 shi4 	同事	c=0 d=0.100034 t=2549
+tong2 yi1 ge5 	同一個	c=0 d=0.1 t=1035
+tong2 yi1 ge5 ruan3 ti3 yi1 qi3 shi3 yong4 	同一個軟體一起使用	c=1 d=1 t=1036
+tong2 yin1 	同音	c=1 d=0.860708 t=2564
+tong2 yin1 xing2 jin4 zi4 	同音形近字	c=2 d=1.9802 t=1593
+tong3 	桶	c=0 d=0.1 t=1249
+tong3 yi1 	統一	c=0 d=0.1 t=2044
+tong4 ku3 	痛苦	c=1 d=1.0001 t=2070
+tou1 xiao4 	偷笑	c=0 d=0.1 t=352
+tou2 	投	c=0 d=0.1 t=2506
+tou2 	頭	c=1 d=0.615697 t=2564
+tou2 zai4 	投在	c=0 d=0.0609571 t=2564
+tou4 guo4 	透過	c=1 d=1 t=1864
+tou4 ming2 	透明	c=0 d=0.1 t=388
+tou4 ming2 su4 jiao1 de5 jian4 mao4 	透明塑膠的鍵帽	c=1 d=1 t=389
+tu1 ran2 	突然	c=0 d=0.1 t=2323
+tu2 	圖	c=1 d=0.109593 t=1902
+tu2 pian4 	圖片	c=2 d=0.0628135 t=2564
+tu2 pian4 lai2 yuan2 	圖片來源	c=6 d=0.631284 t=2564
+tu2 pian4 tiao2 se4 	圖片調色	c=1 d=1 t=1498
+tu2 shi4 	圖示	c=0 d=0.199005 t=817
+tui1 chu1 	推出	c=0 d=0.1 t=366
+tui1 jian4 	推薦	c=0 d=0.0425283 t=2564
+tui1 jian4 ni3 yi1 ge5 zen3 da3 me5 da3 dou1 shu1 qiu2 de5 dong4 hua4 	推薦你一個怎打麼打都輸球的動畫	c=1 d=0.427415 t=2564
+tui4 	退	c=0 d=0.1 t=878
+tuo1 dong4 	拖動	c=0 d=0.1 t=661
+wai4 	外	c=0 d=0.1 t=1456
+wai4 bu4 	外部	c=0 d=0.188692 t=1867
+wai4 guan1 	外觀	c=2 d=0.103252 t=2012
+wai4 guan1 she4 ji4 	外觀設計	c=1 d=1 t=1071
+wai4 guan1 shu3 xing4 	外觀屬性	c=1 d=1 t=363
+wai4 guan1 tiao2 zheng3 	外觀調整	c=1 d=1 t=2013
+wai4 guan1 xiu1 gai3 bu4 xian3 shi4 	外觀修改不顯示	c=1 d=1 t=1074
+wai4 guo2 ren2 	外國人	c=0 d=0.1 t=346
+wai4 jie1 	外接	c=1 d=0.100458 t=2299
+wai4 ke2 	外殼	c=0 d=0.1 t=721
+wai4 kuang1 	外框	c=0 d=0.1 t=777
+wai4 kuang1 yuan2 jiao3 	外框圓角	c=1 d=1 t=778
+wai4 mian4 	外面	c=0 d=0.1 t=2302
+wai4 mian4 dou1 bing4 du2 	外面都病毒	c=1 d=1 t=2303
+wai4 zhi4 	外置	c=0 d=0.1 t=1991
+wan2 	丸	c=1 d=1 t=1056
+wan2 	完	c=2 d=0.767206 t=2564
+wan2 	玩	c=0 d=0.0759572 t=2564
+wan2 bi4 	完畢	c=0 d=0.1 t=809
+wan2 cheng2 	完成	c=0 d=0.1 t=1607
+wan2 cheng2 du2 li4 lian4 xi2 	完成獨立練習	c=1 d=1 t=1608
+wan2 de5 	玩的	c=0 d=0.112124 t=682
+wan2 jia1 	玩家	c=1 d=1.08869 t=440
+wan2 le5 	完了	c=0 d=0.1 t=746
+wan2 quan2 	完全	c=0 d=0.121871 t=1019
+wan2 quan2 mei2 you3 	完全沒有	c=1 d=1 t=1641
+wan2 shan4 	完善	c=0 d=0.1 t=923
+wan2 wan2 	玩玩	c=0 d=0.1 t=680
+wan3 can1 	晚餐	c=0 d=0.1 t=1955
+wan4 	腕	c=1 d=1 t=657
+wan4 	萬	c=1 d=1 t=1474
+wan4 chu1 	萬初	c=1 d=1 t=510
+wan4 wu2 yi1 shi1 	萬無一失	c=0 d=0.1 t=1313
+wang2 	亡	c=0 d=0.10488 t=1768
+wang2 	王	c=1 d=1 t=1770
+wang2 qi2 ming2 	王齊銘	c=1 d=1 t=1910
+wang3 ka1 	網咖	c=0 d=0.1 t=407
+wang3 lu4 	網路	c=0 d=0.100456 t=2292
+wang3 ye4 	網頁	c=0 d=0.1 t=245
+wang3 ye4 jian3 ce4 gai3 de5 na4 xie1 	網頁檢測改得那些	c=1 d=1 t=246
+wang3 zhan4 	網站	c=0 d=0.1 t=2296
+wei2 	微	c=1 d=1 t=1558
+wei2 	為	c=5 d=4.33252 t=2012
+wei2 	爲	c=0 d=0.164404 t=983
+wei2 bo1 	微波	c=0 d=0.1 t=729
+wei2 bo1 chu1 xian4 	微波出現	c=1 d=1 t=730
+wei2 bo1 lu2 	微波爐	c=0 d=0.1 t=560
+wei2 hu4 	維護	c=1 d=1 t=240
+wei2 jiang3 shu4 li4 zi5 	爲講述例子	c=1 d=1 t=896
+wei2 ni3 	爲你	c=0 d=0.1 t=2349
+wei2 xian3 	危險	c=0 d=0.1 t=1954
+wei3 	偉	c=1 d=1 t=2220
+wei3 xiang2 	偉祥	c=1 d=1.16362 t=1945
+wei3 xiang2 de5 fa1 yan2 zi4 dong4 zhuan3 huan4 wei2 	偉祥的發言自動轉換爲	c=1 d=1 t=1946
+wei4 	為	c=1 d=1 t=1261
+wei4 	爲	c=0 d=0.0412714 t=2564
+wei4 he2 	為何	c=1 d=1 t=1263
+wei4 he2 	爲何	c=0 d=0.1 t=907
+wei4 le5 	為了	c=2 d=1.99005 t=1259
+wei4 le5 	爲了	c=0 d=0.0980199 t=2564
+wei4 le5 shei2 	為了誰	c=1 d=1 t=1258
+wei4 sha2 	為啥	c=3 d=1.06036 t=2370
+wei4 sha2 	爲啥	c=1 d=1.00099 t=1256
+wei4 sha2 ni3 de5 zhang3 zhe4 yang4 a1 	為啥你的長這樣阿	c=1 d=1 t=2242
+wei4 shen2 me5 	為什麼	c=1 d=1 t=1260
+wei4 shen2 me5 wen4 zhe4 ge5 	爲什麼問這個	c=1 d=0.414783 t=2564
+wei4 zhi4 	位置	c=1 d=0.474533 t=2564
+wen2 	文	c=1 d=1 t=1465
+wen2 zhang1 	文章	c=0 d=0.1 t=891
+wen2 zi4 	文字	c=1 d=0.117489 t=2564
+wen2 zi4 bian1 kuang1 	文字邊框	c=1 d=0.609571 t=2564
+wen2 zi4 pi2 fu1 	文字皮膚	c=1 d=0.571209 t=2564
+wen3 	穩	c=0 d=0.1 t=2125
+wen4 	問	c=0 d=0.0412714 t=2564
+wen4 hao4 	問號	c=0 d=0.1 t=1091
+wen4 le5 	問了	c=1 d=1 t=1274
+wen4 min2 jin4 dang3 a1 	問民進黨阿	c=1 d=1 t=455
+wen4 ni3 	問你	c=0 d=0.1 t=1153
+wen4 ti2 	問題	c=1 d=0.145041 t=2564
+wo3 	我	c=3 d=1.13469 t=2564
+wo3 ai4 	我愛	c=0 d=0.1 t=2476
+wo3 ba3 	我把	c=1 d=1.02658 t=1631
+wo3 bu2 hui4 	我不會	c=0 d=0.1 t=2282
+wo3 bu2 ren4 shi4 	我不認識	c=2 d=1.18268 t=1228
+wo3 bu2 shi4 	我不是	c=0 d=0.14607 t=1366
+wo3 bu2 shi4 shuo1 wo3 ba3 shu1 ru4 fa3 na4 ge5 diu1 dao4 	我不是說我把輸入法那個丟到	c=1 d=1 t=1367
+wo3 bu4 guan3 a1 	我不管阿	c=2 d=1.96079 t=2212
+wo3 cai2 	我才	c=0 d=0.1 t=1368
+wo3 cai2 diu1 shang4 qu4 	我才丟上去	c=1 d=1 t=1369
+wo3 de5 	我的	c=0 d=0.102795 t=2132
+wo3 de5 ai4 de2 hua2 ye3 shi4 	我的愛德華也是	c=1 d=1 t=1416
+wo3 de5 ye3 tiao4 chu1 lai2 le5 	我的也跳出來了	c=1 d=1 t=2133
+wo3 deng3 deng3 kan4 ta1 you3 mei2 you3 kai1 	我等等看他有沒有開	c=1 d=0.895834 t=2564
+wo3 dou1 you3 	我都有	c=1 d=1 t=2417
+wo3 dou1 zai4 jia1 	我都在家	c=1 d=1 t=2304
+wo3 gai3 	我改	c=1 d=1 t=316
+wo3 gang1 gang1 zai4 ting1 bai3 ling2 guo3 	我剛剛在聽百靈果	c=1 d=1 t=1273
+wo3 gang1 gang1 zai4 xie3 	我剛剛在寫	c=1 d=1 t=2278
+wo3 gang1 gang1 zai4 yan2 jiu4 shu3 xu1 guan3 	我剛剛在研究鼠鬚管	c=1 d=0.442639 t=2564
+wo3 gang1 gang1 zuo4 de5 yang4 shi4 	我剛剛做的樣式	c=1 d=0.621885 t=2564
+wo3 ge4 ren2 zui4 xi3 huan1 shi3 yong4 de5 jian4 pan2 chang2 du4 hao3 le5 	我個人最喜歡使用的鍵盤長度好了	c=1 d=1 t=377
+wo3 hai2 	我還	c=0 d=0.1 t=1347
+wo3 hai2 mei2 	我還沒	c=0 d=0.1 t=2499
+wo3 hai2 mei2 kan4 	我還沒看	c=1 d=1 t=2500
+wo3 hai2 yao4 da3 ma5 	我還要打嗎	c=1 d=1 t=1348
+wo3 hai2 yi3 wei2 	我還以為	c=0 d=0.1 t=1789
+wo3 hai2 yi3 wei2 shi4 dai4 lv4 mao4 	我還以為是戴綠帽	c=1 d=1 t=1790
+wo3 hao3 xiang3 	我好想	c=0 d=0.1 t=1814
+wo3 hen3 jiu3 mei2 chi1 le5 	我很久沒吃了	c=1 d=0.822835 t=2564
+wo3 hen3 mang2 hao3 ma5 	我很忙好嗎	c=1 d=1 t=2528
+wo3 hou4 mian4 dou1 gai3 cheng2 	我後面都改成	c=1 d=1 t=2076
+wo3 jiang3 de5 shi4 luo2 ji2 	我講的是邏輯	c=1 d=1 t=1109
+wo3 jiu4 	我就	c=0 d=0.0979463 t=2564
+wo3 jiu4 shuo1 wo3 shen2 me5 dou1 hai2 mei2 zuo4 	我就說我什麼都還沒作	c=1 d=1 t=2533
+wo3 jiu4 yao4 zhao3 ta1 dui4 ying4 de5 yan2 se4 	我就要找他對應的顏色	c=1 d=0.527292 t=2564
+wo3 jue2 de5 hua2 shu3 shuo1 shi4 hai2 hao3 	我覺得滑鼠說是還好	c=1 d=1 t=2286
+wo3 jue2 de5 zhe4 ji2 man2 hao3 kan4 de5 a1 	我覺得這集蠻好看得阿	c=1 d=1 t=1851
+wo3 jue2 ding4 	我決定	c=0 d=0.1 t=2506
+wo3 jue2 ding4 duo1 chi1 yi1 dian3 	我決定多吃一點	c=1 d=1 t=1249
+wo3 jue2 ding4 tou2 	我決定投	c=1 d=1 t=2507
+wo3 ka3 deng3 dong4 hua4 	我卡等動畫	c=1 d=1 t=1410
+wo3 kai1 yi1 ge5 	我開一個	c=1 d=1 t=1731
+wo3 kai3 ni3 yi1 ba3 le5 	我凱你一把了	c=1 d=1 t=2447
+wo3 kan4 	我看	c=1 d=0.0918512 t=2564
+wo3 kan4 bu2 shi4 	我看不是	c=1 d=1 t=354
+wo3 kan4 dao4 	我看到	c=1 d=1 t=2069
+wo3 kan4 kan4 	我看看	c=0 d=0.1 t=2149
+wo3 kan4 kan4 you3 mei2 you3 qi2 ta1 wen4 ti2 a1 	我看看有沒有其它問題阿	c=1 d=1 t=2150
+wo3 kan4 qi2 ta1 ren2 zuo4 de5 ye3 mei2 bian1 kuang1 	我看其他人做的也沒邊框	c=1 d=0.923116 t=2564
+wo3 kan4 shi4 	我看是	c=1 d=1 t=597
+wo3 ke3 yi3 jie4 ni3 de5 	我可以借你的	c=1 d=1 t=800
+wo3 lan3 de5 tiao2 a1 	我懶得調阿	c=1 d=1 t=350
+wo3 mai3 de5 shi4 zhe4 ge5 	我買的事這個	c=1 d=1 t=2398
+wo3 mei2 	我沒	c=0 d=0.0847894 t=2564
+wo3 mei2 chi1 guo4 	我沒吃過	c=1 d=0.852144 t=2564
+wo3 mei2 chu1 qu4 	我沒出去	c=1 d=1 t=1941
+wo3 mei2 jin4 qu4 a1 	我沒進去阿	c=1 d=1 t=1957
+wo3 mei2 you3 	我沒有	c=0 d=0.100142 t=2142
+wo3 mei2 you3 nan2 da4 de5 lun4 wen2 ge2 shi4 	我沒有南大的論文格式	c=1 d=1 t=831
+wo3 mei2 you3 yao4 shui4 fu2 ni3 	我沒有要說服妳	c=1 d=1 t=2143
+wo3 men5 	我們	c=1 d=0.16208 t=2564
+wo3 men5 jiu4 ke3 yi3 shao3 kan4 	我們就可以少看	c=1 d=1 t=2435
+wo3 men5 ta1 ma1 mei2 chi1 huo3 guo1 	我們他媽沒吃火鍋	c=1 d=1 t=2479
+wo3 na3 zhi1 dao4 	我哪知道	c=1 d=1 t=1437
+wo3 peng2 peng2 la5 	我朋朋啦	c=1 d=0.594521 t=2564
+wo3 qian2 tong2 shi4 chuan2 lai2 de5 	我前同事傳來的	c=1 d=1 t=2550
+wo3 qu4 mai3 wan3 can1 kan4 dao4 hao3 duo1 ren2 	我去買晚餐看到好多人	c=1 d=1 t=1956
+wo3 she4 	我射	c=0 d=0.0600496 t=2564
+wo3 she4 ji4 de5 	我射記得	c=1 d=0.603506 t=2564
+wo3 shen1 ti3 xu1 	我身體需	c=1 d=0.970446 t=2564
+wo3 shen2 me5 dou1 hai2 mei2 zuo4 	我什麼都還沒作	c=1 d=1 t=2525
+wo3 shi4 	我是	c=0 d=0.169544 t=2522
+wo3 shi4 bu2 xin4 	我是不信	c=1 d=1 t=1451
+wo3 shi4 mei2 you3 jue2 de5 re4 xie3 la5 	我是沒有覺得熱血啦	c=1 d=1 t=2449
+wo3 shuo1 	我說	c=0 d=0.1 t=452
+wo3 ta1 ma1 dou1 mai3 	我他媽都買	c=1 d=1 t=2421
+wo3 ta1 ma1 you4 bu2 yong4 ying1 wen2 	我他媽又不用英文	c=1 d=1 t=338
+wo3 ta1 ma1 zai4 kan4 gao1 fen1 shao4 nv3 	我他媽再看高分少女	c=1 d=1 t=2486
+wo3 tong3 yi1 ba3 	我統一把	c=1 d=1 t=2045
+wo3 wang4 ji4 	我忘記	c=0 d=0.1 t=1346
+wo3 wang4 ji4 da3 gei3 pei4 jun1 le5 	我忘記打給珮君了	c=1 d=1 t=1347
+wo3 wen4 	我問	c=0 d=0.100025 t=2453
+wo3 wen4 he2 ya3 	我問和亞	c=1 d=1 t=2454
+wo3 wen4 zi3 	我問子	c=1 d=1 t=795
+wo3 xian1 	我先	c=0 d=0.115961 t=2501
+wo3 xian1 ba3 zi4 dong4 geng1 xin1 guan1 diao4 	我先把自動更新關掉	c=1 d=1 t=2135
+wo3 xian1 kan4 wan2 gao1 fen1 shao4 nv3 di4 er4 ji4 zui4 hou4 yi1 ji2 	我先看完高分少女第二季最後一級	c=1 d=1 t=2502
+wo3 xian4 zai4 	我現在	c=0 d=0.0501576 t=2564
+wo3 xian4 zai4 xu1 yao4 de5 shi4 ba1 ma3 de5 	我現在需要的是八碼的	c=1 d=0.50409 t=2564
+wo3 xian4 zai4 yong4 de5 fang1 shi4 xie3 cheng2 	我現在用的方式寫成	c=1 d=1 t=836
+wo3 xiang3 	我想	c=1 d=0.10239 t=2279
+wo3 xiang3 jie1 ge5 jian4 pan2 lai2 yong4 dou1 bu4 neng2 	我想接個鍵盤來用都不能	c=1 d=1 t=697
+wo3 xie3 	我寫	c=0 d=0.1 t=857
+wo3 xie3 de5 qu4 zhao3 	我寫的去找	c=1 d=1 t=296
+wo3 yao4 	我要	c=0 d=0.100049 t=1822
+wo3 yao4 ji4 xu4 fang4 jia4 	我要繼續放假	c=1 d=1 t=1823
+wo3 yao4 ji4 xu4 lai2 she4 ji4 wo3 de5 shu1 ru4 fa3 le5 	我要繼續來設計我的輸入法了	c=1 d=1 t=298
+wo3 ye3 	我也	c=0 d=0.1 t=1350
+wo3 ye3 bu4 	我也不	c=0 d=0.1 t=2403
+wo3 ye3 bu4 xu1 yao4 san1 tai2 	我也不需要三臺	c=1 d=1 t=2404
+wo3 ye3 mei2 	我也沒	c=0 d=0.1 t=2099
+wo3 yi3 jing1 you3 	我已經有	c=1 d=1 t=1335
+wo3 you3 	我有	c=1 d=0.0980199 t=2564
+wo3 you3 bu4 li3 ni3 	我有不理你	c=1 d=1 t=1414
+wo3 you3 dian3 xiang3 bu2 dao4 yao4 chi1 sha2 	我有點想不到要吃啥	c=1 d=0.814647 t=2564
+wo3 you3 dian3 xiang3 chi1 	我有點想吃	c=1 d=0.818731 t=2564
+wo3 you3 ding4 wei4 le5 	我有定爲了	c=1 d=0.985112 t=2564
+wo3 you3 wei2 ni3 yao4 shuo1 kao3 chang3 zai4 ni3 jia1 	我有爲你要說考場在你家	c=1 d=1 t=2350
+wo3 you3 zhuang1 	我有裝	c=1 d=1 t=2295
+wo3 you4 bu2 shi4 	我又不是	c=0 d=0.100006 t=2301
+wo3 you4 bu2 shi4 wai4 guo2 ren2 	我又不是外國人	c=1 d=1 t=347
+wo3 yuan2 ben3 you3 zuo4 bian1 kuang1 de5 	我原本有做邊框的	c=1 d=1 t=332
+wo3 zai4 	我在	c=1 d=0.109701 t=2564
+wo3 zen3 me5 mei2 gan3 jue2 chu1 lai2 	我怎麼沒感覺出來	c=1 d=1 t=2319
+wo3 zhao3 dao4 huo3 yun2 xie2 shen2 la4 	我找到火雲邪神辣	c=1 d=1 t=460
+wo3 zhe4 ge5 ke3 ai4 ba5 	我這個可愛吧	c=1 d=0.955997 t=2564
+wo3 zhe4 ge5 yang4 shi4 you4 mei2 kai1 yuan2 	我這個樣式又沒開源	c=1 d=0.951229 t=2564
+wo3 zhe4 liang3 tian1 zai4 kan4 yi1 ge5 bi3 che3 ling2 hai2 che3 de5 ping1 pang1 qiu2 dong4 hua4 	我這兩天再看一個比扯鈴還扯的乒乓球動畫	c=1 d=1 t=1916
+wo3 zhi3 	我只	c=0 d=0.1 t=2204
+wo3 zhi3 jie2 	我只截	c=1 d=1 t=2205
+wo3 zhi3 you3 	我只有	c=0 d=0.1 t=2312
+wo3 zhi3 you3 gen1 ta1 chu1 qu4 chi1 fan4 	我只有跟她出去吃飯	c=1 d=1 t=2313
+wo3 zi4 ji3 	我自己	c=0 d=0.0937067 t=2564
+wo3 zui4 jin4 mai3 le5 	我最近買了	c=1 d=1 t=2379
+wo3 zuo4 	我做	c=0 d=0.1 t=1652
+wo3 zuo4 de5 	我做的	c=1 d=0.748264 t=2564
+wo4 cao4 	握肏	c=1 d=1 t=1408
+wu1 gui1 	烏龜	c=1 d=1 t=1331
+wu2 	無	c=1 d=1 t=1913
+wu2 fa3 	無法	c=0 d=0.067368 t=2564
+wu2 fa3 kuai4 su4 xin1 zeng1 	無法快速新增	c=1 d=1 t=1297
+wu2 fa3 zai4 ci3 geng1 gai3 	無法在此更改	c=1 d=1 t=1399
+wu2 guan1 	無關	c=0 d=0.0644036 t=2564
+wu2 liao2 	無聊	c=0 d=0.100148 t=1825
+wu2 xian4 	無線	c=0 d=0.1 t=630
+wu2 xian4 	無限	c=0 d=0.199005 t=1311
+wu2 xian4 chu2 cun2 kong1 jian1 	無限儲存空間	c=1 d=1 t=1312
+wu2 xian4 kong1 jian4 de5 zhang4 hao4 jiu4 geng4 hao3 le5 	無限空鍵的帳號就更好了	c=1 d=1 t=1310
+wu2 yin4 liang2 pin3 	無印良品	c=1 d=1 t=1831
+wu3 	五	c=2 d=1.97531 t=857
+wu3 dian3 ban4 	五點半	c=1 d=0.900325 t=2564
+wu3 gui3 	五鬼	c=0 d=0.1 t=1283
+wu3 gui3 ban1 yun4 	五鬼搬運	c=1 d=1 t=1284
+wu3 han4 	武漢	c=0 d=0.1 t=1266
+wu3 li4 	五例	c=0 d=0.1 t=1165
+wu3 li4 si3 wang2 	五例死亡	c=1 d=1 t=1166
+wu3 ting1 	舞廳	c=0 d=0.141066 t=2373
+wu3 yang4 	五樣	c=1 d=1 t=1523
+wu4 hui4 	誤會	c=1 d=1 t=2363
+wu4 li3 	物理	c=0 d=0.110016 t=2564
+wu4 yu3 	物語	c=1 d=1.099 t=1806
+xi1 gai4 	膝蓋	c=0 d=0.1 t=2433
+xi1 zhuang1 	西裝	c=0 d=0.1 t=354
+xi1 zhuang1 jia3 kou4 yan3 	西裝假釦眼	c=1 d=1 t=355
+xi2 	息	c=1 d=1 t=1580
+xi2 guan4 	習慣	c=0 d=0.121438 t=677
+xi2 jin4 ping2 	習近平	c=1 d=1 t=2545
+xi3 ai4 	喜愛	c=0 d=0.1 t=1780
+xi3 huan1 	喜歡	c=0 d=0.187398 t=976
+xi3 huan1 mai3 jian4 pan2 de5 wan2 jia1 	喜歡買鍵盤的玩家	c=1 d=1 t=417
+xi4 	系	c=0 d=0.1 t=435
+xi4 mi4 	細密	c=1 d=1 t=1718
+xi4 tong3 	系統	c=0 d=0.1 t=1319
+xi4 tong3 hui4 bei4 	系統會被	c=1 d=1 t=1320
+xia1 pi2 	蝦皮	c=14 d=1.14458 t=2564
+xia1 pi2 zhe4 	蝦皮這	c=1 d=1 t=1245
+xia4 	下	c=1 d=0.0722527 t=2564
+xia4 chai3 	下茝	c=1 d=1 t=1922
+xia4 ci4 	下次	c=0 d=0.1 t=277
+xia4 ci4 jiu4 mei2 de2 gai3 shan4 le5 	下次就沒得改善了	c=1 d=1 t=278
+xia4 dan1 	下單	c=0 d=0.1 t=2166
+xia4 jian4 	下鍵	c=1 d=1 t=872
+xia4 li3 bai4 	下禮拜	c=1 d=1 t=766
+xia4 mian4 	下面	c=0 d=0.0722527 t=2564
+xia4 mian4 na4 ju4 bu2 jiu4 shi4 shuo1 	下面那句不就是說	c=1 d=1 t=449
+xia4 tu2 	下圖	c=0 d=0.1 t=649
+xia4 wu3 	下午	c=0 d=0.189413 t=2564
+xia4 yi1 	下一	c=0 d=0.1 t=1608
+xia4 yi1 bu4 	下一步	c=1 d=1 t=1754
+xia4 yi1 ye4 	下一頁	c=1 d=1 t=1489
+xia4 zai3 	下載	c=1 d=0.887306 t=2564
+xia4 zai3 zheng3 fen4 dang3 an4 	下載整份檔案	c=1 d=1 t=813
+xian1 	先	c=0 d=0.101619 t=2221
+xian1 bu2 yao4 	先不要	c=1 d=0.632592 t=2125
+xian1 ju3 bao4 a1 	先舉報阿	c=1 d=1 t=1354
+xian1 xia4 zai3 shi4 yong4 	先下載試用	c=1 d=1 t=2222
+xian1 zhi1 	先知	c=0 d=0.1 t=261
+xian2 	閒	c=0 d=0.100331 t=2528
+xian2 jie1 	銜接	c=0 d=0.1 t=1989
+xian2 jie1 bian4 shu4 	銜接變數	c=1 d=1 t=1990
+xian3 shi4 	顯示	c=1 d=0.086167 t=2564
+xian3 shi4 shu4 liang4 	顯示數量	c=1 d=1 t=1395
+xian3 shi4 yang4 shi4 shi4 	顯示樣式是	c=1 d=0.740818 t=2564
+xian4 	線	c=0 d=0.193707 t=713
+xian4 fa3 	憲法	c=0 d=0.1 t=449
+xian4 shi2 	現實	c=0 d=0.1 t=1109
+xian4 shi4 wai1 de5 	線是歪的	c=1 d=1 t=1266
+xian4 xing2 de5 	現行的	c=1 d=1 t=549
+xian4 zai4 	現在	c=2 d=0.27615 t=2419
+xian4 zai4 gen1 ben3 ta1 ma1 mei2 shi2 jian1 	現在根本他媽沒時間	c=1 d=1 t=1819
+xian4 zai4 guang3 gao4 duo1 dao4 mo4 ming2 qi2 miao4 	現在廣告多到莫名其妙	c=1 d=1 t=2409
+xian4 zai4 ren4 cuo4 ren2 bu2 hui4 dao4 qian4 de5 ma5 	現在認錯人不會道歉的嗎	c=1 d=1 t=2366
+xian4 zai4 ta1 mei2 li2 zhi2 jiu4 yao4 tou1 xiao4 le5 	現在她沒離職就要偷笑了	c=1 d=1 t=353
+xian4 zai4 xiang3 tui4 ye3 mei2 ji1 hui4 le5 a1 	現在想退也沒機會了阿	c=1 d=1 t=879
+xiang1 dang1 	相當	c=0 d=0.101247 t=1913
+xiang1 dang1 shi4 he2 na2 lai2 zuo4 jian4 mao4 de5 cai2 zhi2 	相當適合拿來做鍵帽的材質	c=1 d=1 t=432
+xiang1 dui4 	相對	c=0 d=0.183036 t=1006
+xiang1 dui4 de5 jiu4 bu2 shu1 shi4 	相對的就不舒適	c=1 d=1 t=414
+xiang1 rong2 	相容	c=0 d=0.1 t=905
+xiang3 	想	c=0 d=0.0694197 t=2564
+xiang3 bi4 	想必	c=0 d=0.1 t=1011
+xiang3 bi4 da4 jia1 	想必大家	c=1 d=0.329925 t=1306
+xiang3 bi4 da4 jia1 ken3 ding4 dou1 you3 ge5 	想必大家肯定都有個	c=1 d=1 t=1307
+xiang3 bu2 dao4 	想不到	c=0 d=0.0810584 t=2564
+xiang3 chi1 	想吃	c=0 d=0.162119 t=2564
+xiang3 dao4 	想到	c=0 d=0.1 t=2323
+xiang3 de5 	想得	c=0 d=0.0427415 t=2564
+xiang3 kan4 	想看	c=0 d=0.1 t=2205
+xiang3 shuo1 	想說	c=0 d=0.1 t=625
+xiang3 xiang3 	想想	c=0 d=0.1 t=2177
+xiang3 xiang3 jiu4 zhi1 dao4 	想想就知道	c=1 d=1 t=2178
+xiang3 xiang4 	想象	c=0 d=0.1 t=934
+xiang3 xiang4 cheng2 	想象成	c=0 d=0.1 t=645
+xiang3 yao4 	想要	c=0 d=0.1 t=371
+xiang4 	向	c=0 d=0.0489192 t=2564
+xiang4 bu4 	相簿	c=1 d=1 t=1921
+xiang4 ni3 	像你	c=0 d=0.1 t=2519
+xiang4 ni3 zhe4 zhong3 chou4 zhai2 	像你這種臭宅	c=1 d=1 t=2520
+xiang4 shi4 	像是	c=0 d=0.0609571 t=2564
+xiang4 shi4 lan2 ya2 	像是藍牙	c=1 d=1 t=560
+xiang4 shi4 shang4 tu2 zhe4 yang4 duo1 kong3 de5 	像是上圖這樣多孔的	c=1 d=1 t=704
+xiang4 shi4 xia4 tu2 liang3 zhang1 de5 mu3 zhi3 xing2 	像是下圖兩張的拇指型	c=1 d=1 t=650
+xiang4 zhe4 yang4 	像這樣	c=2 d=0.522046 t=2564
+xiao1 xi2 	消息	c=0 d=0.1 t=1585
+xiao1 zhang1 	囂張	c=0 d=0.1 t=2280
+xiao2 	洨	c=2 d=1.01463 t=1330
+xiao3 chun1 	小春	c=0 d=0.295084 t=2512
+xiao3 chun1 hou4 lai2 pao3 qu4 dang1 guo2 xiao3 lao3 shi1 le5 	小春後來跑去當國小老師了	c=1 d=1 t=2513
+xiao3 hai2 	小孩	c=0 d=0.1 t=1198
+xiao3 hai2 mei3 	小孩每	c=1 d=1 t=1199
+xiao3 jie3 	小姐	c=0 d=0.1 t=2467
+xiao3 lang2 hao2 	小狼毫	c=1 d=1 t=1138
+xiao3 lao3 shi1 	小老師	c=0 d=0.1 t=2512
+xiao3 shi2 	小時	c=0 d=0.1 t=1806
+xiao3 shi2 guo1 	小時鍋	c=1 d=1 t=1807
+xiao3 tou1 	小偷	c=1 d=1 t=2349
+xiao4 de5 	笑得	c=0 d=0.1 t=1414
+xiao4 lv4 	效率	c=0 d=0.1 t=2081
+xiao4 lv4 ba5 	效率吧	c=1 d=1 t=2082
+xiao4 yuan2 	校園	c=0 d=0.1 t=1308
+xie2 	斜	c=1 d=1 t=1554
+xie3 	寫	c=0 d=0.0937067 t=2564
+xie3 cheng2 	寫成	c=0 d=0.1 t=835
+xie3 cheng2 shi4 	寫程式	c=0 d=0.0818731 t=2564
+xie3 de5 	寫的	c=0 d=0.1 t=295
+xie3 o1 ang3 le5 	寫喔䇦了	c=1 d=1 t=1137
+xie3 yi1 xie3 diu1 yun2 duan1 bu2 jiu4 hao3 le5 	寫一寫丟雲端不就好了	c=1 d=0.941765 t=2564
+xin1 ban3 	新版	c=0 d=0.1 t=304
+xin1 ban3 de5 	新版的	c=1 d=1 t=305
+xin1 bei3 	新北	c=0 d=0.1 t=2190
+xin1 bei3 dou1 	新北都	c=1 d=1 t=2191
+xin1 de5 	新的	c=1 d=1.0074 t=2289
+xin1 de5 shao4 nian2 shu1 qiu2 wang2 kan4 le5 ma5 	新的少年輸球亡看了嗎	c=1 d=1 t=1769
+xin1 li4 	心力	c=0 d=0.1 t=932
+xin1 shou3 	新手	c=0 d=0.1 t=1754
+xin1 ya3 	欣亞	c=3 d=1.92821 t=1792
+xin1 zeng1 	新增	c=2 d=0.643285 t=2087
+xin1 zeng1 liang3 li4 si3 wang2 	新增兩例死亡	c=1 d=1 t=1165
+xin1 zi1 biao3 	薪資表	c=0 d=0.1 t=1514
+xin4 hao4 	信號	c=1 d=1 t=734
+xing1 	星	c=0 d=0.1 t=1566
+xing1 dai4 yue4 	星戴月	c=1 d=1 t=1567
+xing1 hai3 	星海	c=0 d=0.1 t=1461
+xing1 qi2 er4 	星期二	c=0 d=0.1 t=1821
+xing1 xing1 	星星	c=0 d=0.1 t=2563
+xing1 xing1 yue4 liang4 	星星月亮	c=1 d=1 t=2564
+xing2 	型	c=0 d=0.199501 t=650
+xing2 cheng2 	形成	c=1 d=0.873716 t=2564
+xing2 cheng2 	行程	c=0 d=0.045612 t=2564
+xing2 dong4 	行動	c=0 d=0.1 t=2522
+xing2 jin4 	形近	c=1 d=0.865022 t=2564
+xing2 jin4 zi4 	形近字	c=1 d=1 t=1603
+xing2 le5 	行了	c=1 d=1 t=2466
+xing2 shi4 	刑事	c=0 d=0.1 t=2492
+xing2 xiao1 	行銷	c=0 d=0.1 t=2186
+xing4 	幸	c=0 d=0.1 t=1629
+xing4 	性	c=0 d=0.0873716 t=2564
+xing4 jia4 bi3 	性價比	c=0 d=0.1 t=917
+xing4 ming4 	性命	c=0 d=0.1 t=1914
+xing4 ming4 jiu4 bu4 hao3 shuo1 le5 	性命就不好說了	c=1 d=1 t=1915
+xing4 ping2 liang2 	性評量	c=1 d=0.878095 t=2564
+xiu1 a1 	修阿	c=1 d=1 t=521
+xiu1 gai3 	修改	c=0 d=0.0759572 t=2564
+xiu1 gai3 er2 lai2 	修改而來	c=1 d=1 t=1466
+xiu1 gai3 wan2 zhi1 hou4 ji4 de2 yao4 	修改玩之後記得要	c=1 d=0.763379 t=2564
+xiu1 xi2 	休息	c=0 d=0.1 t=2279
+xiu1 zheng4 	修正	c=0 d=0.1 t=1340
+xu1 	虛	c=1 d=0.97531 t=2564
+xu1 	需	c=0 d=0.0965605 t=2564
+xu1 qiu2 	需求	c=1 d=1.19314 t=271
+xu1 qiu2 shi4 pao3 	需求是跑	c=1 d=1 t=268
+xu1 yao4 	需要	c=0 d=0.100682 t=2403
+xu1 yao4 dao4 	需要到	c=1 d=1 t=1400
+xu1 yao4 de5 	需要的	c=0 d=0.0501576 t=2564
+xu1 yao4 de5 shi4 	需要的是	c=1 d=1 t=663
+xu3 	許	c=0 d=0.1 t=1441
+xu3 pin3 zhen1 ta1 men5 	許品蓁她們	c=1 d=1 t=1442
+xu4 fei4 	續費	c=0 d=0.1 t=884
+xu4 hao4 	序號	c=0 d=0.100752 t=2223
+xuan2 zhuan3 	旋轉	c=0 d=0.0609571 t=2564
+xuan3 	選	c=0 d=0.134301 t=1040
+xuan3 dan1 	選單	c=1 d=0.0847894 t=2564
+xuan3 gou4 	選購	c=0 d=0.1 t=735
+xuan3 shou3 	選手	c=0 d=0.1 t=1460
+xuan3 ze2 	選擇	c=0 d=0.201067 t=1616
+xuan3 ze2 da2 an4 an4 niu3 	選擇答案按鈕	c=1 d=1 t=1617
+xuan3 zi4 	選字	c=1 d=1.01393 t=1360
+xuan4 feng1 	旋風	c=0 d=0.1 t=2494
+xuan4 feng1 er4 	旋風二	c=1 d=1 t=2495
+xue2 de5 	學得	c=0 d=0.1 t=2462
+xue2 jie3 	學姐	c=1 d=1 t=799
+xue2 peng2 	學朋	c=1 d=1 t=1600
+xue2 sheng1 	學生	c=1 d=1 t=2547
+xue2 xi2 	學習	c=1 d=0.682345 t=1760
+xue2 xi2 dan1 yuan2 	學習單元	c=1 d=1 t=1757
+xue2 xiao4 	學校	c=0 d=0.1 t=444
+ya1 zai4 	壓在	c=0 d=0.1 t=659
+ya3 	亞	c=0 d=0.1 t=2453
+ya3 	雅	c=1 d=1 t=2456
+ya5 	呀	c=1 d=1 t=1356
+yan2 jiu4 	研究	c=0 d=0.0440432 t=2564
+yan2 jiu4 suo3 	研究所	c=0 d=0.1 t=2361
+yan2 se4 	顏色	c=1 d=0.576006 t=2564
+yan2 shen1 	延伸	c=1 d=1 t=613
+yan2 shuo1 	言說	c=0 d=0.1 t=771
+yan3 jing1 	眼睛	c=0 d=0.1 t=1145
+yan3 le5 	演了	c=0 d=0.1 t=2439
+yan4 	彥	c=0 d=0.199501 t=2474
+yan4 	豔	c=0 d=0.1 t=2450
+yan4 zheng4 	驗證	c=0 d=0.1 t=2228
+yang2 cong1 	洋蔥	c=1 d=0.969 t=2564
+yang2 cong1 ban3 	洋蔥版	c=2 d=1.19878 t=2564
+yang2 cong1 chun2 zhu4 yin1 	洋蔥純注音	c=5 d=2.35685 t=1396
+yang2 cong1 chun2 zhu4 yin1 an1 zhuang1 yu3 shi3 yong4 jiao1 xue2 	洋蔥純注音安裝與使用教學	c=1 d=1 t=1010
+yang2 cong1 chun2 zhu4 yin1 ban3 	洋蔥純注音版	c=1 d=1 t=1069
+yang2 cong1 zhu4 yin1 	洋蔥注音	c=1 d=0.152301 t=1370
+yang2 cong1 zhu4 yin1 ban3 de5 zuo4 zhe3 	洋蔥注音版的作者	c=1 d=1 t=1371
+yang4 	樣	c=0 d=0.1 t=1344
+yang4 shi4 	樣式	c=1 d=0.946997 t=2564
+yang4 tiao2 zheng3 	樣調整	c=1 d=1 t=1345
+yang4 zuo4 	樣做	c=1 d=1 t=1655
+yao1 qiu2 	要求	c=1 d=0.103046 t=1521
+yao1 qiu2 shao3 diao4 	要求少掉	c=1 d=1 t=1522
+yao3 gu3 	咬骨	c=1 d=1 t=486
+yao4 	要	c=1 d=0.513905 t=2564
+yao4 ba3 	要把	c=1 d=1 t=1176
+yao4 bang1 ta1 duan4 lian4 	要幫他鍛鍊	c=1 d=1 t=291
+yao4 bei4 	要被	c=0 d=0.040657 t=2564
+yao4 bu2 shi4 	要不是	c=0 d=0.1 t=2419
+yao4 bu2 shi4 xian4 zai4 mei2 de2 kan4 	要不是現在沒得看	c=1 d=1 t=2420
+yao4 bu4 de2 	要不得	c=0 d=0.0429557 t=2564
+yao4 chi1 	要吃	c=0 d=0.0810584 t=2564
+yao4 chu1 	要出	c=0 d=0.1 t=2305
+yao4 cong2 	要從	c=1 d=0.806541 t=2564
+yao4 da3 	要打	c=0 d=0.102352 t=1347
+yao4 diao3 da3 shen2 me5 	要屌打什麼	c=1 d=0.946485 t=2564
+yao4 gai3 de5 hua4 	要改的話	c=1 d=0.752014 t=2564
+yao4 gai3 kuai4 gai3 	要改快改	c=1 d=1 t=457
+yao4 gai3 zi1 yuan2 ping2 tai2 zhi2 jie1 ji4 xin4 gei3 wo3 	要改資源平臺直接寄信給我	c=1 d=1 t=1352
+yao4 kuai4 su4 cao1 zuo4 hua2 shu3 er2 qie3 hai2 you3 yi1 dian3 qian2 	要快速操作滑鼠而且還有一點前	c=1 d=1 t=679
+yao4 ma3 you3 xian4 yao4 ma5 wu2 xian4 	要馬有線要嗎無線	c=1 d=1 t=631
+yao4 ma5 	要嗎	c=0 d=0.1 t=630
+yao4 ni3 	要你	c=0 d=0.1 t=1046
+yao4 qu4 	要去	c=0 d=0.198113 t=1243
+yao4 shuo1 	要說	c=0 d=0.1 t=2349
+yao4 suan4 zen3 me5 	要算怎麼	c=1 d=1 t=1636
+yao4 xian1 	要先	c=0 d=0.0923116 t=2564
+yao4 xian1 ding4 wei4 ma5 	要先定位嗎	c=1 d=0.927743 t=2564
+yao4 xu4 fei4 le5 a1 	要續費了阿	c=1 d=1 t=885
+yao4 xuan3 zhe4 ge5 dou1 shi4 ying1 wen2 de5 ban3 ben3 o1 	要選這個都是英文的版本喔	c=1 d=1 t=1041
+yao4 yong4 	要用	c=0 d=0.1 t=826
+yao4 you3 	要有	c=1 d=1.00027 t=1411
+yao4 zai4 	要在	c=0 d=0.1 t=1794
+yao4 zen3 me5 	要怎麼	c=0 d=0.111884 t=1659
+yao4 zen3 me5 ji4 de2 	要怎麼記得	c=1 d=1 t=1234
+yao4 zhao3 	要找	c=0 d=0.1 t=2254
+yao4 zhun3 bei4 yao4 zen3 me5 jiao1 de5 o1 	要準備要怎麼教的喔	c=1 d=1 t=1660
+yao4 zuo4 	要做	c=0 d=0.103688 t=1520
+ye1 	耶	c=2 d=0.158588 t=2117
+ye3 	也	c=1 d=0.107537 t=2132
+ye3 	野	c=2 d=1.82283 t=1711
+ye3 bu2 hui4 	也不會	c=0 d=0.1 t=2271
+ye3 bu2 jian4 de2 	也不見得	c=0 d=0.1 t=1019
+ye3 bu2 jian4 de2 wan2 quan2 jiu4 mei2 you3 wen4 ti2 	也不見得完全就沒有問題	c=1 d=1 t=1020
+ye3 bu4 	也不	c=0 d=0.1 t=430
+ye3 bu4 rong2 yi4 da3 you2 	也不容易打油	c=1 d=1 t=431
+ye3 ceng2 jing1 ren4 wei2 	也曾經認爲	c=1 d=1 t=913
+ye3 hao3 	也好	c=0 d=0.0831104 t=2564
+ye3 hen3 	也很	c=0 d=0.1 t=1954
+ye3 hen3 wei2 xian3 ye1 	也很危險耶	c=1 d=1 t=1955
+ye3 hui4 	也會	c=0 d=0.1 t=2171
+ye3 jiu4 	也就	c=0 d=0.1 t=632
+ye3 jiu4 shi4 	也就是	c=0 d=0.0404542 t=2564
+ye3 jiu4 shi4 di4 wu3 dai4 yi2 dong4 wang3 lu4 	也就是第五代移動網路	c=1 d=1 t=544
+ye3 jiu4 shi4 ke3 yi3 tiao2 zheng3 zai4 chu4 fa1 shi2 	也就是可以調整在觸發時	c=1 d=0.40657 t=2564
+ye3 jiu4 shi4 suo3 wei4 de5 	也就是所謂的	c=1 d=1 t=954
+ye3 jiu4 zhe4 yang4 le5 la5 	也就這樣了啦	c=1 d=1 t=633
+ye3 ke3 yi3 	也可以	c=0 d=0.045612 t=2564
+ye3 ke3 yi3 yong4 zuo3 you4 jian4 lai2 qie1 huan4 	也可以用左右鍵來切換	c=1 d=1 t=870
+ye3 mei2 	也沒	c=0 d=0.0918512 t=2564
+ye3 mei2 you3 	也沒有	c=0 d=0.1 t=625
+ye3 shi4 	也是	c=0 d=0.100775 t=2409
+ye3 shi4 bi3 zhe3 	也是筆者	c=1 d=0.405746 t=924
+ye3 xue2 	也學	c=0 d=0.1 t=252
+ye3 you3 	也有	c=0 d=0.1625 t=671
+ye3 you3 ta1 de5 que1 dian3 	也有它的缺點	c=1 d=1 t=578
+ye3 zi4 ran2 bu2 hui4 guo4 du4 yong4 li4 	也自然不會過度用力	c=1 d=1 t=669
+ye4 	頁	c=1 d=1 t=1494
+ye4 mian4 	頁面	c=3 d=1.00052 t=2281
+ye4 wei3 	頁尾	c=0 d=0.1 t=264
+yi1 	一	c=3 d=0.162706 t=2564
+yi1 ban1 	一般	c=0 d=0.0491644 t=2564
+yi1 ban1 wo3 men5 yong4 de5 dou1 shi4 liu4 	一般我們用的都是六	c=1 d=0.494109 t=2564
+yi1 ban1 you3 shu4 zi4 jian4 de5 	一般有數字鍵的	c=1 d=1 t=378
+yi1 ban4 	一半	c=0 d=0.1 t=2435
+yi1 ban4 jiang4 di1 zhi4 shang1 de5 ju4 qing2 le5 	一半降低智商的劇情了	c=1 d=1 t=2436
+yi1 bi3 	一比	c=0 d=0.1 t=340
+yi1 bian1 	一邊	c=0 d=0.1 t=1210
+yi1 bian1 ma4 yi1 bian1 zhen1 xiang1 	一邊罵一邊真香	c=1 d=1 t=1211
+yi1 bu4 fen4 	一部分	c=0 d=0.194649 t=719
+yi1 ceng2 	一層	c=0 d=0.1 t=472
+yi1 ci4 	一次	c=0 d=0.220408 t=1287
+yi1 ci4 zheng3 he2 	一次整合	c=1 d=1 t=1288
+yi1 ci4 zhi1 yuan2 liang3 tai2 dian4 nao3 	一次支援兩臺電腦	c=1 d=1 t=1117
+yi1 dian3 	一點	c=1 d=1.01832 t=1645
+yi1 dian3 dian3 	一點點	c=0 d=0.1 t=2050
+yi1 ding4 	一定	c=0 d=0.10026 t=2165
+yi1 ding4 gao4 fan1 zhe4 xie1 gong1 si1 a1 	一定告翻這些公司阿	c=1 d=1 t=2166
+yi1 ding4 hui4 	一定會	c=0 d=0.189137 t=1317
+yi1 ding4 hui4 yu4 dao4 yi1 ge5 wen4 ti2 	一定會遇到一個問題	c=1 d=1 t=1318
+yi1 ding4 shi4 	一定是	c=0 d=0.1 t=408
+yi1 ding4 yao4 	一定要	c=0 d=0.197045 t=2292
+yi1 ding4 yao4 mai3 yi1 ge5 pian2 yi2 de5 lai2 cha1 wang3 lu4 kong3 	一定要買一個便宜得來差網路孔	c=1 d=1 t=2293
+yi1 dui1 	一堆	c=0 d=0.144389 t=1519
+yi1 dui1 a1 	一堆阿	c=1 d=1 t=1269
+yi1 dui4 er4 	一對二	c=1 d=1 t=1116
+yi1 fen1 qian2 yi1 fen1 huo4 	一分錢一分貨	c=0 d=0.1 t=739
+yi1 fen4 	一份	c=0 d=0.1 t=1007
+yi1 gai4 	一蓋	c=0 d=0.1 t=1156
+yi1 gai4 qi3 lai2 	一蓋起來	c=1 d=1 t=1157
+yi1 ge2 	一格	c=1 d=1.02441 t=1052
+yi1 ge5 	一個	c=1 d=0.115605 t=2564
+yi1 ge5 ren2 	一個人	c=0 d=0.199508 t=2390
+yi1 ge5 ren2 san1 tai2 de5 zhong1 shen1 ban3 	一個人三臺的終身版	c=1 d=1 t=2391
+yi1 ge5 ren2 san1 tai2 na4 zhong3 ba5 	一個人三臺那種吧	c=1 d=1 t=2390
+yi1 ge5 yi1 ge5 de5 zi1 liao4 jia2 	一個一個的資料夾	c=1 d=1 t=951
+yi1 ji2 	一級	c=0 d=0.1 t=2501
+yi1 jin1 	一斤	c=1 d=1.09501 t=1252
+yi1 kai1 shi3 	一開始	c=0 d=0.1 t=2436
+yi1 kou3 	一口	c=0 d=0.1 t=2321
+yi1 kou3 yi1 ge5 hei1 gui3 	一口一個黑鬼	c=1 d=1 t=2322
+yi1 kuan3 	一款	c=0 d=0.1 t=1028
+yi1 lai4 	依賴	c=0 d=0.0640824 t=2564
+yi1 liang3 ge5 li3 bai4 le5 ye1 	一兩個禮拜了耶	c=1 d=1 t=2118
+yi1 qi3 	一起	c=0 d=0.1 t=1035
+yi1 tai2 	一臺	c=0 d=0.1 t=2399
+yi1 tai2 de5 ban3 ben3 	一臺的版本	c=1 d=1 t=2400
+yi1 tiao2 	一條	c=0 d=0.1 t=712
+yi1 xia4 	一下	c=0 d=0.119014 t=707
+yi1 xie3 	一寫	c=0 d=0.0937067 t=2564
+yi1 yang4 	一樣	c=1 d=0.126991 t=2564
+yi1 yang4 bu4 xian3 shi4 	一樣不顯示	c=1 d=1 t=1083
+yi1 yang4 shi4 you2 	一樣是由	c=1 d=0.66365 t=2564
+yi1 zhang1 zhao4 pian4 	一張照片	c=0 d=0.1 t=2450
+yi1 zhao4 	依照	c=1 d=0.895834 t=2564
+yi1 zhi1 	一隻	c=0 d=0.1 t=1428
+yi1 zhi1 ai4 de2 hua2 	一隻愛德華	c=1 d=1 t=1429
+yi1 zhi2 	一直	c=0 d=0.120418 t=1352
+yi1 zhi2 dao4 yu4 jian4 le5 shu3 xu1 guan3 	一直到遇見了鼠鬚管	c=1 d=1 t=1002
+yi1 zhi2 dou1 zai4 	一直都在	c=0 d=0.1 t=1213
+yi2 	宜	c=1 d=1 t=796
+yi2 	疑	c=1 d=1 t=808
+yi2 dong4 	移動	c=0 d=0.151944 t=674
+yi2 dong4 you2 biao1 de5 su4 du4 mei2 you3 hua2 shu3 kuai4 	移動遊標的速度沒有滑鼠快	c=1 d=1 t=675
+yi3 	以	c=0 d=0.11097 t=1358
+yi3 	已	c=1 d=0.777057 t=1438
+yi3 cheng2 gong1 shi3 yong4 	以成功使用	c=1 d=1 t=1359
+yi3 hou4 	以後	c=0 d=0.1 t=2490
+yi3 hou4 ni3 chuan2 lai2 wo3 dou1 bu4 hui2 	以後你傳來我都不回	c=1 d=1 t=2491
+yi3 jie2 tu2 	已截圖	c=1 d=1 t=1439
+yi3 jing1 	已經	c=1 d=0.108706 t=2143
+yi3 jing1 shi4 	已經是	c=0 d=0.1 t=2130
+yi3 jing1 xiu1 zheng4 nei4 rong2 le5 	已經修正內容了	c=1 d=1 t=1341
+yi3 jing1 you3 	已經有	c=0 d=0.100677 t=2333
+yi3 qian2 	以前	c=0 d=0.100006 t=2429
+yi3 wei2 	以爲	c=0 d=0.1 t=2534
+yi3 wei2 zhen1 de5 dong4 bu2 dong4 jiu4 gan4 ni3 lao3 shi1 	以爲真的動不動就幹你老師	c=1 d=1 t=2535
+yi3 xia4 	以下	c=1 d=1 t=1945
+yi4 	異	c=1 d=1 t=1606
+yi4 	藝	c=0 d=0.1 t=2409
+yi4 qing2 	疫情	c=0 d=0.1 t=1913
+yi4 qing2 xiang1 dang1 an1 quan2 	疫情相當安全	c=1 d=1 t=1914
+yi4 si1 	意思	c=0 d=0.0416862 t=2564
+yi4 yin1 	異音	c=1 d=1 t=1602
+yi4 you3 suo3 zhi3 	意有所指	c=0 d=0.0860708 t=2564
+yin1 	因	c=0 d=0.100063 t=2383
+yin1 bi3 zhe3 	因筆者	c=1 d=1 t=910
+yin1 wei4 	因為	c=2 d=1.05193 t=2512
+yin1 wei4 	因爲	c=7 d=0.067032 t=2564
+yin1 wei4 bi3 zhe3 	因爲筆者	c=1 d=1 t=897
+yin1 wei4 jian4 pan2 tai4 duo1 le5 a1 	因爲鍵盤太多了阿	c=1 d=1 t=373
+yin1 wei4 jin1 tian1 	因為今天	c=1 d=1 t=2371
+yin1 wei4 shou3 wan4 bu2 hui4 yi1 zhi2 ya1 zai4 hua2 shu3 shang4 	因爲手腕不會一直壓在滑鼠上	c=1 d=1 t=660
+yin1 wei4 zhi4 zao4 pian2 yi2 	因爲製造便宜	c=1 d=1 t=487
+ying1 gai1 	應該	c=0 d=0.152509 t=2079
+ying1 gai1 bu2 hui4 ying3 xiang3 	應該不會影響	c=1 d=1 t=2080
+ying1 gai1 ke3 yi3 	應該可以	c=0 d=0.1 t=940
+ying1 gai1 ke3 yi3 gai3 bian4 da4 jia1 dui4 	應該可以改變大家對	c=1 d=1 t=941
+ying1 gai1 shi4 	應該是	c=0 d=0.0878095 t=2564
+ying1 gai1 shi4 bu2 yong4 ba5 	應該是不用吧	c=1 d=0.882497 t=2564
+ying1 gai1 shuo1 	應該說	c=1 d=1 t=997
+ying1 gai1 zhi3 you3 lian2 luo4 wo3 men5 li3 mian4 you3 ba5 	應該只有聯絡我們裡面有吧	c=1 d=1 t=301
+ying1 guo2 	英國	c=0 d=0.1 t=879
+ying1 guo2 luan4 cheng2 zhe4 yang4 	英國亂成這樣	c=1 d=1 t=880
+ying1 hua1 	櫻花	c=0 d=0.1 t=1120
+ying1 hua1 fen3 	櫻花粉	c=1 d=1 t=1121
+ying1 wen2 	英文	c=2 d=0.108321 t=2462
+ying1 wen2 ban3 	英文版	c=0 d=0.1 t=1048
+ying1 wen2 ban3 jiu4 ke3 yi3 shi3 yong4 	英文版就可以使用	c=1 d=1 t=1049
+ying2 ding4 le5 	贏定了	c=0 d=0.1 t=1458
+ying2 ding4 le5 ba5 	贏定了吧	c=1 d=1 t=1459
+ying2 le5 	贏了	c=0 d=0.1 t=2345
+ying2 mu4 	螢幕	c=0 d=0.199997 t=2123
+ying2 mu4 bao3 hu4 cheng2 shi4 hao3 xiang4 shui4 mian2 hou4 kai1 qi3 ying2 mu4 yan2 se4 hui4 pao3 diao4 	螢幕保護程式好像睡眠後開啟螢幕顏色會跑掉	c=1 d=1 t=2121
+ying2 mu4 kan4 jiu3 le5 	螢幕看久了	c=1 d=1 t=1142
+ying2 mu4 shang4 	螢幕上	c=0 d=0.1 t=1095
+ying2 ye4 	營業	c=0 d=0.1 t=2195
+ying3 xiang3 	影響	c=0 d=0.142966 t=2248
+ying4 	應	c=0 d=0.137344 t=428
+ying4 	硬	c=1 d=1 t=430
+ying4 die2 	硬碟	c=1 d=0.100874 t=1731
+ying4 ti3 	硬體	c=0 d=0.1 t=1191
+ying4 yao4 	硬要	c=0 d=0.1 t=2084
+ying4 yong4 cheng2 shi4 	應用程式	c=1 d=1.15304 t=958
+ying4 yong4 cheng2 shi4 de5 zhi2 xing2 dang3 	應用程式的執行檔	c=1 d=1 t=953
+ying4 yong4 yu2 	應用於	c=0 d=0.1 t=1757
+yong3 jin4 lai2 	涌進來	c=1 d=1 t=2062
+yong3 qing1 	永清	c=2 d=2.27339 t=1232
+yong3 qing1 jiang3 de5 shi4 xian4 shi2 	永清講的是現實	c=1 d=1 t=1110
+yong3 qing1 kai1 zui3 	永清開嘴	c=1 d=1 t=1194
+yong3 qing1 ni3 qian2 lao3 ban3 	永清你錢老闆	c=1 d=1 t=1226
+yong3 qing1 wen4 ni3 o1 	永清問你喔	c=1 d=1 t=1154
+yong4 	用	c=9 d=2.1529 t=2296
+yong4 bu2 dao4 	用不到	c=0 d=0.100123 t=2463
+yong4 de5 	用的	c=0 d=0.0491644 t=2564
+yong4 de5 hao3 hao3 de5 a1 	用的好好的阿	c=1 d=1 t=1223
+yong4 guo4 	用過	c=0 d=0.130575 t=644
+yong4 guo4 wang3 ka1 de5 dian4 nao3 	用過網咖的電腦	c=1 d=1 t=408
+yong4 lai2 	用來	c=1 d=1 t=2007
+yong4 le5 	用了	c=1 d=1 t=983
+yong4 li4 	用力	c=0 d=0.1 t=668
+yong4 wai4 zhi4 jian4 pan2 le5 	用外置鍵盤了	c=1 d=1 t=1992
+you1 	呦	c=1 d=1 t=1304
+you1 hui4 quan4 	優惠券	c=1 d=1 t=1067
+you2 	游	c=1 d=1 t=798
+you2 biao1 	遊標	c=0 d=0.1 t=674
+you2 qi2 shi4 	尤其是	c=0 d=0.1 t=681
+you2 qi2 shi4 quan2 zhang3 gui3 ji1 qiu2 	尤其是全掌軌跡球	c=1 d=1 t=682
+you2 xi4 	遊戲	c=0 d=0.1 t=260
+you2 yu2 	由於	c=1 d=1.00034 t=2036
+you2 yu2 zhe4 ge5 ban3 ben3 bu4 zhi1 yuan2 	由於這個版本部支援	c=1 d=1 t=901
+you3 	有	c=3 d=1.95291 t=2564
+you3 a1 	有阿	c=3 d=1.24316 t=2564
+you3 ba5 	有吧	c=1 d=1 t=2238
+you3 de5 	有的	c=0 d=0.1 t=1404
+you3 dian3 	有點	c=0 d=0.215517 t=2564
+you3 dian3 dao4 li3 	有點道理	c=1 d=1 t=466
+you3 duo1 	有多	c=0 d=0.1 t=1444
+you3 duo1 ge5 kong3 wei4 	有多個孔位	c=1 d=1 t=712
+you3 fen1 	有分	c=0 d=0.1 t=2458
+you3 ge5 	有個	c=0 d=0.1 t=1306
+you3 gong1 ju4 bu2 yong4 	有工具不用	c=1 d=1 t=2267
+you3 hen3 duo1 bu4 liao3 jie3 de5 wen4 ti2 	有很多不瞭解的問題	c=1 d=1 t=930
+you3 hui4 	友會	c=1 d=1 t=1829
+you3 jin4 qu4 	有進去	c=0 d=0.1 t=1112
+you3 jin4 qu4 kan4 	有進去看	c=1 d=1 t=1113
+you3 ke3 neng2 	有可能	c=0 d=0.1 t=1391
+you3 ke3 neng2 shi4 pa4 ren2 jia1 na2 qu4 mai4 ba5 	有可能是怕人家拿去賣吧	c=1 d=1 t=1392
+you3 kong4 	有空	c=0 d=0.1 t=592
+you3 kong4 lai2 kan4 	有空來看	c=1 d=1 t=593
+you3 ma5 	有嗎	c=2 d=1.00009 t=2318
+you3 mei2 you3 	有沒有	c=0 d=0.0891366 t=2564
+you3 mei2 you3 wen4 ti2 	有沒有問題	c=1 d=1 t=2139
+you3 mei2 you3 yao4 dai4 zhe5 pao3 	有沒有要帶着跑	c=1 d=1 t=269
+you3 na4 me5 duo1 chang3 shang1 ni3 bu2 mai4 	有那麼多廠商擬不賣	c=1 d=1 t=2171
+you3 qi2 	有其	c=0 d=0.1 t=2122
+you3 qian2 	有錢	c=0 d=0.1 t=250
+you3 qian2 de5 hua4 you3 tui1 jian4 	有錢的話有推薦	c=1 d=1 t=251
+you3 ren2 	有人	c=0 d=0.1 t=1784
+you3 ren2 de5 hua4 	有人的話	c=1 d=1 t=1785
+you3 shang4 	有上	c=0 d=0.1 t=2084
+you3 shi3 da4 jia1 chi1 	有屎大家吃	c=1 d=1 t=2338
+you3 tai4 duo1 	有太多	c=0 d=0.1 t=970
+you3 xian4 	有線	c=0 d=0.1 t=630
+you3 xie1 	有些	c=1 d=1.099 t=2043
+you3 xie1 ren2 	有些人	c=0 d=0.1 t=347
+you3 xie1 ren2 geng4 che3 	有些人更扯	c=1 d=1 t=348
+you3 xie1 shi3 yong4 	有些使用	c=1 d=1 t=2042
+you3 xing4 jia4 bi3 de5 jia4 zhi2 	有性價比的價值	c=1 d=1 t=918
+you3 yi1 	有一	c=0 d=0.1 t=432
+you3 yi1 bu4 fen4 	有一部分	c=1 d=1 t=720
+you3 yi1 bu4 fen4 de5 	有一部分的	c=1 d=1 t=709
+you3 yi1 ge5 que1 dian3 	有一個缺點	c=1 d=1 t=433
+you4 	又	c=1 d=0.249811 t=2530
+you4 bu2 xiang4 ni3 hen3 xian2 zhi3 hui4 gan4 a1 ma4 	又不像你很閒只會幹阿罵	c=1 d=1 t=2529
+you4 hen3 chi1 zi1 yuan2 	又很吃資源	c=1 d=1 t=2383
+you4 jian4 	右鍵	c=0 d=0.130882 t=1295
+you4 jian4 xin1 zeng1 dang3 an4 	右鍵新增檔案	c=1 d=1 t=1061
+you4 mei2 	又沒	c=0 d=0.0946485 t=2564
+you4 mei2 hui2 qu4 	又沒回去	c=1 d=1 t=1799
+yu2 	於	c=1 d=1 t=998
+yu3 	與	c=7 d=0.854245 t=2020
+yu3 	語	c=0 d=0.1 t=1857
+yu3 fa3 	語法	c=1 d=1 t=2038
+yu3 nei4 rong2 	與內容	c=1 d=1 t=2021
+yu3 zhe4 xie1 dian4 zi3 chan3 pin3 bu4 xiang1 tong2 	與這些電子產品不相同	c=1 d=1 t=571
+yu4 	與	c=0 d=0.108374 t=1504
+yu4 ce4 	預測	c=0 d=0.1 t=1110
+yu4 dao4 	遇到	c=1 d=0.103779 t=2122
+yu4 dao4 zui4 da4 de5 wen4 ti2 jiu4 shi4 mei2 you3 	遇到最大的問題就是沒有	c=1 d=1 t=1015
+yu4 jian4 	遇見	c=0 d=0.1 t=1001
+yu4 she4 de5 	預設的	c=1 d=0.737123 t=2564
+yu4 suan4 	預算	c=1 d=1 t=264
+yu4 zhen1 	鈺蓁	c=1 d=1 t=765
+yuan2 ban3 	原版	c=0 d=0.1 t=859
+yuan2 ben3 	原本	c=1 d=0.136447 t=1169
+yuan2 ben3 de5 ban3 ben3 bu4 neng2 	原本的版本不能	c=1 d=1 t=315
+yuan2 gong1 	員工	c=0 d=0.1 t=1150
+yuan2 jia4 wu1 	原價屋	c=1 d=1 t=477
+yuan2 jian4 	元件	c=0 d=0.1 t=317
+yuan2 jiao3 	圓角	c=0 d=0.1 t=777
+yuan2 lai2 	原來	c=1 d=1 t=2326
+yuan2 lai2 shi4 	原來是	c=0 d=0.116712 t=2160
+yuan2 lai2 shi4 chi1 bo1 	原來是吃播	c=1 d=1 t=1789
+yuan2 lai2 shi4 qi2 huo4 a1 	原來是期貨阿	c=1 d=1 t=2161
+yuan2 lai2 shi4 zhong1 gong4 wu3 han4 fei4 yan2 	原來是中共武漢肺炎	c=1 d=1 t=1267
+yuan2 shen2 	原神	c=1 d=1 t=2000
+yuan2 sheng1 	原生	c=0 d=0.1 t=1021
+yuan2 sheng1 	原聲	c=1 d=0.444858 t=2564
+yuan2 sheng1 de5 shu1 ru4 fa3 you3 ge4 zhong3 bu4 hao3 shi3 yong4 de5 yuan2 yin1 	原聲的輸入法有各種不好使用的原因	c=1 d=1 t=1000
+yuan2 sheng1 shi4 	原生是	c=1 d=1 t=1022
+yuan2 yin1 	原因	c=1 d=0.354107 t=999
+yuan2 yin1 shi4 	原因是	c=0 d=0.207275 t=926
+yuan2 ze2 	原則	c=0 d=0.0499074 t=2564
+yue1 pao4 	約炮	c=1 d=1 t=1796
+yue4 	月	c=1 d=1 t=1053
+yue4 kan4 	越看	c=0 d=0.1 t=1145
+yue4 kan4 jue2 de5 yan3 jing1 hen3 hu2 	越看覺得眼睛很糊	c=1 d=1 t=1146
+yue4 liang4 	月亮	c=0 d=0.1 t=2563
+yun2 duan1 	雲端	c=0 d=0.0937067 t=2564
+yun2 lin2 ren2 	雲林人	c=0 d=0.1 t=2444
+yun4 suan4 	運算	c=0 d=0.1 t=2175
+za2 	雜	c=0 d=0.1 t=2104
+zai4 	再	c=1 d=1 t=1423
+zai4 	在	c=6 d=0.538954 t=2564
+zai4 bi3 dian4 	在筆電	c=1 d=1 t=1171
+zai4 chi1 fan4 la5 	在吃飯啦	c=1 d=1 t=1902
+zai4 chu1 ci4 shi3 yong4 	在初次使用	c=1 d=1 t=911
+zai4 ci3 	在此	c=0 d=0.1 t=1398
+zai4 da3 	再打	c=0 d=0.1 t=1157
+zai4 da3 kai1 	再打開	c=1 d=1 t=1158
+zai4 hu1 ni3 	在乎你	c=0 d=0.1 t=1474
+zai4 jia1 	在家	c=0 d=0.1 t=2303
+zai4 kan4 	再看	c=0 d=0.105784 t=2485
+zai4 lai2 	再來	c=0 d=0.107336 t=1252
+zai4 lai2 jiu4 shi4 jia4 ge2 bi3 jiao4 gui4 	再來就是價格比較貴	c=1 d=1 t=676
+zai4 lai2 jiu4 shi4 xian4 zai4 hen3 	再來就是現在很	c=1 d=1 t=444
+zai4 lai2 yi1 jin1 	再來一斤	c=1 d=1 t=1253
+zai4 na4 bian1 she4 ji4 shu1 ru4 jie4 mian4 gao3 ban4 tian1 	在那邊設計輸入界面搞半天	c=1 d=0.995012 t=2564
+zai4 shi3 yong4 	在使用	c=0 d=0.122764 t=1024
+zai4 shi3 yong4 shi2 hui4 you3 	在使用時會有	c=1 d=1 t=729
+zai4 shu1 ru4 fa3 na4 bian1 jin4 xing2 	在輸入法那邊進行	c=1 d=0.771052 t=2564
+zai4 ting1 	在聽	c=0 d=0.1 t=1272
+zai4 wai4 	在外	c=0 d=0.1 t=971
+zai4 wen4 	再問	c=0 d=0.1 t=296
+zai4 xie3 	在寫	c=0 d=0.1 t=2277
+zai4 xuan3 gou4 	在選購	c=1 d=1 t=736
+zai4 yong4 	再用	c=0 d=0.0937067 t=2564
+zai4 zhi2 zhuan1 ban1 	在職專班	c=1 d=1 t=848
+zai4 zuo4 	在做	c=0 d=0.1 t=2441
+zan4 	讚	c=0 d=0.1 t=2516
+zao1 gao1 	糟糕	c=0 d=0.1 t=2475
+zao4 cheng2 	造成	c=1 d=1.1691 t=728
+zao4 cheng2 gong1 dian4 bu4 zu2 	造成供電不足	c=1 d=1 t=718
+zao4 cheng2 shou3 bu4 shang1 hai4 	造成手部傷害	c=1 d=1 t=670
+ze2 	則	c=0 d=0.1 t=958
+zen3 	怎	c=0 d=0.0425283 t=2564
+zen3 me5 	怎麼	c=1 d=0.197882 t=2564
+zen3 me5 dang1 yi1 ge5 hao3 	怎麼當一個好	c=1 d=1 t=1906
+zen3 me5 gai3 	怎麼改	c=0 d=0.1 t=1655
+zen3 me5 gao3 	怎麼搞	c=0 d=0.1 t=2293
+zen3 me5 jia4 wang3 zhan4 la5 gan4 	怎麼假網站啦幹	c=1 d=1 t=2297
+zen3 me5 le5 	怎麼了	c=1 d=0.412714 t=2564
+zen3 me5 le5 ma5 	怎麼了嗎	c=1 d=1 t=2116
+zen3 me5 mei2 xiang4 ni3 shuo1 de5 zhe4 me5 shan4 liang2 	怎麼沒像你說的這麼善良	c=1 d=1 t=2321
+zen3 me5 neng2 geng1 xin1 	怎麼能更新	c=1 d=1 t=2132
+zen3 me5 xie3 	怎麼寫	c=0 d=0.1 t=2257
+zen3 me5 zhe4 ci4 fen1 shu4 bian4 gao1 le5 	怎麼這次分數便高了	c=1 d=1 t=266
+zen3 yang4 	怎樣	c=2 d=1.43652 t=2329
+zhai2 	宅	c=0 d=0.1 t=2519
+zhan4 	佔	c=0 d=0.1 t=1122
+zhan4 yong4 	佔用	c=2 d=1.01031 t=2236
+zhang1 jie2 	章節	c=0 d=0.1 t=942
+zhang3 	長	c=0 d=0.118452 t=2241
+zhang3 fu2 	漲幅	c=0 d=0.1 t=2161
+zhang3 fu2 zhe4 me5 gao1 de5 o1 	漲幅這麼高的喔	c=1 d=1 t=2162
+zhang3 jia4 	漲價	c=0 d=0.1 t=2181
+zhang4 hao4 	帳號	c=1 d=0.111622 t=2223
+zhang4 hao4 de5 wen4 ti2 	帳號的問題	c=1 d=1 t=1048
+zhao3 	找	c=0 d=0.1 t=254
+zhao3 bu2 dao4 	找不到	c=0 d=0.1 t=1518
+zhao3 dao4 	找到	c=0 d=0.0585669 t=2564
+zhao3 dao4 le5 	找到了	c=1 d=1 t=2244
+zhao3 dao4 tiao2 se4 pan2 le5 	找到調色盤了	c=1 d=0.588605 t=2564
+zhao3 ta1 	找他	c=0 d=0.0524663 t=2564
+zhao3 wan2 	找完	c=0 d=0.1 t=296
+zhao3 wan2 zai4 wen4 wo3 	找完再問我	c=1 d=1 t=297
+zhao3 zhao3 	找找	c=0 d=0.0516851 t=2564
+zhao4 	照	c=0 d=0.1 t=294
+zhe1 dang3 	遮擋	c=0 d=0.104101 t=2564
+zhe4 	這	c=1 d=0.25679 t=2462
+zhe4 bian1 	這邊	c=1 d=1.00035 t=1967
+zhe4 bian1 de5 	這邊的	c=1 d=1 t=1837
+zhe4 bian1 jiang3 yi1 xia4 	這邊講一下	c=1 d=1 t=376
+zhe4 ci4 	這次	c=0 d=0.105727 t=837
+zhe4 dao4 di3 san1 xiao3 luo2 ji2 	這到底三小邏輯	c=1 d=1 t=2431
+zhe4 dian3 	這點	c=0 d=0.1 t=906
+zhe4 dian3 qing3 da4 jia1 duo1 duo1 hai3 han2 	這點請大家多多海涵	c=1 d=1 t=907
+zhe4 dong4 hua4 man2 hao3 xiao4 de5 	這動畫蠻好笑得	c=1 d=1 t=1415
+zhe4 ge5 	這個	c=3 d=0.579275 t=2564
+zhe4 ge5 bian4 shu4 	這個變數	c=1 d=1 t=2002
+zhe4 ge5 can1 shu4 	這個參數	c=1 d=1 t=1082
+zhe4 ge5 chan3 chu1 ye4 mian4 chao1 ji2 kuai4 	這個產出頁面超極快	c=1 d=1 t=2282
+zhe4 ge5 dan1 yuan2 	這個單元	c=1 d=1 t=1639
+zhe4 ge5 dang3 an4 	這個檔案	c=1 d=1.09501 t=823
+zhe4 ge5 dang3 an4 xiu1 gai3 	這個檔案修改	c=1 d=1 t=824
+zhe4 ge5 dao4 di3 	這個到底	c=1 d=1 t=1635
+zhe4 ge5 ge2 shi4 you3 dian3 guai4 	這個格式有點怪	c=1 d=0.532592 t=2564
+zhe4 ge5 jiao4 huang2 di4 mei2 gui1 	這個叫皇帝玫瑰	c=1 d=0.965605 t=2564
+zhe4 ge5 jiao4 shu3 xu1 guan3 	這個叫鼠鬚管	c=1 d=0.802519 t=2564
+zhe4 ge5 qiu2 de5 wei4 zhi4 you3 bu4 tong2 de5 she4 ji4 	這個球的位置有不同的設計	c=1 d=1 t=649
+zhe4 ge5 shu1 ru4 fa3 de5 an1 zhuang1 guo4 cheng2 	這個輸入法的安裝過程	c=1 d=1 t=834
+zhe4 ge5 shu1 ru4 fa3 ke3 yi3 	這個輸入法可以	c=1 d=1 t=340
+zhe4 ge5 wen4 ti2 	這個問題	c=0 d=0.1 t=2122
+zhe4 ge5 zhe4 me5 pu3 tong1 de5 dong1 xi1 	這個這麼普通的東西	c=1 d=1 t=628
+zhe4 gong1 neng2 	這功能	c=1 d=1 t=2247
+zhe4 hou4 mian4 ni3 zi4 ji3 xuan3 yao4 yong4 de5 yang4 shi4 	這後面你自己選要用的樣式	c=1 d=1 t=827
+zhe4 hua2 shuo4 de5 chan3 pin3 hao3 ma5 	這華碩的產品好嗎	c=1 d=1 t=524
+zhe4 huan2 yuan2 de5 tai4 hao3 le5 ba5 gan4 	這還原的太好了吧幹	c=1 d=1 t=1409
+zhe4 ji2 	這集	c=0 d=0.1 t=1850
+zhe4 jian4 pan2 hao3 you2 a1 	這鍵盤好油阿	c=1 d=1 t=410
+zhe4 jiu4 	這就	c=0 d=0.1 t=1910
+zhe4 jiu4 ren2 sheng1 	這就人生	c=1 d=1 t=1911
+zhe4 ke1 	這顆	c=0 d=0.1 t=682
+zhe4 ke1 qiu2 shi4 ke3 yi3 zhi2 jie1 na2 qi3 lai2 wan2 de5 	這顆球是可以直接拿起來玩的	c=1 d=1 t=683
+zhe4 li3 	這裡	c=2 d=0.759572 t=2564
+zhe4 li3 bai4 	這禮拜	c=1 d=1 t=2083
+zhe4 li3 bai4 hao3 xiang4 mei2 sha2 	這禮拜好像沒啥	c=1 d=1 t=237
+zhe4 li3 mian4 	這裡面	c=1 d=1 t=314
+zhe4 li3 yao4 jiang3 de5 shi4 	這裡要講的是	c=1 d=1 t=635
+zhe4 liang3 tian1 	這兩天	c=0 d=0.1 t=1915
+zhe4 me5 	這麼	c=1 d=0.416814 t=2564
+zhe4 me5 sui2 xing4 de5 ma5 	這麼隨性的嗎	c=1 d=1 t=1651
+zhe4 me5 xian2 de5 ma5 	這麼閒的嗎	c=1 d=1 t=1387
+zhe4 pian1 wen2 zhang1 	這篇文章	c=0 d=0.192312 t=924
+zhe4 pian1 you3 xie3 	這偏有寫	c=1 d=1 t=2114
+zhe4 shen2 me5 dao4 di3 	這什麼到底	c=1 d=1 t=1097
+zhe4 shi4 	這是	c=2 d=2.01085 t=1003
+zhe4 shi4 yi1 ge4 	這是一個	c=0 d=0.1 t=978
+zhe4 shi4 yi1 ge4 fang1 bian4 an1 zhuang1 ge4 zhong3 	這是一個方便安裝各種	c=1 d=1 t=979
+zhe4 shi4 yin1 wei4 da4 jia1 cheng2 shi4 gen1 zi1 liao4 dou1 bei4 bao1 jin4 	這是因爲大家程式跟資料都被包進	c=1 d=1 t=967
+zhe4 wo3 xie3 de5 	這我寫的	c=1 d=1 t=858
+zhe4 xia4 	這下	c=0 d=0.1 t=2326
+zhe4 xia4 ke3 yi3 jiao4 ni3 peng2 you3 zi4 ji3 mai3 le5 	這下可以較妳朋友自己買了	c=1 d=1 t=2327
+zhe4 xie1 	這些	c=0 d=0.101705 t=2165
+zhe4 xie1 chan3 pin3 fa1 chu1 de5 pin2 lv4 	這些產品發出的頻率	c=1 d=1 t=563
+zhe4 xie1 dang3 an4 	這些檔案	c=1 d=1 t=1298
+zhe4 xie1 dou1 ma3 shi4 	這些都馬士	c=1 d=1 t=270
+zhe4 xie1 jian4 mao4 qi2 shi2 bu2 hui4 ying3 xiang3 	這些鍵帽其實不會影響	c=1 d=1 t=401
+zhe4 xie1 wen4 ti2 	這些問題	c=0 d=0.1 t=2126
+zhe4 xie1 zhi2 xing2 dang3 bu2 hui4 bao1 han2 tai4 duo1 	這些執行檔不會包含太多	c=1 d=1 t=955
+zhe4 yang4 	這樣	c=2 d=0.921428 t=2564
+zhe4 yang4 cai2 neng2 	這樣才能	c=0 d=0.1 t=714
+zhe4 yang4 cai2 neng2 bao3 zheng4 	這樣才能保證	c=1 d=1 t=715
+zhe4 yang4 de5 dian4 zi3 chan3 pin3 	這樣的電子產品	c=1 d=1 t=562
+zhe4 yang4 de5 hua4 jiu4 hui4 gan1 rao3 	這樣的話就會干擾	c=1 d=1 t=731
+zhe4 yang4 ni3 cai2 hui4 e2 wai4 jia1 gou4 	這樣你才會額外加購	c=1 d=1 t=2186
+zhe4 yang4 quan2 zhang3 	這樣全掌	c=1 d=1 t=643
+zhe4 yang4 wo3 zen3 me5 hao3 hao3 kan4 dong4 hua4 a1 gan4 	這樣我怎麼好好看動畫阿幹	c=1 d=1 t=2490
+zhe4 yang4 yi1 bi3 jiu4 cha1 hen3 duo1 le5 	這樣一比就差很多了	c=1 d=1 t=341
+zhe4 yang4 yi1 lai2 	這樣一來	c=1 d=1 t=665
+zhe4 ye3 shi4 bi3 zhe3 kai1 qi3 zhe4 pian1 wen2 zhang1 de5 zhu3 yao4 yuan2 yin1 	這也是筆者開啓這篇文章的主要原因	c=1 d=1 t=925
+zhe4 ying1 wen2 gen1 ri4 ben3 ren2 xue2 de5 ni4 	這英文跟日本人學得膩	c=1 d=1 t=2463
+zhe4 zhong3 	這種	c=0 d=0.0799339 t=2564
+zhe4 zhong3 dong1 xi1 	這種東西	c=1 d=1 t=2211
+zhe4 zhong3 jian4 mao4 cai2 zhi2 hen3 ying4 	這種鍵帽材質很應	c=1 d=1 t=429
+zhe4 zhong3 qing2 kuang4 	這種情況	c=0 d=0.1 t=1083
+zhen1 	真	c=2 d=1.00002 t=2543
+zhen1 ai4 	真愛	c=0 d=0.1 t=1209
+zhen1 de5 	真的	c=0 d=0.100094 t=2534
+zhen1 de5 hao3 kan4 	真的好看	c=1 d=1 t=1115
+zhen1 de5 xiang3 pian2 yi2 	真的想便宜	c=1 d=1 t=505
+zhen1 ke3 lian2 	真可憐	c=1 d=1 t=1150
+zhen1 shi4 	真是	c=0 d=0.0429557 t=2564
+zhen1 shi4 yao4 bu4 de2 	真是要不得	c=1 d=0.431711 t=2564
+zhen1 xiang1 	真香	c=0 d=0.1 t=1210
+zhen1 zheng4 	真正	c=0 d=0.1 t=2261
+zhen1 zheng4 de5 gong1 cheng2 shi1 	真正的工程師	c=1 d=1 t=2262
+zheng1 dan4 	蒸蛋	c=0 d=0.1 t=1139
+zheng3 	整	c=0 d=0.100237 t=2021
+zheng3 fen4 dang3 an4 hou4 	整份檔案後	c=1 d=1 t=2022
+zheng3 ge5 	整個	c=1 d=0.786628 t=2564
+zheng3 ge5 guan1 diao4 chong2 kai1 	整個關掉重開	c=1 d=1 t=1177
+zheng3 ge5 kan4 qi3 lai2 chao1 luan4 	整個看起來超亂	c=1 d=1 t=2075
+zheng3 he2 	整合	c=0 d=0.1 t=1287
+zheng3 shou3 	整首	c=0 d=0.1 t=2470
+zheng3 shou3 dou1 zai4 gan4 qiao2 	整首都在幹瞧	c=1 d=1 t=2471
+zheng3 ti3 	整體	c=0 d=0.1 t=790
+zheng3 ti3 de5 di3 se4 	整體的底色	c=1 d=1 t=791
+zheng4 	正	c=0 d=0.1 t=1177
+zheng4 ban3 	正版	c=0 d=0.198511 t=2227
+zheng4 ban3 de5 	正版的	c=1 d=1 t=2228
+zheng4 chang2 	正常	c=0 d=0.100282 t=1405
+zheng4 chang2 dou1 neng2 zhi1 yuan2 	正常都能支援	c=1 d=1 t=1406
+zheng4 chang2 lai2 shuo1 ying4 gai1 yao4 you3 bian1 kuang1 	正常來說應該要有邊框	c=1 d=1 t=232
+zheng4 pian4 	正片	c=0 d=0.1 t=2413
+zhi1 	之	c=0 d=0.102599 t=2493
+zhi1 dao4 	知道	c=0 d=0.100748 t=2429
+zhi1 dao4 nai3 nai3 yi3 qian2 hen3 hui4 da3 qiu2 	知道奶奶以前很會打球	c=1 d=1 t=2430
+zhi1 dao4 ni3 you3 duo1 niu2 	知道你有多牛	c=1 d=1 t=1445
+zhi1 hou4 	之後	c=0 d=0.0759572 t=2564
+zhi1 hou4 de5 zi4 jie2 	之後的字節	c=1 d=1 t=312
+zhi1 hou4 yao4 gai3 zai4 tao3 lun4 zen3 me5 gai3 	之後要改在討論怎麼改	c=1 d=1 t=1656
+zhi1 wai4 	之外	c=0 d=0.1 t=2270
+zhi1 wai4 de5 an4 jian4 dou1 da3 lan4 	之外的按鍵都打爛	c=1 d=1 t=2271
+zhi1 xue2 xi2 cheng2 xiao4 	之學習成效	c=1 d=1 t=1761
+zhi1 yuan2 	支援	c=1 d=0.240486 t=1455
+zhi2 	值	c=6 d=2.12131 t=2152
+zhi2 	只	c=1 d=1 t=1444
+zhi2 	直	c=1 d=1 t=2487
+zhi2 bo1 	直播	c=0 d=0.1 t=2187
+zhi2 jie1 	直接	c=1 d=0.722527 t=2564
+zhi2 jie1 bei4 	直接被	c=1 d=1 t=2432
+zhi2 xing2 	執行	c=0 d=0.199005 t=954
+zhi3 	只	c=0 d=0.1 t=1446
+zhi3 da3 	只打	c=1 d=1 t=321
+zhi3 de5 shi4 	指的是	c=1 d=1 t=542
+zhi3 ding4 	指定	c=1 d=1 t=1876
+zhi3 hao3 	只好	c=0 d=0.154335 t=819
+zhi3 hao3 mai3 	只好買	c=1 d=1 t=698
+zhi3 hui1 zhong1 xin1 	指揮中心	c=0 d=0.1 t=2371
+zhi3 hui1 zhong1 xin1 shuo1 	指揮中心說	c=1 d=1 t=2372
+zhi3 hui4 	只會	c=0 d=0.1 t=2528
+zhi3 shi4 	只是	c=0 d=0.067032 t=2564
+zhi3 shi4 bu2 hui4 yin1 wei4 an4 jian4 	只是不會因爲按鍵	c=1 d=0.67368 t=2564
+zhi3 shi4 wei4 le5 	只是爲了	c=0 d=0.1 t=396
+zhi3 shi4 yao4 fu4 qian2 	只是要付錢	c=1 d=1 t=522
+zhi3 yao4 	只要	c=0 d=0.100425 t=1962
+zhi3 yao4 xian1 an4 xia4 	只要先按下	c=1 d=1 t=871
+zhi3 yao4 ye4 mian4 	只要頁面	c=1 d=1 t=1963
+zhi3 you3 	只有	c=1 d=0.0937067 t=2564
+zhi3 you3 wo3 zi4 ji3 zai4 yong4 	只有我自己再用	c=1 d=0.941765 t=2564
+zhi3 you3 yi1 ge5 ren2 jie2 ge5 pi4 hun1 	只有一個人結個屁婚	c=1 d=1 t=468
+zhi3 zhuang1 	只裝	c=1 d=1 t=2399
+zhi4 shang1 	智商	c=0 d=0.1 t=2435
+zhi4 shao3 	至少	c=0 d=0.1 t=466
+zhi4 shao3 shi4 	至少是	c=0 d=0.1 t=1134
+zhi4 yu2 	至於	c=0 d=0.113543 t=907
+zhi4 yu2 hao3 yong4 bu4 hao3 yong4 	至於好用不好用	c=1 d=1 t=368
+zhi4 yu2 qi2 ta1 jian4 pan2 	至於其他鍵盤	c=1 d=1 t=371
+zhi4 yu2 wei4 he2 	至於爲何	c=1 d=1 t=908
+zhi4 zao4 	製造	c=0 d=0.1 t=486
+zhi4 zhang4 	智障	c=0 d=0.1 t=2480
+zhi4 zuo4 	製作	c=2 d=1.05326 t=2091
+zhong1 	中	c=0 d=0.191324 t=1075
+zhong1 de5 	中的	c=2 d=1.28852 t=2060
+zhong1 de5 nei4 rong2 	中的內容	c=2 d=1.82283 t=2009
+zhong1 de5 zhi2 	中的值	c=1 d=1 t=1875
+zhong1 duan1 ji1 	終端機	c=2 d=1.00611 t=2024
+zhong1 gong4 	中共	c=0 d=0.1 t=1266
+zhong1 guo2 	中國	c=0 d=0.1 t=1933
+zhong1 guo2 zhuo1 qiu2 	中國桌球	c=1 d=1 t=1934
+zhong1 hua2 min2 guo2 	中華民國	c=0 d=0.196079 t=457
+zhong1 hua2 min2 guo2 jiu4 shi4 qiu1 hai3 tang2 	中華民國就是秋海棠	c=1 d=1 t=458
+zhong1 hua2 min2 guo2 xian4 fa3 shuo1 tai2 wan1 gen1 da4 lu4 dou1 shi4 zhong1 hua2 min2 guo2 guo2 tu3 a1 	中華民國憲法說臺灣跟大陸都是中華民國國土阿	c=1 d=1 t=450
+zhong1 jie2 	終結	c=0 d=0.1 t=741
+zhong1 pan2 	中盤	c=0 d=0.1 t=1425
+zhong1 pan2 ge5 pi4 la5 	中盤個屁啦	c=1 d=1 t=1426
+zhong1 she4 zhi4 le5 	中設置了	c=1 d=1 t=1076
+zhong1 shen1 	終身	c=0 d=0.1 t=2385
+zhong1 shen1 ban3 	終身版	c=1 d=1.0802 t=2390
+zhong1 wen2 	中文	c=1 d=1.02188 t=1041
+zhong1 wen2 bu4 hao3 er2 yi3 ba5 	中文不好而已吧	c=1 d=1 t=451
+zhong1 wen2 qie1 huan4 ying1 wen2 da4 xie3 	中文切換英文大寫	c=1 d=1 t=866
+zhong1 wen2 shi4 jie4 de5 zhi1 yuan2 du4 xiang1 dang1 cha1 jin4 	中文世界的支援度相當差勁	c=1 d=1 t=999
+zhong1 xing1 	中興	c=0 d=0.0697676 t=2564
+zhong1 xing1 su4 zhi2 	中興素質	c=1 d=0.701173 t=2564
+zhong1 yang1 tong1 xun4 she4 	中央通訊社	c=1 d=1 t=1062
+zhong1 you3 	中有	c=0 d=0.1 t=1275
+zhong1 yu2 	終於	c=0 d=0.0588605 t=2564
+zhong1 yu2 ke3 yi3 kai1 gao3 le5 	終於可以開搞了	c=1 d=0.591555 t=2564
+zhong1 zhi3 	中指	c=0 d=0.195123 t=650
+zhong3 	腫	c=1 d=0.451581 t=2564
+zhong4 ji1 	重機	c=0 d=0.1 t=1135
+zhong4 jiang3 	中獎	c=0 d=0.1 t=528
+zhong4 liang4 	重量	c=0 d=0.1 t=292
+zhong4 yao4 	重要	c=0 d=0.103127 t=1313
+zhou2 	軸	c=0 d=0.066365 t=2564
+zhu1 tou2 	豬頭	c=0 d=0.1 t=2158
+zhu1 xi1 	朱熹	c=1 d=0.909373 t=2564
+zhu2 liu2 	逐流	c=1 d=1 t=1565
+zhu3 	主	c=0 d=0.0847894 t=2564
+zhu3 ci2 	主詞	c=0 d=0.1 t=1886
+zhu3 ci2 lai2 	主詞來	c=1 d=1 t=1887
+zhu3 ji1 	主機	c=1 d=1 t=2160
+zhu3 ji1 ban3 	主機板	c=1 d=1 t=586
+zhu3 ti2 	主題	c=2 d=0.847894 t=2564
+zhu3 ti2 er4 	主題二	c=1 d=1 t=1634
+zhu3 ti2 yi1 	主題一	c=1 d=1 t=1592
+zhu3 ti2 yu3 dan1 yuan2 xuan3 ze2 	主題與單元選擇	c=1 d=1 t=1614
+zhu3 xuan3 dan1 	主選單	c=1 d=0.852144 t=2564
+zhu3 yao4 yuan2 yin1 	主要原因	c=0 d=0.1 t=924
+zhu4 jie3 	註解	c=1 d=1 t=1407
+zhu4 yin1 	注音	c=2 d=0.467666 t=2564
+zhua1 dao4 	抓到	c=2 d=1.01569 t=2347
+zhua1 dao4 le5 	抓到了	c=1 d=1 t=1205
+zhua1 qu3 	抓取	c=1 d=1.12265 t=1980
+zhua1 qu3 dao4 zhi2 zhi1 hou4 	抓取到值之後	c=1 d=1 t=1892
+zhuan1 li4 	專利	c=0 d=0.1 t=365
+zhuan3 	轉	c=0 d=0.105156 t=1945
+zhuan3 huan4 	轉換	c=0 d=0.0574072 t=2564
+zhuan4 	傳	c=0 d=0.1 t=2504
+zhuan4 	賺	c=1 d=1 t=2252
+zhuang1 	裝	c=0 d=0.1 t=2294
+zhuang1 si3 	裝死	c=0 d=0.1 t=1526
+zhuang1 si3 jiu4 dui4 le5 	裝死就對了	c=1 d=1 t=1527
+zhuang1 zhi4 	裝置	c=0 d=0.1 t=699
+zhuang4 	狀	c=1 d=1 t=647
+zhuang4 dao4 	撞到	c=0 d=0.1 t=1135
+zhuang4 dao4 pang2 bian1 zhong4 ji1 wo3 kan4 yao4 chi1 shi3 	撞到旁邊重機我看要吃屎	c=1 d=1 t=1136
+zhuang4 shang4 	撞上	c=0 d=0.1 t=1134
+zhuang4 si3 	撞死	c=0 d=0.1 t=2433
+zhui1 	追	c=0 d=0.1 t=2425
+zhui1 qi2 ta1 ju4 bu2 shi4 geng4 shuang3 	追其它據不是更爽	c=1 d=1 t=2426
+zhun3 bei4 	準備	c=0 d=0.1 t=1659
+zhun3 shi4 	準是	c=0 d=0.1 t=583
+zhuo1 qiu2 	桌球	c=0 d=0.1 t=1933
+zi1 liao4 	資料	c=0 d=0.233872 t=1419
+zi1 liao4 jia2 	資料夾	c=0 d=0.0774916 t=2564
+zi1 liao4 jia2 hou4 	資料夾後	c=1 d=1 t=2028
+zi1 liao4 jia2 liu2 luo4 zai4 wai4 	資料夾流落在外	c=1 d=1 t=972
+zi1 liao4 jia2 zhong1 	資料夾中	c=1 d=0.469723 t=951
+zi1 liao4 jia2 zhong1 hui4 you3 	資料夾中會有	c=1 d=1 t=952
+zi1 liao4 ku4 	資料庫	c=1 d=0.103731 t=2087
+zi1 liao4 ku4 cai2 neng2 gai3 cheng2 shi4 mie1 	資料庫才能改程式咩	c=1 d=1 t=1425
+zi1 liao4 ku4 xin1 zeng1 	資料庫新增	c=1 d=1 t=2088
+zi1 liao4 lai2 yuan2 	資料來源	c=1 d=1 t=580
+zi1 xun4 	資訊	c=0 d=0.1 t=2104
+zi1 yuan2 	資源	c=0 d=0.100577 t=2382
+zi3 	子	c=0 d=0.1 t=794
+zi4 	字	c=2 d=0.869358 t=2564
+zi4 cong2 	自從	c=0 d=0.1 t=920
+zi4 ding4 	自定	c=0 d=0.1 t=348
+zi4 ding4 zhe4 xie1 kuai4 su4 shu1 ru4 fu2 hao4 	自定這些快速輸入符號	c=1 d=1 t=349
+zi4 dong4 	自動	c=0 d=0.1 t=1945
+zi4 dong4 geng1 xin1 	自動更新	c=0 d=0.1 t=2134
+zi4 ji3 	自己	c=0 d=0.0810584 t=2564
+zi4 jie2 	字節	c=0 d=0.1 t=311
+zi4 ping2 	自評	c=0 d=0.1 t=281
+zi4 ran2 	自然	c=0 d=0.1 t=668
+zi4 shu4 	字數	c=0 d=0.1 t=374
+zi4 ti3 	字體	c=2 d=0.737387 t=2564
+zi4 ti3 ke3 yi3 	字體可以	c=1 d=1 t=1402
+zi4 ti3 yan2 se4 	字體顏色	c=1 d=0.537944 t=2564
+zi4 yin1 	字音	c=0 d=0.1 t=791
+zi4 you3 	自有	c=0 d=0.1 t=1451
+zi4 yu3 	字與	c=1 d=1 t=786
+zi5 	子	c=1 d=1 t=1268
+zi5 	字	c=1 d=1 t=527
+zou3 xia4 	走下	c=1 d=1 t=1566
+zu3 he2 	組合	c=0 d=0.1 t=312
+zu3 xian1 	祖先	c=0 d=0.1 t=1948
+zu3 xian1 hai2 xiang3 jiao4 ni3 men5 bie2 lai2 	祖先還想叫你們別來	c=1 d=1 t=1949
+zui3 pao4 	嘴炮	c=1 d=1 t=352
+zui4 	最	c=0 d=0.120701 t=691
+zui4 ai4 	最愛	c=0 d=0.199501 t=2474
+zui4 bang4 	最棒	c=0 d=0.1 t=2468
+zui4 chang2 	最長	c=0 d=0.1 t=616
+zui4 da4 de5 	最大的	c=0 d=0.1 t=1014
+zui4 duo1 	最多	c=0 d=0.1 t=2181
+zui4 duo1 shi4 zhang3 jia4 	最多是漲價	c=1 d=1 t=2182
+zui4 hao3 	最好	c=0 d=0.1 t=2239
+zui4 hao3 mei2 you3 la5 gan1 	最好沒有啦乾	c=1 d=1 t=2240
+zui4 hao3 shi4 	最好是	c=1 d=1 t=1282
+zui4 hou4 	最後	c=1 d=0.10534 t=2501
+zui4 hou4 le5 	最後了	c=1 d=1 t=684
+zui4 jin4 	最近	c=0 d=0.1 t=2378
+zui4 shao3 	最少	c=1 d=1 t=1775
+zui4 tong4 ku3 de5 bu4 fen4 	最痛苦的部分	c=1 d=1 t=692
+zui4 xin1 	最新	c=0 d=0.1 t=583
+zuo2 tian1 de5 	昨天的	c=0 d=0.1 t=478
+zuo2 tian1 de5 gua1 ji2 	昨天的呱吉	c=1 d=1 t=479
+zuo3 you4 	左右	c=0 d=0.1 t=869
+zuo4 	作	c=2 d=0.852431 t=2532
+zuo4 	做	c=0 d=0.101118 t=1523
+zuo4 ai4 	做愛	c=0 d=0.1 t=771
+zuo4 de5 	做的	c=0 d=0.14077 t=2564
+zuo4 hao3 	做好	c=0 d=0.1 t=1631
+zuo4 le5 	做了	c=0 d=0.1 t=2143
+zuo4 wei2 	作爲	c=1 d=0.0634448 t=2564
+zuo4 wei2 yi1 kuan3 	作爲一款	c=1 d=1 t=1029
+zuo4 yong4 	作用	c=0 d=0.199005 t=781
+zuo4 zhe3 	作者	c=1 d=1.01409 t=1762
+zuo4 zu3 he2 pan4 duan4 	做組合判斷	c=1 d=1 t=313
