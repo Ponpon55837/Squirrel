@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: RoseofER #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: RoseofER #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/corner_radius: 6 #10
@@ -228,3 +228,24 @@ patch:
       candidate_text_color: '0x2A2AA5'
       comment_text_color: '0x8080F0'
       label_color: '0x4E81E6'
+  
+  preset_color_schemes/Lakers:
+    name: 紫金王朝
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    candidate_format: "%c\u2005%@\u2005"
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    back_color: '0x561B2E'
+    text_color: '0x0499EE'
+    hilited_text_color: ''
+    hilited_back_color: '0xEFBFD9'
+    hilited_candidate_text_color: '0x03A5F2'
+    hilited_candidate_back_color: '0x242424'
+    hilited_candidate_label_color: '0x05EEFF'
+    hilited_comment_text_color: ''
+    hilited_corner_radius: 5
+    candidate_text_color: '0x3CBBF2'
+    label_color: '0xFFFFFF'
+    comment_text_color: '0xEFBFD9'

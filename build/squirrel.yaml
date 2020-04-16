@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1585626524
+    squirrel.custom: 1587053241
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -43,6 +43,26 @@ app_options:
 chord_duration: 0.1
 config_version: 0.33
 preset_color_schemes:
+  Lakers:
+    author: "我朋朋啦(ponpon55837@gmail.com)"
+    back_color: 0x561B2E
+    border_color: 0x99FFFF
+    border_height: 10
+    border_width: 10
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x3CBBF2
+    comment_text_color: 0xEFBFD9
+    corner_radius: 5
+    hilited_back_color: 0xEFBFD9
+    hilited_candidate_back_color: 0x242424
+    hilited_candidate_label_color: 0x05EEFF
+    hilited_candidate_text_color: 0x03A5F2
+    hilited_comment_text_color: ""
+    hilited_corner_radius: 5
+    hilited_text_color: ""
+    label_color: 0xFFFFFF
+    name: "紫金王朝"
+    text_color: 0x0499EE
   Louis:
     author: onion
     back_color: 0x313843
