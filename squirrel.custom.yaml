@@ -242,7 +242,7 @@ patch:
     hilited_text_color: ''
     hilited_back_color: '0xEFBFD9'
     hilited_candidate_text_color: '0x03A5F2'
-    hilited_candidate_back_color: '0x242424'
+    hilited_candidate_back_color: '0xB3229A'
     hilited_candidate_label_color: '0x05EEFF'
     hilited_comment_text_color: ''
     hilited_corner_radius: 5
