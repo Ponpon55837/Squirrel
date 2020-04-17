@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1587053241
+    squirrel.custom: 1587084320
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -77,6 +77,26 @@ preset_color_schemes:
     label_color: 0x6DCBF2
     name: lv
     text_color: 0x7BDEF4
+  McDonald:
+    author: "我朋朋啦(ponpon55837@gmail.com)"
+    back_color: 0x0700DB
+    border_color: 0x99FFFF
+    border_height: 10
+    border_width: 10
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x0993C7
+    comment_text_color: 0xF0F0F0
+    corner_radius: 5
+    hilited_back_color: ""
+    hilited_candidate_back_color: ""
+    hilited_candidate_label_color: 0x0CBCFF
+    hilited_candidate_text_color: 0x0CBCFF
+    hilited_comment_text_color: 0x71F0E3
+    hilited_corner_radius: 5
+    hilited_text_color: 0xFDFAFF
+    label_color: 0xBDBDBD
+    name: "麥當當"
+    text_color: 0x0CBCFF
   RoseofER:
     author: "我朋朋啦(ponpon55837@gmail.com)"
     back_color: 0xCCCCFF
@@ -95,6 +115,26 @@ preset_color_schemes:
     label_color: 0x4E81E6
     name: "皇帝玫瑰"
     text_color: 0x6BE8FF
+  Tiffany:
+    author: "我朋朋啦(ponpon55837@gmail.com)"
+    back_color: 0xD0D989
+    border_color: 0x99FFFF
+    border_height: 10
+    border_width: 10
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x5E5E5E
+    comment_text_color: 0xFFFFCD
+    corner_radius: 5
+    hilited_back_color: 0xFFFFCD
+    hilited_candidate_back_color: ""
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFFFFCE
+    hilited_comment_text_color: 0xFFFFCD
+    hilited_corner_radius: 5
+    hilited_text_color: ""
+    label_color: 0xF2F2F2
+    name: Tiffany
+    text_color: ""
   apathy:
     author: "LIANG Hai"
     back_color: 0xFFFFFF
