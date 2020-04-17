@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1587084320
+    squirrel.custom: 1587085360
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -122,13 +122,13 @@ preset_color_schemes:
     border_height: 10
     border_width: 10
     candidate_format: "%c %@ "
-    candidate_text_color: 0x5E5E5E
+    candidate_text_color: 0x757575
     comment_text_color: 0xFFFFCD
     corner_radius: 5
     hilited_back_color: 0xFFFFCD
-    hilited_candidate_back_color: ""
-    hilited_candidate_label_color: 0xFFFFFF
-    hilited_candidate_text_color: 0xFFFFCE
+    hilited_candidate_back_color: 0xADADAD
+    hilited_candidate_label_color: 0x0A0A0A
+    hilited_candidate_text_color: 0xE3FF75
     hilited_comment_text_color: 0xFFFFCD
     hilited_corner_radius: 5
     hilited_text_color: ""

@@ -2,10 +2,10 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: RoseofER #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: RoseofER #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
-  style/corner_radius: 6 #10
+  style/corner_radius: 6 #10f
   style/line_spacing: 6 #6 #1
   style/spacing: 10 #10 #5
   style/candidate_format: '%c. %@'
@@ -284,11 +284,11 @@ patch:
     text_color: ''
     hilited_text_color: ''
     hilited_back_color: '0xFFFFCD'
-    hilited_candidate_text_color: '0xFFFFCE'
-    hilited_candidate_back_color: ''
-    hilited_candidate_label_color: '0xFFFFFF'
+    hilited_candidate_text_color: '0xE3FF75'
+    hilited_candidate_back_color: '0xADADAD'
+    hilited_candidate_label_color: '0x0A0A0A'
     hilited_comment_text_color: '0xFFFFCD'
-    candidate_text_color: '0x5E5E5E'
+    candidate_text_color: '0x757575'
     label_color: '0xF2F2F2'
     comment_text_color: '0xFFFFCD'
 
