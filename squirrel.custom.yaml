@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: RoseofER #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: Tiffany #RoseofER #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/corner_radius: 6 #10f
@@ -279,10 +279,10 @@ patch:
     border_height: 10                      # 字與上下邊框的高度差
     border_width: 10                       # 字與左右邊框的寬度差
     border_color: '0x99FFFF'               # 邊框顏色 沒作用
-    hilited_corner_radius: 5
+    #hilited_corner_radius: 5
     back_color: '0xD0D989'
     text_color: ''
-    hilited_text_color: ''
+    hilited_text_color: '0x75745D'
     hilited_back_color: '0xFFFFCD'
     hilited_candidate_text_color: '0xE3FF75'
     hilited_candidate_back_color: '0xADADAD'
@@ -290,5 +290,5 @@ patch:
     hilited_comment_text_color: '0xFFFFCD'
     candidate_text_color: '0x757575'
     label_color: '0xF2F2F2'
-    comment_text_color: '0xFFFFCD'
+    comment_text_color: '0xDFFFBA'
 
