@@ -284,8 +284,8 @@ patch:
     text_color: ''
     hilited_text_color: '0x75745D'
     hilited_back_color: '0xFFFFCD'
-    hilited_candidate_text_color: '0x466651'#0xE3FF75
-    hilited_candidate_back_color: '0xB2CD7E'#0xADADAD
+    hilited_candidate_text_color: '0x466651'#0xE3FF75 0x466651
+    hilited_candidate_back_color: '0xB2CD7E'#0xADADAD 0xB2CD7E
     hilited_candidate_label_color: '0x0A0A0A'
     hilited_comment_text_color: '0xFFFFCD'
     candidate_text_color: '0x757575'
