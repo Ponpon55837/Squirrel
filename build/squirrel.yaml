@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1589115824
+    squirrel.custom: 1589198230
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -43,6 +43,25 @@ app_options:
 chord_duration: 0.1
 config_version: 0.33
 preset_color_schemes:
+  HouseDesign:
+    author: "我朋朋啦(ponpon55837@gmail.com)"
+    back_color: 0x99AFC7
+    border_color: 0x99FFFF
+    border_height: 10
+    border_width: 10
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x2E71BA
+    comment_text_color: 0x677996
+    corner_radius: 5
+    hilited_back_color: 0x76CCF7
+    hilited_candidate_back_color: 0x375789
+    hilited_candidate_label_color: 0x939BAE
+    hilited_candidate_text_color: 0x9D9DB1
+    hilited_comment_text_color: ""
+    hilited_text_color: 0x677996
+    label_color: 0x76CCF7
+    name: "室內設計"
+    text_color: 0x627182
   Lakers:
     author: "我朋朋啦(ponpon55837@gmail.com)"
     back_color: 0x561B2E
@@ -466,7 +485,7 @@ style:
   border_height: 0
   border_width: 0
   candidate_format: "%c. %@"
-  color_scheme: TriColorDumpling
+  color_scheme: HouseDesign
   corner_radius: 6
   font_face: "Times-Roman,PingFangTC-Light,AppleColorEmoji"
   font_point: 20

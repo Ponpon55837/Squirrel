@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: TriColorDumpling #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/corner_radius: 6 #10f
@@ -313,3 +313,23 @@ patch:
     label_color: '0x9C8BEB'
     comment_text_color: '0x826A9F'
 
+  preset_color_schemes/HouseDesign:
+    name: 室內設計
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    candidate_format: "%c\u2005%@\u2005"
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    #hilited_corner_radius: 5
+    back_color: '0x99AFC7'
+    text_color: '0x627182'
+    hilited_text_color: '0x677996'
+    hilited_back_color: '0x76CCF7'
+    hilited_candidate_text_color: '0x9D9DB1'
+    hilited_candidate_back_color: '0x375789'
+    hilited_candidate_label_color: '0x939BAE'
+    hilited_comment_text_color: ''
+    candidate_text_color: '0x2E71BA'
+    label_color: '0x76CCF7'
+    comment_text_color: '0x677996'
