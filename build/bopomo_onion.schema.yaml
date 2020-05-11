@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     bopomo_onion.custom: 0
-    bopomo_onion.schema: 1589168894
-    bopomo_onion_symbols: 1586852250
+    bopomo_onion.schema: 1589115824
+    bopomo_onion_symbols: 1589115824
     bopomo_onion_symbols.custom: 0
     default: 1561294610
-    default.custom: 1585625181
+    default.custom: 1589115824
     key_bindings: 1561294610
     key_bindings.custom: 0
     punctuation: 1561294610
