@@ -40,13 +40,19 @@ description: how to use Rime
 
 ![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20200327_3.png)
 
-下載完後解壓縮，複製全部的內容
+下載完後解壓縮，複製全部的檔案內容
 
 點開Finder，使用前往資料夾 /User/你的使用者/Library/Rime
 
+亦或是點擊右上角鼠鬚管圖示，選擇用戶設定可以快速到達Rime資料夾
+
+![&#x9F20;&#x9B1A;&#x7BA1;&#x7528;&#x6236;&#x8A2D;&#x5B9A;&#x5716;&#x7247;](.gitbook/assets/jie-tu-20200511-xia-wu-2.56.34.png)
+
 到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案
 
-點擊輸入法的鼠鬚管圖示，點擊重新部署
+![&#x9F20;&#x9B1A;&#x7BA1;Rime&#x8CC7;&#x6599;&#x593E;](.gitbook/assets/snip20200511_1.png)
+
+貼上複製的檔案後，點擊右上角輸入法的鼠鬚管圖示，點擊重新部署
 
 ![&#x9F20;&#x9B1A;&#x7BA1;&#x5716;&#x793A;](.gitbook/assets/snip20200327_4.png)
 
