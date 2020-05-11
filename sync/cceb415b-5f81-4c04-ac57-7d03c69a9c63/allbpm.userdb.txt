@@ -2,9 +2,19 @@
 #@/db_name	allbpm.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	6
+#@/tick	41
 #@/user_id	cceb415b-5f81-4c04-ac57-7d03c69a9c63
-1 	ㄅ	c=3 d=2.96042 t=6
-h A 	ㄘ 	c=1 d=1 t=5
-s 	ㄋ	c=1 d=1 t=2
-x a 	ㄌㄇ	c=1 d=1 t=4
+1 	ㄅ	c=17 d=15.2716 t=41
+1 u ; 4 	ㄅㄧㄤˋ	c=1 d=1 t=20
+a 	ㄇ	c=3 d=2.88391 t=41
+d 	ㄎ	c=0 d=0.1 t=18
+d A d A 	ㄎ ㄎ 	c=2 d=1.96561 t=24
+d d 	ㄎㄎ	c=1 d=1.09005 t=18
+d d d 	ㄎㄎㄎ	c=1 d=1 t=19
+f 	ㄑ	c=1 d=1 t=35
+h 	ㄘ	c=4 d=3.82531 t=22
+h A 	ㄘ 	c=1 d=0.995012 t=41
+n 0 3 	ㄙㄢˇ	c=5 d=4.95037 t=31
+s 	ㄋ	c=1 d=0.980199 t=41
+x 	ㄌ	c=3 d=2.89084 t=40
+x a 	ㄌㄇ	c=1 d=0.99005 t=41

@@ -2,10 +2,10 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: RoseofER #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: Tiffany #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
-  style/corner_radius: 6 #10
+  style/corner_radius: 6 #10f
   style/line_spacing: 6 #6 #1
   style/spacing: 10 #10 #5
   style/candidate_format: '%c. %@'
@@ -228,3 +228,88 @@ patch:
       candidate_text_color: '0x2A2AA5'
       comment_text_color: '0x8080F0'
       label_color: '0x4E81E6'
+  
+  preset_color_schemes/Lakers:
+    name: 紫金王朝
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    candidate_format: "%c\u2005%@\u2005"
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    back_color: '0x561B2E'
+    text_color: '0x0499EE'
+    hilited_text_color: ''
+    hilited_back_color: '0xEFBFD9'
+    hilited_candidate_text_color: '0x03A5F2'
+    hilited_candidate_back_color: '0xB3229A'
+    hilited_candidate_label_color: '0x05EEFF'
+    hilited_comment_text_color: ''
+    hilited_corner_radius: 5
+    candidate_text_color: '0x3CBBF2'
+    label_color: '0xFFFFFF'
+    comment_text_color: '0xEFBFD9'
+    
+  preset_color_schemes/McDonald:
+    name: 麥當當
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    candidate_format: "%c\u2005%@\u2005"
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0x0700DB'
+    text_color: '0x0CBCFF'
+    hilited_text_color: '0xFDFAFF'
+    hilited_back_color: ''
+    hilited_candidate_text_color: '0x0CBCFF'
+    hilited_candidate_back_color: ''
+    hilited_candidate_label_color: '0x0CBCFF'
+    hilited_comment_text_color: '0x71F0E3'
+    candidate_text_color: '0x0993C7'
+    label_color: '0xBDBDBD'
+    comment_text_color: '0xF0F0F0'
+    
+  preset_color_schemes/Tiffany:
+    name: Tiffany
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    candidate_format: "%c\u2005%@\u2005"
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    #hilited_corner_radius: 5
+    back_color: '0xD0D989'
+    text_color: ''
+    hilited_text_color: '0x75745D'
+    hilited_back_color: '0xFFFFCD'
+    hilited_candidate_text_color: '0x466651'#0xE3FF75 0x466651
+    hilited_candidate_back_color: '0xB2CD7E'#0xADADAD 0xB2CD7E
+    hilited_candidate_label_color: '0x0A0A0A'
+    hilited_comment_text_color: '0xFFFFCD'
+    candidate_text_color: '0x757575'
+    label_color: '0xF2F2F2'
+    comment_text_color: '0xDFFFBA'
+
+  preset_color_schemes/TriColorDumpling:
+    name: 三色丸子
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    candidate_format: "%c\u2005%@\u2005"
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0xBAE8C3'
+    text_color: '0xFFFFFF'
+    hilited_text_color: '0xB982C4'
+    hilited_back_color: '0xBAE8C3'
+    hilited_candidate_text_color: '0xFFFFFF'
+    hilited_candidate_back_color: '0xB399E1'
+    hilited_candidate_label_color: '0xF7F0F4'
+    hilited_comment_text_color: ''
+    candidate_text_color: '0xFFFFFF'
+    label_color: '0x92C2AC'
+    comment_text_color: '0x826A9F'
+
