@@ -14,28 +14,28 @@ schema:
     - cangjie5
     - allbpm
 
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "英文"]
-  - name: full_shape
-    reset: 0
-    states: ["半形", "全形"]
-  - name: ascii_punct
-    reset: 0
-    states: [ "。，", "．，" ]
-  - name: simplification
+#switches:
+#  - name: ascii_mode
 #    reset: 0
-    states: ["完整", "简体"]
-  - name: zh_tw
+#    states: ["中文", "英文"]
+#  - name: full_shape
 #    reset: 0
-    states: ["完整", "臺標"]
-  - options: [ utf8, big5, gbk]
+#    states: ["半形", "全形"]
+#  - name: ascii_punct
 #    reset: 0
-    states:
-      - UTF-8
-      - BIG5
-      - GBK
+#    states: [ "。，", "．，" ]
+#  - name: simplification
+##    reset: 0
+#    states: ["完整", "简体"]
+#  - name: zh_tw
+##    reset: 0
+#    states: ["完整", "臺標"]
+#  - options: [ utf8, big5, gbk]
+##    reset: 0
+#    states:
+#      - UTF-8
+#      - BIG5
+#      - GBK
 
 engine:
   filters:

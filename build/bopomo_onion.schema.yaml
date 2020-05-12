@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     bopomo_onion.custom: 0
-    bopomo_onion.schema: 1589177763
+    bopomo_onion.schema: 1589248430
     bopomo_onion_symbols: 1589115824
     bopomo_onion_symbols.custom: 0
     default: 1561294610
@@ -728,22 +728,6 @@ speller:
   finals: " 6347"
   initials: "1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-"
   use_space: true
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "英文"]
-  - name: full_shape
-    reset: 0
-    states: ["半形", "全形"]
-  - name: ascii_punct
-    reset: 0
-    states: ["。，", "．，"]
-  - name: simplification
-    states: ["完整", "简体"]
-  - name: zh_tw
-    states: ["完整", "臺標"]
-  - options: [utf8, big5, gbk]
-    states: ["UTF-8", BIG5, GBK]
 translator:
   dictionary: bopomo_onion.extended
   initial_quality: 0
