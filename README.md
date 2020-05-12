@@ -112,6 +112,26 @@ description: how to use Rime
 
 {% embed url="http://deltazone.pixnet.net/blog/category/11823230" caption="注音設定檔連結" %}
 
+// 20200512 update
+
+原先切換不同輸入法時，會出現半形/全形的選項，但是我覺得這樣切換起來速度很慢。
+
+現在將切換時的選項修改，如下圖
+
+![&#x8F38;&#x5165;&#x5207;&#x63DB;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20200512-shang-wu-10.00.07.png)
+
+因為其它輸入選項其實我平常很少使用到，所以如果有需要使用的人，麻煩到Rime資料夾底下
+
+尋找到allbpm.schema.yaml、bopomo\_onion.schema.yaml這兩個檔案
+
+打開之後將switches的部分前面的\#符號去掉，如下圖
+
+![allbpm.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_3.png)
+
+![bopomo\_onion.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_2.png)
+
+請自行審視需求進行修改，祝大家使用愉快。
+
 **──────────────────────────────────────────────**
 
 #### **It's** not for commercial use
