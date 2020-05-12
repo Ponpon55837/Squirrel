@@ -1,24 +1,27 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    cangjie5.custom: 0
-    cangjie5.schema: 1561294609
     default: 1561294610
-    default.custom: 1589250138
+    default.custom: 1589250116
     key_bindings: 1561294610
     key_bindings.custom: 0
+    luna_pinyin.custom: 0
+    luna_pinyin.schema: 1561294610
     punctuation: 1561294610
     punctuation.custom: 0
     symbols: 1561294610
     symbols.custom: 0
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
+custom_phrase:
+  db_class: stabledb
+  dictionary: ""
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+  user_dict: custom_phrase
 engine:
   filters:
     - simplifier
     - uniquifier
-    - single_char_filter
   processors:
     - ascii_composer
     - recognizer
@@ -36,8 +39,9 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - "table_translator@custom_phrase"
     - reverse_lookup_translator
-    - table_translator
+    - script_translator
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}
@@ -63,23 +67,16 @@ key_binder:
     - {accept: "Control+Shift+1", select: .next, when: always}
     - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
     - {accept: "Control+Shift+3", toggle: full_shape, when: always}
-    - {accept: "Control+Shift+4", toggle: ascii_punct, when: always}
-    - {accept: "Control+Shift+5", toggle: simplification, when: always}
-    - {accept: "Control+Shift+6", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
     - {accept: "Control+Shift+exclam", select: .next, when: always}
     - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
     - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
-    - {accept: "Control+Shift+dollar", toggle: ascii_punct, when: always}
-    - {accept: "Control+Shift+percent", toggle: simplification, when: always}
-    - {accept: "Control+Shift+asciicircum", toggle: extended_charset, when: always}
-    - {accept: "Shift+space", toggle: ascii_mode, when: always}
-    - {accept: "Control+comma", toggle: ascii_mode, when: always}
-    - {accept: "Control+period", toggle: full_shape, when: always}
-    - {accept: "Control+semicolon", toggle: simplification, when: always}
-    - {accept: "Control+slash", toggle: ascii_punct, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 7
+  page_size: 5
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -356,39 +353,52 @@ recognizer:
   patterns:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
     punct: "^/([0-9]0?|[A-Za-z]+)$"
-    reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
+    reverse_lookup: "`[a-z]*'?$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 reverse_lookup:
   comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
-  dictionary: luna_pinyin
-  preedit_format:
     - "xform/([nl])v/$1ü/"
-    - "xform/([nl])ue/$1üe/"
-    - "xform/([jqxy])v/$1u/"
+  dictionary: stroke
+  enable_completion: true
+  preedit_format:
+    - "xlit/hspnz/一丨丿丶乙/"
   prefix: "`"
-  prism: luna_quanpin
   suffix: "'"
-  tips: "〔拼音〕"
+  tips: "〔筆畫〕"
 schema:
   author:
-    - "發明人 朱邦復先生"
+    - "佛振 <chen.sst@gmail.com>"
   dependencies:
-    - luna_quanpin
+    - stroke
   description: |
-    第五代倉頡輸入法
-    碼表源自倉頡之友發佈的《五倉世紀版》
-    www.chinesecj.com
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
     
-  name: "倉頡五代"
-  schema_id: cangjie5
-  version: 0.30
-simplifier:
-  tips: all
+  name: "朙月拼音"
+  schema_id: luna_pinyin
+  version: 0.24
 speller:
+  algebra:
+    - "erase/^xx$/"
+    - "abbrev/^([a-z]).+$/$1/"
+    - "abbrev/^([zcs]h).+$/$1/"
+    - "derive/^([nl])ve$/$1ue/"
+    - "derive/^([jqxy])u/$1v/"
+    - "derive/un$/uen/"
+    - "derive/ui$/uei/"
+    - "derive/iu$/iou/"
+    - "derive/([aeiou])ng$/$1gn/"
+    - "derive/([dtngkhrzcs])o(u|ng)$/$1o/"
+    - "derive/ong$/on/"
+    - "derive/ao$/oa/"
+    - "derive/([iu])a(o|ng?)$/a$1$2/"
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;"
+  delimiter: " '"
 switches:
   - name: ascii_mode
     reset: 0
@@ -397,22 +407,11 @@ switches:
     states: ["半角", "全角"]
   - name: simplification
     states: ["漢字", "汉字"]
-  - name: extended_charset
-    states: ["常用", "增廣"]
   - name: ascii_punct
     states: ["。，", "．，"]
 translator:
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
-  dictionary: cangjie5
-  disable_user_dict_for_patterns:
-    - "^z.*$"
-    - "^yyy.*$"
-  enable_charset_filter: true
-  enable_encoder: true
-  enable_sentence: true
-  encode_commit_history: true
-  max_phrase_length: 5
+  dictionary: luna_pinyin
   preedit_format:
-    - "xform/^([a-z]*)$/$1\\t（\\U$1\\E）/"
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"

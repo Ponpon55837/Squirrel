@@ -2,9 +2,9 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     allbpm.custom: 0
-    allbpm.schema: 1589248555
+    allbpm.schema: 1589249108
     default: 1561294610
-    default.custom: 1589115824
+    default.custom: 1589250138
     key_bindings: 1561294610
     key_bindings.custom: 0
     punctuation: 1561294610

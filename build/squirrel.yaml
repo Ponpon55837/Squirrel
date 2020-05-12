@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1589244708
+    squirrel.custom: 1589256506
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -485,7 +485,7 @@ style:
   border_height: 0
   border_width: 0
   candidate_format: "%c. %@"
-  color_scheme: HouseDesign
+  color_scheme: RoseofER
   corner_radius: 6
   font_face: "Times-Roman,PingFangTC-Light,AppleColorEmoji"
   font_point: 20
