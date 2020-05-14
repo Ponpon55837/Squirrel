@@ -66,6 +66,8 @@ description: how to use Rime
 
 ![&#x5019;&#x9078;&#x8A5E;&#x8A2D;&#x5B9A;](.gitbook/assets/snip20200331_7.png)
 
+另外這邊提醒要用按鍵選擇文字麻煩按住ctrl鍵+你要選的字的快速鍵
+
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
 預設是皇帝玫瑰，也就是RoseofER這個樣式，我做的
