@@ -4,13 +4,11 @@ description: how to use Rime
 
 # Mac鼠鬚管洋蔥純注音安裝跟編輯
 
-#### 
-
 #### 本文所使用的輸入法由[**oniondelta**](https://github.com/oniondelta)**所製作洋蔥純注音與**[**lotem**](https://github.com/lotem)**製作的鼠鬚管框架**[**squirrel**](https://github.com/rime/squirrel)**修改而來**
 
-**在此感謝洋蔥大大與鼠鬚管作者佛振等人的付出與貢獻** 
+**在此感謝洋蔥大大與鼠鬚管作者佛振等人的付出與貢獻**
 
-## How to use 
+## How to use
 
 ### Install
 
@@ -50,7 +48,7 @@ description: how to use Rime
 
 到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案
 
-![&#x9F20;&#x9B1A;&#x7BA1;Rime&#x8CC7;&#x6599;&#x593E;](.gitbook/assets/snip20200511_1.png)
+![Rime&#x8CC7;&#x6599;&#x593E;&#x5167;&#x5BB9;](.gitbook/assets/snip20200520_2.png)
 
 貼上複製的檔案後，點擊右上角輸入法的鼠鬚管圖示，點擊重新部署
 
@@ -96,11 +94,11 @@ description: how to use Rime
 
 中文切換英文大寫，請按下caps lock
 
-這邊要特別說的原本的 '、' 是按下 ' \ ' ，
+這邊要特別說的原本的 '、' 是按下 '  ' ，
 
-但是在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ '  或是 shift + '  ’  '
+但是在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ ' 或是 shift + ' ’ '
 
-另外，常用的符號可以使用shift + 符號鍵來使用，例如 shift + ' ; '  =&gt;  '：'
+另外，常用的符號可以使用shift + 符號鍵來使用，例如 shift + ' ; ' =&gt; '：'
 
 \(感謝[**oniondelta**](https://github.com/oniondelta) **大大的提醒**\)
 
@@ -108,7 +106,7 @@ description: how to use Rime
 
 另外，選字不止可以使用方向鍵的下，也可以用左右鍵來切換，只要先按下 下鍵 + 左右鍵即可
 
-特殊符號可以使用 ' = ' + 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明 
+特殊符號可以使用 ' = ' + 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)**大的文章**
 
