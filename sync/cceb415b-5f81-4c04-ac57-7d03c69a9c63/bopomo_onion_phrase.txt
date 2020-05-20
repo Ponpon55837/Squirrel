@@ -1,6 +1,0 @@
-# Rime table
-#@/db_name	bopomo_onion_phrase.txt
-#@/db_type	tabledb
-#@/tick	1
-✿《洋蔥純注音版－標記》✿	11	1
-https://www.youtube.com/	youtube	0

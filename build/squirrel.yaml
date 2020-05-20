@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     squirrel: 1561294610
-    squirrel.custom: 1589265848
+    squirrel.custom: 1589709100
 app_options:
   co.zeit.hyper:
     ascii_mode: true
@@ -485,13 +485,13 @@ style:
   border_height: 0
   border_width: 0
   candidate_format: "%c. %@"
-  color_scheme: RoseofER
+  color_scheme: TriColorDumpling
   corner_radius: 6
-  font_face: "Times-Roman,PingFangTC-Light,AppleColorEmoji"
+  font_face: "Times-Roman,YuppyTC-Regular,AppleColorEmoji"
   font_point: 20
   horizontal: false
   inline_preedit: false
-  label_font_face: "儷黑 Pro"
+  label_font_face: "ComicSansMS-BoldItalic"
   label_font_point: 14
   line_spacing: 6
   spacing: 10

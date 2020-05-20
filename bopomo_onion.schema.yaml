@@ -73,7 +73,7 @@ engine:
 
 menu:
 # 候選字快捷鍵
-alternative_select_keys: "QAZWSXEDC"
+  alternative_select_keys: "123456789"
 # 候選字顯示數量
   page_size: 6
 ############################### 濾鏡 ##################################
