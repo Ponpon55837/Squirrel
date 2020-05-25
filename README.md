@@ -128,7 +128,9 @@ description: how to use Rime
 
 ![allbpm.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_3.png)
 
-![bopomo\_onion.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_2.png)
+//  20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
+
+![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
 
 請自行審視需求進行修改，祝大家使用愉快。
 
