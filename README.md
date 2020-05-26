@@ -110,8 +110,6 @@ description: how to use Rime
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)**大的文章**
 
-![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
-
 {% embed url="http://deltazone.pixnet.net/blog/category/11823230" caption="注音設定檔連結" %}
 
 ### 同步用戶資料
