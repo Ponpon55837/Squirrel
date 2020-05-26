@@ -110,7 +110,29 @@ description: how to use Rime
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)**大的文章**
 
+![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
+
 {% embed url="http://deltazone.pixnet.net/blog/category/11823230" caption="注音設定檔連結" %}
+
+### 同步用戶資料
+
+如果想在不同電腦上都使用同樣的用戶資料詞典
+
+#### 請打開Rime/**installation.yaml**
+
+![installation.yaml](.gitbook/assets/snip20200526_1.png)
+
+將最下面的sync\_dir的\#去掉，並輸入你要使用的資料夾位置。
+
+完畢後，請點開右上角鼠鬚管符號，點擊同步用戶資料。
+
+![&#x9F20;&#x9B1A;&#x7BA1;&#x540C;&#x6B65;&#x7528;&#x6236;&#x8CC7;&#x6599;](.gitbook/assets/jie-tu-20200526-xia-wu-2.24.06.png)
+
+這時候在你設定好的資料夾就會出現你的詞典了。
+
+我個人是把這個資料夾使用google drive同步到雲端這樣另一臺電腦就可以也使用google drive同步了。
+
+
 
 // 20200512 update
 
@@ -129,6 +151,8 @@ description: how to use Rime
 ![allbpm.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_3.png)
 
 //  20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
+
+左上：Tiffany，左下：RoseofER，右上：TripleColorDumpling，右下：HouseDesign
 
 ![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
 
