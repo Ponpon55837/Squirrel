@@ -56,7 +56,7 @@ description: how to use Rime
 
 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式
 
-![&#x8F38;&#x5165;&#x6A23;&#x5F0F;](.gitbook/assets/snip20200331_2.png)
+![&#x8F38;&#x5165;&#x6A23;&#x5F0F;](.gitbook/assets/jie-tu-20200527-shang-wu-11.04.43.png)
 
 ​如果要修改顯示的候選詞數量，請到Rime/bopomo\_onion.schema.yaml這個檔案
 
@@ -80,6 +80,16 @@ description: how to use Rime
 
 不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
 
+// 20200526update 由於鼠鬚管不像是windows小狼毫那樣有外框，本身鼠鬚管就沒這個設定，所以外框設定是無效的。
+
+// 20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
+
+左上：Tiffany，左下：RoseofER，右上：TripleColorDumpling，右下：HouseDesign
+
+![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
+
+
+
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
 ### Use
@@ -87,6 +97,22 @@ description: how to use Rime
 再來就是輸入法的切換了，切換不同輸入法請按下 ctrl + \` 或是 F4 進行輸入選擇
 
 ![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/snip20200328_10.png)
+
+// 20200512 update
+
+原先切換不同輸入法時，會出現半形/全形的選項，但是我覺得這樣切換起來速度很慢。
+
+現在將切換時的選項修改，如下圖
+
+![&#x8F38;&#x5165;&#x5207;&#x63DB;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20200512-shang-wu-10.00.07.png)
+
+因為其它輸入選項其實我平常很少使用到，所以如果有需要使用的人，麻煩到Rime資料夾底下
+
+尋找到allbpm.schema.yaml、bopomo\_onion.schema.yaml這兩個檔案
+
+打開之後將switches的部分前面的\#符號去掉，如下圖
+
+![allbpm.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_3.png)
 
 中英文與大小寫的切換與原生的Mac輸入法不同
 
@@ -129,30 +155,6 @@ description: how to use Rime
 這時候在你設定好的資料夾就會出現你的詞典了。
 
 我個人是把這個資料夾使用google drive同步到雲端這樣另一臺電腦就可以也使用google drive同步了。
-
-
-
-// 20200512 update
-
-原先切換不同輸入法時，會出現半形/全形的選項，但是我覺得這樣切換起來速度很慢。
-
-現在將切換時的選項修改，如下圖
-
-![&#x8F38;&#x5165;&#x5207;&#x63DB;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20200512-shang-wu-10.00.07.png)
-
-因為其它輸入選項其實我平常很少使用到，所以如果有需要使用的人，麻煩到Rime資料夾底下
-
-尋找到allbpm.schema.yaml、bopomo\_onion.schema.yaml這兩個檔案
-
-打開之後將switches的部分前面的\#符號去掉，如下圖
-
-![allbpm.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_3.png)
-
-//  20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
-
-左上：Tiffany，左下：RoseofER，右上：TripleColorDumpling，右下：HouseDesign
-
-![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
 
 請自行審視需求進行修改，祝大家使用愉快。
 
