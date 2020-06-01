@@ -12,6 +12,8 @@ schema:
 
   dependencies:
     - cangjie5
+    - allbpm
+
 
 #switches:
 #  - name: ascii_mode
