@@ -1,5 +1,5 @@
 # default.custom.yaml
-# save it to:
+# save it to: 
 #   ~/.config/ibus/rime  (linux)
 #   ~/Library/Rime       (macos)
 #   %APPDATA%\Rime       (windows)
@@ -8,8 +8,7 @@ patch:
   schema_list:
 ######## 洋蔥純注音版 ########
     - schema: bopomo_onion
-  #  - schema: cangjie5
-    - schema: allbpm
+    - schema: cangjie5
 ##############################
 
   switcher/fix_schema_list_order: true #固定方案選單順序
@@ -17,9 +16,6 @@ patch:
     - Control+grave
     - Control+Shift+grave
     - F4
-  menu:
-  # 洋蔥純注音候選詞數量無法在此更改，需要到bopomo_onion.schema.yaml進行修改
-    page_size: 7
 
   key_binder/bindings:
     - { when: composing, accept: Control+p, send: Up }
@@ -73,3 +69,4 @@ patch:
 #    Eisu_toggle: clear
 #    Control_L: noop
 #    Control_R: noop
+

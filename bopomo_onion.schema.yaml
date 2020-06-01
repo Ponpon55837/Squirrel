@@ -4,7 +4,7 @@
 schema:
   schema_id: bopomo_onion
   name: "☆注音(洋蔥版)☆"
-  version: "201911"
+  version: "202005"
   author:
     - 『洋蔥』 # 以佛振注音支持聲韻亂序方案改編
   description: |
@@ -12,7 +12,6 @@ schema:
 
   dependencies:
     - cangjie5
-    - allbpm
 
 #switches:
 #  - name: ascii_mode
@@ -59,7 +58,6 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
-    - affix_segmentor@all_bpm
     - affix_segmentor@reverse2_lookup
     - punct_segmentor
     - fallback_segmentor
@@ -67,14 +65,11 @@ engine:
     - punct_translator
     - table_translator@bopomo_onion_phrase
     - script_translator@reverse2_lookup
-    - script_translator@all_bpm
     - lua_translator@t2_translator
     - script_translator
 
 menu:
-# 候選字快捷鍵
-  alternative_select_keys: "QAZWSXEDC"
-# 候選字顯示數量
+  alternative_select_keys: "QAZWSX"
   page_size: 6
 ############################### 濾鏡 ##################################
 simplifier:
@@ -138,27 +133,12 @@ translator:
   initial_quality: "0"
   preedit_format:
     - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙|"
-    - 'xform/\\/\|/' #全形空格　 #半形空格  #| #⁞ #⁝ #⋮ #¦ #┆
-################################『ㄅㄆㄇ注音文』##################################
-all_bpm:
-  tag: all_bpm
-  dictionary: allbpm
-  enable_completion: false
-  enable_sentence: false
-  enable_user_dict: false
-  prefix: "';"
-  tips: "《注音文》"
-  preedit_format:
-    - xform/';'?/A/
-    - xform/^/《注音文》/
-    - xform/A//
-    - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-6347 '|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˊˇˋ˙ˉˉ|"
-    - 'xform/\\//'
+    - 'xform/\\/ /' #全形空格　 #半形空格  #| #⁞ #⁝ #⋮ #¦ #┆
 ############################## 以下為短語 ##########################################
 bopomo_onion_phrase:
   dictionary: ""
   user_dict: bopomo_onion_phrase
-  db_class: tabledb
+  db_class: stabledb
   enable_completion: false
   enable_sentence: false
 ################################ 以下為使用ooo反查注音 #############################
@@ -212,8 +192,8 @@ punctuator:
   import_preset: bopomo_onion_symbols
   full_shape:
     "=" : [ "＝", "々", "〃", "〻" ]
-    "[" : [ 〔, 〈, "‘", ［, ｛, ＜, （, ﹝, ﹛, ﹤, ﹙, ‹, "⁽", "₍", "｢", "⁅", "[", "{", "<", "(" ]
-    "]" : [ 〕, 〉, "’", ］, ｝, ＞, ）, ﹞, ﹜, ﹥, ﹚, ›, "⁾", "₎", "｣", "⁆", "]", "}", ">", ")" ]
+    "[" : [ 〔, 〈, "‘", "「", ［, ｛, ＜, （, ﹝, ﹛, ﹤, ﹙, ‹, "⁽", "₍", "⁅", "｢", "[", "{", "<", "(" ]
+    "]" : [ 〕, 〉, "’", "」", ］, ｝, ＞, ）, ﹞, ﹜, ﹥, ﹚, ›, "⁾", "₎", "⁆", "｣", "]", "}", ">", ")" ]
     "{" : { commit: "「" }
     "}" : { commit: "」" }
     ":" : [ "：", "；" ]
@@ -250,8 +230,8 @@ punctuator:
     "_" : { commit: "_" }
     "+" : { commit: "+" }
     "=" : [ "=", "々", "〃", "〻" ]
-    "[" : [ 〔, 〈, "‘", ［, ｛, ＜, （, ﹝, ﹛, ﹤, ﹙, ‹, "⁽", "₍", "｢", "⁅", "[", "{", "<", "(" ]
-    "]" : [ 〕, 〉, "’", ］, ｝, ＞, ）, ﹞, ﹜, ﹥, ﹚, ›, "⁾", "₎", "｣", "⁆", "]", "}", ">", ")" ]
+    "[" : [ 〔, 〈, "‘", "「", ［, ｛, ＜, （, ﹝, ﹛, ﹤, ﹙, ‹, "⁽", "₍", "⁅", "｢", "[", "{", "<", "(" ]
+    "]" : [ 〕, 〉, "’", "」", ］, ｝, ＞, ）, ﹞, ﹜, ﹥, ﹚, ›, "⁾", "₎", "⁆", "｣", "]", "}", ">", ")" ]
     "{" : { commit: "「" }
     "}" : { commit: "」" }
 #    "3" : [ "https://", "http://", "ftp://", "mailto://", "file://" ]
@@ -272,6 +252,9 @@ key_binder:
 #    - {accept: Down, send: Page_Down, when: paging} #橫式選單用
 #    - {accept: Left, send: Left, when: has_menu} #橫式選單用 #send: Shift+Up
 #    - {accept: Right, send: Right, when: has_menu} #橫式選單用 #send: Shift+Down
+    - {accept: Right, send: Shift+Right, when: composing}
+    - {accept: Shift+Right, send: Right, when: composing}
+    - {accept: Shift+Left, send: KP_Left, when: composing}
     - {accept: space, send: Return, when: paging} #方向鍵選字時，space直接上屏（避免被一聲空格影響）
     - {accept: BackSpace, send: Control+BackSpace, when: has_menu} #〔關〕刪除前一個拼音字符〔開〕：刪除整組拼音字符（一個字）
     - {accept: Shift+BackSpace, send: BackSpace, when: has_menu}
@@ -292,7 +275,7 @@ key_binder:
 editor:
   bindings:
 #    space: commit_composition #使用 fluency_editor 時開啟
-    Return: commit_composition #使用 express_editor 時開啟
+    Return: confirm #使用 express_editor 時開啟
     Shift+Return: commit_raw_input # 上屏原始輸入
     Control+Return: commit_script_text # 上屏變換後輸入
 ########################## 用正則調出各種功能 ##############################
@@ -303,5 +286,4 @@ recognizer:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     punct: "(?<![=|=`])`[`]?[-,;/0-9a-z]*$|[[][[]?[']?$|[]][]]?[']?$|[[][]]$|[[][[][]][]]$|[[]['][]][']$|[[][[]['][]][]][']$|[']['][']?$|[=][=][=]?$|[=][`][`]?$|[=]['][']?$|[=]['][']?[=]['][']?$|[=][][][][]?$|[=][][][][]?[=][][][][]?$|[=][-,./;][-,./;]? ?$|[=][,][,][=][.][.] ?$|[=][0-9] ?$|[=][9][=][0] ?$|[=][=][].,90'[]+ ?$"
     reverse2_lookup: "=[a-z]* ?$"
-    all_bpm: "^';[-a-z0-9.,/; ']*$|^[-a-z0-9.,/; ]+';'?$"
     lua: "'/[a-z0-9/:-]*'?$"
