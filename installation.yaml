@@ -2,8 +2,9 @@ distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
 distribution_version: 0.14.0
 install_time: "Wed Mar 25 10:13:47 2020"
+# 如果你兩台電腦要使用像是google drvie這種雲端軟體進行同步，麻煩下面的id要相同不然你同步的資料夾會長不一樣，這樣內容就沒辦法直接就同步了。
 installation_id: "cceb415b-5f81-4c04-ac57-7d03c69a9c63"
 rime_version: 1.5.3
 # 安裝同步文件，下面這段去掉#之後會在你的user底下建立一個資料夾然後放入你的輸入資料，例如常用的字...等等，
 # 如果你換了另一臺mac（這邊就假設是mac），只要把這個資料夾內容直接貼過去另一臺電腦中同樣的位置這樣就能進行常用文字的覆寫了。
-#sync_dir: '/Users/Your user name/which folder you want to install/RimeSync'
+sync_dir: '/Users/你的使用者/你想要放的使用者底下資料夾/RimeSync'
