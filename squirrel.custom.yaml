@@ -10,7 +10,7 @@ patch:
   style/spacing: 10 #10 #5
   style/candidate_format: '%c. %@'
   # 文字字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
-  style/font_face: 'Times-RomanPingFangTC-Light,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
+  style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
   style/font_point: 20 #21
   # 數字標籤字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
   style/label_font_face: '儷黑 Pro' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
