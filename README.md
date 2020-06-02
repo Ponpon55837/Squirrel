@@ -84,11 +84,15 @@ description: how to use Rime
 
 // 20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
 
-左上：Tiffany，左下：RoseofER，右上：TripleColorDumpling，右下：HouseDesign
+左上：Tiffany，右上：TripleColorDumplin
+
+左中：RoseofER，右中：HouseDesign
+
+左下：Sunset，右下：Senbe
 
 ![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
 
-
+![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown-1.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
