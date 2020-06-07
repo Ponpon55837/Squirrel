@@ -12,8 +12,6 @@ schema:
 
   dependencies:
     - cangjie5
-    - allbpm
-
 
 switches:
   - name: ascii_mode
@@ -23,7 +21,7 @@ switches:
     reset: 0
     states: ["半形", "全形"]
   - name: ascii_punct
-    reset: 0g
+    reset: 0
     states: [ "。，", "．，" ]
   - name: simplification
     reset: 0
@@ -71,7 +69,7 @@ engine:
     - script_translator
 
 menu:
-  alternative_select_keys: "123456789"
+  alternative_select_keys: "QAZWSXEDC"
   page_size: 6
 ############################### 濾鏡 ##################################
 simplifier:
