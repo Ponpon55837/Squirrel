@@ -124,6 +124,8 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 否則會出現無法變更成繁體的輸入方式
 
+如果你已經修改完成，且以後不需要使用簡體，也確定目前使用的是繁體時，再到bopomo\_onion.schema.yaml中關閉switches才不會出現問題，我因爲有切換成簡體但是忘記切回繁體就把bopomo\_onion.schema.yaml中的switches都關閉了，才出現繁體簡體混合不能切換的問題，請使用者留心使用。
+
 ![](.gitbook/assets/snip20200607_3.png)
 
 中英文與大小寫的切換與原生的Mac輸入法不同
