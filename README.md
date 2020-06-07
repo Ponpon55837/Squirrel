@@ -104,19 +104,27 @@ description: how to use Rime
 
 // 20200512 update
 
-原先切換不同輸入法時，會出現半形/全形的選項，但是我覺得這樣切換起來速度很慢。
+// 20200607 fix problem
 
-現在將切換時的選項修改，如下圖
+原先在bopomo\_onion.schema.yaml檔案中我關閉了switches功能
 
-![&#x8F38;&#x5165;&#x5207;&#x63DB;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20200512-shang-wu-10.00.07.png)
+但是後來更新了，下方四隻檔案後出現bug
 
-因為其它輸入選項其實我平常很少使用到，所以如果有需要使用的人，麻煩到Rime資料夾底下
+bopomo\_onion\_phrase.txt
 
-尋找到allbpm.schema.yaml、bopomo\_onion.schema.yaml這兩個檔案
+bopomo\_onion\_symbols.yaml
 
-打開之後將switches的部分前面的\#符號去掉，如下圖
+bopomo\_onion.extended.dict.yaml
 
-![allbpm.schema.yaml switches&#x95DC;&#x9589;](.gitbook/assets/snip20200512_3.png)
+bopomo\_onion.schema.yaml
+
+問題就出在更新了[**oniondelta**](https://github.com/oniondelta) 20200530檔案後，需要到bopomo\_onion.schema.yaml
+
+switches中打開原本被關閉的reset: 0要去掉前面的\#
+
+否則會出現無法變更成繁體的輸入方式
+
+![](.gitbook/assets/snip20200607_3.png)
 
 中英文與大小寫的切換與原生的Mac輸入法不同
 
