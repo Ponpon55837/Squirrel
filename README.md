@@ -62,6 +62,8 @@ description: how to use Rime
 
 搜尋menu，這裡可以修改候選詞的數量，更改page\_size的數字就行，目前預設候選詞快速鍵爲QAZWSXEDC，如果要設定超過9個候選詞，麻煩在自己增加候選詞快速鍵。
 
+不過，我個人會建議使用數字123456789，因為這樣在使用ctrl選字時，比較不會出現問題，在一部分app中輸入好像沒辦法使用ctrl+字母會跳掉，我個人是改成使用數字。
+
 ![&#x5019;&#x9078;&#x8A5E;&#x8A2D;&#x5B9A;](.gitbook/assets/snip20200331_7.png)
 
 另外這邊提醒要用按鍵選擇文字麻煩按住ctrl鍵+你要選的字的快速鍵
@@ -157,6 +159,10 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 如果想在不同電腦上都使用同樣的用戶資料詞典
 
 #### 請打開Rime/**installation.yaml**
+
+{% hint style="info" %}
+**注意 這邊的installation\_id在安裝鼠鬚管時，電腦會自動生成，要多台電腦同步的話，請自行使用其中一個installation\_id。**
+{% endhint %}
 
 ![installation.yaml](.gitbook/assets/snip20200526_1.png)
 
