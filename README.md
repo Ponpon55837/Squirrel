@@ -56,7 +56,7 @@ description: how to use Rime
 
 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式
 
-![&#x8F38;&#x5165;&#x6A23;&#x5F0F;](.gitbook/assets/jie-tu-20200527-shang-wu-11.04.43.png)
+![&#x8F38;&#x5165;&#x6A23;&#x5F0F;](.gitbook/assets/jie-tu-20200703-xia-wu-2.41.28.png)
 
 ​如果要修改顯示的候選詞數量，請到Rime/bopomo\_onion.schema.yaml這個檔案
 
