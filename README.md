@@ -88,13 +88,15 @@ description: how to use Rime
 
 左上：Tiffany，右上：TripleColorDumplin
 
-左中：RoseofER，右中：HouseDesign
+左下：RoseofER，右下：HouseDesign
 
-左下：Sunset，右下：Senbe
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_1](.gitbook/assets/unknown-1%20%281%29.jpeg)
 
-![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown.jpeg)
+左上：Sunset，右上：Senbe
 
-![&#x6A23;&#x5F0F;&#x5716;&#x7247;](.gitbook/assets/unknown-1.jpeg)
+左下：HappySea
+
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown-2.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
