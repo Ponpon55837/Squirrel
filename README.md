@@ -74,7 +74,7 @@ description: how to use Rime
 
 // 20200703 update 刪去在每個scheme中的candidate\_format
 
-// 使用style/candidate\_form來帶入每一個scheme中
+// 使用style/candidate\_format來帶入每一個scheme中
 
 // 這邊使用的是C/C++的空格編碼來書寫
 
