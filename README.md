@@ -36,7 +36,7 @@ description: how to use Rime
 
 下載整份ZIP檔
 
-![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20200327_3.png)
+![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20200704_5.png)
 
 下載完後解壓縮，複製全部的檔案內容
 
@@ -80,6 +80,8 @@ description: how to use Rime
 
 // %c是數字或英文標籤  %@是文字選項
 
+// "前方間距%c標籤與文字選項間距%@文字選項後方間距"
+
 ![RoseofER](.gitbook/assets/snip20200703_3.png)
 
 裡面有很多樣式可以選，修改style/color\_scheme： 這後面你自己選要用的樣式
@@ -94,7 +96,7 @@ description: how to use Rime
 
 // 20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
 
-左上：Tiffany，右上：TripleColorDumplin
+左上：Tiffany，右上：TripleColorDumpling
 
 左下：RoseofER，右下：HouseDesign
 
