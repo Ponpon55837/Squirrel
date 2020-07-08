@@ -2,17 +2,16 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: RoseofER #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: HappySea #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
-  style/corner_radius: 6 #10f
   style/line_spacing: 6 #6 #1
   style/spacing: 10 #10 #5
   # 文字字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
-  style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
+  style/font_face: 'Times-Roman,YuppyTC-Regular,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
   style/font_point: 20 #21
   # 數字標籤字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
-  style/label_font_face: '儷黑 Pro' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
+  style/label_font_face: 'ComicSansMS-BoldItalic' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
   style/label_font_point: 14 #14 #12 #18 #20
   # 前方標籤位置與後面選字的距離
   # "標籤與前方間距%c標籤與選字間距%@選字與後方間距" 像是這樣
