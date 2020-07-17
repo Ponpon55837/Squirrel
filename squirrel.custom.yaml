@@ -1,0 +1,393 @@
+# 位置：~/Library/Rime/squirrel.custom.yaml
+# 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
+
+patch:
+  style/color_scheme: HappySea #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  #style/horizontal: true      # 候選橫排
+  style/inline_preedit: false #true
+  style/line_spacing: 6 #6 #1
+  style/spacing: 10 #10 #5
+  # 文字字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
+  style/font_face: 'Times-Roman,YuppyTC-Regular,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
+  style/font_point: 20 #21
+  # 數字標籤字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
+  style/label_font_face: 'ComicSansMS-BoldItalic' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
+  style/label_font_point: 14 #14 #12 #18 #20
+  # 前方標籤位置與後面選字的距離
+  # "標籤與前方間距%c標籤與選字間距%@選字與後方間距" 像是這樣
+  # \2002 是en space的寬度 \u2004是1/3 em \u2005 是1/4 em \u2006 是1/6 em \u2007 是圖形空間的寬度 \u2008 是標點符號的寬度
+  style/candidate_format: "\u2004%c\u2002%@\u2004"
+
+  preset_color_schemes/metroblue:
+    name: "现代蓝／Metro Blue"
+    author: "Prcuvu <prcuvu@gmail.com>"
+    text_color: 0x000000
+    back_color: 0xffffff
+    border_color: 0xd77800
+    label_color: 0x838383
+    hilited_text_color: 0x000000
+    hilited_back_color: 0xffffff
+    candidate_text_color: 0x000000
+    comment_text_color: 0x000000
+    hilited_candidate_text_color: 0xffffff
+    hilited_comment_text_color: 0xffffff
+    hilited_candidate_back_color: 0xd77800
+    hilited_label_color: 0xffffff
+
+  preset_color_schemes/mac_white:
+    name: 蘋果白／Mac White
+    author: Yang
+    candidate_format: ' %c %@ '
+#    alpha: 1
+#    horizontal: true
+#    label_font_face: 'PingFang SC Light'
+    label_color: 0x96a8a7
+    text_color: 0x000000
+    back_color: 0xffffff
+#    border_color: 0xBDBDBD
+    hilited_text_color: 0x96a8a7 #0xE3F0FD
+    hilited_candidate_text_color: 0x000000
+    hilited_candidate_label_color: 0x96a8a7
+    hilited_candidate_back_color: 0xFFE4CE #0xFEF0E4 
+    comment_text_color: 0x96a8a7
+    hilited_comment_text_color: 0x96a8a7
+
+  preset_color_schemes/mac_white2:
+    name: 蘋果白2／Mac White2
+    author: Yang
+    candidate_format: ' %c %@ '
+#    alpha: 1
+#    horizontal: true
+#    label_font_face: 'PingFang SC Light'
+    label_color: 0x96a8a7
+    text_color: 0x000000
+    back_color: 0xffffff
+#    border_color: 0xBDBDBD
+    hilited_text_color: 0x828282 #0x000000 #0xE3F0FD
+    hilited_candidate_text_color: 0xffffff #0x000000
+    hilited_candidate_label_color: 0xD5D6BF #0x96a8a7
+    hilited_candidate_back_color: 0xff9d2e #0xFFE4CE #0xFEF0E4
+    comment_text_color: 0x96a8a7
+    hilited_comment_text_color: 0xD5D6BF #0x96a8a7
+
+  preset_color_schemes/system_blue:
+    name: "系统蓝／System Blue"
+    author: "scomper <scomper@gmail.com>"   # 作者信息
+    back_color: 0xFFFFFF                    # 候选条背景色，24位色值，16进制，BGR顺序
+    border_color: 0xE0B693                  # 边框色
+    candidate_text_color: 0x000000          # 预选项文字颜色
+    comment_text_color: 0x999999            # 拼音等提示文字颜色
+    hilited_back_color: 0xfff0e3            # 第一候选项背景背景色
+    hilited_candidate_text_color: 0x000000  # 第一候选项文字颜色
+    hilited_candidate_label_color: 0x999999 # 第一候选项编号颜色
+    hilited_comment_text_color: 0x999999    # 注解文字高亮
+    hilited_text_color: 0x999999            # 高亮拼音 (需要开启内嵌编码)
+    text_color: 0x424242                    # 拼音行文字颜色
+    label_color: 0x999999                   # 预选栏编号颜色
+
+  preset_color_schemes/purity_of_form:
+    name: 純粹的形式／Purity of Form
+    author: 雨過之後、佛振
+    text_color: 0xc2c2c2
+    back_color: 0x444444
+    candidate_text_color: 0xeeeeee
+    hilited_text_color: 0xeeeeee
+    hilited_back_color: 0x444444
+    hilited_candidate_text_color: 0x000000
+    hilited_candidate_back_color: 0xfafafa
+    comment_text_color: 0x808080
+
+  preset_color_schemes/purity_of_essence:
+    name: 純粹的本質／Purity of Essence
+    author: 佛振
+    text_color: 0x2c2ccc
+    back_color: 0xfafafa
+    candidate_text_color: 0x000000
+    hilited_text_color: 0x000000
+    hilited_back_color: 0xfafafa
+    hilited_candidate_text_color: 0xeeeeee
+    hilited_candidate_back_color: 0x444444
+    comment_text_color: 0x808080
+
+  preset_color_schemes/apathy:
+    name: 冷漠／Apathy
+    author: LIANG Hai
+#    horizontal: true  # 水平排列
+#    inline_preedit: true #单行显示，false双行显示
+    candidate_format: "%c\u2005%@\u2005"  # 编号 %c 和候选词 %@ 前后的空间
+    corner_radius: 5  #候选条圆角
+    border_height: 0
+    border_width: 0
+    back_color: 0xFFFFFF  #候选条背景色
+#    font_face: "PingFangSC-Regular,HanaMinB"  #候选词字体
+#    font_point: 16  #候选字词大小
+    text_color: 0x424242  #高亮选中词颜色
+#    label_font_face: "STHeitiSC-Light"   #候选词编号字体
+#    label_font_point: 12   #候选编号大小
+    hilited_candidate_text_color: 0xEE6E00  #候选文字颜色
+    hilited_candidate_back_color: 0xFFF0E4  #候选文字背景色
+    comment_text_color: 0x999999 #拼音等提示文字颜色
+
+  preset_color_schemes/dust:
+    name: 浮尘／Dust
+    author: Superoutman <asticosmo@gmail.com>
+    horizontal: true  # 水平排列
+    inline_preedit: true #单行显示，false双行显示
+    candidate_format: "%c\u2005%@\u2005"  # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+    corner_radius: 2  #候选条圆角
+    border_height: 3                                   # 窗口边界高度，大于圆角半径才生效
+    border_width: 8                                    # 窗口边界宽度，大于圆角半径才生效
+    back_color: 0xeeffffff  #候选条背景色
+    border_color: 0xE0B693                             # 边框色
+    font_face: "HYQiHei-55S Book,HanaMinA Regular"     #候选词字体
+    font_point: 14  #候选字词大小
+    text_color: 0x424242  #高亮选中词颜色
+    label_font_face: "SimHei"   #候选词编号字体
+    label_font_point: 10   #候选编号大小
+    label_color: 0xcbcbcb                              # 预选栏编号颜色
+    candidate_text_color: 0x555555                     # 预选项文字颜色
+    text_color: 0x9e9e9e                               # 拼音行文字颜色，24位色值，16进制，BGR顺序
+    comment_text_color: 0x999999                       # 拼音等提示文字颜色
+    hilited_text_color: 0x9e9e9e                       # 高亮拼音 (需要开启内嵌编码)
+    hilited_candidate_text_color: 0x000000             # 第一候选项文字颜色
+    hilited_candidate_back_color: 0xfff0e4             # 第一候选项背景背景色
+    hilited_candidate_label_color: 0x555555            # 第一候选项编号颜色
+    hilited_comment_text_color: 0x9e9e9e # 注解文字高亮
+
+  preset_color_schemes/mritd_dark:
+      name: 漠然／mritd dark
+      author: mritd <mritd1234@gmail.com>
+#      horizontal: true                          # 水平排列
+#      inline_preedit: true                      # 单行显示，false双行显示
+      candidate_format: "%c\u2005%@"            # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+      corner_radius: 5                          # 候选条圆角
+      hilited_corner_radius: 3                  # 高亮圆角
+      border_height: 6                          # 窗口边界高度，大于圆角半径才生效
+      border_width: 6                           # 窗口边界宽度，大于圆角半径才生效
+      border_color_width: 0
+      #font_face: "PingFangSC"                   # 候选词字体
+#      font_point: 16                            # 候选字词大小
+#      label_font_point: 14                      # 候选编号大小
+      text_color: 0x888785 #0xdedddd                      # 拼音行文字颜色，24位色值，16进制，BGR顺序
+      back_color: 0x4b4b4b                      # 候选条背景色
+      label_color: 0x888785                     # 预选栏编号颜色
+      border_color: 0x4b4b4b                    # 边框色
+      candidate_text_color: 0xffffff            # 预选项文字颜色
+      hilited_text_color: 0xffffff #0xdedddd              # 高亮拼音 (需要开启内嵌编码)
+#      hilited_back_color: 0x252320              # 高亮拼音 (需要开启内嵌编码)
+      hilited_candidate_text_color: 0xFFE696    # 第一候选项文字颜色
+      hilited_candidate_back_color: 0x4b4b4b    # 第一候选项背景背景色
+      hilited_candidate_label_color: 0xFFE696 #0xffffff   # 第一候选项编号颜色
+      comment_text_color: 0xdedddd  
+
+  preset_color_schemes/uji_kintoki:
+      name: 宇治金時
+      author: GHSRobert <robertus0617@gmail.com>
+      back_color: 0xA87DC4 #粉色
+      border_color: 0xF1EBF6
+      text_color: 0x573270 #0x010002
+      hilited_text_color: 0xB5EBD0 #0xD1FFE5 #0xF1EBF6 #0x7DC4AB
+      hilited_back_color: 0xA87DC4 #0x573270
+      hilited_candidate_text_color: 0x7DC4AB
+      hilited_candidate_back_color: 0x573270
+      hilited_candidate_label_color: 0xC4A47D #0x573270
+      hilited_comment_text_color: 0xC4A47D
+      candidate_text_color: 0xF1EBF6
+      comment_text_color: 0x573270 #0xC4A47D 
+      label_color: 0x32705A
+      menu:
+        page_size:9
+
+  preset_color_schemes/Louis:
+      name: lv
+      author: onion
+      back_color: 0x313843
+      text_color: 0x7BDEF4 #0x6DCBF2
+      hilited_text_color: 0xDBE2EB #0x6DCBF2 #0x7BDEF4
+      hilited_back_color: 0x313843
+      hilited_candidate_text_color: 0x6DCBF2
+      hilited_candidate_back_color: 0x487492
+      hilited_candidate_label_color: 0x6DCBF2
+      hilited_comment_text_color: 0x7BDEF4
+      candidate_text_color: 0x6DCBF2
+      label_color: 0x6DCBF2
+      comment_text_color: 0x7BDEF4
+      
+  # 正常來說應該要有邊框，不過Rime好像沒有支援Mac的外邊框
+  preset_color_schemes/RoseofER:
+      name: 皇帝玫瑰
+      author: 我朋朋啦(ponpon55837@gmail.com)
+      corner_radius: 5                       # 外框圓角
+      border_height: 10                      # 字與上下邊框的高度差
+      border_width: 10                       # 字與左右邊框的寬度差
+      border_color: '0x99FFFF'               # 邊框顏色 沒作用
+      back_color: '0xCCCCFF'
+      text_color: '0x6BE8FF' #0x0B86B8
+      hilited_text_color: '0x00859E' #0x0B86B8
+      hilited_back_color: '0x99EFFF' #0xC3C3E6
+      hilited_candidate_text_color: '0x00EFFF'
+      hilited_candidate_back_color: '0x8F8FBC'
+      hilited_corner_radius: 5
+      candidate_text_color: '0x2A2AA5'
+      comment_text_color: '0x8080F0'
+      label_color: '0x4E81E6'
+  
+  preset_color_schemes/Lakers:
+    name: 紫金王朝
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    back_color: '0x561B2E'
+    text_color: '0x0499EE'
+    hilited_text_color: ''
+    hilited_back_color: '0xEFBFD9'
+    hilited_candidate_text_color: '0x03A5F2'
+    hilited_candidate_back_color: '0xB3229A'
+    hilited_candidate_label_color: '0x05EEFF'
+    hilited_comment_text_color: ''
+    hilited_corner_radius: 5
+    candidate_text_color: '0x3CBBF2'
+    label_color: '0xFFFFFF'
+    comment_text_color: '0xEFBFD9'
+    
+  preset_color_schemes/McDonald:
+    name: 麥當當
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0x0700DB'
+    text_color: '0x0CBCFF'
+    hilited_text_color: '0xFDFAFF'
+    hilited_back_color: ''
+    hilited_candidate_text_color: '0x0CBCFF'
+    hilited_candidate_back_color: ''
+    hilited_candidate_label_color: '0x0CBCFF'
+    hilited_comment_text_color: '0x71F0E3'
+    candidate_text_color: '0x0993C7'
+    label_color: '0xBDBDBD'
+    comment_text_color: '0xF0F0F0'
+    
+  preset_color_schemes/Tiffany:
+    name: Tiffany
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    #hilited_corner_radius: 5
+    back_color: '0xD0D989'
+    text_color: ''
+    hilited_text_color: '0x75745D'
+    hilited_back_color: '0xFFFFCD'
+    hilited_candidate_text_color: '0x466651'#0xE3FF75 0x466651
+    hilited_candidate_back_color: '0xB2CD7E'#0xADADAD 0xB2CD7E
+    hilited_candidate_label_color: '0x0A0A0A'
+    hilited_comment_text_color: '0xFFFFCD'
+    candidate_text_color: '0x757575'
+    label_color: '0xF2F2F2'
+    comment_text_color: '0xDFFFBA'
+
+  preset_color_schemes/TriColorDumpling:
+    name: 三色丸子
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0xBAE8C3'
+    text_color: '0xFFFFFF'
+    hilited_text_color: '0xB982C4'
+    hilited_back_color: '0xBAE8C3'
+    hilited_candidate_text_color: '0xFFFFFF'
+    hilited_candidate_back_color: '0xB399E1'
+    hilited_candidate_label_color: '0xF7F0F4'
+    hilited_comment_text_color: ''
+    candidate_text_color: '0x79967E'
+    label_color: '0x9C8BEB'
+    comment_text_color: '0x826A9F'
+
+  preset_color_schemes/HouseDesign:
+    name: 室內設計
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    #hilited_corner_radius: 5
+    back_color: '0x99AFC7'
+    text_color: '0x627182'
+    hilited_text_color: '0x51538F'
+    hilited_back_color: '0x99AFC7'
+    hilited_candidate_text_color: '0xE2E2FF'
+    hilited_candidate_back_color: '0x375789'
+    hilited_candidate_label_color: '0x939BAE'
+    hilited_comment_text_color: ''
+    candidate_text_color: '0x2E71BA'
+    label_color: '0x76CCF7'
+    comment_text_color: '0x51538F'
+    
+  preset_color_schemes/Sunset:
+    name: 夕陽
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0x5AB0F3'
+    text_color: '0x416AF4'
+    hilited_text_color: '0x416AF4'
+    hilited_back_color: '0x5AB0F3'
+    hilited_candidate_text_color: '0x7788F4'
+    hilited_candidate_back_color: '0x724A5C'
+    hilited_candidate_label_color: '0x416AF4'
+    hilited_comment_text_color: '0xFFFFFF'
+    candidate_text_color: '0x6D58A3'
+    label_color: '0x3A5FDB'
+    comment_text_color: '0x724A5C'
+  
+  preset_color_schemes/Senbe:
+    name: 仙貝
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    #hilited_corner_radius: 5
+    back_color: '0x416BBE'
+    text_color: '0x76CCF7'
+    hilited_text_color: '0x000000'
+    hilited_back_color: '0x416BBE'
+    hilited_candidate_text_color: '0x000000'
+    hilited_candidate_back_color: '0x5187BF'
+    hilited_candidate_label_color: '0x76CCF7'
+    hilited_comment_text_color: ''
+    candidate_text_color: '0x658DC6'
+    label_color: '0x375789'
+    comment_text_color: '0x375789'
+    
+  preset_color_schemes/HappySea:
+    name: 快樂海洋
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0xF1C17E'
+    text_color: '0x8564B1'
+    hilited_text_color: '0x8564B1'
+    hilited_back_color: '0xF1C17E'
+    hilited_candidate_text_color: '0xA5A047'
+    hilited_candidate_back_color: '0xF8E9F9'
+    hilited_candidate_label_color: '0xA76E4F'
+    hilited_comment_text_color: '0xF2943D'
+    candidate_text_color: '0x658DC6'
+    label_color: '0x76CCF7'
+    comment_text_color: '0xE4BCF2'
