@@ -14,9 +14,9 @@ schema:
     - cangjie5
 
 switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "英文"]
+#  - name: ascii_mode
+#    reset: 0
+#    states: ["中文", "英文"]
 #  - name: full_shape
 #    reset: 0
 #    states: ["半形", "全形"]
