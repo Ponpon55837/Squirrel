@@ -20,24 +20,32 @@
 #
 # http://cc-cedict.org/wiki/
 #
+# ===============================
+# 《中文 字庫/詞庫（增修自地球拼音）》
 #
-# 《中文字庫詞庫（增修自地球拼音）》
+#  〈特殊符號〉：
+#    間隔號由中國大陸 GB2312 標準「·」[U+00B7] 轉換成台灣 Big5 標準「‧」[U+2027]。
+#    訂空碼「ㄥˇ」輸入「‧」間隔號，使外國人名等有間隔號時，能連續打出。並於詞句拼音中補上。
 #
-# 『八股文』和『 Terra Pinyin 』：
+#  〈詞彙的字形〉（『八股文』和『 Terra Pinyin 』）：
 #    修改「僞(偽)」「嬀(媯)」「潙(溈)」「竈(灶)」「衆(眾)」「着(著)」「纔(才)」「爲(為)」「裏(裡)」「麪(麵)」「牀(床)」「啓(啟)」「羣(群)」「峯(峰)」「喫(吃)」。
-#    「痴」為教育部正字，設權重比「癡」高一點。
-#    兩者皆保留「癡(痴)」「棱(稜)」「泄(洩)」「涌(湧)」「臺(台)」「擡(抬)」「檯(枱)」「薹(苔)」；選擇性修改「兇(凶)」「踊(踴)」。
+#    兩者皆保留「癡(痴)」「棱(稜)」「泄(洩)」「涌(湧)」「臺(台)」「擡(抬)」「檯(枱)」「薹(苔)」「唸(念)」
+#    選擇性修改「兇(凶)」「踊(踴)」「核(覈)」。
 #    未改「污汙」「黴霉」。
+#    「痴」為教育部正字，設權重比「癡」高一點。
+#    「湧」為教育部正字，設權重比「涌」高一點。
 #
-# 間隔號由中國大陸 GB2312 標準「·」[U+00B7] 轉換成台灣 Big5 標準「‧」[U+2027]。
+#  〈字音〉：
+#    《ㄩ》於「nvㄋㄩ」「lvㄌㄩ」「nveㄋㄩㄝ」「lveㄌㄩㄝ」「lvanㄌㄩㄢ」為「v」，其餘訂為「u」。
+#    《兒》於原版中於詞句中拼音為「r5」，改「er5」。
+#    單個「ㄝ」拼音為「eh」。
 #
-# 備註1：《ㄩ》於「nvㄋㄩ」「lvㄌㄩ」「nveㄋㄩㄝ」「lveㄌㄩㄝ」「lvanㄌㄩㄢ」為「v」，其餘訂為「u」。
-# 備註2：《兒》於原版中於詞句中拼音為「r5」，改「er5」。
-# 備註3：單個「ㄝ」拼音為「eh」。
-# 備註4：定空碼「ㄥˇ」輸入「‧」間隔號，使外國人名等有間隔號時，能連續打出。並於詞句拼音中補上。
+#  〈詞音〉：
+#    詞句中，「亞」發音「ya3」和「ya4」補齊同存；「堤」發音「ti2」和「di1」補齊同存。（人名中太常用除外）
+# ===============================
 ---
 name: terra_pinyin_onion
-version: "2020.03.06"
+version: "2020.04.02"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7 #20
@@ -45,6 +53,36 @@ min_phrase_weight: 100
 ...
 ##### 定空碼「ㄥˇ」輸入「‧」間隔號 #####
 ‧	eng3
+##### 單個字，雙音節 #####
+瓩	qian1 wa3	10%
+瓧	shi2 wa3	10%
+瓸	bai3 wa3	10%
+瓰	fen1 wa3	10%
+瓼	li3 wa3	10%
+瓱	mao2 wa3	10%
+竔	gong1 sheng1	10%
+竕	gong1 ge3	10%
+𥩻	gong1 ge3	10%
+竰	gong1 shuo4	10%
+𥩘	gong1 shao4	10%
+竓	gong1 cuo1	10%
+𥪳	gong1 cuo1	10%
+竍	gong1 dou3	10%
+䇆	gong1 dou3	10%
+竡	gong1 dan4	10%
+䇉	gong1 dan4	10%
+竏	gong1 bing3	10%
+𥪕	gong1 bing3	10%
+兛	qian1 ke4	10%
+兡	bai3 ke4	10%
+兙	shi2 ke4	10%
+兝	gong1 fen1	10%
+#兝	fen1 ke4	0%
+兣	gong1 li3	10%
+#兣	li3 ke4	0%
+#兣	li2 ke4	0%
+兞	hao2 ke4	10%
+嗧	jia1 lun2	10%
 ##### 「韓文」「日文」漢字，有些沒有官方中文發音，『可能非正確讀音』！！！ #####
 #橴	za1
 #橴	ca1
@@ -1083,6 +1121,26 @@ min_phrase_weight: 100
 臠	lvan3
 脔	lvan3
 挛	lian4
+汶	men2	0%
+毋	mu3	0%
+瓸	bo2	0%
+瓼	li2	0%
+瓱	mou3	0%
+竰	li2	0%
+竓	mao2	0%
+䇆	dou3	0%
+䇉	dan4	0%
+䇉	shi2	0%
+𥪕	bing3	0%
+𩓩	dou1	0%
+𩓩	wu3	0%
+癣	xian3
+似	shi4	1%
+䩞	nian2	0%
+䩞	tian3	0%
+䩞	wei3	0%
+譞	xuan4	0%
+曱	ya1	0%
 ##### 201912 比對教育部相關字詞典檔所新增 #####
 丁	zheng1	0%
 丂	kao3	0%
@@ -8668,7 +8726,7 @@ min_phrase_weight: 100
 䩛	pei4
 䩜	zhou4
 䩝	pao2
-䩞	die1
+#䩞	die1
 䩞	tie2
 䩟	ti4
 䩟	yi2
@@ -31080,7 +31138,8 @@ min_phrase_weight: 100
 门	men2
 闩	shuan1
 闪	shan3
-闫	yan4
+# 闫	yan4
+闫	yan2
 闬	han4
 闭	bi4
 问	wen4
@@ -31577,7 +31636,7 @@ min_phrase_weight: 100
 鞡	la5
 鞢	die2
 鞢	xie4
-鞢	zha2
+#鞢	zha2
 鞣	rou2
 鞤	bang1
 鞥	eng1
@@ -50610,7 +50669,9 @@ min_phrase_weight: 100
 不予	bu4 yu2
 不二價	bu2 er4 jia4
 不亞於	bu2 ya4 yu2
+不亞於	bu2 ya3 yu2
 不亞於	bu4 ya3 yu2
+不亞於	bu4 ya4 yu2
 不亦樂乎	bu2 yi4 le4 hu1
 不什	bu4 she2
 不付得	bu2 fu4 de2
@@ -52918,7 +52979,7 @@ min_phrase_weight: 100
 伺隙	si4 xi4
 似曾相識	si4 ceng2 xiang1 shi2
 似曾相識	si4 ceng2 xiang1 shi4
-似的	shi4 de5
+#似的	shi4 de5
 似的	si4 de5
 伽伽	qie2 qie2
 伽利略‧伽利雷	jia1 li4 lve4 eng3 jia1 li4 lei2
@@ -56856,7 +56917,7 @@ min_phrase_weight: 100
 加勒比國家聯盟	jia1 le4 bi3 guo2 jia1 lian2 meng2
 加勒比海	jia1 le4 bi3 hai3
 加勒比海共同體	jia1 le4 bi3 hai3 gong4 tong2 ti3
-加哩	jia1 li3
+#加哩	jia1 li3
 加塞兒	jia1 sai1 er5
 加大力度	jia1 da4 li4 du4
 加工效率	jia1 gong1 xiao4 lv4
@@ -57468,6 +57529,7 @@ min_phrase_weight: 100
 千迴百轉	qian1 hui2 bai3 zhuan3
 千里一曲	qian1 li3 yi4 qu1
 千里之堤	qian1 li3 zhi1 ti2
+千里之堤	qian1 li3 zhi1 di1
 千里之行	qian1 li3 zhi1 xing2
 千里搭長棚	qian1 li3 da1 chang2 peng2
 千里達及托巴哥共和國	qian1 li3 da2 ji2 tuo1 ba1 ge1 gong4 he2 guo2
@@ -59710,6 +59772,7 @@ min_phrase_weight: 100
 哄騙	hong3 pian4
 哆嗦	duo1 suo5
 哆囉哆嗦	duo1 luo5 duo1 suo5
+哆囉哆嗦	duo1 luo1 duo1 suo1
 哆囉美遠	duo1 luo1 mei3 yuan3
 哆囉美遠族	duo1 luo1 mei3 yuan3 zu2
 哆張	che3 zhang1
@@ -60624,6 +60687,7 @@ min_phrase_weight: 100
 囈怔	yi4 zheng5
 囈掙	yi4 zheng1
 囉哩囉嗦	luo1 li5 luo1 suo1
+囉哩囉嗦	luo1 li1 luo1 suo1
 囉唆	luo1 suo1
 囉唕	luo2 zao4
 囉嗦	luo1 suo5
@@ -60992,6 +61056,7 @@ min_phrase_weight: 100
 土坎兒	tu3 kan3 er5
 土埋半截	tu3 mai2 ban4 jie2
 土堤	tu3 ti2
+土堤	tu3 di1
 土墼	tu3 ji2
 土庫曼共和國	tu3 ku4 man4 gong4 he2 guo2
 土房子	tu3 fang2 zi5
@@ -61046,6 +61111,7 @@ min_phrase_weight: 100
 在那兒	zai4 na5 er5
 在高處	zai4 gao1 chu4
 圩堤	yu2 ti2
+圩堤	yu2 di1
 圩子	yu2 zi5
 圩田	yu2 tian2
 圮地	pi3 di4
@@ -61533,6 +61599,7 @@ min_phrase_weight: 100
 垣曲縣	yuan2 qu3 xian4
 垸子	huan2 zi5
 埂堤	geng3 ti2
+埂堤	geng3 di1
 埂子	geng3 zi5
 埃佛勒斯峰	ai1 fo2 le4 si1 feng1
 埃克托‧柏遼茲	ai1 ke4 tuo1 eng3 bo2 liao2 zi1
@@ -61675,10 +61742,15 @@ min_phrase_weight: 100
 堆貯	dui1 zhu3
 堋的	peng2 di4
 堤壩	ti2 ba4
+堤壩	di1 ba4
 堤封	ti2 feng1
+堤封	di1 feng1
 堤岸	ti2 an4
+堤岸	di1 an4
 堤岸市	ti2 an4 shi4
+堤岸市	di1 an4 shi4
 堤防	ti2 fang2
+堤防	di1 fang2
 堪稱	kan1 cheng1
 堯都	yao2 du1
 堯都區	yao2 du1 qu1
@@ -67925,11 +67997,12 @@ min_phrase_weight: 100
 忿悁	fen4 juan4
 怎地	zen3 de5
 怎麼	ze3 me5
+怎麼	zen3 mo5
+怎麼	zen3 me5
 怎麼了	zen3 me5 le5
 怎麼得了	zen3 me5 de2 liao3
 怎麼搞的	ze3 me5 gao3 de5
 怎麼著	zen3 me5 zhao1
-怎麼	zen3 me5
 怏怏不樂	yang4 yang4 bu2 le4
 怒惡	nu4 e4
 怒氣衝衝	nu4 qi4 chong1 chong1
@@ -73298,6 +73371,8 @@ min_phrase_weight: 100
 新年快樂	xin1 nian2 kuai4 le4
 新幾內亞	xin1 ji3 nei4 ya3
 新幾內亞	xin1 ji3 nei4 ya4
+# 新幾內亞	xin1 ji1 nei4 ya3
+# 新幾內亞	xin1 ji1 nei4 ya4
 新幾內亞島	xin1 ji1 nei4 ya3 dao3
 新幾內亞島	xin1 ji1 nei4 ya4 dao3
 新廈	xin1 xia4
@@ -77537,6 +77612,7 @@ min_phrase_weight: 100
 汪濊	wang1 wei4
 汪踦	wang1 qi2
 汴堤	bian4 ti2
+汴堤	bian4 di1
 汶川地震	wen4 chuan1 di4 zhen4
 汶川大地震	wen4 chuan1 da4 di4 zhen4
 汸汸	pang1 pang1
@@ -77544,6 +77620,7 @@ min_phrase_weight: 100
 決不待時	jue2 bu2 dai4 shi2
 決了	jue2 liao3
 決堤	jue2 ti2
+決堤	jue2 di1
 決撒	jue2 sa1
 決而不行	jue2 er2 bu4 xing2
 決雌雄	jue2 ci1 xiong2
@@ -77856,6 +77933,7 @@ min_phrase_weight: 100
 河南蒙古族自治縣	he2 nan2 meng2 gu3 zu2 zi4 zhi4 xian4
 河叉	he2 cha4
 河堤	he2 ti2
+河堤	he2 di1
 河曲智叟	he2 qu1 zhi4 sou3
 河曲縣	he2 qu3 xian4
 河東獅子	he2 dong1 shi1 zi5
@@ -78564,6 +78642,7 @@ min_phrase_weight: 100
 海埔姜	hai3 pu3 jiang1
 海埔新生地	hai3 pu3 xin1 sheng1 di4
 海堤	hai3 ti2
+海堤	hai3 di1
 海子	hai3 zi5
 海寧	hai3 ning2
 海寧市	hai3 ning2 shi4
@@ -82432,6 +82511,7 @@ min_phrase_weight: 100
 白了了	bai2 liao3 liao3
 白俄羅斯共和國	bai2 e2 luo2 si1 gong4 he2 guo2
 白公堤	bai2 gong1 ti2
+白公堤	bai2 gong1 di1
 白刀子進去	bai2 dao1 zi5 jin4 qu4
 白切肉	bai2 qie1 rou4
 白刺	bai2 ci4
@@ -82446,6 +82526,7 @@ min_phrase_weight: 100
 白地	bai2 di4
 白城地區	bai2 cheng2 di4 qu1
 白堤	bai2 ti2
+白堤	bai2 di1
 白塞木	bai2 sai1 mu4
 白天	bai2 tian5
 白天不做虧心事	bai2 tian5 bu2 zuo4 kui1 xin1 shi4
@@ -84737,6 +84818,7 @@ min_phrase_weight: 100
 稀薄	xi1 bo2
 稀行	xi1 xing2
 稀裡糊塗	xi1 li5 hu2 tu5
+稀裡糊塗	xi1 li3 hu2 tu5
 稀里嘩啦	xi1 li3 hua1 la1
 稀里嘩啦	xi1 li5 hua1 la1
 稀里打哄	xi1 li3 da3 hong1
@@ -85789,6 +85871,7 @@ min_phrase_weight: 100
 篇幅	pian1 fu2
 篇幅	pian1 fu5
 築堤	zhu2 ti2
+築堤	zhu2 di1
 築壇	zhu2 tan2
 築壇拜將	zhu2 tan2 bai4 jiang4
 築室	zhu2 shi4
@@ -87415,6 +87498,7 @@ min_phrase_weight: 100
 群落	qun2 luo4
 群蝨處褌中	qun2 shi1 chu3 kun1 zhong1
 群蟻潰堤	qun2 yi3 kui4 ti2
+群蟻潰堤	qun2 yi3 kui4 di1
 群輕折軸	qun2 qing1 zhe2 zhou2
 群辟	qun2 bi4
 群雌粥粥	qun2 ci1 zhu4 zhu4
@@ -88761,6 +88845,7 @@ min_phrase_weight: 100
 自然分類	zi4 ran2 fen1 lei4
 自然利率	zi4 ran2 li4 lv4
 自然堤	zi4 ran2 ti2
+自然堤	zi4 ran2 di1
 自然增加率	zi4 ran2 zeng1 jia1 lv4
 自然接種	zi4 ran2 jie1 zhong4
 自然數	zi4 ran2 shu4
@@ -89533,6 +89618,7 @@ min_phrase_weight: 100
 茂行	mao4 xing4
 茂親	mao4 qin1
 范公堤	fan4 gong1 ti2
+范公堤	fan4 gong1 di1
 范蠡	fan4 li3
 茄二十八星瓢蟲	qie2 er4 shi2 ba1 xing1 piao2 chong2
 茄克	jia1 ke4
@@ -90178,11 +90264,9 @@ min_phrase_weight: 100
 葉面對稱	ye4 mian4 dui4 cheng4
 葑菲	feng1 fei3
 葑菲之采	feng1 fei3 zhi1 cai3
-#著地	zhuo2 di4
 著稱	zhu4 cheng1
 著稱於世	zhu4 cheng1 yu2 shi4
 著績	zhu4 ji1
-#著花	zhuo2 hua1
 葛仙米	ge3 xian1 mi3
 葛仙翁	ge3 xian1 weng1
 葛優	ge3 you1
@@ -92216,6 +92300,7 @@ min_phrase_weight: 100
 西和縣	xi1 he2 xian4
 西單圖書大廈	xi1 dan1 tu2 shu1 da4 sha4
 西堤	xi1 ti2
+# 西堤	xi1 di1
 西塞山	xi1 sai4 shan1
 西塞山區	xi1 sai4 shan1 qu1
 西塞羅	xi1 sai1 luo2
@@ -97773,6 +97858,7 @@ min_phrase_weight: 100
 長城卡	chang2 cheng2 ka3
 長城飯店	chang2 cheng2 fan4 dian4
 長堤	chang2 ti2
+長堤	chang2 di1
 長壽	chang2 shou4
 長壽區	chang2 shou4 qu1
 長壽麵	chang2 shou4 mian4
@@ -98488,7 +98574,9 @@ min_phrase_weight: 100
 防彈衣	fang2 dan4 yi1
 防暑降溫	fang2 shu3 jiang4 wen1
 防沙堤	fang2 sha1 ti2
+防沙堤	fang2 sha1 di1
 防波堤	fang2 bo1 ti2
+防波堤	fang2 bo1 di1
 防火長城	fang2 huo3 chang2 cheng2
 防空	fang2 kong1
 防空壕	fang2 kong1 hao2
@@ -100302,6 +100390,7 @@ min_phrase_weight: 100
 須將有日思無日	xu1 jiang1 you3 ri4 si1 wu2 ri4
 須待	xu1 dai4
 須菩堤	xu1 pu2 ti2
+須菩堤	xu1 pu2 di1
 頌禮	rong2 li3
 頌繫	rong2 xi4
 頌聲載道	song4 sheng1 zai4 dao4
@@ -101855,6 +101944,7 @@ min_phrase_weight: 100
 麵條兒	mian4 tiao2 er5
 麵漿	mian4 jiang1
 麵疙瘩	mian4 ge1 da5
+麵疙瘩	mian4 ge1 da1
 麵糊	mian4 hu2
 麯塵	qu2 chen2
 麯生	qu2 sheng1
@@ -102259,4 +102349,4 @@ min_phrase_weight: 100
 𣝓弧	yan3 hu2
 𣝓絲	yan3 si1
 𧑗蝦	ning2 xia1
-##### 結束 END - 102262 #####
+##### 結束 END - 102306 #####
