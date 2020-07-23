@@ -104,9 +104,9 @@ description: how to use Rime
 
 左上：Sunset，右上：Senbe
 
-左下：HappySea
+左下：HappySea，右下：EastSidePurple
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown-2.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown%20%281%29.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
