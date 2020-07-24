@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: RoseofER #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: RoseofER #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 6 #6 #1
@@ -412,3 +412,23 @@ patch:
     candidate_text_color: '0x994F55'
     label_color: '0x416BBE'
     comment_text_color: '0xC591A3'
+    
+  preset_color_schemes/YoungBlood:
+    name: 年輕十歲
+    author: 我朋朋啦(ponpon55837@gmail.com)
+    corner_radius: 5                       # 外框圓角
+    border_height: 10                      # 字與上下邊框的高度差
+    border_width: 10                       # 字與左右邊框的寬度差
+    border_color: '0x99FFFF'               # 邊框顏色 沒作用
+    hilited_corner_radius: 5
+    back_color: '0xE5F6FC'
+    text_color: '0xA76E4F'
+    hilited_text_color: '0xA76E4F'
+    hilited_back_color: '0x00E5F6FC'
+    hilited_candidate_text_color: '0x8027AF'
+    hilited_candidate_back_color: '0xC1E7C1'
+    hilited_candidate_label_color: '0x889FC6'
+    hilited_comment_text_color: '0x9C8BEB'
+    candidate_text_color: '0x9CB6E5'
+    label_color: '0x889FC6'
+    comment_text_color: '0x9C8BEB'
