@@ -102,47 +102,47 @@ function t_translator(input, seg)
   -- end
 
   if (input == "`f") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), " 現在日期 (年月日) ~c"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), " 現在日期 (年月日) ~d"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d"), " 現在日期 (年月日) ~s"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), " 現在日期 (年月日) ~m"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d"), " 現在日期 (年月日) ~u"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx1(), "〔年月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), "〔年月日〕 ~c"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), "〔年月日〕 ~d"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d"), "〔年月日〕 ~s"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), "〔年月日〕 ~m"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d"), "〔年月日〕 ~u"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1(), "〔年月日〕 ~z"))
     return
   end
 
   if (input == "`fc") then
-    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月 %d 日"), " 現在日期 (年月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月 %Y 年"), " 現在日期 (日月年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日 %Y 年"), " 現在日期 (月日年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月 %d 日"), "〔年月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月 %Y 年"), "〔日月年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日 %Y 年"), "〔月日年〕"))
     return
   end
 
   if (input == "`fd") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), " 現在日期 (年月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d%m%Y"), " 現在日期 (日月年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m%d%Y"), " 現在日期 (月日年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d"), "〔年月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d%m%Y"), "〔日月年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m%d%Y"), "〔月日年〕"))
     return
   end
 
   if (input == "`fm") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), " 現在日期 (年月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m-%Y"), " 現在日期 (日月年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d-%Y"), " 現在日期 (月日年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), "〔年月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m-%Y"), "〔日月年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d-%Y"), "〔月日年〕"))
     return
   end
 
   if (input == "`fs") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d"), " 現在日期 (年月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m/%Y"), " 現在日期 (日月年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d/%Y"), " 現在日期 (月日年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d"), "〔年月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m/%Y"), "〔日月年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d/%Y"), "〔月日年〕"))
     return
   end
 
   if (input == "`fu") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d"), " 現在日期 (年月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m_%Y"), " 現在日期 (日月年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d_%Y"), " 現在日期 (月日年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d"), "〔年月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m_%Y"), "〔日月年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d_%Y"), "〔月日年〕"))
     return
   end
 
@@ -153,111 +153,111 @@ function t_translator(input, seg)
   end
 
   if (input == "`fn") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日 %H:%M"), " 現在日期時間 (年月日 時:分) ~c"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M"), " 現在日期時間 (年月日 時:分) ~d"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M"), " 現在日期時間 (年月日 時:分) ~s"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M"), " 現在日期時間 (年月日 時:分) ~m"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M"), " 現在日期時間 (年月日 時:分) ~u"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), " 現在日期時間 (年月日 時:分) ~z"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日 %H:%M"), "〔年月日 時:分〕 ~c"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M"), "〔年月日 時:分〕 ~d"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M"), "〔年月日 時:分〕 ~s"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M"), "〔年月日 時:分〕 ~m"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M"), "〔年月日 時:分〕 ~u"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), "〔年月日 時:分〕 ~z"))
     return
   end
 
   if (input == "`fnc") then
-    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月 %d 日  %H : %M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月 %Y 年  %H : %M"), " 現在日期時間 (日月年 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日 %Y 年  %H : %M"), " 現在日期時間 (月日年 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月 %d 日  %H : %M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月 %Y 年  %H : %M"), "〔日月年 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日 %Y 年  %H : %M"), "〔月日年 時:分〕"))
     return
   end
 
   if (input == "`fnd") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d%m%Y %H:%M"), " 現在日期時間 (日月年 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m%d%Y %H:%M"), " 現在日期時間 (月日年 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d%m%Y %H:%M"), "〔日月年 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m%d%Y %H:%M"), "〔月日年 時:分〕"))
     return
   end
 
   if (input == "`fns") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m/%Y %H:%M"), " 現在日期時間 (日月年 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d/%Y %H:%M"), " 現在日期時間 (月日年 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m/%Y %H:%M"), "〔日月年 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d/%Y %H:%M"), "〔月日年 時:分〕"))
     return
   end
 
   if (input == "`fnm") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m-%Y %H:%M"), " 現在日期時間 (日月年 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d-%Y %H:%M"), " 現在日期時間 (月日年 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m-%Y %H:%M"), "〔日月年 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d-%Y %H:%M"), "〔月日年 時:分〕"))
     return
   end
 
   if (input == "`fnu") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m_%Y %H:%M"), " 現在日期時間 (日月年 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d_%Y %H:%M"), " 現在日期時間 (月日年 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m_%Y %H:%M"), "〔日月年 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d_%Y %H:%M"), "〔月日年 時:分〕"))
     return
   end
 
   if (input == "`fnz") then
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M"), " 現在日期時間 (年月日 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M"), "〔年月日 時:分〕"))
     return
   end
 
   if (input == "`ft") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日 %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~c"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~d"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~s"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~m"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~u"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~z"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日 %H:%M:%S"), "〔年月日 時:分:秒〕 ~c"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~d"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~s"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~m"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~u"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), "〔年月日 時:分:秒〕 ~z"))
     return
   end
 
   if (input == "`ftc") then
-    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月 %d 日  %H : %M : %S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月 %Y 年  %H : %M : %S"), " 現在日期時間 (日月年 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日 %Y 年  %H : %M : %S"), " 現在日期時間 (月日年 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月 %d 日  %H : %M : %S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月 %Y 年  %H : %M : %S"), "〔日月年 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日 %Y 年  %H : %M : %S"), "〔月日年 時:分:秒〕"))
     return
   end
 
   if (input == "`ftd") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d%m%Y %H:%M:%S"), " 現在日期時間 (日月年 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m%d%Y %H:%M:%S"), " 現在日期時間 (月日年 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m%d %H:%M:%S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d%m%Y %H:%M:%S"), "〔日月年 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m%d%Y %H:%M:%S"), "〔月日年 時:分:秒〕"))
     return
   end
 
   if (input == "`fts") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m/%Y %H:%M:%S"), " 現在日期時間 (日月年 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d/%Y %H:%M:%S"), " 現在日期時間 (月日年 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M:%S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m/%Y %H:%M:%S"), "〔日月年 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d/%Y %H:%M:%S"), "〔月日年 時:分:秒〕"))
     return
   end
 
   if (input == "`ftm") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m-%Y %H:%M:%S"), " 現在日期時間 (日月年 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d-%Y %H:%M:%S"), " 現在日期時間 (月日年 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m-%Y %H:%M:%S"), "〔日月年 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d-%Y %H:%M:%S"), "〔月日年 時:分:秒〕"))
     return
   end
 
   if (input == "`ftu") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m_%Y %H:%M:%S"), " 現在日期時間 (日月年 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d_%Y %H:%M:%S"), " 現在日期時間 (月日年 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M:%S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m_%Y %H:%M:%S"), "〔日月年 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d_%Y %H:%M:%S"), "〔月日年 時:分:秒〕"))
     return
   end
 
   if (input == "`ftz") then
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M:%S"), "〔年月日 時:分:秒〕"))
     return
   end
 
   if (input == "`y") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y年"), " 現在日期 (年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年"), " 現在日期 (年)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y"), " 現在日期 (年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y年"), "〔年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年"), "〔年〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y"), "〔年〕"))
     yield(Candidate("date", seg.start, seg._end, rqzdx1(1), "〔年〕 ~z"))
     -- yield(Candidate("date", seg.start, seg._end, rqzdx2(1), "〔年〕"))
     return
@@ -270,9 +270,9 @@ function t_translator(input, seg)
   end
 
   if (input == "`m") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%m月"), " 現在日期 (月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月"), " 現在日期 (月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m"), " 現在日期 (月)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m月"), "〔月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月"), "〔月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m"), "〔月〕"))
     yield(Candidate("date", seg.start, seg._end, rqzdx1(2), "〔月〕 ~z"))
     -- yield(Candidate("date", seg.start, seg._end, rqzdx2(2), "〔月〕"))
     return
@@ -285,9 +285,9 @@ function t_translator(input, seg)
   end
 
   if (input == "`d") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%d日"), " 現在日期 (日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日"), " 現在日期 (日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d"), " 現在日期 (日)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d日"), "〔日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日"), "〔日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d"), "〔日〕"))
     yield(Candidate("date", seg.start, seg._end, rqzdx1(3), "〔日〕 ~z"))
     -- yield(Candidate("date", seg.start, seg._end, rqzdx2(3), "〔日〕"))
     return
@@ -300,42 +300,42 @@ function t_translator(input, seg)
   end
 
   if (input == "`md") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%m月%d日"), " 現在日期 (月日) ~c"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m%d"), " 現在日期 (月日) ~d"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d"), " 現在日期 (月日) ~s"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d"), " 現在日期 (月日) ~m"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d"), " 現在日期 (月日) ~u"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m月%d日"), "〔月日〕 ~c"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m%d"), "〔月日〕 ~d"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d"), "〔月日〕 ~s"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d"), "〔月日〕 ~m"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d"), "〔月日〕 ~u"))
     yield(Candidate("date", seg.start, seg._end, rqzdx1(23), "〔月日〕 ~z"))
     return
   end
 
   if (input == "`mdc") then
-    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日"), " 現在日期 (月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月"), " 現在日期 (日月)"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %d 日"), "〔月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %d 日 %m 月"), "〔日月〕"))
     return
   end
 
   if (input == "`mdd") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%m%d"), " 現在日期 (月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d%m"), " 現在日期 (日月)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m%d"), "〔月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d%m"), "〔日月〕"))
     return
   end
 
   if (input == "`mds") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d"), " 現在日期 (月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m"), " 現在日期 (日月)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m/%d"), "〔月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d/%m"), "〔日月〕"))
     return
   end
 
   if (input == "`mdm") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d"), " 現在日期 (月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m"), " 現在日期 (日月)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m-%d"), "〔月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d-%m"), "〔日月〕"))
     return
   end
 
   if (input == "`mdu") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d"), " 現在日期 (月日)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m"), " 現在日期 (日月)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m_%d"), "〔月日〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%d_%m"), "〔日月〕"))
     return
   end
 
@@ -401,42 +401,42 @@ function t_translator(input, seg)
   end
 
   if (input == "`ym") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月"), " 現在日期 (年月) ~c"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m"), " 現在日期 (年月) ~d"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m"), " 現在日期 (年月) ~s"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m"), " 現在日期 (年月) ~m"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m"), " 現在日期 (年月) ~u"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月"), "〔年月〕 ~c"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m"), "〔年月〕 ~d"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m"), "〔年月〕 ~s"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m"), "〔年月〕 ~m"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m"), "〔年月〕 ~u"))
     yield(Candidate("date", seg.start, seg._end, rqzdx1(12), "〔年月〕 ~z"))
     return
   end
 
   if (input == "`ymc") then
-    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月"), " 現在日期 (年月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %Y 年"), " 現在日期 (月年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %Y 年 %m 月"), "〔年月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date(" %m 月 %Y 年"), "〔月年〕"))
     return
   end
 
   if (input == "`ymd") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m"), " 現在日期 (年月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m%Y"), " 現在日期 (月年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y%m"), "〔年月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m%Y"), "〔月年〕"))
     return
   end
 
   if (input == "`yms") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m"), " 現在日期 (年月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m/%Y"), " 現在日期 (月年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m"), "〔年月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m/%Y"), "〔月年〕"))
     return
   end
 
   if (input == "`ymm") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m"), " 現在日期 (年月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m-%Y"), " 現在日期 (月年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m"), "〔年月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m-%Y"), "〔月年〕"))
     return
   end
 
   if (input == "`ymu") then
-    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m"), " 現在日期 (年月)"))
-    yield(Candidate("date", seg.start, seg._end, os.date("%m_%Y"), " 現在日期 (月年)"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m"), "〔年月〕"))
+    yield(Candidate("date", seg.start, seg._end, os.date("%m_%Y"), "〔月年〕"))
     return
   end
 
@@ -639,7 +639,13 @@ function t_translator(input, seg)
   end
 
   if(input=="`") then
-    yield(Candidate("date", seg.start, seg._end, "" , "擴充模式"))
+---    yield(Candidate("date", seg.start, seg._end, "" , "擴充模式"))
+    yield(Candidate("date", seg.start, seg._end, "┃ f〔年月日〕┇ ym〔年月〕┇ md〔月日〕┇ fw〔年月日週〕┇ mdw〔月日週〕" , ""))
+    yield(Candidate("date", seg.start, seg._end, "┃ y〔年〕┇ m〔月〕┇ d〔日〕┇ w〔週〕┇ n〔時:分〕┇ t〔時:分:秒〕" , ""))
+    yield(Candidate("date", seg.start, seg._end, "┃ fn〔年月日 時:分〕┇ ft〔年月日 時:分:秒〕" , ""))
+    yield(Candidate("date", seg.start, seg._end, "┃ fwn〔年月日週 時:分〕┇ fwt〔年月日週 時:分:秒〕" , ""))
+    yield(Candidate("date", seg.start, seg._end, "┃ */*/*〔 * 年 * 月 * 日〕┇ */*〔 * 月 * 日〕" , ""))
+    yield(Candidate("date", seg.start, seg._end, "┃ *-*-*〔*年*月*日〕┇ *-*〔*月*日〕" , ""))
     return
   end
 
@@ -652,6 +658,18 @@ function t_translator(input, seg)
   m, d = string.match(input, "`(%d?%d)/(%d?%d)$")
   if(m~=nil) then
     yield(Candidate("date", seg.start, seg._end, m.."月"..d.."日" , " 日期"))
+    return
+  end
+
+  y, m, d = string.match(input, "`(%d+)-(%d?%d)-(%d?%d)$")
+  if(y~=nil) then
+    yield(Candidate("date", seg.start, seg._end, y.."年"..m.."月"..d.."日" , "〔日期〕"))
+    return
+  end
+
+  m, d = string.match(input, "`(%d?%d)-(%d?%d)$")
+  if(m~=nil) then
+    yield(Candidate("date", seg.start, seg._end, m.."月"..d.."日" , "〔日期〕"))
     return
   end
 
@@ -742,7 +760,7 @@ function t2_translator(input, seg)
     yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M"), "〔年月日 時:分〕 ~s"))
     yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M"), "〔年月日 時:分〕 ~m"))
     yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M"), "〔年月日 時:分〕 ~u"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), " 現在日期時間 (年月日 時:分) ~z"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), "〔年月日 時:分〕 ~z"))
     return
   end
 
@@ -782,8 +800,8 @@ function t2_translator(input, seg)
   end
 
   if (input == "'/fnz") then
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), " 現在日期時間 (年月日 時:分)"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M"), " 現在日期時間 (年月日 時:分)"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M"), "〔年月日 時:分〕"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M"), "〔年月日 時:分〕"))
     return
   end
 
@@ -793,7 +811,7 @@ function t2_translator(input, seg)
     yield(Candidate("date", seg.start, seg._end, os.date("%Y/%m/%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~s"))
     yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~m"))
     yield(Candidate("date", seg.start, seg._end, os.date("%Y_%m_%d %H:%M:%S"), "〔年月日 時:分:秒〕 ~u"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), " 現在日期時間 (年月日 時:分:秒) ~z"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), "〔年月日 時:分:秒〕 ~z"))
     return
   end
 
@@ -833,8 +851,8 @@ function t2_translator(input, seg)
   end
 
   if (input == "'/ftz") then
-    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
-    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M:%S"), " 現在日期時間 (年月日 時:分:秒)"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx1().." "..os.date("%H:%M:%S"), "〔年月日 時:分:秒〕"))
+    yield(Candidate("date", seg.start, seg._end, rqzdx2().." "..os.date("%H:%M:%S"), "〔年月日 時:分:秒〕"))
     return
   end
 
@@ -1346,6 +1364,48 @@ function charset_filter(input)
    end
 end
 
+--- charset filter2 把 opencc 轉換成「᰼」(或某個符號)，再用 lua 功能去除「᰼」
+-- charset2 = {
+--    ["Deletesymbol"] = { first = 0x1C3C } }
+
+-- function exists2(single_filter2, text)
+--   for i in utf8.codes(text) do
+--      local c = utf8.codepoint(text, i)
+--      if (not single_filter2(c)) then
+--   return false
+--      end
+--   end
+--   return true
+-- end
+
+-- function is_charset2(s)
+--    return function (c)
+--       return c == charset2[s].first
+--    end
+-- end
+
+-- function is_symbol_ext(c)
+--    return is_charset2("Deletesymbol")(c)
+-- end
+
+-- function charset_filter2(input)
+--    for cand in input:iter() do
+--       if (not exists2(is_symbol_ext, cand.text))
+--       then
+--         yield(cand)
+--       end
+--    end
+-- end
+
+function charset_filter2(input)
+   for cand in input:iter() do
+      if (not string.find(cand.text, '᰼' ))
+      -- if (not string.find(cand.text, '.*᰼.*' ))
+        then
+        yield(cand)
+      end
+   end
+end
 
 --- charset comment filter
 function charset_comment_filter(input)

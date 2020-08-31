@@ -14,22 +14,19 @@ schema:
     - cangjie5
 
 switches:
-#  - name: ascii_mode
-#    reset: 0
-#    states: ["中文", "英文"]
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
 #  - name: full_shape
 #    reset: 0
 #    states: ["半形", "全形"]
 #  - name: ascii_punct
 #    reset: 0
-#    states: [ "。，", "．，" ]
+#    states: ["。，", "．，"]
 #  - name: simplification
-##    reset: 0
+#    reset: 0
 #    states: ["完整", "简体"]
-#  - name: zh_tw
-##    reset: 0
-#    states: ["完整", "臺標"]
-#  - options: [ utf8, big5, gbk]
+#  - options: [ utf8, big5, gbk ]
 ##    reset: 0
 #    states:
 #      - UTF-8
@@ -38,10 +35,9 @@ switches:
 
 engine:
   filters:
-    - simplifier
-    - simplifier@zh_tw
     - charset_filter@big5
     - charset_filter@gbk
+    - simplifier
     - reverse_lookup_filter@bpm_reverse_lookup
     - uniquifier
   processors:
@@ -75,10 +71,10 @@ menu:
 simplifier:
   tips: all
 
-zh_tw:
-  opencc_config: s2tw.json
-  option_name: zh_tw
-  tips: all
+big5:
+  tags: [ abc ]
+gbk:
+  tags: [ abc ]
 ############################## 拼寫正則 #####################################
 speller:
   alphabet: "1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-3467 "
@@ -259,12 +255,9 @@ key_binder:
     - {accept: BackSpace, send: Control+BackSpace, when: has_menu} #〔關〕刪除前一個拼音字符〔開〕：刪除整組拼音字符（一個字）
     - {accept: Shift+BackSpace, send: BackSpace, when: has_menu}
     - {accept: backslash, send: BackSpace, when: has_menu} #「\」鍵位刪除一個拼音字符。
-#    - {accept: Control+apostrophe, toggle: zh_tw, when: always} #誤按沒警示，避免誤按，關閉！（開關台灣習慣用字）
-#    - {accept: Control+Shift+6, toggle: zh_tw, when: always} #誤按沒警示，避免誤按，關閉！（開關台灣習慣用字）
-    - {accept: Shift+space, send: Shift+Left, when: paging}
-    #於選單列選字時，回復到輸入列（避免有時回復不了，故增加）。
+    - {accept: Tab, send: Shift+Left, when: paging} #於選單列選字時，回復到輸入列（避免有時回復不了，故增加）。
     - {accept: Tab, send: Page_Down, when: has_menu} #選字可用「 Shift 」+「 空白鍵 」翻到下頁。
-    - {accept: Shift+Tab, send: Page_Up, when: paging } #選字可用「 Shift 」+「 Tab 」翻到上頁。
+    - {accept: Shift+Tab, send: Page_Up, when: paging } #選字可用「 Shift 」+「 Tab 」翻到上頁。
     - {accept: 3, send: Escape, when: composing}
     - {accept: 3, send: 3, when: has_menu}
     - {accept: 4, send: Escape, when: composing}
@@ -286,6 +279,6 @@ recognizer:
     uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(https?:|ftp:|mailto:|file:).*$"
     email: "^[a-z][-_.0-9a-z]*@.*$"
-    punct: "(?<![=|=`])`[`]?[-,;/0-9a-z]*$|[[][[]?[']?$|[]][]]?[']?$|[[][]]$|[[][[][]][]]$|[[]['][]][']$|[[][[]['][]][]][']$|[']['][']?$|[=][=][=]?$|[=][`][`]?$|[=]['][']?$|[=]['][']?[=]['][']?$|[=][][][][]?$|[=][][][][]?[=][][][][]?$|[=][-,./;][-,./;]? ?$|[=][,][,][=][.][.] ?$|[=][0-9] ?$|[=][9][=][0] ?$|[=][=][].,90'[]+ ?$"
+    punct: "(?<![=`])`[`]?[-,;/0-9a-z]*$|[[][[]?[']?$|[]][]]?[']?$|[[][]]$|[[][[][]][]]$|[[]['][]][']$|[[][[]['][]][]][']$|[']['][']?$|[=][=][=]?$|[=][`][`]?$|[=]['][']?$|[=]['][']?[=]['][']?$|[=][][][][]?$|[=][][][][]?[=][][][][]?$|[=][-,./;][-,./;]? ?$|[=][,][,][=][.][.] ?$|[=][0-9] ?$|[=][9][=][0] ?$|[=][=][].,90'[]+ ?$"
     reverse2_lookup: "=[a-z]* ?$"
-    lua: "'/[a-z0-9/:-]*'?$"
+    lua: "^'/[a-z0-9/-]*$"
