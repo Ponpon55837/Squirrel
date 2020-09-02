@@ -17,7 +17,7 @@ patch:
   # "標籤與前方間距%c標籤與選字間距%@選字與後方間距" 像是這樣
   # \2002 是en space的寬度 \u2004是1/3 em \u2005 是1/4 em \u2006 是1/6 em \u2007 是圖形空間的寬度 \u2008 是標點符號的寬度
   style/candidate_format: "\u2004%c\u2002%@\u2004"
-  style/corner_radius: 5                       # 外框圓角
+  style/corner_radius: 9                       # 外框圓角
   style/border_height: 10                      # 字與上下邊框的高度差
   style/border_width: 10                       # 字與左右邊框的寬度差
 
@@ -226,7 +226,7 @@ patch:
       hilited_back_color: '0xCCCCFF' #0xC3C3E6 #0x99EFFF
       hilited_candidate_text_color: '0x00EFFF'
       hilited_candidate_back_color: '0x8F8FBC'
-      hilited_corner_radius: 5
+      hilited_corner_radius: 10
       candidate_text_color: '0x2A2AA5'
       comment_text_color: '0x8080F0'
       label_color: '0x4E81E6'
@@ -243,7 +243,7 @@ patch:
     hilited_candidate_back_color: '0xB3229A'
     hilited_candidate_label_color: '0x05EEFF'
     hilited_comment_text_color: ''
-    hilited_corner_radius: 5
+    hilited_corner_radius: 10
     candidate_text_color: '0x3CBBF2'
     label_color: '0xFFFFFF'
     comment_text_color: '0xEFBFD9'
@@ -252,7 +252,7 @@ patch:
     name: 麥當當
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    hilited_corner_radius: 5
+    hilited_corner_radius: 10
     back_color: '0x0700DB'
     text_color: '0x0CBCFF'
     hilited_text_color: '0xFDFAFF'
@@ -269,7 +269,7 @@ patch:
     name: Tiffany
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    #hilited_corner_radius: 5
+    #hilited_corner_radius: 10
     back_color: '0xD0D989'
     text_color: ''
     hilited_text_color: '0x75745D'
@@ -303,7 +303,7 @@ patch:
     name: 室內設計
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    #hilited_corner_radius: 5
+    #hilited_corner_radius: 10
     back_color: '0x99AFC7'
     text_color: '0x627182'
     hilited_text_color: '0x51538F'
@@ -320,7 +320,7 @@ patch:
     name: 夕陽
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    hilited_corner_radius: 5
+    hilited_corner_radius: 10
     back_color: '0x5AB0F3'
     text_color: '0x416AF4'
     hilited_text_color: '0x416AF4'
@@ -337,7 +337,7 @@ patch:
     name: 仙貝
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    #hilited_corner_radius: 5
+    #hilited_corner_radius: 10
     back_color: '0x416BBE'
     text_color: '0x76CCF7'
     hilited_text_color: '0x000000'
@@ -354,7 +354,7 @@ patch:
     name: 快樂海洋
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    hilited_corner_radius: 5
+    hilited_corner_radius: 10
     back_color: '0xF1C17E'
     text_color: '0x8564B1'
     hilited_text_color: '0x8564B1'
@@ -372,7 +372,7 @@ patch:
     name: 紫氣東來
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-#    hilited_corner_radius: 5
+#    hilited_corner_radius: 10
     back_color: '0xE9B4D7'
     text_color: '0x8027AF'
     hilited_text_color: '0x8027AF'
@@ -389,7 +389,7 @@ patch:
     name: 年輕十歲
     author: 我朋朋啦
     border_color: ''                          # 邊框顏色
-    hilited_corner_radius: 5                  # 候選字圓角
+    hilited_corner_radius: 10                  # 候選字圓角
     back_color: '0xE5F6FC'
     text_color: '0xA76E4F'
     hilited_text_color: '0xA76E4F'
