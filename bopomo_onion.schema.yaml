@@ -255,7 +255,7 @@ key_binder:
     - {accept: BackSpace, send: Control+BackSpace, when: has_menu} #〔關〕刪除前一個拼音字符〔開〕：刪除整組拼音字符（一個字）
     - {accept: Shift+BackSpace, send: BackSpace, when: has_menu}
     - {accept: backslash, send: BackSpace, when: has_menu} #「\」鍵位刪除一個拼音字符。
-    - {accept: Tab, send: Shift+Left, when: paging} #於選單列選字時，回復到輸入列（避免有時回復不了，故增加）。
+    #- {accept: Tab, send: Shift+Left, when: paging} #於選單列選字時，回復到輸入列（避免有時回復不了，故增加）。
     - {accept: Tab, send: Page_Down, when: has_menu} #選字可用「 Shift 」+「 空白鍵 」翻到下頁。
     - {accept: Shift+Tab, send: Page_Up, when: paging } #選字可用「 Shift 」+「 Tab 」翻到上頁。
     - {accept: 3, send: Escape, when: composing}
