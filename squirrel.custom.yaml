@@ -2,16 +2,16 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: TriColorDumpling #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme: RoseofER #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 6 #6 #1
   style/spacing: 10 #10 #5
   # 文字字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
-  style/font_face: 'Times-Roman,YuppyTC-Regular,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
+  style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
   style/font_point: 20 #21
   # 數字標籤字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
-  style/label_font_face: 'ComicSansMS-BoldItalic' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
+  style/label_font_face: '儷黑 Pro' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
   style/label_font_point: 14 #14 #12 #18 #20
   # 前方標籤位置與後面選字的距離
   # "標籤與前方間距%c標籤與選字間距%@選字與後方間距" 像是這樣
@@ -51,7 +51,7 @@ patch:
     hilited_text_color: 0x96a8a7 #0xE3F0FD
     hilited_candidate_text_color: 0x000000
     hilited_candidate_label_color: 0x96a8a7
-    hilited_candidate_back_color: 0xFFE4CE #0xFEF0E4 
+    hilited_candidate_back_color: 0xFFE4CE #0xFEF0E4
     comment_text_color: 0x96a8a7
     hilited_comment_text_color: 0x96a8a7
 
@@ -181,7 +181,7 @@ patch:
       hilited_candidate_text_color: 0xFFE696    # 第一候选项文字颜色
       hilited_candidate_back_color: 0x4b4b4b    # 第一候选项背景背景色
       hilited_candidate_label_color: 0xFFE696 #0xffffff   # 第一候选项编号颜色
-      comment_text_color: 0xdedddd  
+      comment_text_color: 0xdedddd
 
   preset_color_schemes/uji_kintoki:
       name: 宇治金時
@@ -196,7 +196,7 @@ patch:
       hilited_candidate_label_color: 0xC4A47D #0x573270
       hilited_comment_text_color: 0xC4A47D
       candidate_text_color: 0xF1EBF6
-      comment_text_color: 0x573270 #0xC4A47D 
+      comment_text_color: 0x573270 #0xC4A47D
       label_color: 0x32705A
       menu:
         page_size:9
@@ -215,7 +215,7 @@ patch:
       candidate_text_color: 0x6DCBF2
       label_color: 0x6DCBF2
       comment_text_color: 0x7BDEF4
-      
+
   preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
       author: 我朋朋啦
@@ -226,11 +226,11 @@ patch:
       hilited_back_color: '0xCCCCFF' #0xC3C3E6 #0x99EFFF
       hilited_candidate_text_color: '0x00EFFF'
       hilited_candidate_back_color: '0x8F8FBC'
-      hilited_corner_radius: 10
+      hilited_corner_radius: 5
       candidate_text_color: '0x2A2AA5'
       comment_text_color: '0x8080F0'
       label_color: '0x4E81E6'
-  
+
   preset_color_schemes/Lakers:
     name: 紫金王朝
     author: 我朋朋啦
@@ -243,16 +243,16 @@ patch:
     hilited_candidate_back_color: '0xB3229A'
     hilited_candidate_label_color: '0x05EEFF'
     hilited_comment_text_color: ''
-    hilited_corner_radius: 10
+    hilited_corner_radius: 5
     candidate_text_color: '0x3CBBF2'
     label_color: '0xFFFFFF'
     comment_text_color: '0xEFBFD9'
-    
+
   preset_color_schemes/McDonald:
     name: 麥當當
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    hilited_corner_radius: 10
+    hilited_corner_radius: 5
     back_color: '0x0700DB'
     text_color: '0x0CBCFF'
     hilited_text_color: '0xFDFAFF'
@@ -264,16 +264,16 @@ patch:
     candidate_text_color: '0x0993C7'
     label_color: '0xBDBDBD'
     comment_text_color: '0xF0F0F0'
-    
+
   preset_color_schemes/Tiffany:
     name: Tiffany
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    #hilited_corner_radius: 10
+    #hilited_corner_radius: 5
     back_color: '0xD0D989'
     text_color: ''
     hilited_text_color: '0x75745D'
-    hilited_back_color: '0xFFFFCD'
+    hilited_back_color: '0xFFFFCD' #0xFFFFCD
     hilited_candidate_text_color: '0x466651'#0xE3FF75 0x466651
     hilited_candidate_back_color: '0xB2CD7E'#0xADADAD 0xB2CD7E
     hilited_candidate_label_color: '0x0A0A0A'
@@ -303,7 +303,7 @@ patch:
     name: 室內設計
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    #hilited_corner_radius: 10
+    #hilited_corner_radius: 5
     back_color: '0x99AFC7'
     text_color: '0x627182'
     hilited_text_color: '0x51538F'
@@ -315,12 +315,12 @@ patch:
     candidate_text_color: '0x2E71BA'
     label_color: '0x76CCF7'
     comment_text_color: '0x51538F'
-    
+
   preset_color_schemes/Sunset:
     name: 夕陽
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    hilited_corner_radius: 10
+    hilited_corner_radius: 5
     back_color: '0x5AB0F3'
     text_color: '0x416AF4'
     hilited_text_color: '0x416AF4'
@@ -332,12 +332,12 @@ patch:
     candidate_text_color: '0x6D58A3'
     label_color: '0x3A5FDB'
     comment_text_color: '0x724A5C'
-  
+
   preset_color_schemes/Senbe:
     name: 仙貝
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    #hilited_corner_radius: 10
+    #hilited_corner_radius: 5
     back_color: '0x416BBE'
     text_color: '0x76CCF7'
     hilited_text_color: '0x000000'
@@ -349,12 +349,12 @@ patch:
     candidate_text_color: '0x658DC6'
     label_color: '0x375789'
     comment_text_color: '0x375789'
-    
+
   preset_color_schemes/HappySea:
     name: 快樂海洋
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-    hilited_corner_radius: 10
+    hilited_corner_radius: 5
     back_color: '0xF1C17E'
     text_color: '0x8564B1'
     hilited_text_color: '0x8564B1'
@@ -372,7 +372,7 @@ patch:
     name: 紫氣東來
     author: 我朋朋啦
     border_color: ''               # 邊框顏色
-#    hilited_corner_radius: 10
+#    hilited_corner_radius: 5
     back_color: '0xE9B4D7'
     text_color: '0x8027AF'
     hilited_text_color: '0x8027AF'
@@ -384,12 +384,12 @@ patch:
     candidate_text_color: '0x994F55'
     label_color: '0x416BBE'
     comment_text_color: '0xC591A3'
-    
+
   preset_color_schemes/YoungBlood:
     name: 年輕十歲
     author: 我朋朋啦
     border_color: ''                          # 邊框顏色
-    hilited_corner_radius: 10                  # 候選字圓角
+    hilited_corner_radius: 5                  # 候選字圓角
     back_color: '0xE5F6FC'
     text_color: '0xA76E4F'
     hilited_text_color: '0xA76E4F'
@@ -401,3 +401,20 @@ patch:
     candidate_text_color: '0x9CB6E5'
     label_color: '0x889FC6'
     comment_text_color: '0x9C8BEB'
+
+  preset_color_schemes/BigRice:
+    name: 大米
+    author: 我朋朋啦
+    border_color: ''                          # 邊框顏色
+    hilited_corner_radius: 5                  # 候選字圓角
+    back_color: '0x9CB6E5'
+    text_color: '0x812258'
+    hilited_text_color: '0x812258'
+    hilited_back_color: '0x9CB6E5'
+    hilited_candidate_text_color: '0x43794E'
+    hilited_candidate_back_color: '0xC6E8D0'
+    hilited_candidate_label_color: '0x9D9DB1'
+    hilited_comment_text_color: '0xA76E4F'
+    candidate_text_color: '0x585988'
+    label_color: '0x2E71BA'
+    comment_text_color: '0x416BBE'
