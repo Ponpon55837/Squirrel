@@ -108,9 +108,9 @@ description: how to use Rime
 
 ![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown%20%281%29.jpeg)
 
-左上：YoungBlood
+左上：YoungBlood，右上：BigRice
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown-1%20%282%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown-1%20%283%29.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
