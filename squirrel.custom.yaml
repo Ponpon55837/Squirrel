@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: BigRice #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
+  style/color_scheme:  YoungBlood #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers #uji_kintoki #mritd_dark #dust #lost_temple #apathy #psionics #mac_white #mac_white2
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 6 #6 #1
@@ -418,3 +418,20 @@ patch:
     candidate_text_color: '0x585988'
     label_color: '0x2E71BA'
     comment_text_color: '0x416BBE'
+
+  preset_color_schemes/OrangeSugar:
+    name: 橘色泡泡糖
+    author: 我朋朋啦
+    border_color: ''                          # 邊框顏色
+    # hilited_corner_radius: 5                  # 候選字圓角
+    back_color: '0x73A6FF'
+    text_color: '0x25258A'
+    hilited_text_color: '0x25258A'
+    hilited_back_color: '0x73A6FF'
+    hilited_candidate_text_color: '0xB0D5FF'
+    hilited_candidate_back_color: '0x474A28'
+    hilited_candidate_label_color: '0x579AFF'
+    hilited_comment_text_color: '0xB0D5FF'
+    candidate_text_color: '0x4C6187'
+    label_color: '0x2552A1'
+    comment_text_color: '0x78267A'
