@@ -70,8 +70,6 @@ description: how to use Rime
 
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
-預設是皇帝玫瑰，也就是RoseofER這個樣式，我做的
-
 // 20200703 update 刪去在每個scheme中的candidate\_format
 
 // 使用style/candidate\_format來帶入每一個scheme中
@@ -88,7 +86,13 @@ description: how to use Rime
 
 這些樣式細節也可以調整，就在下面自己慢慢調
 
-![style&#x8ABF;&#x6574;](.gitbook/assets/snip20200703_4.png)
+![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.28.png)
+
+// 20201117 有些主題對於候選文字框是填滿的狀態，只要修改hilited corner radius_的大小就能調整了。_ 
+
+![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.53.png)
+
+// 20201117 從對岸知乎上面找到一些鼠鬚管的contributer說明，在之後的0.15版鼠鬚管就會支援外邊框了。
 
 不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
 
