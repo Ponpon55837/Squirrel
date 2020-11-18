@@ -116,7 +116,7 @@ description: how to use Rime
 
 左下：OrangeSugar，右下：AllBlue
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown-1%20%284%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown%20%285%29.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
