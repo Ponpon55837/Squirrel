@@ -208,6 +208,10 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 **──────────────────────────────────────────────**
 
+#### **基於尊重**[**lotem**](https://github.com/lotem)**製作的鼠鬚管框架**[**squirrel**](https://github.com/rime/squirrel)**，使用與**[**squirrel**](https://github.com/rime/squirrel)**相同的GNU GPL v3 license。**
+
+#### **以自由軟體開源精神所設定的license，如果有任何使用上的錯誤凡請在**[**我的github上的issue**](https://github.com/Ponpon55837/Squirrel/issues)**告知我，感謝。**
+
 #### **It's** not for commercial use
 
 #### 本內容僅作為一般公開使用，非商業使用，請勿進行商業行爲。
