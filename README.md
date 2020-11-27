@@ -188,6 +188,8 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 發現原先[**oniondelta**](https://github.com/oniondelta)大文章好像移除了，如果不清楚該如何使用的話，在下載下來的檔案當中還有一份howtouse.pdf，裡面有我寫的部分的說明，可能無法完全的說清楚，不過在使用上應當大致上沒問題。
 
+![file to teach how to use squirrel](.gitbook/assets/snip20201127_2.png)
+
 ### 同步用戶資料
 
 如果想在不同電腦上都使用同樣的用戶資料詞典
