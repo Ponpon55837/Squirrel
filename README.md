@@ -70,15 +70,15 @@ description: how to use Rime
 
 如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
 
-// 20200703 update 刪去在每個scheme中的candidate\_format
+**// 20200703 update 刪去在每個scheme中的candidate\_format**
 
-// 使用style/candidate\_format來帶入每一個scheme中
+**// 使用style/candidate\_format來帶入每一個scheme中**
 
-// 這邊使用的是C/C++的空格編碼來書寫
+**// 這邊使用的是C/C++的空格編碼來書寫**
 
-// %c是數字或英文標籤  %@是文字選項
+**// %c是數字或英文標籤  %@是文字選項**
 
-// "前方間距%c標籤與文字選項間距%@文字選項後方間距"
+**// "前方間距%c標籤與文字選項間距%@文字選項後方間距"**
 
 ![RoseofER](.gitbook/assets/snip20200703_3.png)
 
@@ -88,17 +88,17 @@ description: how to use Rime
 
 ![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.28.png)
 
-// 20201117 有些主題對於候選文字框是填滿的狀態，只要修改hilited corner radius_的大小就能調整了。_ 
+**// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改hilited corner radius_的大小就能調整了。_ 
 
 ![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.53.png)
 
-// 20201117 從對岸知乎上面找到一些鼠鬚管的contributer說明，在之後的0.15版鼠鬚管就會支援外邊框了。
+**// 20201117** 從對岸知乎上面找到一些鼠鬚管的contributer說明，在之後的0.15版鼠鬚管就會支援外邊框了。
 
 不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
 
 // 20200526update 由於鼠鬚管不像是windows小狼毫那樣有外框，本身鼠鬚管就沒這個設定，所以外框設定是無效的。
 
-// 20200525 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
+**// 20200525** 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
 
 左上：Tiffany，右上：TripleColorDumpling
 
@@ -130,9 +130,9 @@ description: how to use Rime
 
 ![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/snip20200328_10.png)
 
-// 20200512 update
+**// 20200512 update**
 
-// 20200607 fix problem
+**// 20200607 fix problem**
 
 原先在bopomo\_onion.schema.yaml檔案中我關閉了switches功能
 
@@ -166,7 +166,9 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ ' 或是 shift + ' ’ '
 
-// 0717 update 現在除了shift + ' ’ '，也可以直接按下' ’ '會出現有頓號跟其它選項可以用
+**// 20200717 update** 
+
+現在除了shift + ' ’ '，也可以直接按下' ’ '會出現有頓號跟其它選項可以用
 
 另外，常用的符號可以使用shift + 符號鍵來使用，例如 shift + ' ; ' =&gt; '：'
 
@@ -178,9 +180,13 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 特殊符號可以使用 ' = ' + 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明
 
-如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)**大的文章**
+如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
 
 {% embed url="http://deltazone.pixnet.net/blog/category/11823230" caption="注音設定檔連結" %}
+
+**// 20201127 update**
+
+發現原先[**oniondelta**](https://github.com/oniondelta)大文章好像移除了，如果不清楚該如何使用的話，在下載下來的檔案當中還有一份howtouse.pdf，裡面有我寫的部分的說明，可能無法完全的說清楚，不過在使用上應當大致上沒問題。
 
 ### 同步用戶資料
 
@@ -210,7 +216,7 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 #### **基於尊重**[**lotem**](https://github.com/lotem)**製作的鼠鬚管框架**[**squirrel**](https://github.com/rime/squirrel)**，使用與**[**squirrel**](https://github.com/rime/squirrel)**相同的GNU GPL v3 license。**
 
-#### **以自由軟體開源精神所設定的license，如果有任何使用上的錯誤凡請在**[**我的github上的issue**](https://github.com/Ponpon55837/Squirrel/issues)**告知我，感謝。**
+#### **以自由軟體開源精神所設定的license，如果有任何使用上的錯誤煩請在**[**我的github上的issue**](https://github.com/Ponpon55837/Squirrel/issues)**告知我，感謝。**
 
 #### **It's** not for commercial use
 
