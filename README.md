@@ -48,7 +48,7 @@ description: how to use Rime
 
 到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案
 
-![Rime&#x8CC7;&#x6599;&#x593E;&#x5167;&#x5BB9;](.gitbook/assets/snip20200520_2.png)
+![Rime&#x8CC7;&#x6599;&#x593E;&#x5167;&#x5BB9;](.gitbook/assets/snip20201127_3.jpg)
 
 貼上複製的檔案後，點擊右上角輸入法的鼠鬚管圖示，點擊重新部署
 
