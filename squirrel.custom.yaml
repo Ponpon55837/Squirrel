@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: BigSurBeach #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 6 #6 #1
@@ -274,3 +274,20 @@ patch:
     candidate_text_color: '0x76672C'
     label_color: '0x293380'
     comment_text_color: '0x462FC0'
+
+  preset_color_schemes/BigSurDesert:
+    name: 問就是沙漠
+    author: 我朋朋啦
+    border_color: ''                          # 邊框顏色
+    # hilited_corner_radius: 5                  # 候選字圓角
+    back_color: '0xA491C0'
+    text_color: '0x6D52CF'
+    hilited_text_color: '0x6D52CF'
+    hilited_back_color: '0xA491C0'
+    hilited_candidate_text_color: '0x3B105C'
+    hilited_candidate_back_color: '0x8B89EF'
+    hilited_candidate_label_color: '0x924564'
+    hilited_comment_text_color: '0x6D52CF'
+    candidate_text_color: '0x8B927E'
+    label_color: '0x6D52CF'
+    comment_text_color: '0x924564'
