@@ -92,7 +92,9 @@ description: how to use Rime
 
 ![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.53.png)
 
-**// 20201117** 從對岸知乎上面找到一些鼠鬚管的contributer說明，在之後的0.15版鼠鬚管就會支援外邊框了。
+**// 20201117** 
+
+從Rime的issue上面的contributer說明，在之後的0.15版鼠鬚管就會支援外邊框了。
 
 不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
 
@@ -182,7 +184,7 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
 
-[**注音設定檔連結**](https://deltazone.pixnet.net/blog/post/264319309-鼠鬚管注音方案---符合一般注音使用者習慣設)\*\*\*\*
+[注音設定檔連結](https://deltazone.pixnet.net/blog/post/264319309-鼠鬚管注音方案---符合一般注音使用者習慣設)
 
 **// 20201129 update**
 
