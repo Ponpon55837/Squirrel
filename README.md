@@ -182,11 +182,11 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
 
-{% embed url="http://deltazone.pixnet.net/blog/category/11823230" caption="注音設定檔連結" %}
+[**注音設定檔連結**](https://deltazone.pixnet.net/blog/post/264319309-鼠鬚管注音方案---符合一般注音使用者習慣設)\*\*\*\*
 
-**// 20201127 update**
+**// 20201129 update**
 
-發現原先[**oniondelta**](https://github.com/oniondelta)大文章好像移除了，如果不清楚該如何使用的話，在下載下來的檔案當中還有一份howtouse.pdf，裡面有我寫的部分的說明，可能無法完全的說清楚，不過在使用上應當大致上沒問題。
+在下載下來的檔案當中還有一份howtouse.pdf，裡面有我寫的部分的說明，可能無法完全的說清楚，不過在使用上應當大致上沒問題。
 
 ![file to teach how to use squirrel](.gitbook/assets/snip20201127_2.png)
 
