@@ -28,7 +28,7 @@ description: how to use Rime
 
 ![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/snip20200328_9.png)
 
-### Recover
+### Cover files
 
 安裝完畢之後，請點擊下面的連結
 
@@ -36,7 +36,7 @@ description: how to use Rime
 
 下載整份ZIP檔
 
-![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/jie-tu-20201126-xia-wu-5.35.17.png)
+![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20201130_4.jpg)
 
 下載完後解壓縮，複製全部的檔案內容
 
