@@ -53,6 +53,7 @@
 #              「核(覈)*」「皁(皂)*」←《 部分修改，兩者都字典都存有，待攷 》。
 #              「黴霉楣」←《 把“倒楣”“倒霉”前者權重設較高，刪除部分錯誤“黴”用字，待攷 》
 #              「斗(鬥)」←《 依照字義 》
+#              「鐗(鐧)」←《 “鐧”教育部重編國語詞典修訂本訂為標準字，但教育部異體字典卻訂為異體字，故只修改八股文詞頻 》（“鐧”改設權重比高）
 #
 #    未修改：「污汙」「蔘參」「閑閒」。
 #
@@ -69,7 +70,7 @@
 # ===============================
 ---
 name: terra_pinyin_onion
-version: "2020.10.17"
+version: "2020.12"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7 #20
@@ -1379,6 +1380,10 @@ min_phrase_weight: 100
 兊	yue4	0.1%
 兊	rui4	0.1%
 𤓓	luo2
+陂	bi4	0.1%
+哈	ha4	0.1%
+识	shi4
+识	zhi4
 ##### @201912 比對教育部相關字詞典檔所新增 #####
 丁	zheng1	0.1%
 丂	kao3	0.1%
@@ -1622,7 +1627,7 @@ min_phrase_weight: 100
 咼	kuai1	0.1%
 哆	che3	0.1%
 哇	wa5	100%
-哈	ka1	0.1%
+哈	ka1	0%
 复	fou4	0.1%
 契	qie4	0.1%
 契	xie4	0.1%
@@ -13970,7 +13975,7 @@ min_phrase_weight: 100
 向	xiang4
 吒	zha1	50%
 吒	zha4	50%
-吓	ha4
+#吓	ha4
 吓	xia4
 吔	ye1
 吔	ye3
@@ -74288,7 +74293,9 @@ min_phrase_weight: 100
 撒手塵寰	sa1 shou3 chen2 huan2
 撒手歸去	sa1 shou3 gui1 qu4
 撒手鐗	sa1 shou3 jian3
+撒手鐗	sa1 shou3 jian4
 撒手鐧	sa1 shou3 jian3
+撒手鐧	sa1 shou3 jian4
 撒手閉眼	sa1 shou3 bi4 yan3
 撒拉	sa1 la1
 撒拉族	sa1 la1 zu2
