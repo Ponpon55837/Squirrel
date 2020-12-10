@@ -10,8 +10,8 @@ schema:
   description: |
     注音符號輸入，採用「大千式」鍵盤排列。
 
-  # dependencies:
-  #   - cangjie5
+  dependencies:
+    - cangjie5
 
 switches:
   - name: ascii_mode
@@ -25,7 +25,7 @@ switches:
   #   states: ["。，", "．，"]
   # - name: simplification
   #   reset: 0
-  #   states: ["完整", "简体"]
+  #   states: ["原體", "简体"]
 #   - options: [ utf8, big5, gbk ]
 # #    reset: 0
 #     states:
