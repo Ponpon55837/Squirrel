@@ -122,7 +122,9 @@ description: how to use Rime
 
 左上：BigSurBeach，右上：BigSurDesert
 
-![](.gitbook/assets/unknown%20%288%29.jpeg)
+左下：GoodEatMango
+
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown%20%289%29.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
