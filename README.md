@@ -122,9 +122,9 @@ description: how to use Rime
 
 左上：BigSurBeach，右上：BigSurDesert
 
-左下：GoodEatMango
+左下：GoodEatMango，右下：DarkMode
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown%20%289%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown%20%2810%29.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
