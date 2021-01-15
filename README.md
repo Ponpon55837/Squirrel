@@ -16,9 +16,11 @@ description: how to use Rime
 
 [https://rime.im/download/](https://rime.im/download/)
 
-![Rime&#x9F20;&#x9B1A;&#x7BA1;&#x5B98;&#x7DB2;&#x4E0B;&#x8F09;](.gitbook/assets/snip20200327_2.png)
+![Rime&#x9F20;&#x9B1A;&#x7BA1;&#x5B98;&#x7DB2;&#x4E0B;&#x8F09;](.gitbook/assets/snip20210115_1.png)
 
 筆者個人建議使用homebrew下載，速度比較快
+
+#### // 20210115 目前homebrew的安裝方式brew cask install已經改成brew install --cask
 
 下載完畢之後，請使用spotlight搜尋Squirrel，點擊app進行安裝
 
