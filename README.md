@@ -106,6 +106,8 @@ description: how to use Rime
 
 // 20200526update 由於鼠鬚管不像是windows小狼毫那樣有外框，本身鼠鬚管就沒這個設定，所以外框設定是無效的。
 
+### **Skin**
+
 **// 20200525** 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
 
 左上：Tiffany，右上：TripleColorDumpling
@@ -225,6 +227,8 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 請自行審視需求進行修改，祝大家使用愉快。
 
 **──────────────────────────────────────────────**
+
+### **版權宣告**
 
 #### **基於尊重**[**lotem**](https://github.com/lotem)**製作的鼠鬚管框架**[**squirrel**](https://github.com/rime/squirrel)**，使用與**[**squirrel**](https://github.com/rime/squirrel)**相同的GNU GPL v3 license。**
 
