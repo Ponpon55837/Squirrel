@@ -136,7 +136,7 @@ description: how to use Rime
 
 左上：MaybeWeHaveHug
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_5](.gitbook/assets/unknown%20%2812%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_5](.gitbook/assets/unknown%20%2813%29.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
