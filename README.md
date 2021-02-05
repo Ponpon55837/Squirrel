@@ -134,6 +134,10 @@ description: how to use Rime
 
 ![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown%20%2810%29.jpeg)
 
+左上：MaybeWeHaveHug
+
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_5](.gitbook/assets/unknown%20%2812%29.jpeg)
+
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
 ### Use
@@ -142,7 +146,7 @@ description: how to use Rime
 
 ![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/snip20200328_10.png)
 
-**// 20200512 update**
+**// 20210205 update**
 
 **// 20200607 fix problem**
 
