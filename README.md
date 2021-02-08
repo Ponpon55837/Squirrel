@@ -40,7 +40,7 @@ description: how to use Rime
 
 下載整份壓縮檔
 
-![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20201130_4.jpg)
+![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20210209_4.png)
 
 下載完後解壓縮，複製全部的檔案內容
 
