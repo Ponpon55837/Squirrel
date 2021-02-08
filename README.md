@@ -36,7 +36,7 @@ description: how to use Rime
 
 安裝完畢之後，請點擊下面的連結
 
-[https://github.com/Ponpon55837/Squirrel/releases](https://github.com/Ponpon55837/Squirrel/releases/tag/0.0.1)
+[https://github.com/Ponpon55837/Squirrel/releases](https://github.com/Ponpon55837/Squirrel/releases)
 
 下載整份壓縮檔
 
