@@ -16,17 +16,15 @@ description: how to use Rime
 
 ### Install
 
-到Rime的官網下載0.14版鼠鬚管
+到Rime的官網下載**0.15.0**版鼠鬚管
 
 [https://rime.im/download/](https://rime.im/download/)
 
-![Rime&#x9F20;&#x9B1A;&#x7BA1;&#x5B98;&#x7DB2;&#x4E0B;&#x8F09;](.gitbook/assets/snip20210115_1.png)
+![Rime&#x9F20;&#x9B1A;&#x7BA1;&#x5B98;&#x7DB2;&#x4E0B;&#x8F09;](.gitbook/assets/snip20210208_1.png)
 
-筆者個人建議使用homebrew下載，速度比較快
+筆者個人建議使用**homebrew**下載，速度比較快
 
-#### // 20210115 目前homebrew的安裝方式brew cask install已經改成brew install --cask
-
-下載完畢之後，請使用spotlight搜尋Squirrel，點擊app進行安裝
+下載完畢之後，請使用**spotlight**搜尋**Squirrel**，點擊app進行安裝
 
 ![Squirrel.app](.gitbook/assets/snip20200328_11.png)
 
@@ -40,7 +38,7 @@ description: how to use Rime
 
 [https://github.com/Ponpon55837/Squirrel/releases](https://github.com/Ponpon55837/Squirrel/releases/tag/0.0.1)
 
-下載整份ZIP檔
+下載整份壓縮檔
 
 ![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20201130_4.jpg)
 
@@ -62,7 +60,7 @@ description: how to use Rime
 
 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式
 
-![&#x8F38;&#x5165;&#x6A23;&#x5F0F;](.gitbook/assets/jie-tu-20200703-xia-wu-2.41.28.png)
+![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
 
 ​如果要修改顯示的候選詞數量，請到Rime/bopomo\_onion.schema.yaml這個檔案
 
@@ -98,45 +96,51 @@ description: how to use Rime
 
 ![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.53.png)
 
-**// 20201117** 
+**// 20210208** 這裡說明一下外邊框設計上的問題，如果你很不喜歡外邊框，有兩種解決方式
 
-從Rime的issue上面的contributer說明，在之後的0.15版鼠鬚管就會支援外邊框了。
+1. 直接在border\_height border_\__width直接前面加上\# 註記掉程式
 
-不過這邊有一個小問題，那就是鼠鬚管貌似不支援Mac可用的外邊框也就是windows的外邊框設定在Mac上是沒作用的，所以不論邊框顏色的怎設定它都不會顯示，但是border\_heigh跟border\_width是有作用的，這點我找了好多篇squirrel的提問也沒找到答案，如果後來我有看到解法再來更新。
+![&#x908A;&#x6846;&#x8ABF;&#x6574;&#x8AAA;&#x660E;\_1](.gitbook/assets/snip20210208_2.png)
 
-// 20200526update 由於鼠鬚管不像是windows小狼毫那樣有外框，本身鼠鬚管就沒這個設定，所以外框設定是無效的。
+   2.  在你選用的那個樣式當中找到border\_color，在前面加上\# 註記掉程式
+
+![](.gitbook/assets/snip20210208_3.png)
+
+**// 20210208** 
+
+在0.15版鼠鬚管當中已經支援外邊框，不過與原本0.14版樣式上最大的差異在於左右兩側到中間文字間的距離改變了，看起來會覺得中間變胖了，可能需要一點時間調整或適應。
 
 ### **Skin**
 
-**// 20200525** 新增我做的幾個我比較喜歡的樣式，這邊直接附上圖片
+**// 20210208** 我做的幾個我比較喜歡的樣式，這邊直接附上圖片，有外邊框的大概是我想做，沒有的就是懶等有空再來搞。
 
 左上：Tiffany，右上：TripleColorDumpling
 
 左下：RoseofER，右下：HouseDesign
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_1](.gitbook/assets/unknown-1%20%281%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_1](.gitbook/assets/unknown%20%2814%29.jpeg)
 
 左上：Sunset，右上：Senbe
 
 左下：HappySea，右下：EastSidePurple
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown%20%281%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown-1%20%285%29.jpeg)
 
 左上：YoungBlood，右上：BigRice
 
 左下：OrangeSugar，右下：AllBlue
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown%20%285%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown-2%20%281%29.jpeg)
 
 左上：BigSurBeach，右上：BigSurDesert
 
 左下：GoodEatMango，右下：DarkMode
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown%20%2810%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown-3.jpeg)
 
 左上：MaybeWeHaveHug
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_5](.gitbook/assets/unknown%20%2813%29.jpeg)
+![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_5](.gitbook/assets/unknown-4.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
