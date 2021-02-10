@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: MaybeWeHaveHug #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: EastSidePurple #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 6 #6 #1
@@ -107,7 +107,7 @@ patch:
   preset_color_schemes/HouseDesign:
     name: 室內設計
     author: 我朋朋啦
-    # border_color: '0x99AFC7'               # 邊框顏色
+    border_color: '0x375789'               # 邊框顏色
     # hilited_corner_radius: 5
     back_color: '0x99AFC7'
     text_color: '0x627182'
@@ -124,7 +124,7 @@ patch:
   preset_color_schemes/Sunset:
     name: 夕陽
     author: 我朋朋啦
-    # border_color: '0x6CC7E4'               # 邊框顏色
+    border_color: '0x658DC6'               # 邊框顏色
     hilited_corner_radius: 7
     back_color: '0x5AB0F3'
     text_color: '0x416AF4'
@@ -141,7 +141,7 @@ patch:
   preset_color_schemes/Senbe:
     name: 仙貝
     author: 我朋朋啦
-    # border_color: ''               # 邊框顏色
+    border_color: '0x5187BF'               # 邊框顏色
     #hilited_corner_radius: 5
     back_color: '0x416BBE'
     text_color: '0x76CCF7'
@@ -158,7 +158,7 @@ patch:
   preset_color_schemes/HappySea:
     name: 快樂海洋
     author: 我朋朋啦
-    # border_color: ''               # 邊框顏色
+    border_color: '0x00F1C17E'               # 邊框顏色
     hilited_corner_radius: 7
     back_color: '0xF1C17E'
     text_color: '0x8564B1'
@@ -176,7 +176,7 @@ patch:
   preset_color_schemes/EastSidePurple:
     name: 紫氣東來
     author: 我朋朋啦
-    # border_color: ''               # 邊框顏色
+    border_color: '0x8564B1'               # 邊框顏色
 #    hilited_corner_radius: 7
     back_color: '0xE9B4D7'
     text_color: '0x8027AF'
@@ -312,7 +312,7 @@ patch:
   preset_color_schemes/DarkMode:
     name: 夜間模式
     author: 我朋朋啦
-    # border_color: ''                          # 邊框顏色
+    border_color: '0x3E2313'                          # 邊框顏色
     hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0x372215'
     text_color: '0xCECEB5'
