@@ -134,35 +134,35 @@ description: how to use Rime
 
 **以下的圖片左側都是使用p3顯色，右側則無。**
 
-上：Tiffany，上：TripleColorDumpling
+上：Tiffany，下：TripleColorDumpling
 
 ![&#x4E3B;&#x984C;\_1](.gitbook/assets/unknown%20%2815%29.jpeg)
 
-下：RoseofER，下：HouseDesign
+上：RoseofER，下：HouseDesign
 
 ![&#x4E3B;&#x984C;\_2](.gitbook/assets/unknown-1%20%286%29.jpeg)
 
-上：Sunset，上：Senbe
+上：Sunset，下：Senbe
 
 ![&#x4E3B;&#x984C;\_3](.gitbook/assets/unknown-2%20%282%29.jpeg)
 
-下：HappySea，下：EastSidePurple
+上：HappySea，下：EastSidePurple
 
 ![&#x4E3B;&#x984C;\_4](.gitbook/assets/unknown-3%20%281%29.jpeg)
 
-上：YoungBlood，上：BigRice
+上：YoungBlood，下：BigRice
 
 ![&#x4E3B;&#x984C;\_5](.gitbook/assets/unknown-4%20%281%29.jpeg)
 
-下：OrangeSugar，下：AllBlue
+上：OrangeSugar，下：AllBlue
 
 ![&#x4E3B;&#x984C;\_6](.gitbook/assets/unknown-5.jpeg)
 
-上：BigSurBeach，上：BigSurDesert
+上：BigSurBeach，下：BigSurDesert
 
 ![&#x4E3B;&#x984C;\_7](.gitbook/assets/unknown-8.jpeg)
 
-下：GoodEatMango，下：DarkMode
+上：GoodEatMango，下：DarkMode
 
 ![&#x4E3B;&#x984C;\_8](.gitbook/assets/unknown-6.jpeg)
 
