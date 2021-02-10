@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: BigSurBeach #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: TriColorDumpling #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 2 #6 #1
@@ -243,7 +243,7 @@ patch:
     name: 橘色泡泡糖
     author: 我朋朋啦
     color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
+    border_color: '0x474A28'                          # 邊框顏色
     # hilited_corner_radius: 7                  # 候選字圓角
     back_color: '0x73A6FF'
     text_color: '0x25258A'
@@ -297,7 +297,7 @@ patch:
     name: 問就是沙漠
     author: 我朋朋啦
     color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
+    border_color: '0x8B89EF'                          # 邊框顏色
     # hilited_corner_radius: 7                  # 候選字圓角
     back_color: '0xA491C0'
     text_color: '0x6D52CF'
@@ -332,8 +332,8 @@ patch:
   preset_color_schemes/DarkMode:
     name: 夜間模式
     author: 我朋朋啦
-    # color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x3E2313'                          # 邊框顏色
+    color_space: display_p3                # 使用p3廣色域顯色
+    border_color: '0x3E2313'                  # 邊框顏色
     hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0x372215'
     text_color: '0xCECEB5'
@@ -351,7 +351,7 @@ patch:
     name: 也許我們都應該被包圍
     author: 我朋朋啦
     color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x372215'                          # 邊框顏色
+    border_color: '0x3F331E'                          # 邊框顏色
     hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0x3F331E'
     text_color: '0x7070EC'
