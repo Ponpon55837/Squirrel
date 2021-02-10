@@ -86,11 +86,19 @@ description: how to use Rime
 
 ![RoseofER](.gitbook/assets/snip20200703_3.png)
 
+**// 20210210** 因應鼠鬚管0.15.0版本調整line\_spacing與spacing大小以適應輸入框的改變。
+
+![0.15.0&#x7248;&#x8ABF;&#x6574;](.gitbook/assets/snip20210210_9.png)
+
+// 20210210 鼠鬚管0.15.0版本新增了base\_offset基線設定參數，但是我使用過後發現跑版的情況蠻嚴重的，我建議參數設成0或是直接關閉。
+
+![0.15.0&#x7248;&#x65B0;&#x589E;&#x53C3;&#x6578;](.gitbook/assets/snip20210210_8.png)
+
 裡面有很多樣式可以選，修改style/color\_scheme： 這後面你自己選要用的樣式
 
 這些樣式細節也可以調整，就在下面自己慢慢調
 
-![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.28.png)
+![style&#x8ABF;&#x6574;](.gitbook/assets/snip20210210_10.png)
 
 **// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改hilited corner radius_的大小就能調整了。_ 
 
@@ -118,35 +126,49 @@ description: how to use Rime
 
 ### **Skin**
 
-**// 20210208** 我做的幾個我比較喜歡的樣式，這邊直接附上圖片，有外邊框的大概是我想做，沒有的就是懶等有空再來搞。
+**// 20210210** 由於0.15.0版本鼠鬚管增加了p3廣色域對於顏色上顯色的差異，我設計的主題基本上除了Senbe這個主題以外都是預設開啟使用p3顯色的。
 
-左上：Tiffany，右上：TripleColorDumpling
+如果想要使用非p3顏色的主題，麻煩關閉主題皮膚當中的color\_space。
 
-左下：RoseofER，右下：HouseDesign
+![p3&#x5EE3;&#x8272;&#x57DF;&#x53C3;&#x6578;](.gitbook/assets/snip20210210_11.png)
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_1](.gitbook/assets/unknown%20%2814%29.jpeg)
+**以下的圖片左側都是使用p3顯色，右側則無。**
 
-左上：Sunset，右上：Senbe
+上：Tiffany，上：TripleColorDumpling
 
-左下：HappySea，右下：EastSidePurple
+![&#x4E3B;&#x984C;\_1](.gitbook/assets/unknown%20%2815%29.jpeg)
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_2](.gitbook/assets/unknown-1%20%285%29.jpeg)
+下：RoseofER，下：HouseDesign
 
-左上：YoungBlood，右上：BigRice
+![&#x4E3B;&#x984C;\_2](.gitbook/assets/unknown-1%20%286%29.jpeg)
 
-左下：OrangeSugar，右下：AllBlue
+上：Sunset，上：Senbe
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_3](.gitbook/assets/unknown-2%20%281%29.jpeg)
+![&#x4E3B;&#x984C;\_3](.gitbook/assets/unknown-2%20%282%29.jpeg)
 
-左上：BigSurBeach，右上：BigSurDesert
+下：HappySea，下：EastSidePurple
 
-左下：GoodEatMango，右下：DarkMode
+![&#x4E3B;&#x984C;\_4](.gitbook/assets/unknown-3%20%281%29.jpeg)
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_4](.gitbook/assets/unknown-3.jpeg)
+上：YoungBlood，上：BigRice
 
-左上：MaybeWeHaveHug
+![&#x4E3B;&#x984C;\_5](.gitbook/assets/unknown-4%20%281%29.jpeg)
 
-![&#x4E3B;&#x984C;&#x6A23;&#x5F0F;\_5](.gitbook/assets/unknown-4.jpeg)
+下：OrangeSugar，下：AllBlue
+
+![&#x4E3B;&#x984C;\_6](.gitbook/assets/unknown-5.jpeg)
+
+上：BigSurBeach，上：BigSurDesert
+
+![&#x4E3B;&#x984C;\_7](.gitbook/assets/unknown-8.jpeg)
+
+下：GoodEatMango，下：DarkMode
+
+![&#x4E3B;&#x984C;\_8](.gitbook/assets/unknown-6.jpeg)
+
+MaybeWeHaveHug
+
+![&#x4E3B;&#x984C;\_9](.gitbook/assets/unknown-7.jpeg)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
