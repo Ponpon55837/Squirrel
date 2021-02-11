@@ -90,9 +90,9 @@ description: how to use Rime
 
 ![0.15.0&#x7248;&#x8ABF;&#x6574;](.gitbook/assets/snip20210210_9.png)
 
-// 20210210 鼠鬚管0.15.0版本新增了base\_offset基線設定參數，但是我使用過後發現跑版的情況蠻嚴重的，我建議參數設成0或是直接關閉。
+// 20210210 鼠鬚管0.15.0版本新增了base\_offset基線設定參數，實際上用起來就是調整候選文字的上下對齊。
 
-![0.15.0&#x7248;&#x65B0;&#x589E;&#x53C3;&#x6578;](.gitbook/assets/snip20210210_8.png)
+![base\_offset&#x4F7F;&#x7528;](.gitbook/assets/snip20210211_1.png)
 
 裡面有很多樣式可以選，修改style/color\_scheme： 這後面你自己選要用的樣式
 
