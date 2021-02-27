@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: OrangeSugar #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: HappySea #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 2 #6 #1
@@ -207,8 +207,8 @@ patch:
     name: 年輕十歲
     author: 我朋朋啦
     color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
-    hilited_corner_radius: 7                  # 候選字圓角
+    border_color: '0xC1E7C1'                          # 邊框顏色
+    # hilited_corner_radius: 7                   # 候選字圓角
     back_color: '0xE5F6FC'
     text_color: '0xA76E4F'
     hilited_text_color: '0xA76E4F'
