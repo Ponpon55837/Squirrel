@@ -68,7 +68,13 @@ description: how to use Rime
 
 不過，我個人會建議使用數字123456789，因為這樣在使用ctrl選字時，比較不會出現問題，在一部分app中輸入好像沒辦法使用ctrl+字母會跳掉，我個人是改成使用數字。
 
-![&#x5019;&#x9078;&#x8A5E;&#x8A2D;&#x5B9A;](.gitbook/assets/snip20200331_7.png)
+```text
+menu:
+  # 候選字快速鍵
+  alternative_select_keys: "QAZWSXEDC
+  # 候選字顯示數量
+  page_size: 7
+```
 
 另外這邊提醒要用按鍵選擇文字麻煩按住ctrl鍵+你要選的字的快速鍵
 
@@ -84,35 +90,107 @@ description: how to use Rime
 
 **// "前方間距%c標籤與文字選項間距%@文字選項後方間距"**
 
-![RoseofER](.gitbook/assets/snip20200703_3.png)
+```text
+patch:
+  style/color_scheme: HappySea 
+  // 這邊都是可選用的外觀主題
+  #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue 
+  #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset 
+  #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  
+  # 候選橫排
+  #style/horizontal: true  
+  # 是否使用直式顯示    
+  style/inline_preedit: false #true
+  # 文字行高
+  style/line_spacing: 2 #6 #1
+  # 文字間距
+  style/spacing: 2 #10 #5
+  # 文字字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
+  style/font_face: 'Times-Roman,YuppyTC-Regular,AppleColorEmoji' #Times-Roman,HanaMinA,HanaMinB  #Times-Roman,PingFangTC-Light,AppleColorEmoji # YuppyTC-Regular
+  # 字體大小
+  style/font_point: 20 #21
+  # 數字標籤字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
+  style/label_font_face: 'ComicSansMS-BoldItalic' # DFEr-W4-WIN-BF # 儷黑 Pro # ComicSansMS-BoldItalic
+  # 標籤字體大小
+  style/label_font_point: 14 #14 #12 #18 #20
+  # 前方標籤位置與後面選字的距離
+  # "標籤與前方間距%c標籤與選字間距%@選字與後方間距" 像是這樣
+  # \2002 是en space的寬度 \u2004是1/3 em \u2005 是1/4 em \u2006 是1/6 em \u2007 是圖形空間的寬度 \u2008 是標點符號的寬度
+  style/candidate_format: "\u2004%c\u2002%@\u2004"
+  # 外框圓角
+  style/corner_radius: 9 
+  # 字與上下邊框的高度差                      
+  style/border_height: 5
+  # 字與左右邊框的寬度差                       
+  style/border_width: 5  
+  # 基線調整                      
+  style/base_offset: -3                        
+```
 
 **// 20210210** 因應鼠鬚管0.15.0版本調整line\_spacing與spacing大小以適應輸入框的改變。
 
-![0.15.0&#x7248;&#x8ABF;&#x6574;](.gitbook/assets/snip20210210_9.png)
+```text
+# 文字行高
+style/line_spacing: 2 #6 #1
+# 文字間距
+style/spacing: 2 #10 #5
+```
 
 // 20210210 鼠鬚管0.15.0版本新增了base\_offset基線設定參數，實際上用起來就是調整候選文字的上下對齊。
 
-![base\_offset&#x4F7F;&#x7528;](.gitbook/assets/snip20210211_1.png)
+```text
+# 基線調整                      
+style/base_offset: -3 
+```
 
 裡面有很多樣式可以選，修改style/color\_scheme： 這後面你自己選要用的樣式
 
 這些樣式細節也可以調整，就在下面自己慢慢調
 
-![style&#x8ABF;&#x6574;](.gitbook/assets/snip20210210_10.png)
+```text
+preset_color_schemes/RoseofER:
+      name: 皇帝玫瑰
+      author: 我朋朋啦
+      color_space: display_p3                # 使用p3廣色域顯色
+      border_color: '0x9CB6E5'               # 邊框顏色
+      back_color: '0xCCCCFF'
+      text_color: '0x6BE8FF' #0x0B86B8
+      hilited_text_color: '0x00859E' #0x0B86B8
+      hilited_back_color: '0xCCCCFF' #0xC3C3E6 #0x99EFFF
+      hilited_candidate_text_color: '0x00EFFF'
+      hilited_candidate_back_color: '0x8F8FBC'
+      hilited_corner_radius: 7
+      candidate_text_color: '0x2A2AA5'
+      comment_text_color: '0x8080F0'
+      label_color: '0x4E81E6'
+```
 
 **// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改hilited corner radius_的大小就能調整了。_ 
 
-![style&#x8ABF;&#x6574;](.gitbook/assets/jie-tu-20201117-xia-wu-2.19.53.png)
+```text
+preset_color_schemes/Tiffany:
+    name: Tiffany
+    author: 我朋朋啦
+    color_space: display_p3                # 使用p3廣色域顯色
+    border_color: '0xFDF8D3'               # 邊框顏色
+    #hilited_corner_radius: 5
+```
 
 **// 20210208** 這裡說明一下外邊框設計上的問題，如果你很不喜歡外邊框，有兩種解決方式
 
 1. 直接在border\_height border_\__width直接前面加上\# 註記掉程式
 
-![&#x908A;&#x6846;&#x8ABF;&#x6574;&#x8AAA;&#x660E;\_1](.gitbook/assets/snip20210208_2.png)
+```text
+style/border_height: 5                       # 字與上下邊框的高度差
+style/border_width: 5                        # 字與左右邊框的寬度差
+```
 
    2.  在你選用的那個樣式當中找到border\_color，在前面加上\# 註記掉程式
 
-![](.gitbook/assets/snip20210208_3.png)
+```text
+border_color: '0x9CB6E5'               # 邊框顏色
+```
 
 **// 20210208** 
 
@@ -130,7 +208,9 @@ description: how to use Rime
 
 如果想要使用非p3顏色的主題，麻煩關閉主題皮膚當中的color\_space。
 
-![p3&#x5EE3;&#x8272;&#x57DF;&#x53C3;&#x6578;](.gitbook/assets/snip20210210_11.png)
+```text
+color_space: display_p3                # 使用p3廣色域顯色
+```
 
 **以下的圖片左側都是使用p3顯色，右側則無。**
 
