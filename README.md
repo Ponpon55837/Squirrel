@@ -176,16 +176,37 @@ preset_color_schemes/RoseofER:
       # 文字顏色
       text_color: '0x6BE8FF' #0x0B86B8
       
-      # 上屏文字顏色
+      # 上方拼音或是注音位置背景的底部顏色
+      preedit_back_color: '0x5AB0F3'
+      
+      # 上方拼音或是注音字體顏色
       hilited_text_color: '0x00859E' #0x0B86B8
       
-      # 上屏文字背景顏色
+      # 上方拼音或是注音背景顏色
       hilited_back_color: '0xCCCCFF' #0xC3C3E6 #0x99EFFF
+      
+      # 選中的候選字體顏色
       hilited_candidate_text_color: '0x00EFFF'
+      
+      # 選中的候選背景顏色
       hilited_candidate_back_color: '0x8F8FBC'
+      
+      # 選中的候選字框框圓角
       hilited_corner_radius: 7
+      
+      # 選中的候選背景顏色
+      hilited_candidate_back_color: '0x724A5C'
+      
+      # 選中的候選數字或是英文標籤顏色  
+      hilited_candidate_label_color: '0x416AF4' 
+      
+      # 候選背景顏色
       candidate_text_color: '0x2A2AA5'
+      
+      #切換中英文文字顏色
       comment_text_color: '0x8080F0'
+      
+      # 標籤顏色
       label_color: '0x4E81E6'
 ```
 
