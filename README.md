@@ -306,11 +306,9 @@ MaybeWeHaveHug
 
 **// 20200607 fix problem**
 
-原先在bopomo\_onion.schema.yaml檔案中我關閉了switches功能
+原先在`bopomo_onion.schema.yaml`檔案中我關閉了`switches`功能
 
 但是後來更新了，下方四隻檔案後出現bug
-
-bopomo\_onion\_phrase.txt
 
 `bopomo_onion_phrase.txt`
 
@@ -322,7 +320,7 @@ bopomo\_onion\_phrase.txt
 
 問題就出在更新了[**oniondelta**](https://github.com/oniondelta) 20200530檔案後，需要到`bopomo_onion.schema.yaml`
 
-`switches`中打開原本被關閉的reset: 0要去掉前面的\#
+`switches`中打開原本被關閉的`reset: 0`要去掉前面的\#
 
 否則會出現無法變更成繁體的輸入方式
 
