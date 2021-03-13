@@ -44,7 +44,7 @@ description: how to use Rime
 
 下載完後解壓縮，複製全部的檔案內容
 
-點開Finder，使用前往資料夾 /User/你的使用者/Library/Rime
+點開Finder，使用前往資料夾`/User/你的使用者/Library/Rime`
 
 亦或是點擊右上角鼠鬚管圖示，選擇用戶設定可以快速到達Rime資料夾
 
@@ -62,11 +62,11 @@ description: how to use Rime
 
 ![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
 
-​如果要修改顯示的候選詞數量，請到Rime/bopomo\_onion.schema.yaml這個檔案
+​如果要修改顯示的候選詞數量，請到`Rime/bopomo_onion.schema.yaml`這個檔案
 
-搜尋menu，這裡可以修改候選詞的數量，更改page\_size的數字就行，目前預設候選詞快速鍵爲QAZWSXEDC，如果要設定超過9個候選詞，麻煩在自己增加候選詞快速鍵。
+搜尋menu，這裡可以修改候選詞的數量，更改`page_size`的數字就行，目前預設候選詞快速鍵爲QAZWSXEDC，如果要設定超過9個候選詞，麻煩在自己增加候選詞快速鍵。
 
-不過，我個人會建議使用數字123456789，因為這樣在使用ctrl選字時，比較不會出現問題，在一部分app中輸入好像沒辦法使用ctrl+字母會跳掉，我個人是改成使用數字。
+不過，我個人會建議使用數字123456789，因為這樣在使用ctrl選字時，比較不會出現問題，在一部分app中輸入好像沒辦法使用`ctrl+`字母會跳掉，我個人是改成使用數字。
 
 ```text
 menu:
@@ -78,7 +78,7 @@ menu:
 
 另外這邊提醒要用按鍵選擇文字麻煩按住ctrl鍵+你要選的字的快速鍵
 
-如果要修改外觀，請到Rime/squirrel.custom.yaml這個檔案修改
+如果要修改外觀，請到`Rime/squirrel.custom.yaml`這個檔案修改
 
 **// 20200703 update 刪去在每個scheme中的candidate\_format**
 
@@ -140,7 +140,7 @@ patch:
   style/base_offset: -3                        
 ```
 
-**// 20210210** 因應鼠鬚管0.15.0版本調整line\_spacing與spacing大小以適應輸入框的改變。
+**// 20210210** 因應鼠鬚管0.15.0版本調整`line_spacing`與`spacing`大小以適應輸入框的改變。
 
 ```text
 # 文字行高
@@ -156,7 +156,7 @@ style/spacing: 2 #10 #5
 style/base_offset: -3 
 ```
 
-裡面有很多樣式可以選，修改style/color\_scheme： 這後面你自己選要用的樣式
+裡面有很多樣式可以選，修改`style/color_scheme：` 這後面你自己選要用的樣式
 
 這些樣式細節也可以調整，就在下面自己慢慢調
 
@@ -210,7 +210,7 @@ preset_color_schemes/RoseofER:
       label_color: '0x4E81E6'
 ```
 
-**// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改hilited corner radius_的大小就能調整了。_ 
+**// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改`hilited corner radius`_的大小就能調整了。_ 
 
 ```text
 preset_color_schemes/Tiffany:
@@ -223,14 +223,14 @@ preset_color_schemes/Tiffany:
 
 **// 20210208** 這裡說明一下外邊框設計上的問題，如果你很不喜歡外邊框，有兩種解決方式
 
-1. 直接在border\_height border_\__width直接前面加上\# 註記掉程式
+1. 直接在`border_height border_width`直接前面加上\# 註記掉程式
 
 ```text
 style/border_height: 5                       # 字與上下邊框的高度差
 style/border_width: 5                        # 字與左右邊框的寬度差
 ```
 
-   2.  在你選用的那個樣式當中找到border\_color，在前面加上\# 註記掉程式
+   2.  在你選用的那個樣式當中找到`border_color`，在前面加上\# 註記掉程式
 
 ```text
 border_color: '0x9CB6E5'               # 邊框顏色
@@ -250,7 +250,7 @@ border_color: '0x9CB6E5'               # 邊框顏色
 
 **// 20210210** 由於0.15.0版本鼠鬚管增加了p3廣色域對於顏色上顯色的差異，我設計的主題基本上除了Senbe這個主題以外都是預設開啟使用p3顯色的。
 
-如果想要使用非p3顏色的主題，麻煩關閉主題皮膚當中的color\_space。
+如果想要使用非p3顏色的主題，麻煩關閉主題皮膚當中的`color_space`。
 
 ```text
 color_space: display_p3                # 使用p3廣色域顯色
@@ -298,7 +298,7 @@ MaybeWeHaveHug
 
 ### Use
 
-再來就是輸入法的切換了，切換不同輸入法請按下 ctrl + \` 或是 F4 進行輸入選擇
+再來就是輸入法的切換了，切換不同輸入法請按下``ctrl + ```或是 F4切換不同輸入法。
 
 ![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/snip20200328_10.png)
 
@@ -312,37 +312,59 @@ MaybeWeHaveHug
 
 bopomo\_onion\_phrase.txt
 
-bopomo\_onion\_symbols.yaml
+`bopomo_onion_phrase.txt`
 
-bopomo\_onion.extended.dict.yaml
+`bopomo_onion_symbols.yaml`
 
-bopomo\_onion.schema.yaml
+`bopomo_onion.extended.dict.yaml`
 
-問題就出在更新了[**oniondelta**](https://github.com/oniondelta) 20200530檔案後，需要到bopomo\_onion.schema.yaml
+`bopomo_onion.schema.yaml`
 
-switches中打開原本被關閉的reset: 0要去掉前面的\#
+問題就出在更新了[**oniondelta**](https://github.com/oniondelta) 20200530檔案後，需要到`bopomo_onion.schema.yaml`
+
+`switches`中打開原本被關閉的reset: 0要去掉前面的\#
 
 否則會出現無法變更成繁體的輸入方式
 
-如果你已經修改完成，且以後不需要使用簡體，也確定目前使用的是繁體時，再到bopomo\_onion.schema.yaml中關閉switches才不會出現問題，我因爲有切換成簡體但是忘記切回繁體就把bopomo\_onion.schema.yaml中的switches都關閉了，才出現繁體簡體混合不能切換的問題，請使用者留心使用。
+如果你已經修改完成，且以後不需要使用簡體，也確定目前使用的是繁體時，再到`bopomo_onion.schema.yaml`中關閉`switches`才不會出現問題，我因爲有切換成簡體但是忘記切回繁體就把`bopomo_onion.schema.yaml`中的`switches`都關閉了，才出現繁體簡體混合不能切換的問題，請使用者留心使用。
 
-![](.gitbook/assets/snip20200607_3.png)
+```text
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
+  # - name: full_shape
+  #   reset: 0
+  #   states: ["半形", "全形"]
+  # - name: ascii_punct
+  #   reset: 0
+  #   states: ["。，", "．，"]
+  # - name: simplification
+  #   reset: 0
+  #   states: ["原體", "简体"]
+  # - options: [ utf8, big5, gbk ]
+  #    reset: 0
+  #    states:
+  #      - UTF-8
+  #      - BIG5
+  #      - GBK
+```
 
 中英文與大小寫的切換與原生的Mac輸入法不同
 
-中文切換英文小寫，請按下shift
+中文切換英文小寫，請按下`shift`
 
-中文切換英文大寫，請按下caps lock
+中文切換英文大寫，請按下`caps lock`
 
-這邊要特別說的原本的 '、' 
+這邊要特別說的原本的 `'、'` 
 
-在鼠鬚管洋蔥注音輸入方式是按下 ' = ' + ' ~ ' 或是 shift + ' ’ '
+在鼠鬚管洋蔥注音輸入方式是按下 `' = ' + ' ~ '` 或是`shift + ' ’ '`
 
 **// 20200717 update** 
 
-現在除了shift + ' ’ '，也可以直接按下' ’ '會出現有頓號跟其它選項可以用
+現在除了`shift + ' ’ '`，也可以直接按下`' ’ '`會出現有頓號跟其它選項可以用
 
-另外，常用的符號可以使用shift + 符號鍵來使用，例如 shift + ' ; ' =&gt; '：'
+另外，常用的符號可以使用`shift +` 符號鍵來使用，例如 `shift + ' ; ' => '：'`
 
 \(感謝[**oniondelta**](https://github.com/oniondelta) **大大的提醒**\)
 
@@ -350,7 +372,7 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 
 另外，選字不止可以使用方向鍵的下，也可以用左右鍵來切換，只要先按下 下鍵 + 左右鍵即可
 
-特殊符號可以使用 ' = ' + 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明
+特殊符號可以使用 `' = ' +` 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
 
@@ -372,9 +394,20 @@ switches中打開原本被關閉的reset: 0要去掉前面的\#
 **注意 這邊的installation\_id在安裝鼠鬚管時，電腦會自動生成，要多台電腦同步的話，請自行使用其中一個installation\_id。**
 {% endhint %}
 
-![installation.yaml](.gitbook/assets/snip20200526_1.png)
+```text
+distribution_code_name: Squirrel
+distribution_name: "鼠鬚管"
+distribution_version: 0.14.0
+install_time: "Wed Mar 25 10:13:47 2020"
+# 如果你兩台電腦要使用像是google drvie這種雲端軟體進行同步，麻煩下面的id要相同不然你同步的資料夾會長不一樣，這樣內容就沒辦法直接就同步了。
+installation_id: "cceb415b-5f81-4c04-ac57-7d03c69a9c63"
+rime_version: 1.5.3
+# 安裝同步文件，下面這段去掉#之後會在你的user底下建立一個資料夾然後放入你的輸入資料，例如常用的字...等等，
+# 如果你換了另一臺mac（這邊就假設是mac），只要把這個資料夾內容直接貼過去另一臺電腦中同樣的位置這樣就能進行常用文字的覆寫了。
+sync_dir: '/Your user same/which folder to want to install/RimeSync'
+```
 
-將最下面的sync\_dir的\#去掉，並輸入你要使用的資料夾位置。
+將最下面的`sync_dir`的\#去掉，並輸入你要使用的資料夾位置。
 
 完畢後，請點開右上角鼠鬚管符號，點擊同步用戶資料。
 
