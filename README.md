@@ -78,17 +78,7 @@ menu:
 
 另外這邊提醒要用按鍵選擇文字麻煩按住ctrl鍵+你要選的字的快速鍵
 
-如果要修改外觀，請到`Rime/squirrel.custom.yaml`這個檔案修改
-
-**// 20200703 update 刪去在每個scheme中的candidate\_format**
-
-**// 使用style/candidate\_format來帶入每一個scheme中**
-
-**// 這邊使用的是C/C++的空格編碼來書寫**
-
-**// %c是數字或英文標籤  %@是文字選項**
-
-**// "前方間距%c標籤與文字選項間距%@文字選項後方間距"**
+如果要修改外觀，請到`Rime/squirrel.custom.yaml`這個檔案修改。
 
 ```text
 patch:
@@ -158,7 +148,7 @@ style/base_offset: -3
 
 裡面有很多樣式可以選，修改`style/color_scheme：` 這後面你自己選要用的樣式
 
-這些樣式細節也可以調整，就在下面自己慢慢調
+這些樣式細節也可以調整，就在下面自己慢慢調。
 
 ```text
 preset_color_schemes/RoseofER:
