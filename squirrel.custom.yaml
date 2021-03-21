@@ -25,8 +25,8 @@ patch:
   preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
       author: 我朋朋啦
-      color_space: display_p3                # 使用p3廣色域顯色
-      border_color: '0x9CB6E5'               # 邊框顏色
+      color_space: display_p3                  # 使用p3廣色域顯色
+      border_color: '0x9CB6E5'                 # 邊框顏色
       back_color: '0xCCCCFF'
       text_color: '0x6BE8FF' #0x0B86B8
       hilited_text_color: '0x00859E' #0x0B86B8
@@ -41,8 +41,8 @@ patch:
   preset_color_schemes/Lakers:
     name: 紫金王朝
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x561B2E'               # 邊框顏色
+    color_space: display_p3                    # 使用p3廣色域顯色
+    border_color: '0x561B2E'                   # 邊框顏色
     back_color: '0x561B2E'
     text_color: '0x0499EE'
     hilited_text_color: ''
@@ -59,8 +59,8 @@ patch:
   preset_color_schemes/McDonald:
     name: 麥當當
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x0700DB'               # 邊框顏色
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x0700DB'                  # 邊框顏色
     hilited_corner_radius: 9
     back_color: '0x0700DB'
     text_color: '0x0CBCFF'
@@ -77,9 +77,9 @@ patch:
   preset_color_schemes/Tiffany:
     name: Tiffany
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0xFDF8D3'               # 邊框顏色
-    #hilited_corner_radius: 5
+    color_space: display_p3                    # 使用p3廣色域顯色
+    border_color: '0xFDF8D3'                   # 邊框顏色
+    hilited_corner_radius: 0
     back_color: '0xD0D989'
     text_color: ''
     hilited_text_color: '0x75745D'
@@ -95,8 +95,8 @@ patch:
   preset_color_schemes/TriColorDumpling:
     name: 三色丸子
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x9EC2AF'               # 邊框顏色
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x9EC2AF'                  # 邊框顏色
     hilited_corner_radius: 7
     back_color: '0xBAE8C3'
     text_color: '0xFFFFFF'
@@ -113,9 +113,9 @@ patch:
   preset_color_schemes/HouseDesign:
     name: 室內設計
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x375789'               # 邊框顏色
-    # hilited_corner_radius: 5
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x375789'                  # 邊框顏色
+    hilited_corner_radius: 0
     back_color: '0x99AFC7'
     text_color: '0x627182'
     hilited_text_color: '0x51538F'
@@ -131,7 +131,7 @@ patch:
   preset_color_schemes/Sunset:
     name: 夕陽
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
+    color_space: display_p3                   # 使用p3廣色域顯色
     border_color: '0x658DC6'                  # 邊框顏色
     back_color: '0x5AB0F3'                    # 背景顏色
     text_color: '0x416AF4'                    # 字體顏色
@@ -152,8 +152,8 @@ patch:
     name: 仙貝
     author: 我朋朋啦
     # color_space: display_p3                # 使用p3廣色域顯色 這個主題建議不要使用
-    border_color: '0x5187BF'               # 邊框顏色
-    #hilited_corner_radius: 5
+    border_color: '0x5187BF'                 # 邊框顏色
+    hilited_corner_radius: 0
     back_color: '0x416BBE'
     text_color: '0x76CCF7'
     hilited_text_color: '0x000000'
@@ -169,7 +169,7 @@ patch:
   preset_color_schemes/HappySea:
     name: 快樂海洋
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
+    color_space: display_p3                  # 使用p3廣色域顯色
     border_color: '0x00F1C17E'               # 邊框顏色
     hilited_corner_radius: 7
     back_color: '0xF1C17E'
@@ -188,9 +188,9 @@ patch:
   preset_color_schemes/EastSidePurple:
     name: 紫氣東來
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x8564B1'               # 邊框顏色
-#    hilited_corner_radius: 7
+    color_space: display_p3                  # 使用p3廣色域顯色
+    border_color: '0x8564B1'                 # 邊框顏色
+    hilited_corner_radius: 0
     back_color: '0xE9B4D7'
     text_color: '0x8027AF'
     hilited_text_color: '0x8027AF'
@@ -206,9 +206,9 @@ patch:
   preset_color_schemes/YoungBlood:
     name: 年輕十歲
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0xC1E7C1'                          # 邊框顏色
-    # hilited_corner_radius: 7                   # 候選字圓角
+    color_space: display_p3                    # 使用p3廣色域顯色
+    border_color: '0xC1E7C1'                   # 邊框顏色
+    hilited_corner_radius: 0                   # 候選字圓角
     back_color: '0xE5F6FC'
     text_color: '0xA76E4F'
     hilited_text_color: '0xA76E4F'
@@ -224,8 +224,8 @@ patch:
   preset_color_schemes/BigRice:
     name: 大米
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x9CB6E5'                  # 邊框顏色
     hilited_corner_radius: 7                  # 候選字圓角
     back_color: '0x9CB6E5'
     text_color: '0x812258'
@@ -242,9 +242,9 @@ patch:
   preset_color_schemes/OrangeSugar:
     name: 橘色泡泡糖
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x474A28'                          # 邊框顏色
-    # hilited_corner_radius: 7                  # 候選字圓角
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x474A28'                  # 邊框顏色
+    hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0x73A6FF'
     text_color: '0x25258A'
     hilited_text_color: '0x25258A'
@@ -260,8 +260,8 @@ patch:
   preset_color_schemes/AllBlue:
     name: 都是藍色
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0xAD9642'                  # 邊框顏色
     hilited_corner_radius: 7                  # 候選字圓角
     back_color: '0xAD9642'
     text_color: '0x372215'
@@ -278,8 +278,8 @@ patch:
   preset_color_schemes/BigSurBeach:
     name: 問就是海灘
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x8FA8FF'                  # 邊框顏色
     hilited_corner_radius: 7                  # 候選字圓角
     back_color: '0x8097E4'
     text_color: '0x462FC0'
@@ -296,9 +296,9 @@ patch:
   preset_color_schemes/BigSurDesert:
     name: 問就是沙漠
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x8B89EF'                          # 邊框顏色
-    # hilited_corner_radius: 7                  # 候選字圓角
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x8B89EF'                  # 邊框顏色
+    hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0xA491C0'
     text_color: '0x6D52CF'
     hilited_text_color: '0x6D52CF'
@@ -314,9 +314,9 @@ patch:
   preset_color_schemes/GoodEatMango:
     name: 芒果好吃
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    # border_color: ''                          # 邊框顏色
-    hilited_corner_radius: 7                  # 候選字圓角
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x9CB6E5'                  # 邊框顏色
+    hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0x80E1FB'
     text_color: '0x994F55'
     hilited_text_color: '0x994F55'
@@ -350,8 +350,8 @@ patch:
   preset_color_schemes/MaybeWeHaveHug:
     name: 也許我們都應該被包圍
     author: 我朋朋啦
-    color_space: display_p3                # 使用p3廣色域顯色
-    border_color: '0x3F331E'                          # 邊框顏色
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x3F331E'                  # 邊框顏色
     hilited_corner_radius: 0                  # 候選字圓角
     back_color: '0x3F331E'
     text_color: '0x7070EC'
