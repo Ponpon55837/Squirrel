@@ -24,43 +24,43 @@ description: how to use Rime
 
 筆者個人建議使用**homebrew**下載，速度比較快
 
-下載完畢之後，請使用**spotlight**搜尋**Squirrel**，點擊app進行安裝
+1.下載完畢之後，請使用**spotlight**搜尋**Squirrel**，點擊app進行安裝。
 
 ![Squirrel.app](.gitbook/assets/snip20200328_11.png)
 
-安裝完之後，請到系統偏好設定/鍵盤/輸入方式，確認有沒有安裝成功
+2.安裝完之後，請到系統偏好設定/鍵盤/輸入方式，確認有沒有安裝成功。
 
 ![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/snip20200328_9.png)
 
 ### Cover files
 
-安裝完畢之後，請點擊下面的連結
+安裝完畢之後，請點擊下面的連結。
 
 [https://github.com/Ponpon55837/Squirrel/releases](https://github.com/Ponpon55837/Squirrel/releases)
 
-下載整份壓縮檔
+1.下載整份壓縮檔
 
 ![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20210209_4.png)
 
-下載完後解壓縮，複製全部的檔案內容
+2.下載完後解壓縮，複製全部的檔案內容
 
-點開Finder，使用前往資料夾`/User/你的使用者/Library/Rime`
-
-亦或是點擊右上角鼠鬚管圖示，選擇用戶設定可以快速到達Rime資料夾
+3.點開Finder，使用前往資料夾`/User/你的使用者/Library/Rime`，亦或是點擊右上角鼠鬚管圖示，選擇用戶設定可以快速到達Rime資料夾。
 
 ![&#x9F20;&#x9B1A;&#x7BA1;&#x7528;&#x6236;&#x8A2D;&#x5B9A;&#x5716;&#x7247;](.gitbook/assets/jie-tu-20200511-xia-wu-2.56.34.png)
 
-到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案
+4.到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案。
 
 ![Rime&#x8CC7;&#x6599;&#x593E;&#x5167;&#x5BB9;](.gitbook/assets/snip20201127_3.jpg)
 
-貼上複製的檔案後，點擊右上角輸入法的鼠鬚管圖示，點擊重新部署
+5.貼上複製的檔案後，點擊右上角輸入法的鼠鬚管圖示，點擊重新部署。
 
 ![&#x9F20;&#x9B1A;&#x7BA1;&#x5716;&#x793A;](.gitbook/assets/snip20200327_4.png)
 
-這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式
+**Finally** 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式。
 
 ![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
+
+### Custom
 
 ​如果要修改顯示的候選詞數量，請到`Rime/bopomo_onion.schema.yaml`這個檔案
 
@@ -78,17 +78,7 @@ menu:
 
 另外這邊提醒要用按鍵選擇文字麻煩按住ctrl鍵+你要選的字的快速鍵
 
-如果要修改外觀，請到`Rime/squirrel.custom.yaml`這個檔案修改
-
-**// 20200703 update 刪去在每個scheme中的candidate\_format**
-
-**// 使用style/candidate\_format來帶入每一個scheme中**
-
-**// 這邊使用的是C/C++的空格編碼來書寫**
-
-**// %c是數字或英文標籤  %@是文字選項**
-
-**// "前方間距%c標籤與文字選項間距%@文字選項後方間距"**
+如果要修改外觀，請到`Rime/squirrel.custom.yaml`這個檔案修改。
 
 ```text
 patch:
@@ -158,7 +148,7 @@ style/base_offset: -3
 
 裡面有很多樣式可以選，修改`style/color_scheme：` 這後面你自己選要用的樣式
 
-這些樣式細節也可以調整，就在下面自己慢慢調
+這些樣式細節也可以調整，就在下面自己慢慢調。
 
 ```text
 preset_color_schemes/RoseofER:
