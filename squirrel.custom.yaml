@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: HappySea #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   #style/horizontal: true      # 候選橫排
   style/inline_preedit: false #true
   style/line_spacing: 2 #6 #1
@@ -364,3 +364,21 @@ patch:
     candidate_text_color: '0x8B927E'
     label_color: '0x536746'
     comment_text_color: '0x9C8BEB'
+
+  preset_color_schemes/Grassland:
+    name: 也許我們都應該被包圍
+    author: 我朋朋啦
+    color_space: display_p3                   # 使用p3廣色域顯色
+    border_color: '0x698AE9'                  # 邊框顏色
+    hilited_corner_radius: 0                  # 候選字圓角
+    back_color: '0xC6E8D0'
+    text_color: '0x95C772'
+    hilited_text_color: '0x95C772'
+    hilited_back_color: '0xC6E8D0'
+    hilited_candidate_text_color: '0x698AE9'
+    hilited_candidate_back_color: '0xA3D4F6'
+    hilited_candidate_label_color: '0x9C8BEB'
+    hilited_comment_text_color: '0x698AE9'
+    candidate_text_color: '0x8B927E'
+    label_color: '0x7DB590'
+    comment_text_color: '0x8B927E'
