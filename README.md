@@ -288,9 +288,9 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 ### Use
 
-再來就是輸入法的切換了，切換不同輸入法請按下``ctrl + ```或是 F4切換不同輸入法。
+再來就是輸入法的切換了，切換不同輸入法請按下ctrl + \` 或是 F4切換不同輸入法。
 
-![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/snip20200328_10.png)
+![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20210323-shang-wu-10.30.18.png)
 
 **// 20210205 update**
 
