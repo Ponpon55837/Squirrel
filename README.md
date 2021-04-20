@@ -292,8 +292,6 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 ![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20210323-shang-wu-10.30.18.png)
 
-**// 20210205 update**
-
 **// 20200607 fix problem**
 
 原先在`bopomo_onion.schema.yaml`檔案中我關閉了`switches`功能
@@ -363,6 +361,20 @@ switches:
 特殊符號可以使用 `' = ' +` 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
+
+**// 20210420 phrase discription**
+
+如果打開`Rime`資料夾可以看到有一項`bopomo_onion_phrase`的檔案，打開之後會發現裡面沒有什麼內容，這個檔案是用來附加你使用的快捷鍵用的。
+
+使用者可以自定義自己的快捷鍵，不過要注意不要重複的太多，這樣很難選字。
+
+```text
+用表情的例子來說明，我將下面的表情書寫好後，按下tab鍵，
+輸入對應的快捷鍵1f這樣按下中文1f的對應按鍵ㄅㄑ，就會顯示快捷鍵對應的內容
+\(//?//)\	1f
+```
+
+![&#x5FEB;&#x6377;&#x9375;&#x6548;&#x679C;&#x5716;](.gitbook/assets/image.png)
 
 [注音設定檔連結](https://deltazone.pixnet.net/blog/post/264319309-鼠鬚管注音方案---符合一般注音使用者習慣設)
 
