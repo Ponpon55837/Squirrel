@@ -362,7 +362,7 @@ switches:
 
 如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
 
-**// 20210420 phrase discription**
+**// 20210420 phrase description**
 
 如果打開`Rime`資料夾可以看到有一項`bopomo_onion_phrase`的檔案，打開之後會發現裡面沒有什麼內容，這個檔案是用來附加你使用的快捷鍵用的。
 
