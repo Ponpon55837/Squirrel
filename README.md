@@ -364,7 +364,9 @@ switches:
 
 **// 20210422 add emoji**
 
-下載opencc emoji，新增`bopomo_onion.custom.yaml`檔
+下載opencc emoji，新增`bopomo_onion.custom.yaml、emoji_suggestion.yaml`檔
+
+下載網址： [https://github.com/rime/rime-emoji](https://github.com/rime/rime-emoji)
 
 ```text
 __patch:
