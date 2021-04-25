@@ -13,9 +13,9 @@ patch:
 
   switcher/fix_schema_list_order: true #固定方案選單順序
   switcher/hotkeys:
-    - Control+grave
-    - Control+Shift+grave
-    - F4
+    # - Control+grave
+    # - Control+Shift+grave
+    # - F4
 
   key_binder/bindings:
     - { when: composing, accept: Control+p, send: Up }
