@@ -372,21 +372,7 @@ switches:
 
 特殊符號可以使用 `' = ' +` 其他按鍵一起使用，至於有什麼符號就自己慢慢嘗試，這邊不一一說明
 
-如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章
-
-**// 20210422 add emoji**
-
-下載opencc emoji，新增`bopomo_onion.custom.yaml、emoji_suggestion.yaml`檔
-
-下載網址： [https://github.com/rime/rime-emoji](https://github.com/rime/rime-emoji)
-
-```text
-__patch:
-# Rx: emoji:customize:schema=bopomo_onion {
-  - patch/+:
-      __include: emoji_suggestion:/patch
-# }
-```
+如果有沒有說明清楚的地方，請大家參考[**oniondelta**](https://github.com/oniondelta)大的文章。
 
 **// 20210420 phrase description**
 
