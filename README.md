@@ -288,7 +288,19 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 ### Use
 
-再來就是輸入法的切換了，切換不同輸入法請按下ctrl + \` 或是 F4切換不同輸入法。
+**// 20210425 update remove switch input method hot key**
+
+筆者認為目前已經關閉大部分切換其它輸入法的需求，所以目前並沒有必須要開啟熱鍵進行切換輸入法的使用目的，且這些熱鍵會佔走一部分功能的使用，所以在新更新中在`default.custom.yaml中`隱藏了。
+
+```text
+switcher/fix_schema_list_order: true #固定方案選單順序
+  switcher/hotkeys:
+    # - Control+grave
+    # - Control+Shift+grave
+    # - F4
+```
+
+如果開啟這項功能的話，請按下ctrl + \` 或是 F4來切換不同輸入法。
 
 ![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20210323-shang-wu-10.30.18.png)
 
