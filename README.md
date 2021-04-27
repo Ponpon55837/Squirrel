@@ -431,7 +431,7 @@ sync_dir: '/Your user same/which folder to want to install/RimeSync'
 
 我個人是把這個資料夾使用google drive同步到雲端這樣另一臺電腦就可以也使用google drive同步了。
 
-請自行審視需求進行修改，祝大家使用愉快。
+**請自行審視需求**進行修改，祝大家使用愉快。
 
 ### Uninstall
 
