@@ -24,9 +24,7 @@ description: how to use Rime
 
 筆者個人建議使用**homebrew**下載，速度比較快
 
-1.下載完畢之後，請使用**spotlight**搜尋**Squirrel**，點擊app進行安裝。**記得要登出在登入喔。**
-
-![Squirrel.app](.gitbook/assets/snip20200328_11.png)
+1.下載完畢之後，homebrew會自動進行安裝。安裝完畢後。**記得要登出在登入喔。**
 
 2.安裝完之後，請到系統偏好設定/鍵盤/輸入方式，確認有沒有安裝成功。
 
