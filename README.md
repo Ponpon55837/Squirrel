@@ -282,6 +282,10 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 ![&#x4E3B;&#x984C;\_9](.gitbook/assets/unknown-9.jpeg)
 
+上：TodayIsNotGood
+
+![&#x4E3B;&#x984C;\_10](.gitbook/assets/unknown%20%2816%29.jpeg)
+
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
 ### Use
