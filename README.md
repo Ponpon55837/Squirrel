@@ -12,7 +12,7 @@ description: how to use Rime
 
 ### Good to Read
 
-[https://app.gitbook.com/@ponpon55837/s/squirrel/~/drafts/-MSKqA-eCNg\_HbP\_EK5M/](https://app.gitbook.com/@ponpon55837/s/squirrel/~/drafts/-MSKqA-eCNg_HbP_EK5M/)
+[https://app.gitbook.com/@ponpon55837/s/squirrel/\~/drafts/-MSKqA-eCNg\_HbP\_EK5M/](https://app.gitbook.com/s/-M3QHTKUhpifqtNAP1jQ/)
 
 ### Install
 
@@ -20,7 +20,7 @@ description: how to use Rime
 
 [https://rime.im/download/](https://rime.im/download/)
 
-![Rime&#x9F20;&#x9B1A;&#x7BA1;&#x5B98;&#x7DB2;&#x4E0B;&#x8F09;](.gitbook/assets/snip20210208_1.png)
+![Rime鼠鬚管官網下載](.gitbook/assets/snip20210208\_1.png)
 
 筆者個人建議使用**homebrew**下載，速度比較快
 
@@ -28,7 +28,7 @@ description: how to use Rime
 
 2.安裝完之後，請到系統偏好設定/鍵盤/輸入方式，確認有沒有安裝成功。
 
-![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/snip20200328_9.png)
+![輸入方式](.gitbook/assets/snip20200328\_9.png)
 
 ### Cover files
 
@@ -38,25 +38,25 @@ description: how to use Rime
 
 1.下載整份壓縮檔
 
-![&#x4E0B;&#x8F09;&#x6574;&#x4EFD;&#x6A94;&#x6848;](.gitbook/assets/snip20210209_4.png)
+![下載整份檔案](.gitbook/assets/snip20210209\_4.png)
 
 2.下載完後解壓縮，複製全部的檔案內容
 
 3.點開Finder，使用前往資料夾`/User/你的使用者/Library/Rime`，亦或是點擊右上角鼠鬚管圖示，選擇用戶設定可以快速到達Rime資料夾。
 
-![&#x9F20;&#x9B1A;&#x7BA1;&#x7528;&#x6236;&#x8A2D;&#x5B9A;&#x5716;&#x7247;](.gitbook/assets/jie-tu-20200511-xia-wu-2.56.34.png)
+![鼠鬚管用戶設定圖片](.gitbook/assets/jie-tu-20200511-xia-wu-2.56.34.png)
 
 4.到了Rime資料夾刪除全部內容，貼上剛剛複製的檔案。
 
-![Rime&#x8CC7;&#x6599;&#x593E;&#x5167;&#x5BB9;](.gitbook/assets/snip20201127_3.jpg)
+![Rime資料夾內容](.gitbook/assets/snip20201127\_3.jpg)
 
 5.貼上複製的檔案後，點擊右上角輸入法的鼠鬚管圖示，點擊重新部署。
 
-![&#x9F20;&#x9B1A;&#x7BA1;&#x5716;&#x793A;](.gitbook/assets/snip20200327_4.png)
+![鼠鬚管圖示](.gitbook/assets/snip20200327\_4.png)
 
 **Finally** 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式。
 
-![&#x8F38;&#x5165;&#x65B9;&#x5F0F;](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
+![輸入方式](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
 
 ### Custom
 
@@ -66,7 +66,7 @@ description: how to use Rime
 
 我個人會建議使用數字123456789，因為這樣在使用ctrl選字時，比較不會出現問題，不過如果你希望使用英文字母也可自行更改為QAZWSXEDC，在一部分app中輸入好像沒辦法使用`ctrl+`字母會跳掉，我個人是改成使用數字。
 
-```text
+```
 menu:
   # 候選字快速鍵
   alternative_select_keys: "QAZWSXEDC
@@ -78,7 +78,7 @@ menu:
 
 如果要修改外觀，請到`Rime/squirrel.custom.yaml`這個檔案修改。
 
-```text
+```
 patch:
   style/color_scheme: HappySea 
   // 這邊都是可選用的外觀主題
@@ -130,7 +130,7 @@ patch:
 
 **// 20210210** 因應鼠鬚管0.15.0版本調整`line_spacing`與`spacing`大小以適應輸入框的改變。
 
-```text
+```
 # 文字行高
 style/line_spacing: 2 #6 #1
 # 文字間距
@@ -139,7 +139,7 @@ style/spacing: 2 #10 #5
 
 // 20210210 鼠鬚管0.15.0版本新增了base\_offset基線設定參數，實際上用起來就是調整候選文字的上下對齊。
 
-```text
+```
 # 基線調整                      
 style/base_offset: -3 
 ```
@@ -148,7 +148,7 @@ style/base_offset: -3
 
 這些樣式細節也可以調整，就在下面自己慢慢調。
 
-```text
+```
 preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
       author: 我朋朋啦
@@ -198,9 +198,9 @@ preset_color_schemes/RoseofER:
       label_color: '0x4E81E6'
 ```
 
-**// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改`hilited corner radius`_的大小就能調整了。_ 
+**// 20201117** 有些主題對於候選文字框是填滿的狀態，只要修改`hilited corner radius`_的大小就能調整了。_
 
-```text
+```
 preset_color_schemes/Tiffany:
     name: Tiffany
     author: 我朋朋啦
@@ -211,20 +211,20 @@ preset_color_schemes/Tiffany:
 
 **// 20210208** 這裡說明一下外邊框設計上的問題，如果你很不喜歡外邊框，有兩種解決方式
 
-1. 直接在`border_height border_width`直接前面加上\# 註記掉程式
+1. 直接在`border_height border_width`直接前面加上# 註記掉程式
 
-```text
+```
 style/border_height: 5                       # 字與上下邊框的高度差
 style/border_width: 5                        # 字與左右邊框的寬度差
 ```
 
-   2.  在你選用的那個樣式當中找到`border_color`，在前面加上\# 註記掉程式
+1. 在你選用的那個樣式當中找到`border_color`，在前面加上# 註記掉程式
 
-```text
+```
 border_color: '0x9CB6E5'               # 邊框顏色
 ```
 
-**// 20210208** 
+**// 20210208**
 
 在0.15版鼠鬚管當中已經支援外邊框，不過與原本0.14版樣式上最大的差異在於左右兩側到中間文字間的距離改變了，看起來會覺得中間變胖了，可能需要一點時間調整或適應。
 
@@ -232,7 +232,7 @@ border_color: '0x9CB6E5'               # 邊框顏色
 
 0.14.0設計上不同，不能直接沿用，當然如果願意自己手動修改那就沒問題。
 
-![&#x820A;&#x7248;&#x5B89;&#x88DD;&#x6A94;](.gitbook/assets/snip20210209_7.png)
+![舊版安裝檔](.gitbook/assets/snip20210209\_7.png)
 
 ### **Skin**
 
@@ -240,7 +240,7 @@ border_color: '0x9CB6E5'               # 邊框顏色
 
 如果想要使用非p3顏色的主題，麻煩關閉主題皮膚當中的`color_space`。
 
-```text
+```
 color_space: display_p3                # 使用p3廣色域顯色
 ```
 
@@ -248,43 +248,47 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 上：Tiffany，下：TripleColorDumpling
 
-![&#x4E3B;&#x984C;\_1](.gitbook/assets/unknown%20%2815%29.jpeg)
+![主題\_1](<.gitbook/assets/unknown (15).jpeg>)
 
 上：RoseofER，下：HouseDesign
 
-![&#x4E3B;&#x984C;\_2](.gitbook/assets/unknown-1%20%286%29.jpeg)
+![主題\_2](<.gitbook/assets/unknown-1 (6).jpeg>)
 
 上：Sunset，下：Senbe
 
-![&#x4E3B;&#x984C;\_3](.gitbook/assets/unknown-2%20%282%29.jpeg)
+![主題\_3](<.gitbook/assets/unknown-2 (2).jpeg>)
 
 上：HappySea，下：EastSidePurple
 
-![&#x4E3B;&#x984C;\_4](.gitbook/assets/unknown-3%20%281%29.jpeg)
+![主題\_4](<.gitbook/assets/unknown-3 (1).jpeg>)
 
 上：YoungBlood，下：BigRice
 
-![&#x4E3B;&#x984C;\_5](.gitbook/assets/unknown-4%20%281%29.jpeg)
+![主題\_5](<.gitbook/assets/unknown-4 (1).jpeg>)
 
 上：OrangeSugar，下：AllBlue
 
-![&#x4E3B;&#x984C;\_6](.gitbook/assets/unknown-5.jpeg)
+![主題\_6](.gitbook/assets/unknown-5.jpeg)
 
 上：BigSurBeach，下：BigSurDesert
 
-![&#x4E3B;&#x984C;\_7](.gitbook/assets/unknown-8.jpeg)
+![主題\_7](.gitbook/assets/unknown-8.jpeg)
 
 上：GoodEatMango，下：DarkMode
 
-![&#x4E3B;&#x984C;\_8](.gitbook/assets/unknown-6.jpeg)
+![主題\_8](.gitbook/assets/unknown-6.jpeg)
 
 上：MaybeWeHaveHug，下：Grassland
 
-![&#x4E3B;&#x984C;\_9](.gitbook/assets/unknown-9.jpeg)
+![主題\_9](.gitbook/assets/unknown-9.jpeg)
 
-上：TodayIsNotGood
+上：TodayIsNotGood，下：經典負片。
 
-![&#x4E3B;&#x984C;\_10](.gitbook/assets/unknown%20%2816%29.jpeg)
+![主題\_10](<.gitbook/assets/Unknown (18).jpeg>)
+
+上：GreenWorld
+
+![](<.gitbook/assets/Unknown-1 (7).jpeg>)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
@@ -294,7 +298,7 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 筆者認為目前已經關閉大部分切換其它輸入法的需求，所以目前並沒有必須要開啟熱鍵進行切換輸入法的使用目的，且這些熱鍵會佔走一部分功能的使用，所以在新更新中在`default.custom.yaml中`隱藏了。
 
-```text
+```
 switcher/fix_schema_list_order: true #固定方案選單順序
   switcher/hotkeys:
     # - Control+grave
@@ -304,7 +308,7 @@ switcher/fix_schema_list_order: true #固定方案選單順序
 
 如果開啟這項功能的話，請按下ctrl + \` 或是 F4來切換不同輸入法。
 
-![&#x65B9;&#x6848;&#x9078;&#x55AE;](.gitbook/assets/jie-tu-20210323-shang-wu-10.30.18.png)
+![方案選單](.gitbook/assets/jie-tu-20210323-shang-wu-10.30.18.png)
 
 **// 20200607 fix problem**
 
@@ -322,13 +326,13 @@ switcher/fix_schema_list_order: true #固定方案選單順序
 
 問題就出在更新了[**oniondelta**](https://github.com/oniondelta) 20200530檔案後，需要到`bopomo_onion.schema.yaml`
 
-`switches`中打開原本被關閉的`reset: 0`要去掉前面的\#
+`switches`中打開原本被關閉的`reset: 0`要去掉前面的#
 
 否則會出現無法變更成繁體的輸入方式
 
 如果你已經修改完成，且以後不需要使用簡體，也確定目前使用的是繁體時，再到`bopomo_onion.schema.yaml`中關閉`switches`才不會出現問題，我因爲有切換成簡體但是忘記切回繁體就把`bopomo_onion.schema.yaml`中的`switches`都關閉了，才出現繁體簡體混合不能切換的問題，請使用者留心使用。
 
-```text
+```
 switches:
   - name: ascii_mode
     reset: 0
@@ -360,17 +364,17 @@ switches:
 
 全形/半形空白切換，請按下`ctrl + >`
 
-這邊要特別說的原本的 `'、'` 
+這邊要特別說的原本的 `'、'`
 
 在鼠鬚管洋蔥注音輸入方式是按下 `' = ' + ' ~ '` 或是`shift + ' ’ '`
 
-**// 20200717 update** 
+**// 20200717 update**
 
 現在除了`shift + ' ’ '`，也可以直接按下`' ’ '`會出現有頓號跟其它選項可以用
 
 另外，常用的符號可以使用`shift +` 符號鍵來使用，例如 `shift + ' ; ' => '：'`
 
-\(感謝[**oniondelta**](https://github.com/oniondelta) **大大的提醒**\)
+(感謝[**oniondelta**](https://github.com/oniondelta) **大大的提醒**)
 
 鼠鬚管會自動記憶常用詞彙，所以有常用的字多打幾次就行了
 
@@ -388,21 +392,21 @@ switches:
 
 快捷鍵可以有很多玩法，例如快速輸入網址，或是使用者帳號，地址，電話......等，但是**切忌不要使用快捷鍵來輸入密碼，這樣很不安全**。
 
-```text
+```
 用表情的例子來說明，我將下面的表情書寫好後，按下tab鍵，
 輸入對應的快捷鍵1f這樣按下中文1f的對應按鍵ㄅㄑ，就會顯示快捷鍵對應的內容
 \(//?//)\	1f
 ```
 
-![&#x5FEB;&#x6377;&#x9375;&#x6548;&#x679C;&#x5716;](.gitbook/assets/image.png)
+![快捷鍵效果圖](<.gitbook/assets/image (2).png>)
 
-[注音設定檔連結](https://deltazone.pixnet.net/blog/post/264319309-鼠鬚管注音方案---符合一般注音使用者習慣設)
+[注音設定檔連結](https://deltazone.pixnet.net/blog/post/264319309-%E9%BC%A0%E9%AC%9A%E7%AE%A1%E6%B3%A8%E9%9F%B3%E6%96%B9%E6%A1%88---%E7%AC%A6%E5%90%88%E4%B8%80%E8%88%AC%E6%B3%A8%E9%9F%B3%E4%BD%BF%E7%94%A8%E8%80%85%E7%BF%92%E6%85%A3%E8%A8%AD)
 
 **// 20201129 update**
 
 在下載下來的檔案當中還有一份howtouse.pdf，裡面有我寫的部分的說明，可能無法完全的說清楚，不過在使用上應當大致上沒問題。
 
-![file to teach how to use squirrel](.gitbook/assets/snip20201127_2.png)
+![file to teach how to use squirrel](.gitbook/assets/snip20201127\_2.png)
 
 ### Sync Data
 
@@ -414,7 +418,7 @@ switches:
 **注意 這邊的installation\_id在安裝鼠鬚管時，電腦會自動生成，要多台電腦同步的話，請自行使用其中一個installation\_id。**
 {% endhint %}
 
-```text
+```
 distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
 distribution_version: 0.14.0
@@ -427,11 +431,11 @@ rime_version: 1.5.3
 sync_dir: '/Your user same/which folder to want to install/RimeSync'
 ```
 
-將最下面的`sync_dir`的\#去掉，並輸入你要使用的資料夾位置。
+將最下面的`sync_dir`的#去掉，並輸入你要使用的資料夾位置。
 
 完畢後，請點開右上角鼠鬚管符號，點擊同步用戶資料。
 
-![&#x9F20;&#x9B1A;&#x7BA1;&#x540C;&#x6B65;&#x7528;&#x6236;&#x8CC7;&#x6599;](.gitbook/assets/jie-tu-20200526-xia-wu-2.24.06.png)
+![鼠鬚管同步用戶資料](.gitbook/assets/jie-tu-20200526-xia-wu-2.24.06.png)
 
 這時候在你設定好的資料夾就會出現你的詞典了。
 
@@ -443,7 +447,7 @@ sync_dir: '/Your user same/which folder to want to install/RimeSync'
 
 如果安裝時是使用`Homebrew`進行安裝，那麼移除的方式就很簡單了，請在終端機輸入
 
-```text
+```
 brew uninstall --cask squirrel
 ```
 
@@ -465,5 +469,4 @@ brew uninstall --cask squirrel
 
 **如果上面描述的文字不夠準確，可以參考底下的心智圖，我有大致上將會用到的內容描述上去。**
 
-![&#x5FC3;&#x667A;&#x5716;](.gitbook/assets/shu-xu-guan-.png)
-
+![心智圖](.gitbook/assets/shu-xu-guan-.png)
