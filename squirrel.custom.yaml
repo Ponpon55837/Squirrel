@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: GreenWorld #DyingMood #ClassicChrome #TodayIsNotGood #Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: TriColorDumpling #DyingMood #ClassicChrome #TodayIsNotGood #Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   # 輸入直排 or 橫排
   style/candidate_list_layout: stacked # linear | stacked
   # style/text_orientation": horizontal # horizontal | vertical
@@ -148,7 +148,6 @@ patch:
     candidate_text_color: '0x6D58A3'
     label_color: '0x3A5FDB'
     comment_text_color: '0x724A5C'
-    preedit_back_color: '0x5AB0F3'
 
   preset_color_schemes/Senbe:
     name: 仙貝
