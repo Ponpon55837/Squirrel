@@ -14,19 +14,13 @@ description: how to use Rime
 
 [https://app.gitbook.com/@ponpon55837/s/squirrel/\~/drafts/-MSKqA-eCNg\_HbP\_EK5M/](https://app.gitbook.com/s/-M3QHTKUhpifqtNAP1jQ/)
 
+註： MacOS Monterey版本目前線上鼠鬚管如無法使用，請使用以下這份[**LEOYoon-Tsaw**](https://github.com/LEOYoon-Tsaw)編譯版本
 
-
-註： MacOS Monterey版本目前線上鼠鬚管尚未支援，請使用以下這份[**LEOYoon-Tsaw**](https://github.com/LEOYoon-Tsaw)編譯版本
-
-[https://github.com/LEOYoon-Tsaw/squirrel/releases ](https://github.com/LEOYoon-Tsaw/squirrel/releases)
-
-
-
-
+[https://github.com/LEOYoon-Tsaw/squirrel/releases](https://github.com/LEOYoon-Tsaw/squirrel/releases)
 
 ### Install
 
-到Rime的官網下載**0.15.0**版鼠鬚管
+到Rime的官網下載**0.15.2**版鼠鬚管
 
 [https://rime.im/download/](https://rime.im/download/)
 
