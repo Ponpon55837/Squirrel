@@ -455,11 +455,11 @@ sync_dir: '/Your user same/which folder to want to install/RimeSync'
 
 將紅框處修改為`zh-Hant` 即可
 
-``![](<.gitbook/assets/截圖 2022-05-24 上午9.24.11.png>)``
+![](<.gitbook/assets/截圖 2022-05-24 上午9.24.11.png>)
 
 `修改完後重新部署，在新增輸入方式時，即會看到鼠鬚管出現在繁體中文的區塊。`
 
-``![](<.gitbook/assets/截圖 2022-05-24 上午9.26.52.png>)``
+![](<.gitbook/assets/截圖 2022-05-24 上午9.26.52.png>)
 
 ### Uninstall
 
