@@ -453,7 +453,7 @@ sync_dir: '/Your user same/which folder to want to install/RimeSync'
 
 更改位置為 `/Library/Input Methods/Squirrel.app/Contents/Info.plist`
 
-將紅框處修改為`zh-Han` 即可
+將紅框處修改為`zh-Hant` 即可
 
 ``![](<.gitbook/assets/截圖 2022-05-24 上午9.24.11.png>)``
 
