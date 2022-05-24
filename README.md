@@ -447,6 +447,20 @@ sync_dir: '/Your user same/which folder to want to install/RimeSync'
 
 **請自行審視需求**進行修改，祝大家使用愉快。
 
+### 預設語系
+
+初始安裝後鼠鬚管預設語系為簡體中文，可以進行預設語系的更改，但是只能預設一種語系。
+
+更改位置為 `/Library/Input Methods/Squirrel.app/Contents/Info.plist`
+
+將紅框處修改為`zh-Han` 即可
+
+``![](<.gitbook/assets/截圖 2022-05-24 上午9.24.11.png>)``
+
+`修改完後重新部署，在新增輸入方式時，即會看到鼠鬚管出現在繁體中文的區塊。`
+
+``![](<.gitbook/assets/截圖 2022-05-24 上午9.26.52.png>)``
+
 ### Uninstall
 
 如果安裝時是使用`Homebrew`進行安裝，那麼移除的方式就很簡單了，請在終端機輸入
