@@ -14,7 +14,7 @@ description: how to use Rime
 
 [https://app.gitbook.com/@ponpon55837/s/squirrel/\~/drafts/-MSKqA-eCNg\_HbP\_EK5M/](https://app.gitbook.com/s/-M3QHTKUhpifqtNAP1jQ/)
 
-註： MacOS Monterey版本目前線上鼠鬚管如無法使用，請使用以下這份[**LEOYoon-Tsaw**](https://github.com/LEOYoon-Tsaw)編譯版本
+註： MacOS Monterey版本如果安裝目前線上鼠鬚管如無法使用，請使用以下這份[**LEOYoon-Tsaw**](https://github.com/LEOYoon-Tsaw)編譯版本
 
 [https://github.com/LEOYoon-Tsaw/squirrel/releases](https://github.com/LEOYoon-Tsaw/squirrel/releases)
 
@@ -58,7 +58,7 @@ description: how to use Rime
 
 ![鼠鬚管圖示](.gitbook/assets/snip20200327\_4.png)
 
-**Finally** 這樣輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式。
+部署完畢，輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式。
 
 ![輸入方式](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
 
@@ -132,30 +132,14 @@ patch:
   style/base_offset: -3                        
 ```
 
-**// 20210210** 因應鼠鬚管0.15.0版本調整`line_spacing`與`spacing`大小以適應輸入框的改變。
-
-```
-# 文字行高
-style/line_spacing: 2 #6 #1
-# 文字間距
-style/spacing: 2 #10 #5
-```
-
-// 20210210 鼠鬚管0.15.0版本新增了base\_offset基線設定參數，實際上用起來就是調整候選文字的上下對齊。
-
-```
-# 基線調整                      
-style/base_offset: -3 
-```
-
 裡面有很多樣式可以選，修改`style/color_scheme：` 這後面你自己選要用的樣式
 
 這些樣式細節也可以調整，就在下面自己慢慢調。
 
 ```
 preset_color_schemes/RoseofER:
-      name: 皇帝玫瑰
-      author: 我朋朋啦
+      name: 樣式名稱
+      author: 樣式作者
       # 使用p色域
       color_space: display_p3
       
@@ -227,10 +211,6 @@ style/border_width: 5                        # 字與左右邊框的寬度差
 ```
 border_color: '0x9CB6E5'               # 邊框顏色
 ```
-
-**// 20210208**
-
-在0.15版鼠鬚管當中已經支援外邊框，不過與原本0.14版樣式上最大的差異在於左右兩側到中間文字間的距離改變了，看起來會覺得中間變胖了，可能需要一點時間調整或適應。
 
 **// 20210209** _**如果想使用0.14.0版的鼠鬚管**_，麻煩下載安裝0.0.7.7z的安裝檔，因為樣式調整上.015.0版與
 
@@ -313,50 +293,6 @@ switcher/fix_schema_list_order: true #固定方案選單順序
 如果開啟這項功能的話，請按下ctrl + \` 或是 F4來切換不同輸入法。
 
 ![方案選單](.gitbook/assets/jie-tu-20210323-shang-wu-10.30.18.png)
-
-**// 20200607 fix problem**
-
-原先在`bopomo_onion.schema.yaml`檔案中我關閉了`switches`功能
-
-但是後來更新了，下方四隻檔案後出現bug
-
-`bopomo_onion_phrase.txt`
-
-`bopomo_onion_symbols.yaml`
-
-`bopomo_onion.extended.dict.yaml`
-
-`bopomo_onion.schema.yaml`
-
-問題就出在更新了[**oniondelta**](https://github.com/oniondelta) 20200530檔案後，需要到`bopomo_onion.schema.yaml`
-
-`switches`中打開原本被關閉的`reset: 0`要去掉前面的#
-
-否則會出現無法變更成繁體的輸入方式
-
-如果你已經修改完成，且以後不需要使用簡體，也確定目前使用的是繁體時，再到`bopomo_onion.schema.yaml`中關閉`switches`才不會出現問題，我因爲有切換成簡體但是忘記切回繁體就把`bopomo_onion.schema.yaml`中的`switches`都關閉了，才出現繁體簡體混合不能切換的問題，請使用者留心使用。
-
-```
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "英文"]
-  # - name: full_shape
-  #   reset: 0
-  #   states: ["半形", "全形"]
-  # - name: ascii_punct
-  #   reset: 0
-  #   states: ["。，", "．，"]
-  # - name: simplification
-  #   reset: 0
-  #   states: ["原體", "简体"]
-  # - options: [ utf8, big5, gbk ]
-  #    reset: 0
-  #    states:
-  #      - UTF-8
-  #      - BIG5
-  #      - GBK
-```
 
 中英文與大小寫的切換與原生的Mac輸入法不同
 
