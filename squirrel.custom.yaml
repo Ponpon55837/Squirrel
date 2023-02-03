@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: TriColorDumpling #DyingMood #ClassicChrome #TodayIsNotGood #Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: MaybeWeHaveHug #DyingMood #GreenWorld #ClassicChrome #TodayIsNotGood #Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   # 輸入直排 or 橫排
   style/candidate_list_layout: stacked # linear | stacked
   # style/text_orientation": horizontal # horizontal | vertical
@@ -23,6 +23,7 @@ patch:
   style/border_height: 5                       # 字與上下邊框的高度差
   style/border_width: 5                        # 字與左右邊框的寬度差
   style/base_offset: -3                        # 基線調整
+  style/translucency: true
 
   preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
