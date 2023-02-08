@@ -290,9 +290,9 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 新：back\_color: 0xAE3F331E
 
-![](<.gitbook/assets/截圖 2023-02-08 下午3.22.14.png>)
+![](<.gitbook/assets/截圖 2023-02-08 下午3.39.13.png>)
 
-當然顏色可以自行調整，這邊只是做範例顯示。
+當然顏色可以自行調整，這邊只是做範例顯示，另外建議使用透明背景的話，將 style/inline\_preedit:true，設定為true會比較好看。
 
 ### Use
 
