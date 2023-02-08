@@ -278,6 +278,22 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
 
+<mark style="color:blue;">**透明背景設定**</mark>
+
+在**0.16.1**版當中新增了translucency功能，現在背景顏色**back\_color**，可以使用24位色值，16進制ABGR。
+
+例：&#x20;
+
+舊：back\_color: 0x3F331E
+
+![](<.gitbook/assets/截圖 2023-02-08 下午3.28.55.png>)
+
+新：back\_color: 0xAE3F331E
+
+![](<.gitbook/assets/截圖 2023-02-08 下午3.22.14.png>)
+
+當然顏色可以自行調整，這邊只是做範例顯示。
+
 ### Use
 
 **// 20210425 update remove switch input method hot key**
