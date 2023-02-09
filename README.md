@@ -294,6 +294,19 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 當然顏色可以自行調整，這邊只是做範例顯示，另外建議使用透明背景的話，將 style/inline\_preedit:true，設定為true會比較好看。
 
+這邊附上簡單的透明度參數：
+
+| 透明度百分比 | 透明度參數 |
+| ------ | ----- |
+| 100%   | FF    |
+| 95%    | F2    |
+| 90%    | E6    |
+| 85%    | D9    |
+| 80%    | CC    |
+| 75%    | BF    |
+| 70%    | B3    |
+| 65%    | A6    |
+
 ### Use
 
 **// 20210425 update remove switch input method hot key**
