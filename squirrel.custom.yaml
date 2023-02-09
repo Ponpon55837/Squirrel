@@ -2,11 +2,11 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: MaybeWeHaveHug #DyingMood #GreenWorld #ClassicChrome #TodayIsNotGood #Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
+  style/color_scheme: HappySea #DyingMood #GreenWorld #ClassicChrome #TodayIsNotGood #Grassland #MaybeWeHaveHug #DarkMode #GoodEatMango #BigSurDesert #BigSurBeach #AllBlue #OrangeSugar #BigRice #YoungBlood #EastSidePurple #HappySea #Senbe #Sunset #HouseDesign #RoseofER #TriColorDumpling #Tiffany #McDonald #Lakers
   # 輸入直排 or 橫排
   style/candidate_list_layout: stacked # linear | stacked
   # style/text_orientation": horizontal # horizontal | vertical
-  style/inline_preedit: false #true
+  style/inline_preedit: true #true
   style/line_spacing: 2 #6 #1
   style/spacing: 2 #10 #5
   # 文字字體 字體可以查看Mac的FontBook，你電腦裡有的字體正常都能支援
@@ -23,7 +23,19 @@ patch:
   style/border_height: 5                       # 字與上下邊框的高度差
   style/border_width: 5                        # 字與左右邊框的寬度差
   style/base_offset: -3                        # 基線調整
-  style/translucency: true
+
+ # ARGB 透明度基本參數
+ # 100% FF
+ # 95%  F2
+ # 90%  E6
+ # 85%  D9
+ # 80%  CC
+ # 75%  BF
+ # 70%  B3
+ # 65%  A6
+ # 60%  99
+ # 55%  8C
+ # 50%  80
 
   preset_color_schemes/RoseofER:
       name: 皇帝玫瑰
@@ -174,7 +186,7 @@ patch:
     color_space: display_p3                  # 使用p3廣色域顯色
     border_color: '0xF1C17E'               # 邊框顏色
     hilited_corner_radius: 7
-    back_color: '0xF1C17E'
+    back_color: '0xD9F1C17E'
     text_color: '0x8564B1'
     hilited_text_color: '0x8564B1'
     hilited_back_color: '0xF1C17E'
