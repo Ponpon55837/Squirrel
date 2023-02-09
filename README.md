@@ -20,7 +20,7 @@ description: how to use Rime
 
 ### Install
 
-到Rime的官網下載**0.15.2**版鼠鬚管
+到Rime的官網下載**0.16.2**版鼠鬚管
 
 [https://rime.im/download/](https://rime.im/download/)
 
@@ -61,6 +61,8 @@ description: how to use Rime
 部署完畢，輸入時就會有樣式了，而且是使用不用按照注音順序的輸入方式。
 
 ![輸入方式](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
+
+<mark style="color:red;">#註 原先安裝</mark><mark style="color:red;">**0.15.2**</mark> <mark style="color:red;"></mark><mark style="color:red;">版本的鼠鬚管升級至</mark><mark style="color:red;">**0.16.1**</mark><mark style="color:red;">後，需至所有輸入方式當中刪除原先鼠鬚管才能使用，</mark><mark style="color:red;">**0.16.2**</mark><mark style="color:red;">版則只需要重新登出登入即可。</mark>
 
 ### Custom
 
@@ -275,6 +277,35 @@ color_space: display_p3                # 使用p3廣色域顯色
 ![](<.gitbook/assets/Unknown-1 (7).jpeg>)
 
 #### 最後，每次修改完，都要重新部署，不然會沒改變喔。
+
+<mark style="color:blue;">**透明背景設定**</mark>
+
+在**0.16.1**版當中新增了translucency功能，現在背景顏色**back\_color**，可以使用24位色值，16進制ABGR。
+
+例：&#x20;
+
+舊：back\_color: 0x3F331E
+
+![](<.gitbook/assets/截圖 2023-02-08 下午3.28.55.png>)
+
+新：back\_color: 0xAE3F331E
+
+![](<.gitbook/assets/截圖 2023-02-08 下午3.39.13.png>)
+
+當然顏色可以自行調整，這邊只是做範例顯示，另外建議使用透明背景的話，將 style/inline\_preedit:true，設定為true會比較好看。
+
+這邊附上簡單的透明度參數：
+
+| 透明度百分比 | 透明度參數 |
+| ------ | ----- |
+| 100%   | FF    |
+| 95%    | F2    |
+| 90%    | E6    |
+| 85%    | D9    |
+| 80%    | CC    |
+| 75%    | BF    |
+| 70%    | B3    |
+| 65%    | A6    |
 
 ### Use
 
