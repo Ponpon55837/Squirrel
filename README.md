@@ -12,7 +12,7 @@ description: how to use Rime
 
 ### Good to Read
 
-[https://app.gitbook.com/@ponpon55837/s/squirrel/\~/drafts/-MSKqA-eCNg\_HbP\_EK5M/](https://app.gitbook.com/s/-M3QHTKUhpifqtNAP1jQ/)
+[https://ponpon55837.gitbook.io/squirrel/](https://ponpon55837.gitbook.io/squirrel/)
 
 註： MacOS Monterey版本如果安裝目前線上鼠鬚管如無法使用，請使用以下這份[**LEOYoon-Tsaw**](https://github.com/LEOYoon-Tsaw)編譯版本
 
