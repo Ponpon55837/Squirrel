@@ -473,9 +473,9 @@ patch:
     name: 普通藍
     author: upfloor5
     color_space: display_p3                   # 使用p3廣色域顯色
-    # border_color: '0xB3C2BB89'                  # 邊框顏色
+    # border_color: '0xCCC2BB89'                  # 邊框顏色
     hilited_corner_radius: 0                  # 候選字圓角
-    back_color: '0xB3C2BB89'
+    back_color: '0xCCC2BB89'
     text_color: '0x43794E'
     hilited_text_color: '0x536746'
     hilited_back_color: '0xC2BB89'
