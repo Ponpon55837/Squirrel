@@ -14,17 +14,14 @@ description: how to use Rime
 
 [https://ponpon55837.gitbook.io/squirrel/](https://ponpon55837.gitbook.io/squirrel/)
 
-註： MacOS Monterey版本如果安裝目前線上鼠鬚管如無法使用，請使用以下這份[**LEOYoon-Tsaw**](https://github.com/LEOYoon-Tsaw)編譯版本
-
-[https://github.com/LEOYoon-Tsaw/squirrel/releases](https://github.com/LEOYoon-Tsaw/squirrel/releases)
-
 ### Install
 
-到Rime的官網下載**0.16.2**版鼠鬚管
+到Rime的官網下載**0.18.0**版鼠鬚管
 
-[https://rime.im/download/](https://rime.im/download/)
+[https://rime.im/download/](https://rime.im/download/)\
 
-![Rime鼠鬚管官網下載](.gitbook/assets/snip20210208\_1.png)
+
+<figure><img src=".gitbook/assets/截圖 2024-05-07 下午5.36.30.png" alt=""><figcaption><p>鼠鬚管官網</p></figcaption></figure>
 
 筆者個人建議使用**homebrew**下載，速度比較快
 
@@ -62,7 +59,7 @@ description: how to use Rime
 
 ![輸入方式](.gitbook/assets/jie-tu-20210208-xia-wu-11.43.43.png)
 
-<mark style="color:red;">#註 原先安裝</mark><mark style="color:red;">**0.15.2**</mark> <mark style="color:red;"></mark><mark style="color:red;">版本的鼠鬚管升級至</mark><mark style="color:red;">**0.16.1**</mark><mark style="color:red;">後，需至所有輸入方式當中刪除原先鼠鬚管才能使用，</mark><mark style="color:red;">**0.16.2**</mark><mark style="color:red;">版則只需要重新登出登入即可。</mark>
+<mark style="color:red;">#註 原先安裝</mark><mark style="color:red;">**0.15.2**</mark> <mark style="color:red;">版本的鼠鬚管升級至</mark><mark style="color:red;">**0.16.1**</mark><mark style="color:red;">後，需至所有輸入方式當中刪除原先鼠鬚管才能使用，</mark><mark style="color:red;">**0.16.2**</mark><mark style="color:red;">版則只需要重新登出登入即可。</mark>
 
 ### Custom
 
@@ -282,7 +279,7 @@ color_space: display_p3                # 使用p3廣色域顯色
 
 在**0.16.1**版當中新增了translucency功能，現在背景顏色**back\_color**，可以使用24位色值，16進制ABGR。
 
-例：&#x20;
+例：
 
 舊：back\_color: 0x3F331E
 
