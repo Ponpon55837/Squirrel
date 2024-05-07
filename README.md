@@ -18,8 +18,7 @@ description: how to use Rime
 
 到Rime的官網下載**0.18.0**版鼠鬚管
 
-[https://rime.im/download/](https://rime.im/download/)\
-
+[https://rime.im/download/](https://rime.im/download/)
 
 <figure><img src=".gitbook/assets/截圖 2024-05-07 下午5.36.30.png" alt=""><figcaption><p>鼠鬚管官網</p></figcaption></figure>
 
