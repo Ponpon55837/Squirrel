@@ -490,3 +490,183 @@ patch:
     candidate_text_color: '0xA76E4F'
     label_color: '0x76672C'
     comment_text_color: '0x545224'
+  
+  preset_color_schemes/VioletGarden:
+    author: upfloor5
+    back_color: 0xD9F3E5F5
+    border_color: 0xC9A8E0
+    candidate_text_color: 0x5D4E6D
+    color_space: display_p3
+    comment_text_color: 0x9B7EBD
+    hilited_back_color: 0xE0B89AD6
+    hilited_candidate_back_color: 0xE8D5F2
+    hilited_candidate_label_color: 0x6B4A8A
+    hilited_candidate_text_color: 0x4A2D6B
+    hilited_comment_text_color: 0x7B5A9E
+    hilited_corner_radius: 5
+    hilited_text_color: 0x3D2A54
+    label_color: 0x8A6BAD
+    name: "紫羅蘭花園"
+    text_color: 0x3D2A54
+
+  preset_color_schemes/MintChocolate:
+    author: upfloor5
+    back_color: 0xD9E0F5EA
+    border_color: 0x8FC9A8
+    candidate_text_color: 0x4A5D52
+    color_space: display_p3
+    comment_text_color: 0x6B8F7A
+    hilited_back_color: 0xE05A8A6B
+    hilited_candidate_back_color: 0xD5EFE0
+    hilited_candidate_label_color: 0x3D6B4A
+    hilited_candidate_text_color: 0x2A4A35
+    hilited_comment_text_color: 0x4A7A5A
+    hilited_corner_radius: 5
+    hilited_text_color: 0xFFFFFF
+    label_color: 0x3D8A5A
+    name: "薄荷巧克力"
+    text_color: 0x2A4A35
+
+  preset_color_schemes/SunsetPeach:
+    author: upfloor5
+    back_color: 0xD9FCE8D9
+    border_color: 0xF0A87A
+    candidate_text_color: 0x8A5A3D
+    color_space: display_p3
+    comment_text_color: 0xD98A5A
+    hilited_back_color: 0xE0F5A25F
+    hilited_candidate_back_color: 0xFFF0D9
+    hilited_candidate_label_color: 0xB86A3A
+    hilited_candidate_text_color: 0x7A3D1F
+    hilited_comment_text_color: 0xE08A4A
+    hilited_corner_radius: 5
+    hilited_text_color: 0x6B2E0F
+    label_color: 0xE07A3D
+    name: "夕陽蜜桃"
+    text_color: 0x6B2E0F
+
+  preset_color_schemes/MidnightOcean:
+    author: upfloor5
+    back_color: 0xD91A2540
+    border_color: 0x2A5A8A
+    candidate_text_color: 0x7A9AC0
+    color_space: display_p3
+    comment_text_color: 0x4A7AAB
+    hilited_back_color: 0xE02A5A8A
+    hilited_candidate_back_color: 0x1F3A5A
+    hilited_candidate_label_color: 0x5AC0E0
+    hilited_candidate_text_color: 0xE0F0FF
+    hilited_comment_text_color: 0x7ACFE0
+    hilited_corner_radius: 5
+    hilited_text_color: 0xB0E0FF
+    label_color: 0x3D8AC0
+    name: "深夜海洋"
+    text_color: 0xC0DCF0
+
+  preset_color_schemes/CherryBlossom:
+    author: upfloor5
+    back_color: 0xD9FFF0F5
+    border_color: 0xF0A8C5
+    candidate_text_color: 0x8A4A5D
+    color_space: display_p3
+    comment_text_color: 0xD97A9E
+    hilited_back_color: 0xE0F5A2C0
+    hilited_candidate_back_color: 0xFFE0EC
+    hilited_candidate_label_color: 0xB84A72
+    hilited_candidate_text_color: 0x6B1F3D
+    hilited_comment_text_color: 0xE05A8A
+    hilited_corner_radius: 5
+    hilited_text_color: 0x5A0F2A
+    label_color: 0xD9497A
+    name: "櫻花物語"
+    text_color: 0x5A0F2A
+  
+  preset_color_schemes/Nord:
+    author: upfloor5
+    back_color: 0xD940342E
+    border_color: 0x6A564C
+    candidate_text_color: 0xE9DED8
+    color_space: display_p3
+    comment_text_color: 0xD0C088
+    hilited_back_color: 0xE0AC815E
+    hilited_candidate_back_color: 0x52423B
+    hilited_candidate_label_color: 0xD0C088
+    hilited_candidate_text_color: 0xF4EFEC
+    hilited_comment_text_color: 0xC1A181
+    hilited_corner_radius: 5
+    hilited_text_color: 0xF4EFEC
+    label_color: 0xC1A181
+    name: "極地之境"
+    text_color: 0xE9DED8
+
+  preset_color_schemes/Dracula:
+    author: upfloor5
+    back_color: 0xD9362A28
+    border_color: 0xA47262
+    candidate_text_color: 0xF2F8F8
+    color_space: display_p3
+    comment_text_color: 0xA47262
+    hilited_back_color: 0xE05A4744
+    hilited_candidate_back_color: 0xF993BD
+    hilited_candidate_label_color: 0xC679FF
+    hilited_candidate_text_color: 0x362A28
+    hilited_comment_text_color: 0xFDE98B
+    hilited_corner_radius: 5
+    hilited_text_color: 0xF2F8F8
+    label_color: 0xFDE98B
+    name: "德古拉"
+    text_color: 0xF2F8F8
+
+  preset_color_schemes/Gruvbox:
+    author: upfloor5
+    back_color: 0xD9282828
+    border_color: 0x454950
+    candidate_text_color: 0xB2DBEB
+    color_space: display_p3
+    comment_text_color: 0x8499A8
+    hilited_back_color: 0xE02199D7
+    hilited_candidate_back_color: 0x36383C
+    hilited_candidate_label_color: 0x1980FE
+    hilited_candidate_text_color: 0xC7F1FB
+    hilited_comment_text_color: 0x0E5DD6
+    hilited_corner_radius: 5
+    hilited_text_color: 0xC7F1FB
+    label_color: 0x26BBB8
+    name: "復古木盒"
+    text_color: 0xC7F1FB
+
+  preset_color_schemes/CatppuccinMocha:
+    author: upfloor5
+    back_color: 0xD92E1E1E
+    border_color: 0x443231
+    candidate_text_color: 0xF4D6CD
+    color_space: display_p3
+    comment_text_color: 0xB29993
+    hilited_back_color: 0xE0F7A6CB
+    hilited_candidate_back_color: 0x443231
+    hilited_candidate_label_color: 0xE7C2F5
+    hilited_candidate_text_color: 0x2E1E1E
+    hilited_comment_text_color: 0xFAB489
+    hilited_corner_radius: 5
+    hilited_text_color: 0xDCE0F5
+    label_color: 0xFAB489
+    name: "貓拿鐵摩卡"
+    text_color: 0xDCE0F5
+
+  preset_color_schemes/SolarizedDark:
+    author: upfloor5
+    back_color: 0xD9362B00
+    border_color: 0x423607
+    candidate_text_color: 0xA1A193
+    color_space: display_p3
+    comment_text_color: 0x756E58
+    hilited_back_color: 0xE0D28B26
+    hilited_candidate_back_color: 0x423607
+    hilited_candidate_label_color: 0x0089B5
+    hilited_candidate_text_color: 0xE3F6FD
+    hilited_comment_text_color: 0x98A12A
+    hilited_corner_radius: 5
+    hilited_text_color: 0xD5E8EE
+    label_color: 0x98A12A
+    name: "日光海島"
+    text_color: 0xD5E8EE
