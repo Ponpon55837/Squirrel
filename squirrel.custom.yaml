@@ -207,19 +207,19 @@ patch:
     name: 粉紅海洋
     author: upfloor5
     color_space: display_p3                  # 使用p3廣色域顯色
-    border_color: '0xD9FFFFFF'               # 邊框顏色
+    border_color: '0xE3E2EF'                 # 邊框顏色
     hilited_corner_radius: 5
-    back_color: '0xD9FFFFFF'                 # 白底
-    text_color: '0x854DD1'
-    hilited_text_color: '0x854DD1'
-    hilited_back_color: '0xFFFFFF'
-    hilited_candidate_text_color: '0x5714AD'
-    hilited_candidate_back_color: '0xF8E9F9'
-    hilited_candidate_label_color: '0x7F57B0'
-    hilited_comment_text_color: '0x8D63C2'
-    candidate_text_color: '0x854DD1'
-    label_color: '0xAE8AE0'
-    comment_text_color: '0xB08FD9'
+    back_color: '0xD9FBFAFF'                 # 暖白底
+    text_color: '0x847AB0'
+    hilited_text_color: '0x847AB0'
+    hilited_back_color: '0xFBFAFF'
+    hilited_candidate_text_color: '0x5A4F8A'
+    hilited_candidate_back_color: '0xE1E1F2'
+    hilited_candidate_label_color: '0x7C72A8'
+    hilited_comment_text_color: '0x78709E'
+    candidate_text_color: '0x847AB0'
+    label_color: '0xB8B3D3'
+    comment_text_color: '0xAEA9C7'
 
   preset_color_schemes/EastSidePurple:
     name: 紫氣東來
